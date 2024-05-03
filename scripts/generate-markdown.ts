@@ -177,7 +177,7 @@ const labelerResults = await Promise.all(
 
 	const template = `# Scraped AT Protocol instances
 
-Last updated: {{time}}
+Last updated: {{time}}[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -189,6 +189,8 @@ part of mainnet.
 ## Labelers
 
 <!-- labeler-start --><!-- labeler-end -->
+
+[^1]: Reflecting actual changes, not when the scraper was last run
 `;
 
 	let pdsTable = `
