@@ -13,28 +13,10 @@ async function get(url: string, signal?: AbortSignal): Promise<Response> {
 	const response = await fetch(url, { signal });
 
 	if (response.status === 429) {
-		const headers = response.headers;
-		const retryAfter = headers.get('retry-after');
-
-		let delay = 90_000;
-
-		if (retryAfter) {
-			if (/^\d+$/.test(retryAfter)) {
-				delay = +retryAfter;
-			} else {
-				const date = new Date(retryAfter);
-
-				if (Number.isNaN(date.getTime())) {
-					const delta = date.getTime() - Date.now();
-
-					if (delta > 0) {
-						delay = delta;
-					}
-				}
-			}
-		}
+		const delay = 90_000;
 
 		console.log(`[-] ratelimited, waiting ${delay} ms`);
+
 		await sleep(delay);
 		return get(url, signal);
 	}
