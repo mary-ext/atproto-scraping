@@ -6,8 +6,7 @@ import { migrate } from 'drizzle-orm/bun-sqlite/migrator';
 
 import * as schema from './schema';
 
-fs.mkdirSync('./store', { recursive: true });
-const sqlite = new Database('./store/did.sqlite3');
+const sqlite = new Database('./did.sqlite3');
 
 export const db = drizzle(sqlite, { schema });
 
