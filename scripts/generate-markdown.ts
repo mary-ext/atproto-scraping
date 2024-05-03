@@ -11,10 +11,12 @@ const template = `# Crawled AT Protocol PDS
 Last updated: {{time}}
 
 <!-- table-start --><!-- table-end -->
+
+[^1]: Not guaranteed to be correct.
 `;
 
 let table = `
-| PDS | User count | Invite required? |
+| PDS | User count[^1] | Open? |
 | --- | --- | --- |
 `;
 
@@ -67,7 +69,7 @@ const result = await Promise.all(
 );
 
 for (const { url, count, meta } of result.filter((v) => v !== null)) {
-	table += `| ${url.host} | ${count} | ${meta.inviteCodeRequired ? 'Yes' : 'No'} |\n`;
+	table += `| ${url.host} | ${count} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} |\n`;
 }
 
 const TABLE_RE = /(?<=<!-- table-start -->)[^]*(?=<!-- table-end -->)/;
