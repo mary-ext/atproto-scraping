@@ -10,8 +10,10 @@ import { PromiseQueue } from '../src/utils/pqueue';
 
 const now = Date.now();
 
-const resultFile = v.string().parse(process.env.RESULT_FILE);
-const stateFile = v.string().parse(process.env.STATE_FILE);
+const env = v
+	.object({ STATE_FILE: v.string(), RESULT_FILE: v.string() })
+	.parse(process.env, { mode: 'passthrough' });
+
 let state: SerializedState | undefined;
 
 // Read existing state file
@@ -19,7 +21,7 @@ let state: SerializedState | undefined;
 	let json: unknown;
 
 	try {
-		json = await Bun.file(stateFile).json();
+		json = await Bun.file(env.STATE_FILE).json();
 	} catch {}
 
 	if (json !== undefined) {
@@ -203,7 +205,7 @@ part of mainnet.
 	let shouldWrite = true;
 
 	try {
-		const source = await Bun.file(resultFile).text();
+		const source = await Bun.file(env.RESULT_FILE).text();
 
 		if (PDS_RE.exec(source)?.[0] === pdsTable && LABELER_RE.exec(source)?.[0] === labelerTable) {
 			shouldWrite = false;
@@ -217,8 +219,8 @@ part of mainnet.
 			.replace(PDS_RE, pdsTable)
 			.replace(LABELER_RE, labelerTable);
 
-		await Bun.write(resultFile, final);
-		console.log(`wrote to ${resultFile}`);
+		await Bun.write(env.RESULT_FILE, final);
+		console.log(`wrote to ${env.RESULT_FILE}`);
 	} else {
 		console.log(`writing skipped`);
 	}
@@ -239,7 +241,7 @@ part of mainnet.
 		labelers: Object.fromEntries(Array.from(labelers)),
 	};
 
-	await Bun.write(stateFile, JSON.stringify(serialized, null, '\t'));
+	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
 }
 
 async function getVersion(rpc: BskyXRPC, prev: string | null | undefined) {

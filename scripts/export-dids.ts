@@ -19,7 +19,8 @@ import { compareString } from '../src/utils/misc';
 
 const now = Date.now();
 
-const stateFile = v.string().parse(process.env.STATE_FILE);
+const env = v.object({ STATE_FILE: v.string() }).parse(process.env, { mode: 'passthrough' });
+
 let state: SerializedState | undefined;
 
 // Read existing state file
@@ -27,7 +28,7 @@ let state: SerializedState | undefined;
 	let json: unknown;
 
 	try {
-		json = await Bun.file(stateFile).json();
+		json = await Bun.file(env.STATE_FILE).json();
 	} catch {}
 
 	if (json !== undefined) {
@@ -260,7 +261,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 		),
 	};
 
-	await Bun.write(stateFile, JSON.stringify(serialized, null, '\t'));
+	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
 }
 
 async function get(url: string, signal?: AbortSignal): Promise<Response> {
