@@ -43,6 +43,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Write store cache
         uses: actions/cache/save@v3
+        if: ${{ always() }}
         with:
           path: ./store
           key: ${{ env.cache-key }}
