@@ -175,7 +175,7 @@ const labelerResults = await Promise.all(
 	const PDS_RE = /(?<=<!-- pds-start -->)[^]*(?=<!-- pds-end -->)/;
 	const LABELER_RE = /(?<=<!-- labeler-start -->)[^]*(?=<!-- labeler-end -->)/;
 
-	const template = `# Crawled AT Protocol instances
+	const template = `# Scraped AT Protocol instances
 
 Last updated: {{time}}
 
