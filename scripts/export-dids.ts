@@ -34,6 +34,7 @@ async function get(url: string, signal?: AbortSignal): Promise<Response> {
 			}
 		}
 
+		console.log(`[-] ratelimited, waiting ${delay} ms`);
 		await sleep(delay);
 		return get(url, signal);
 	}
