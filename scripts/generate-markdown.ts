@@ -116,13 +116,7 @@ const labelerResults = await Promise.all(
 
 			const signal = AbortSignal.timeout(15_000);
 			const meta = await rpc
-				.get('com.atproto.label.queryLabels', {
-					signal: signal,
-					params: {
-						uriPatterns: ['*'],
-						limit: 1,
-					},
-				})
+				.get('com.atproto.label.queryLabels', { signal: signal, params: { uriPatterns: ['*'], limit: 1 } })
 				.then(({ data: rawData }) => labelerQueryLabelsResponse.parse(rawData, { mode: 'passthrough' }))
 				.catch(() => null);
 
