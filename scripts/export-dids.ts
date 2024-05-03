@@ -17,6 +17,8 @@ import { PromiseQueue } from '../src/utils/pqueue';
 import { LineBreakStream, TextDecoderStream } from '../src/utils/stream';
 import { compareString } from '../src/utils/misc';
 
+const now = Date.now();
+
 const stateFile = v.string().parse(process.env.STATE_FILE);
 let state: SerializedState | undefined;
 
@@ -223,7 +225,6 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					obj.pds = pds;
 					obj.labeler = labeler;
 				} catch (err) {
-					const now = Date.now();
 					const errorAt = obj.errorAt;
 
 					if (errorAt === undefined) {

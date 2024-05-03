@@ -7,6 +7,8 @@ import { serializedState, type InstanceInfo, type LabelerInfo, type SerializedSt
 
 import { PromiseQueue } from '../src/utils/pqueue';
 
+const now = Date.now();
+
 const resultFile = v.string().parse(process.env.RESULT_FILE);
 const stateFile = v.string().parse(process.env.STATE_FILE);
 let state: SerializedState | undefined;
@@ -94,7 +96,6 @@ const pdsResults = await Promise.all(
 			);
 
 			if (meta === null) {
-				const now = Date.now();
 				const errorAt = obj.errorAt;
 
 				if (errorAt === undefined) {
@@ -151,7 +152,6 @@ const labelerResults = await Promise.all(
 				);
 
 			if (meta === null) {
-				const now = Date.now();
 				const errorAt = obj.errorAt;
 
 				if (errorAt === undefined) {
