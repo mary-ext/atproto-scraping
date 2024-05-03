@@ -34,6 +34,7 @@ function sleep(ms: number): Promise<void> {
 
 // Retrieve PLC DIDs
 {
+	const limit = 1000;
 	let after: string | undefined;
 
 	if (true) {
@@ -50,7 +51,7 @@ function sleep(ms: number): Promise<void> {
 	do {
 		console.log(`  fetching ${after || '<root>'}`);
 
-		const url = `https://plc.directory/export` + `?count=1000` + (after ? `&after=${after}` : '');
+		const url = `https://plc.directory/export` + `?count=${limit}` + (after ? `&after=${after}` : '');
 
 		const response = await get(url);
 		const stream = response.body!.pipeThrough(new TextDecoderStream()).pipeThrough(new LineBreakStream());
@@ -58,6 +59,7 @@ function sleep(ms: number): Promise<void> {
 		after = undefined;
 
 		const values: SQLiteInsertValue<typeof schema.dids>[] = [];
+		let count = 0;
 
 		for await (const raw of stream) {
 			const json = JSON.parse(raw) as ExportEntry;
@@ -74,6 +76,7 @@ function sleep(ms: number): Promise<void> {
 				}
 			}
 
+			count++;
 			after = createdAt;
 		}
 
@@ -88,6 +91,10 @@ function sleep(ms: number): Promise<void> {
 					setWhere: sql`excluded.ts > dids.ts`,
 				})
 				.run();
+		}
+
+		if (count < limit) {
+			break;
 		}
 	} while (after !== undefined);
 
