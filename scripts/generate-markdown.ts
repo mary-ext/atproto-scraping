@@ -179,7 +179,7 @@ const labelerResults = await Promise.all(
 
 Last updated: {{time}}
 
-Found via crawling plc.directory and bsky.network, some instances might not be
+Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
 
 ## Personal data servers
