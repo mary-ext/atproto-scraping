@@ -228,7 +228,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 					if (errorAt === undefined) {
 						obj.errorAt = now;
-					} else if (differenceInDays(now, errorAt) >= 30) {
+					} else if (differenceInDays(now, errorAt) > 7) {
 						didWebs.delete(did);
 					}
 				}

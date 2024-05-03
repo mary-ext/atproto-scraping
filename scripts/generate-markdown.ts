@@ -99,7 +99,7 @@ const pdsResults = await Promise.all(
 
 				if (errorAt === undefined) {
 					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) >= 30) {
+				} else if (differenceInDays(now, errorAt) > 7) {
 					pdses.delete(href);
 				}
 
@@ -156,7 +156,7 @@ const labelerResults = await Promise.all(
 
 				if (errorAt === undefined) {
 					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) >= 30) {
+				} else if (differenceInDays(now, errorAt) > 7) {
 					labelers.delete(href);
 				}
 
