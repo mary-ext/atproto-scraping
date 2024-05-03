@@ -16,7 +16,7 @@ async function get(url: string, signal?: AbortSignal): Promise<Response> {
 		const headers = response.headers;
 		const retryAfter = headers.get('retry-after');
 
-		let delay = 10_000;
+		let delay = 90_000;
 
 		if (retryAfter) {
 			if (/^\d+$/.test(retryAfter)) {
