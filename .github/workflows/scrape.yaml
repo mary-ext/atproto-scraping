@@ -41,15 +41,6 @@ jobs:
       - name: Run Markdown generator
         run: bun run ./scripts/generate-markdown.ts
 
-      - name: Remove existing store cache
-        if: ${{ steps.cache-restore.outputs.cache-hit }}
-        continue-on-error: true
-        run: |
-          gh extension install actions/gh-actions-cache
-          gh actions-cache delete "${{ env.STORE_CACHE_KEY }}" --confirm
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Push to repository
         run: |
           git config user.name github-actions[bot]
