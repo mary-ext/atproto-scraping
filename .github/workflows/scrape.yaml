@@ -1,0 +1,56 @@
+name: Scrape
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    env:
+      STORE_CACHE_KEY: store-cache-v1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+      - name: Retrieve store cache
+        id: cache-restore
+        uses: actions/cache/restore@v3
+        with:
+          path: ./store
+          key: ${{ env.STORE_CACHE_KEY }}
+      - name: Run DID exporter
+        run: bun run ./scripts/export-dids.ts
+      - name: Run Markdown generator
+        run: bun run ./scripts/generate-markdown.ts
+      - name: Remove existing store cache
+        if: ${{ steps.cache-restore.outputs.cache-hit }}
+        continue-on-error: true
+        run: |
+          gh extension install actions/gh-actions-cache
+          gh actions-cache delete "${{ env.STORE_CACHE_KEY }}" --confirm
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Write store cache
+        uses: actions/cache/save@v3
+        with:
+          path: ./store
+          key: ${{ env.cache-key }}
+      - name: Push to repository
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+
+          git add README.md
+          git commit -m "update: $(date --iso-8601=seconds)" || exit 0
+          git push
