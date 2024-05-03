@@ -29,11 +29,13 @@ export const serializedState = v.object({
 	pdses: v.record(
 		v.object({
 			errorAt: dateInt.optional(),
+			version: v.string().nullable().optional(),
 		}),
 	),
 	labelers: v.record(
 		v.object({
 			errorAt: dateInt.optional(),
+			version: v.string().nullable().optional(),
 			did: v.string(),
 		}),
 	),
@@ -49,6 +51,7 @@ export interface DidWebInfo {
 
 export interface InstanceInfo {
 	errorAt?: number;
+	version?: string | null;
 }
 
 export interface LabelerInfo extends InstanceInfo {

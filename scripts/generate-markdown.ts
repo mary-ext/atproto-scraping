@@ -1,4 +1,5 @@
 import { BskyXRPC } from '@mary/bluesky-client';
+import { XRPCError } from '@mary/bluesky-client/xrpc';
 
 import { differenceInDays } from 'date-fns/differenceInDays';
 import * as v from '@badrap/valita';
@@ -55,6 +56,10 @@ const labelerQueryLabelsResponse = v.object({
 	),
 });
 
+const offHealthResponse = v.object({
+	version: v.string(),
+});
+
 // Global states
 const pdses = new Map<string, InstanceInfo>(state ? Object.entries(state.pdses) : []);
 const labelers = new Map<string, LabelerInfo>(state ? Object.entries(state.labelers) : []);
@@ -97,10 +102,13 @@ const pdsResults = await Promise.all(
 				return;
 			}
 
+			const version = await getVersion(rpc, obj.version);
+
+			obj.version = version;
 			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
-			return { host, meta };
+			return { host, meta, version };
 		});
 	}),
 ).then((results) => results.filter((r) => r !== undefined));
@@ -133,10 +141,13 @@ const labelerResults = await Promise.all(
 				return;
 			}
 
+			const version = await getVersion(rpc, obj.version);
+
+			obj.version = version;
 			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
-			return { host };
+			return { host, version };
 		});
 	}),
 ).then((results) => results.filter((r) => r !== undefined));
@@ -165,23 +176,27 @@ part of mainnet.
 `;
 
 	let pdsTable = `
-| PDS | Open? |
-| --- | --- |
+| PDS | Open? | Version |
+| --- | --- | --- |
 `;
 
 	let labelerTable = `
-| Labeler |
-| --- |
+| Labeler | Version |
+| --- | --- |
 `;
 
 	// Generate the PDS table
-	for (const { host, meta } of pdsResults) {
-		pdsTable += `| ${host} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} |\n`;
+	for (const { host, meta, version } of pdsResults) {
+		const v = version || (version === null ? 'N/A' : '???');
+
+		pdsTable += `| ${host} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} | ${v} |\n`;
 	}
 
 	// Generate the labeler table
-	for (const { host } of labelerResults) {
-		labelerTable += `| ${host} |\n`;
+	for (const { host, version } of labelerResults) {
+		const v = version || (version === null ? 'N/A' : '???');
+
+		labelerTable += `| ${host} | ${v} |\n`;
 	}
 
 	// Read existing Markdown file, check if it's equivalent
@@ -225,4 +240,25 @@ part of mainnet.
 	};
 
 	await Bun.write(stateFile, JSON.stringify(serialized, null, '\t'));
+}
+
+async function getVersion(rpc: BskyXRPC, prev: string | null | undefined) {
+	// skip if the response previously returned null (not official distrib)
+	if (prev === null) {
+		return null;
+	}
+
+	try {
+		// @ts-expect-error: undocumented endpoint
+		const { data: rawData } = await rpc.get('_health', {});
+		const { version } = offHealthResponse.parse(rawData, { mode: 'passthrough' });
+
+		return /^[0-9a-f]{40}$/.test(version) ? `git-${version.slice(0, 7)}` : version;
+	} catch (err) {
+		if (err instanceof XRPCError && err.status !== 404) {
+			return undefined;
+		}
+	}
+
+	return null;
 }
