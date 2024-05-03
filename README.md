@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-03T14:49:25.432Z[^1]
+Last updated: 2024-05-03T16:54:07.793Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -8,331 +8,329 @@ part of mainnet.
 ## Personal data servers
 
 <!-- pds-start -->
-| PDS | Open? |
-| --- | --- |
-| 42d.fr | No |
-| 465789.xyz | No |
-| 80px.org | No |
-| afternooncurry.com | No |
-| agaric.us-west.host.bsky.network | No |
-| akiba.blue | No |
-| aliciousintent.com | No |
-| amanita.us-east.host.bsky.network | No |
-| arxys.io | No |
-| at.clavis.info | No |
-| at.dingdongdata.com | No |
-| at.donley.io | No |
-| at.drigs.org | No |
-| at.hwsc.link | No |
-| at.kizaing.ca | No |
-| at.l1qu1d.net | No |
-| at.oddte.ch | No |
-| at.yuntan.tech | No |
-| b.yufushiro.dev | No |
-| beta.thehippo.dev | No |
-| bevenhall.net | No |
-| blewit.us-west.host.bsky.network | No |
-| blue-ocean.social | No |
-| blueskeet.social | No |
-| bluesky.akyoz.net | No |
-| bluesky.cronocide.net | No |
-| bluesky.goober.cloud | No |
-| bluesky.kumasotakeru.net | No |
-| bluesky.lazzurs.net | No |
-| bluesky.nissesdomain.org | No |
-| bluesky.nk.ca | No |
-| bluesky.rosafamily.net | No |
-| bluesky.rp-taki.com | No |
-| bluesky.sami.sk | No |
-| bluesky.therobbiedavis.com | No |
-| bluesky.zergy.net | No |
-| bluetony.com | No |
-| boletus.us-west.host.bsky.network | No |
-| bossett.social | No |
-| boymodelworld.com | No |
-| brnc.at | No |
-| bs.siren.jp | No |
-| bs.vrccl.life | No |
-| bsky-pds.h3z.jp | No |
-| bsky-pds.lamberti.io | No |
-| bsky.air11.social | No |
-| bsky.bulles.social | No |
-| bsky.chagge.com | No |
-| bsky.col.social | No |
-| bsky.day | No |
-| bsky.dayl.in | No |
-| bsky.dead10ck.dev | No |
-| bsky.eqver.se | No |
-| bsky.furry.win | No |
-| bsky.giurgiu.io | No |
-| bsky.huimao.xyz | No |
-| bsky.j0.lol | No |
-| bsky.jeykey.org | No |
-| bsky.kevoun.com | No |
-| bsky.kit-a.net | No |
-| bsky.kretschmann.social | No |
-| bsky.mabataki.moe | No |
-| bsky.mcphail.uk | No |
-| bsky.milkcocoa.info | No |
-| bsky.milv.life | No |
-| bsky.mycapitolwatchdog.com | No |
-| bsky.mystech.ink | No |
-| bsky.nerdfest.dev | No |
-| bsky.njsharp.uk | No |
-| bsky.pavli.cc | No |
-| bsky.pink | Yes |
-| bsky.powerg.love | No |
-| bsky.psote.ing | No |
-| bsky.runhello.com | No |
-| bsky.samulireijula.net | No |
-| bsky.sneezey.uk | No |
-| bsky.social | Yes |
-| bsky.taila5061.ts.net | No |
-| bsky.theatl.social | No |
-| bsky.tm2t.net | No |
-| bsky.tranvender.site | No |
-| bsky.zoeyvid.de | No |
-| bskytest.marginal.net | No |
-| bum.ninja | No |
-| buqbuq.ca | No |
-| cauda.cloud | No |
-| chaga.us-west.host.bsky.network | No |
-| comrades.social | No |
-| conceptualcat.net | No |
-| conocybe.us-west.host.bsky.network | No |
-| corgi.dance | No |
-| daemons.work | No |
-| danya.dev | No |
-| davewinter.dev | No |
-| derpzilla.net | Yes |
-| disbursement.center | No |
-| divy.zone | No |
-| dollpost.ing | No |
-| drakeno.de | No |
-| ecow.dev | No |
-| ekaki.art | No |
-| enoki.us-east.host.bsky.network | No |
-| epicspace.quest | No |
-| filly.social | No |
-| friendlypds.cloud | No |
-| fttp.cc | No |
-| gear.blue | No |
-| gesetz-bsky.world | Yes |
-| giulia.social | No |
-| goeo.lol | No |
-| habanero.f5.si | No |
-| hellthread.pro | No |
-| hivetasks.com | No |
-| holofan.live | No |
-| hooray.social | No |
-| hydnum.us-west.host.bsky.network | No |
-| iame.li | No |
-| inkcap.us-east.host.bsky.network | No |
-| internect.ing | No |
-| ishimmi.net | No |
-| italiansky.mooo.com | No |
-| jabberstory.net | No |
-| jlailu.social | No |
-| kansascity.social | No |
-| kiichigo.cloud | Yes |
-| knot.land | No |
-| ksky.7ka.org | No |
-| labcaffeinated.com | No |
-| lacunas.net | No |
-| lalasky.fun | No |
-| lamp.wtf | No |
-| lepista.us-west.host.bsky.network | No |
-| libertywave.app | Yes |
-| lionsmane.us-east.host.bsky.network | No |
-| machikadosora.online | No |
-| madeorsk.com | No |
-| madiator.cloud | No |
-| magrasea.com | No |
-| maitake.us-west.host.bsky.network | No |
-| mastonon.net | No |
-| meety.me | No |
-| midgardmates.com | No |
-| mkl.lol | No |
-| moegi.stream | No |
-| morel.us-east.host.bsky.network | No |
-| mraow.party | No |
-| naomie.digital | No |
-| nerdynate.cc | No |
-| netdeaf.com | No |
-| nonsono.online | No |
-| nyago.zip | No |
-| okashi.social | No |
-| opp.minuspoint.com | No |
-| otasora.blue | No |
-| oyster.us-east.host.bsky.network | No |
-| p.kojira.io | No |
-| pdeeznuts.amith.sbs | No |
-| pds.akigami.org | No |
-| pds.andreslucero.com | No |
-| pds.anymanystreams.cc | No |
-| pds.aparker.io | No |
-| pds.axtch.net | No |
-| pds.bboysoul.cn | No |
-| pds.bernd.network | No |
-| pds.bsky.ealmuina.xyz | No |
-| pds.c-stellar.net | No |
-| pds.cacheblasters.com | No |
-| pds.caruanafamily.net | No |
-| pds.dad2cl3.com | No |
-| pds.darn.fish | No |
-| pds.dholms.xyz | No |
-| pds.dlun.ch | No |
-| pds.dolciss.net | No |
-| pds.draboros.net | No |
-| pds.elxx.net | No |
-| pds.erechorse.com | No |
-| pds.furtenbach.social | No |
-| pds.golf1052.com | No |
-| pds.graefekiez.de | No |
-| pds.gza.jp | No |
-| pds.haileyok.com | No |
-| pds.invr.chat | No |
-| pds.itsjason.net | No |
-| pds.jaronoff.com | No |
-| pds.jay.xyz | No |
-| pds.keiji0501.com | No |
-| pds.krasovs.ky | No |
-| pds.lotor.online | No |
-| pds.lunar.town | No |
-| pds.matsuuratomoya.com | No |
-| pds.mattobs.com | No |
-| pds.mbl.social | No |
-| pds.megantoots.com | No |
-| pds.mevo.xyz | No |
-| pds.mnogu.net | No |
-| pds.mozzius.dev | No |
-| pds.nebu.land | No |
-| pds.pokete.com | No |
-| pds.quimian.com | No |
-| pds.robocracy.org | No |
-| pds.rotimsarth.com | No |
-| pds.shigepon.net | No |
-| pds.simplespace.jp | No |
-| pds.skyfeed.dev | No |
-| pds.snek.dev | No |
-| pds.soap.systems | No |
-| pds.taichibit.com | No |
-| pds.tentacle.expert | No |
-| pds.thrown-into.space | No |
-| pds.tosiiu.com | No |
-| pds.trkw.dev | No |
-| pds.tw | No |
-| pds.ubanis.mydns.jp | No |
-| pds.unsocial.dev | No |
-| pds.vforge.social | No |
-| pds.walloftext.ca | No |
-| pds.y-force.info | Yes |
-| pds.zccx.net | No |
-| pds.znsk.ca | No |
-| porcini.us-east.host.bsky.network | No |
-| proto.sorcie.re | No |
-| puffball.us-east.host.bsky.network | No |
-| quokka.today | No |
-| rainbowgirl.moe | No |
-| rebroad.com | No |
-| redocean.one | No |
-| rows.io | No |
-| russula.us-west.host.bsky.network | No |
-| senshi.dev | No |
-| shiitake.us-east.host.bsky.network | No |
-| shimeji.us-east.host.bsky.network | No |
-| skeleton.rodeo | No |
-| sky.gami.zip | No |
-| sky.joeferguson.me | No |
-| sky.kghorvath.com | No |
-| sky.lalafell.org | No |
-| sky.tokimeki.blue | No |
-| sky01.ketto.ca | No |
-| skyblue.cc | No |
-| skywarriors.social | No |
-| sns.limelee.xyz | No |
-| social.owo.cl | No |
-| social.somedevfox.art | No |
-| sowedu.net | No |
-| spds.terushu.jp | No |
-| squarewave.lol | No |
-| stack.party | No |
-| staging.host.bsky.network | No |
-| starburst.social | No |
-| stinkhorn.jacob.gold | No |
-| summerwind.blue | No |
-| sunaba.io | No |
-| sys.rainier.jp | No |
-| sysad.ninja | No |
-| sysadmins.cc | No |
-| tambaramodule.tech | No |
-| test.dholms.xyz | No |
-| test.joelanders.net | No |
-| thewired.online | No |
-| tkpn.social | No |
-| tksocial.eu.org | No |
-| trashcave.net | No |
-| trekologer.social | No |
-| tweethive.net | No |
-| userdir.de | No |
-| v-laboratory.com | No |
-| v9v.net | No |
-| vengeful.eu | No |
-| verpa.us-west.host.bsky.network | No |
-| veryun.cool | No |
-| w7f.social | No |
-| waraiotoko.xyz | No |
-| whipq.com | No |
-| yoshiki.burnworks.com | No |
-| zazen.social | No |
+| PDS | Open? | Version |
+| --- | --- | --- |
+| 42d.fr | No | 0.4.12 |
+| 465789.xyz | No | 0.4.12 |
+| 80px.org | No | 0.4.12 |
+| afternooncurry.com | No | 0.4.12 |
+| agaric.us-west.host.bsky.network | No | git-b400fae |
+| akiba.blue | No | 0.4.12 |
+| aliciousintent.com | No | 0.4.12 |
+| amanita.us-east.host.bsky.network | No | git-b400fae |
+| arxys.io | No | 0.4.12 |
+| at.clavis.info | No | 0.4.12 |
+| at.donley.io | No | 0.4.12 |
+| at.drigs.org | No | 0.4.12 |
+| at.hwsc.link | No | 0.4.12 |
+| at.kizaing.ca | No | 0.4.12 |
+| at.l1qu1d.net | No | 0.4.12 |
+| at.oddte.ch | No | 0.4.12 |
+| at.yuntan.tech | No | 0.4.12 |
+| b.yufushiro.dev | No | 0.4.0-beta.7 |
+| beta.thehippo.dev | No | 0.4.12 |
+| bevenhall.net | No | 0.4.12 |
+| blewit.us-west.host.bsky.network | No | git-b400fae |
+| blue-ocean.social | No | 0.4.12 |
+| blueskeet.social | No | 0.4.12 |
+| bluesky.akyoz.net | No | 0.4.12 |
+| bluesky.cronocide.net | No | 0.4.12 |
+| bluesky.goober.cloud | No | 0.4.12 |
+| bluesky.kumasotakeru.net | No | 0.4.12 |
+| bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| bluesky.nissesdomain.org | No | 0.4.12 |
+| bluesky.nk.ca | No | 0.4.12 |
+| bluesky.rosafamily.net | No | 0.4.12 |
+| bluesky.rp-taki.com | No | 0.4.7 |
+| bluesky.sami.sk | No | 0.4.12 |
+| bluesky.therobbiedavis.com | No | 0.4.12 |
+| bluesky.zergy.net | No | 0.4.12 |
+| bluetony.com | No | 0.4.12 |
+| boletus.us-west.host.bsky.network | No | git-b400fae |
+| bossett.social | No | 0.4.12 |
+| boymodelworld.com | No | 0.4.12 |
+| brnc.at | No | 0.4.12 |
+| bs.siren.jp | No | 0.4.12 |
+| bs.vrccl.life | No | 0.4.12 |
+| bsky-pds.h3z.jp | No | 0.4.1 |
+| bsky-pds.lamberti.io | No | 0.4.12 |
+| bsky.air11.social | No | 0.4.12 |
+| bsky.bulles.social | No | 0.4.12 |
+| bsky.chagge.com | No | 0.4.12 |
+| bsky.col.social | No | 0.4.12 |
+| bsky.day | No | 0.4.12 |
+| bsky.dayl.in | No | 0.4.7 |
+| bsky.dead10ck.dev | No | 0.4.7 |
+| bsky.eqver.se | No | 0.4.12 |
+| bsky.furry.win | No | 0.4.12 |
+| bsky.giurgiu.io | No | 0.4.0-beta.7 |
+| bsky.huimao.xyz | No | 0.4.12 |
+| bsky.j0.lol | No | 0.4.12 |
+| bsky.jeykey.org | No | 0.4.12 |
+| bsky.kevoun.com | No | 0.4.12 |
+| bsky.kit-a.net | No | 0.4.12 |
+| bsky.kretschmann.social | No | 0.4.0-beta.7 |
+| bsky.mabataki.moe | No | 0.4.13 |
+| bsky.mcphail.uk | No | 0.4.12 |
+| bsky.milkcocoa.info | No | 0.4.12 |
+| bsky.milv.life | No | 0.4.12 |
+| bsky.mycapitolwatchdog.com | No | 0.4.12 |
+| bsky.mystech.ink | No | 0.4.0-beta.7 |
+| bsky.nerdfest.dev | No | 0.4.12 |
+| bsky.njsharp.uk | No | 0.4.12 |
+| bsky.pavli.cc | No | 0.4.12 |
+| bsky.pink | Yes | 0.4.12 |
+| bsky.powerg.love | No | 0.4.12 |
+| bsky.psote.ing | No | 0.4.12 |
+| bsky.runhello.com | No | 0.4.12 |
+| bsky.samulireijula.net | No | 0.4.12 |
+| bsky.sneezey.uk | No | 0.4.0-beta.7 |
+| bsky.social | Yes | git-f1e804e |
+| bsky.taila5061.ts.net | No | 0.4.12 |
+| bsky.theatl.social | No | 0.4.7 |
+| bsky.tm2t.net | No | 0.4.12 |
+| bsky.tranvender.site | No | 0.4.12 |
+| bsky.zoeyvid.de | No | 0.4.12 |
+| bskytest.marginal.net | No | 0.4.7 |
+| bum.ninja | No | 0.4.12 |
+| buqbuq.ca | No | 0.4.12 |
+| cauda.cloud | No | 0.4.12 |
+| chaga.us-west.host.bsky.network | No | git-b400fae |
+| comrades.social | No | 0.4.12 |
+| conceptualcat.net | No | 0.4.12 |
+| conocybe.us-west.host.bsky.network | No | git-b400fae |
+| corgi.dance | No | 0.4.12 |
+| daemons.work | No | 0.4.12 |
+| danya.dev | No | 0.4.12 |
+| davewinter.dev | No | 0.4.12 |
+| derpzilla.net | Yes | 0.4.0-beta.7 |
+| disbursement.center | No | 0.4.12 |
+| divy.zone | No | 0.4.12 |
+| dollpost.ing | No | 0.4.12 |
+| drakeno.de | No | 0.4.12 |
+| ecow.dev | No | 0.4.12 |
+| ekaki.art | No | 0.4.12 |
+| enoki.us-east.host.bsky.network | No | git-b400fae |
+| epicspace.quest | No | 0.4.12 |
+| filly.social | No | 0.4.12 |
+| friendlypds.cloud | No | 0.4.12 |
+| fttp.cc | No | 0.4.12 |
+| gear.blue | No | 0.4.12 |
+| gesetz-bsky.world | Yes | 0.4.12 |
+| giulia.social | No | 0.4.7 |
+| goeo.lol | No | 0.4.12 |
+| habanero.f5.si | No | 0.4.12 |
+| hellthread.pro | No | 0.4.12 |
+| hivetasks.com | No | 0.4.12 |
+| holofan.live | No | 0.4.12 |
+| hooray.social | No | 0.4.12 |
+| hydnum.us-west.host.bsky.network | No | git-b400fae |
+| iame.li | No | 0.4.12 |
+| inkcap.us-east.host.bsky.network | No | git-b400fae |
+| internect.ing | No | 0.4.12 |
+| ishimmi.net | No | 0.4.12 |
+| italiansky.mooo.com | No | 0.4.12 |
+| jabberstory.net | No | 0.4.12 |
+| jlailu.social | No | 0.4.12 |
+| kansascity.social | No | 0.4.12 |
+| kiichigo.cloud | Yes | 0.4.12 |
+| knot.land | No | 0.4.12 |
+| ksky.7ka.org | No | 0.4.12 |
+| labcaffeinated.com | No | 0.4.12 |
+| lacunas.net | No | 0.4.12 |
+| lalasky.fun | No | 0.4.12 |
+| lamp.wtf | No | 0.4.0-beta.7 |
+| lepista.us-west.host.bsky.network | No | git-b400fae |
+| libertywave.app | Yes | 0.4.12 |
+| lionsmane.us-east.host.bsky.network | No | git-b400fae |
+| machikadosora.online | No | 0.4.0-beta.7 |
+| madeorsk.com | No | 0.4.0-beta.7 |
+| madiator.cloud | No | 0.4.12 |
+| magrasea.com | No | 0.4.12 |
+| maitake.us-west.host.bsky.network | No | git-b400fae |
+| mastonon.net | No | 0.4.12 |
+| meety.me | No | 0.4.12 |
+| midgardmates.com | No | 0.4.12 |
+| mkl.lol | No | 0.4.12 |
+| moegi.stream | No | 0.4.12 |
+| morel.us-east.host.bsky.network | No | git-4e0271b |
+| mraow.party | No | 0.4.12 |
+| naomie.digital | No | 0.4.12 |
+| nerdynate.cc | No | 0.4.12 |
+| netdeaf.com | No | 0.4.12 |
+| nonsono.online | No | 0.4.7 |
+| nyago.zip | No | 0.4.12 |
+| okashi.social | No | 0.4.12 |
+| opp.minuspoint.com | No | 0.4.12 |
+| otasora.blue | No | 0.4.12 |
+| oyster.us-east.host.bsky.network | No | git-b400fae |
+| p.kojira.io | No | 0.4.12 |
+| pdeeznuts.amith.sbs | No | 0.4.12 |
+| pds.akigami.org | No | 0.4.12 |
+| pds.andreslucero.com | No | 0.4.12 |
+| pds.anymanystreams.cc | No | 0.4.12 |
+| pds.aparker.io | No | 0.4.12 |
+| pds.axtch.net | No | 0.4.12 |
+| pds.bboysoul.cn | No | 0.4.0-beta.7 |
+| pds.bernd.network | No | 0.4.12 |
+| pds.bsky.ealmuina.xyz | No | 0.4.12 |
+| pds.c-stellar.net | No | 0.4.12 |
+| pds.cacheblasters.com | No | 0.4.12 |
+| pds.caruanafamily.net | No | 0.4.12 |
+| pds.dad2cl3.com | No | 0.4.12 |
+| pds.darn.fish | No | 0.4.12 |
+| pds.dholms.xyz | No | 0.4.12 |
+| pds.dlun.ch | No | 0.4.7 |
+| pds.dolciss.net | No | 0.4.12 |
+| pds.draboros.net | No | 0.4.12 |
+| pds.elxx.net | No | 0.4.12 |
+| pds.erechorse.com | No | 0.4.12 |
+| pds.furtenbach.social | No | 0.4.12 |
+| pds.golf1052.com | No | 0.4.12 |
+| pds.graefekiez.de | No | 0.4.12 |
+| pds.gza.jp | No | 0.4.12 |
+| pds.haileyok.com | No | 0.4.12 |
+| pds.invr.chat | No | 0.4.12 |
+| pds.itsjason.net | No | 0.4.12 |
+| pds.jaronoff.com | No | 0.4.12 |
+| pds.jay.xyz | No | 0.4.12 |
+| pds.keiji0501.com | No | 0.4.12 |
+| pds.krasovs.ky | No | 0.4.12 |
+| pds.lotor.online | No | 0.4.12 |
+| pds.lunar.town | No | 0.4.7 |
+| pds.matsuuratomoya.com | No | 0.4.12 |
+| pds.mattobs.com | No | 0.4.12 |
+| pds.mbl.social | No | 0.4.12 |
+| pds.megantoots.com | No | 0.4.12 |
+| pds.mevo.xyz | No | 0.4.12 |
+| pds.mnogu.net | No | 0.4.12 |
+| pds.mozzius.dev | No | 0.4.12 |
+| pds.nebu.land | No | 0.4.12 |
+| pds.pokete.com | No | 0.4.12 |
+| pds.quimian.com | No | 0.4.12 |
+| pds.robocracy.org | No | 0.4.12 |
+| pds.rotimsarth.com | No | 0.4.12 |
+| pds.shigepon.net | No | 0.4.12 |
+| pds.simplespace.jp | No | 0.4.12 |
+| pds.skyfeed.dev | No | 0.4.0-beta.7 |
+| pds.snek.dev | No | 0.4.12 |
+| pds.soap.systems | No | 0.4.12 |
+| pds.taichibit.com | No | 0.4.12 |
+| pds.tentacle.expert | No | 0.4.12 |
+| pds.thrown-into.space | No | 0.4.12 |
+| pds.tosiiu.com | No | 0.4.12 |
+| pds.trkw.dev | No | 0.4.12 |
+| pds.tw | No | 0.4.12 |
+| pds.ubanis.mydns.jp | No | 0.4.12 |
+| pds.unsocial.dev | No | 0.4.12 |
+| pds.vforge.social | No | 0.4.12 |
+| pds.walloftext.ca | No | 0.4.12 |
+| pds.y-force.info | Yes | 0.4.12 |
+| pds.zccx.net | No | 0.4.12 |
+| pds.znsk.ca | No | 0.4.12 |
+| porcini.us-east.host.bsky.network | No | git-b400fae |
+| proto.sorcie.re | No | 0.4.12 |
+| puffball.us-east.host.bsky.network | No | git-b400fae |
+| quokka.today | No | 0.4.12 |
+| rainbowgirl.moe | No | 0.4.12 |
+| rebroad.com | No | 0.4.12 |
+| redocean.one | No | 0.4.12 |
+| rows.io | No | 0.4.12 |
+| russula.us-west.host.bsky.network | No | git-b400fae |
+| senshi.dev | No | 0.4.12 |
+| shiitake.us-east.host.bsky.network | No | git-b400fae |
+| shimeji.us-east.host.bsky.network | No | git-b400fae |
+| skeleton.rodeo | No | 0.4.12 |
+| sky.gami.zip | No | 0.4.0-beta.7 |
+| sky.joeferguson.me | No | 0.4.12 |
+| sky.kghorvath.com | No | 0.4.7 |
+| sky.lalafell.org | No | 0.4.12 |
+| sky.tokimeki.blue | No | 0.4.12 |
+| sky01.ketto.ca | No | 0.4.12 |
+| skyblue.cc | No | 0.4.12 |
+| skywarriors.social | No | 0.4.12 |
+| sns.limelee.xyz | No | 0.4.12 |
+| social.owo.cl | No | 0.4.12 |
+| social.somedevfox.art | No | 0.4.12 |
+| sowedu.net | No | 0.4.12 |
+| spds.terushu.jp | No | 0.4.12 |
+| squarewave.lol | No | 0.4.12 |
+| stack.party | No | 0.4.0-beta.7 |
+| staging.host.bsky.network | No | git-de6518d |
+| starburst.social | No | 0.4.12 |
+| stinkhorn.jacob.gold | No | 0.4.12 |
+| summerwind.blue | No | 0.4.12 |
+| sunaba.io | No | 0.4.12 |
+| sys.rainier.jp | No | 0.4.12 |
+| sysad.ninja | No | 0.4.0-beta.7 |
+| sysadmins.cc | No | 0.4.12 |
+| tambaramodule.tech | No | 0.4.12 |
+| test.dholms.xyz | No | 0.4.0-beta |
+| test.joelanders.net | No | 0.4.12 |
+| thewired.online | No | 0.4.12 |
+| tkpn.social | No | 0.4.0-beta.7 |
+| tksocial.eu.org | No | 0.4.12 |
+| trashcave.net | No | 0.4.12 |
+| trekologer.social | No | 0.4.12 |
+| tweethive.net | No | 0.4.12 |
+| userdir.de | No | 0.4.12 |
+| v-laboratory.com | No | 0.4.12 |
+| v9v.net | No | 0.4.12 |
+| vengeful.eu | No | 0.4.12 |
+| verpa.us-west.host.bsky.network | No | git-b400fae |
+| veryun.cool | No | 0.4.12 |
+| w7f.social | No | 0.4.12 |
+| waraiotoko.xyz | No | 0.4.12 |
+| whipq.com | No | 0.4.12 |
+| yoshiki.burnworks.com | No | 0.4.12 |
+| zazen.social | No | 0.4.12 |
 <!-- pds-end -->
 
 ## Labelers
 
 <!-- labeler-start -->
-| Labeler |
-| --- |
-| aegismoderation.com |
-| aimod.social |
-| baatl.mastod.one |
-| blue-cosmos.social |
-| bsky-labeler.thenexus.today |
-| example.mastod.one |
-| howaboutyougeta.life |
-| labeler.dholms.xyz |
-| labeler.divy.zone |
-| labeler.tokimeki.blue |
-| lavka.zalupa.in.ua |
-| mod.armifi.com |
-| mod.bsky.app |
-| mod.staging.bsky.dev |
-| mod.sunaba.network |
-| ozone.anon5r.com |
-| ozone.bossett.social |
-| ozone.bsky.imax.in.ua |
-| ozone.dingdongdata.com |
-| ozone.dovgonosyk.xyz |
-| ozone.friend.town |
-| ozone.goeo.lol |
-| ozone.iftas.dev |
-| ozone.launchpadx.top |
-| ozone.lio.systems |
-| ozone.lotor.online |
-| ozone.moderation.moe |
-| ozone.mountainherder.xyz |
-| ozone.nmatsui.work |
-| ozone.shawnhoffman.dev |
-| ozone.skeet.ing |
-| ozone.thebull.app |
-| ozone.topicalsource.com |
-| ozone.usounds.work |
-| ozone.w3igg.com |
-| ozone.wyvern.blue |
-| ozone.y-force.info |
-| phobial.mastod.one |
-| stopthebeans.haileyok.com |
-| stopthegifs.haileyok.com |
-| xblock.aendra.dev |
+| Labeler | Version |
+| --- | --- |
+| aegismoderation.com | 0.1.1 |
+| aimod.social | 0.1.11 |
+| baatl.mastod.one | 0.1.11 |
+| blue-cosmos.social | 0.1.11 |
+| bsky-labeler.thenexus.today | 0.1.11 |
+| example.mastod.one | 0.1.11 |
+| howaboutyougeta.life | 0.1.11 |
+| labeler.dholms.xyz | 0.1.11 |
+| labeler.divy.zone | 0.1.11 |
+| labeler.tokimeki.blue | 0.0.17-next.1 |
+| lavka.zalupa.in.ua | 0.1.1 |
+| mod.armifi.com | 0.1.11 |
+| mod.bsky.app | git-58551bb |
+| mod.staging.bsky.dev | git-58551bb |
+| mod.sunaba.network | 0.1.1 |
+| ozone.anon5r.com | 0.1.1 |
+| ozone.bossett.social | 0.1.1 |
+| ozone.bsky.imax.in.ua | 0.1.1 |
+| ozone.dovgonosyk.xyz | 0.1.11 |
+| ozone.friend.town | 0.1.11 |
+| ozone.goeo.lol | 0.1.11 |
+| ozone.iftas.dev | 0.1.11 |
+| ozone.launchpadx.top | 0.1.1 |
+| ozone.lio.systems | 0.1.1 |
+| ozone.lotor.online | 0.1.1 |
+| ozone.moderation.moe | 0.1.1 |
+| ozone.mountainherder.xyz | 0.1.11 |
+| ozone.nmatsui.work | 0.1.11 |
+| ozone.shawnhoffman.dev | 0.1.1 |
+| ozone.skeet.ing | 0.1.1 |
+| ozone.thebull.app | 0.1.11 |
+| ozone.topicalsource.com | 0.1.3 |
+| ozone.usounds.work | 0.1.1 |
+| ozone.w3igg.com | 0.1.11 |
+| ozone.wyvern.blue | 0.1.11 |
+| ozone.y-force.info | 0.1.11 |
+| phobial.mastod.one | 0.1.11 |
+| stopthebeans.haileyok.com | 0.1.11 |
+| stopthegifs.haileyok.com | 0.1.11 |
+| xblock.aendra.dev | 0.1.11 |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run
