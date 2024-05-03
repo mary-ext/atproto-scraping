@@ -15,25 +15,32 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
+
       - name: Install dependencies
         run: bun install --frozen-lockfile
+
       - name: Get current date
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
       - name: Cache DID database
         uses: actions/cache@v4
         with:
           key: did-v1-${{ steps.date.outputs.date }}
           restore-keys: did-v1-
           path: did.sqlite3
+
       - name: Run DID exporter
         run: bun run ./scripts/export-dids.ts
+
       - name: Run Markdown generator
         run: bun run ./scripts/generate-markdown.ts
+
       - name: Remove existing store cache
         if: ${{ steps.cache-restore.outputs.cache-hit }}
         continue-on-error: true
@@ -42,6 +49,7 @@ jobs:
           gh actions-cache delete "${{ env.STORE_CACHE_KEY }}" --confirm
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Push to repository
         run: |
           git config user.name github-actions[bot]
