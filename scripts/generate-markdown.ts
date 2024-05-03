@@ -71,29 +71,18 @@ const pdsResults = await Promise.all(
 			const rpc = new BskyXRPC({ service: href });
 
 			const signal = AbortSignal.timeout(15_000);
-			const meta = await rpc.get('com.atproto.server.describeServer', { signal }).then(
-				({ data: rawData }) => {
-					const result = pdsDescribeServerResponse.try(rawData, { mode: 'passthrough' });
-
-					if (!result.ok) {
-						console.log(`  ${host}: unexpected response`);
-						return null;
-					}
-
-					const data = result.value;
+			const meta = await rpc
+				.get('com.atproto.server.describeServer', { signal })
+				.then(({ data: rawData }) => {
+					const data = pdsDescribeServerResponse.parse(rawData, { mode: 'passthrough' });
 
 					if (data.did !== `did:web:${host}`) {
-						console.log(`  ${host}: did mismatch`);
-						return null;
+						throw new Error(`did mismatch`);
 					}
 
 					return data;
-				},
-				() => {
-					console.log(`  ${host}: unreachable`);
-					return null;
-				},
-			);
+				})
+				.catch(() => null);
 
 			if (meta === null) {
 				const errorAt = obj.errorAt;
@@ -104,10 +93,11 @@ const pdsResults = await Promise.all(
 					pdses.delete(href);
 				}
 
+				console.log(`  ${host}: fail`);
 				return;
-			} else {
-				obj.errorAt = undefined;
 			}
+
+			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
 			return { host, meta };
@@ -133,23 +123,8 @@ const labelerResults = await Promise.all(
 						limit: 1,
 					},
 				})
-				.then(
-					({ data: rawData }) => {
-						const result = labelerQueryLabelsResponse.try(rawData, { mode: 'passthrough' });
-
-						if (!result.ok) {
-							console.log(`  ${host}: unexpected response`);
-							return null;
-						}
-
-						const data = result.value;
-
-						return data;
-					},
-					() => {
-						return null;
-					},
-				);
+				.then(({ data: rawData }) => labelerQueryLabelsResponse.parse(rawData, { mode: 'passthrough' }))
+				.catch(() => null);
 
 			if (meta === null) {
 				const errorAt = obj.errorAt;
@@ -160,11 +135,13 @@ const labelerResults = await Promise.all(
 					labelers.delete(href);
 				}
 
+				console.log(`  ${host}: fail`);
 				return;
-			} else {
-				obj.errorAt = undefined;
 			}
 
+			obj.errorAt = undefined;
+
+			console.log(`  ${host}: pass`);
 			return { host };
 		});
 	}),
