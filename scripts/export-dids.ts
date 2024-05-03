@@ -190,8 +190,6 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 	await Promise.all(
 		dids.map((did) => {
 			return queue.add(async () => {
-				console.log(`  fetching ${did}`);
-
 				const host = did.slice(8);
 				const obj = didWebs.get(did)!;
 
@@ -224,6 +222,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					obj.errorAt = undefined;
 					obj.pds = pds;
 					obj.labeler = labeler;
+
+					console.log(`  ${did}: pass`);
 				} catch (err) {
 					const errorAt = obj.errorAt;
 
@@ -232,6 +232,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					} else if (differenceInDays(now, errorAt) > 7) {
 						didWebs.delete(did);
 					}
+
+					console.log(`  ${did}: fail`);
 				}
 			});
 		}),
