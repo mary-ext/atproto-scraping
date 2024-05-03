@@ -1,96 +1,255 @@
-import { and, eq, isNotNull, sql } from 'drizzle-orm';
-import * as tld from 'tldts';
-
 import { BskyXRPC } from '@mary/bluesky-client';
 
-import { db, schema } from '../src/database';
+import { differenceInDays } from 'date-fns/differenceInDays';
+import * as v from '@badrap/valita';
+
+import { serializedState, type InstanceInfo, type LabelerInfo, type SerializedState } from '../src/state';
+
 import { PromiseQueue } from '../src/utils/pqueue';
 
-const template = `# Crawled AT Protocol PDS
+const resultFile = v.string().parse(process.env.RESULT_FILE);
+const stateFile = v.string().parse(process.env.STATE_FILE);
+let state: SerializedState | undefined;
 
-Last updated: {{time}}
+// Read existing state file
+{
+	let json: unknown;
 
-<!-- table-start --><!-- table-end -->
+	try {
+		json = await Bun.file(stateFile).json();
+	} catch {}
 
-[^1]: Not guaranteed to be correct.
-`;
+	if (json !== undefined) {
+		state = serializedState.parse(json);
+	}
+}
 
-let table = `
-| PDS | User count[^1] | Open? |
-| --- | --- | --- |
-`;
+// Some schema validations
+const pdsDescribeServerResponse = v.object({
+	availableUserDomains: v.array(v.string()),
+	did: v.string(),
+
+	contact: v.object({ email: v.string().optional() }).optional(),
+	inviteCodeRequired: v.boolean().optional(),
+	links: v.object({ privacyPolicy: v.string().optional(), termsOfService: v.string().optional() }).optional(),
+	phoneVerificationRequired: v.boolean().optional(),
+});
+
+const labelerQueryLabelsResponse = v.object({
+	cursor: v.string().optional(),
+	labels: v.array(
+		v.object({
+			src: v.string(),
+			uri: v.string(),
+			val: v.string(),
+			cts: v.string(),
+
+			cid: v.string().optional(),
+			exp: v.string().optional(),
+			neg: v.boolean().optional(),
+			sig: v.object({ $bytes: v.string() }).optional(),
+			ver: v.number().optional(),
+		}),
+	),
+});
+
+// Global states
+const pdses = new Map<string, InstanceInfo>(state ? Object.entries(state.pdses) : []);
+const labelers = new Map<string, LabelerInfo>(state ? Object.entries(state.labelers) : []);
 
 const queue = new PromiseQueue();
 
-const pdses = db
-	.select({ host: schema.dids.pds, count: sql<number>`count(pds)` })
-	.from(schema.dids)
-	.where(and(eq(schema.dids.deactivated, false), isNotNull(schema.dids.pds)))
-	.groupBy(schema.dids.pds)
-	.orderBy(schema.dids.pds)
-	.all();
+// Connect to PDSes
+console.log(`crawling known pdses`);
 
-console.log(`got ${pdses.length} result`);
-
-const result = await Promise.all(
-	pdses.map(({ host, count }) => {
+const pdsResults = await Promise.all(
+	Array.from(pdses, ([href, obj]) => {
 		return queue.add(async () => {
-			if (host === null) {
-				return null;
+			const host = new URL(href).host;
+			const rpc = new BskyXRPC({ service: href });
+
+			const signal = AbortSignal.timeout(15_000);
+			const meta = await rpc.get('com.atproto.server.describeServer', { signal }).then(
+				({ data: rawData }) => {
+					const result = pdsDescribeServerResponse.try(rawData, { mode: 'passthrough' });
+
+					if (!result.ok) {
+						console.log(`  ${host}: unexpected response`);
+						return null;
+					}
+
+					const data = result.value;
+
+					if (data.did !== `did:web:${host}`) {
+						console.log(`  ${host}: did mismatch`);
+						return null;
+					}
+
+					return data;
+				},
+				() => {
+					console.log(`  ${host}: unreachable`);
+					return null;
+				},
+			);
+
+			if (meta === null) {
+				const now = Date.now();
+				const errorAt = obj.errorAt;
+
+				if (errorAt === undefined) {
+					obj.errorAt = now;
+				} else if (differenceInDays(now, errorAt) >= 30) {
+					pdses.delete(href);
+				}
+
+				return;
+			} else {
+				obj.errorAt = undefined;
 			}
 
-			// @ts-expect-error
-			const url = URL.parse(host) as URL | null;
-			const parsed = tld.parse(host);
-
-			if (!url || !parsed.domain || !(parsed.isIcann || parsed.isIp)) {
-				return null;
-			}
-
-			const rpc = new BskyXRPC({ service: host });
-			const resp = await rpc
-				.get('com.atproto.server.describeServer', { signal: AbortSignal.timeout(10_000) })
-				.catch(() => null);
-
-			if (resp === null || typeof resp.data !== 'object') {
-				console.log(`${url.host} unreachable`);
-				return null;
-			}
-
-			if (resp.data.did !== `did:web:${url.host}`) {
-				console.log(`${url.host} returned the wrong did`);
-				return null;
-			}
-
-			console.log(`${url.host} reachable`);
-			return { url, count, meta: resp.data };
+			console.log(`  ${host}: pass`);
+			return { host, meta };
 		});
 	}),
-);
+).then((results) => results.filter((r) => r !== undefined));
 
-for (const { url, count, meta } of result.filter((v) => v !== null)) {
-	table += `| ${url.host} | ${count} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} |\n`;
+// Connect to labelers
+console.log(`crawling known labelers`);
+
+const labelerResults = await Promise.all(
+	Array.from(labelers, async ([href, obj]) => {
+		return queue.add(async () => {
+			const host = new URL(href).host;
+			const rpc = new BskyXRPC({ service: href });
+
+			const signal = AbortSignal.timeout(15_000);
+			const meta = await rpc
+				.get('com.atproto.label.queryLabels', {
+					signal: signal,
+					params: {
+						uriPatterns: ['*'],
+						limit: 1,
+					},
+				})
+				.then(
+					({ data: rawData }) => {
+						const result = labelerQueryLabelsResponse.try(rawData, { mode: 'passthrough' });
+
+						if (!result.ok) {
+							console.log(`  ${host}: unexpected response`);
+							return null;
+						}
+
+						const data = result.value;
+
+						return data;
+					},
+					() => {
+						return null;
+					},
+				);
+
+			if (meta === null) {
+				const now = Date.now();
+				const errorAt = obj.errorAt;
+
+				if (errorAt === undefined) {
+					obj.errorAt = now;
+				} else if (differenceInDays(now, errorAt) >= 30) {
+					labelers.delete(href);
+				}
+
+				return;
+			} else {
+				obj.errorAt = undefined;
+			}
+
+			return { host };
+		});
+	}),
+).then((results) => results.filter((r) => r !== undefined));
+
+// Markdown stuff
+{
+	const PDS_RE = /(?<=<!-- pds-start -->)[^]*(?=<!-- pds-end -->)/;
+	const LABELER_RE = /(?<=<!-- labeler-start -->)[^]*(?=<!-- labeler-end -->)/;
+
+	const template = `# Crawled AT Protocol instances
+
+Last updated: {{time}}
+
+Found via crawling plc.directory and bsky.network, some instances might not be
+part of mainnet.
+
+## Personal data servers
+
+<!-- pds-start --><!-- pds-end -->
+
+## Labelers
+
+<!-- labeler-start --><!-- labeler-end -->
+`;
+
+	let pdsTable = `
+| PDS | Open? |
+| --- | --- |
+`;
+
+	let labelerTable = `
+| Labeler |
+| --- |
+`;
+
+	// Generate the PDS table
+	for (const { host, meta } of pdsResults) {
+		pdsTable += `| ${host} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} |\n`;
+	}
+
+	// Generate the labeler table
+	for (const { host } of labelerResults) {
+		labelerTable += `| ${host} |\n`;
+	}
+
+	// Read existing Markdown file, check if it's equivalent
+	let shouldWrite = true;
+
+	try {
+		const source = await Bun.file(resultFile).text();
+
+		if (PDS_RE.exec(source)?.[0] === pdsTable && LABELER_RE.exec(source)?.[0] === labelerTable) {
+			shouldWrite = false;
+		}
+	} catch {}
+
+	// Write the markdown file
+	if (shouldWrite) {
+		const final = template
+			.replace('{{time}}', new Date().toISOString())
+			.replace(PDS_RE, pdsTable)
+			.replace(LABELER_RE, labelerTable);
+
+		await Bun.write(resultFile, final);
+		console.log(`wrote to ${resultFile}`);
+	} else {
+		console.log(`writing skipped`);
+	}
 }
 
-const TABLE_RE = /(?<=<!-- table-start -->)[^]*(?=<!-- table-end -->)/;
-const file = `./README.md`;
-let shouldWrite = true;
+// Persist the state
+{
+	const serialized: SerializedState = {
+		firehose: {
+			cursor: state?.firehose.cursor,
+			didWebs: state?.firehose.didWebs || {},
+		},
+		plc: {
+			cursor: state?.plc.cursor,
+		},
 
-// Read existing Markdown file, check if it's equivalent to what we have currently
-try {
-	const source = await Bun.file(file).text();
-	const match = TABLE_RE.exec(source);
+		pdses: Object.fromEntries(Array.from(pdses)),
+		labelers: Object.fromEntries(Array.from(labelers)),
+	};
 
-	if (match && match[0] === table) {
-		shouldWrite = false;
-	}
-} catch {}
-
-if (shouldWrite) {
-	const final = template.replace('{{time}}', new Date().toISOString()).replace(TABLE_RE, table);
-
-	await Bun.write(file, final);
-	console.log(`wrote to ${file}`);
-} else {
-	console.log(`writing skipped`);
+	await Bun.write(stateFile, JSON.stringify(serialized, null, '\t'));
 }

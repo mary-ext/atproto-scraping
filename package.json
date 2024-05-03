@@ -1,20 +1,19 @@
 {
-  "name": "bluesky-activity",
-  "module": "index.ts",
-  "type": "module",
-  "scripts": {
-    "fmt": "prettier --cache --write .",
-    "generate": "drizzle-kit generate:sqlite"
-  },
-  "dependencies": {
-    "@mary/bluesky-client": "npm:@jsr/mary__bluesky-client",
-    "drizzle-orm": "^0.30.10",
-    "tldts": "^6.1.18"
-  },
-  "devDependencies": {
-    "@types/bun": "latest",
-    "drizzle-kit": "^0.20.17",
-    "prettier": "^3.2.5",
-    "typescript": "^5.5.0-beta"
-  }
+	"name": "bluesky-activity",
+	"module": "index.ts",
+	"type": "module",
+	"scripts": {
+		"fmt": "prettier --cache --write ."
+	},
+	"dependencies": {
+		"@badrap/valita": "^0.3.8",
+		"@mary/bluesky-client": "npm:@jsr/mary__bluesky-client",
+		"date-fns": "^3.6.0",
+		"tldts": "^6.1.18"
+	},
+	"devDependencies": {
+		"@types/bun": "latest",
+		"prettier": "^3.2.5",
+		"typescript": "^5.5.0-beta"
+	}
 }
