@@ -27,10 +27,6 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Get current date
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-
       - name: Run DID exporter
         run: bun run ./scripts/export-dids.ts
 
