@@ -51,7 +51,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 	let after: string | undefined = plcCursor;
 
 	console.log(`crawling plc.directory`);
-	console.log(`  starting ${after || '<root>'}`);
+	console.log(`  starting ${plcCursor || '<root>'}`);
 
 	do {
 		const url = `https://plc.directory/export` + `?count=${limit}` + (after ? `&after=${after}` : '');
@@ -100,6 +100,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 			break;
 		}
 	} while (after !== undefined);
+
+	console.log(`  ending ${plcCursor || '<root>'}`);
 
 	interface ExportEntry {
 		did: string;
@@ -179,6 +181,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 			firehoseCursor = cursor;
 		}
 	} while (cursor !== undefined);
+
+	console.log(`  ending ${firehoseCursor || '<root>'}`);
 }
 
 // Retrieve PDS information from known did:web identities
