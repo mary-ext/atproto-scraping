@@ -11,11 +11,42 @@ const queue = new PromiseQueue();
 
 async function get(url: string, signal?: AbortSignal): Promise<Response> {
 	const response = await fetch(url, { signal });
+
+	if (response.status === 429) {
+		const headers = response.headers;
+		const retryAfter = headers.get('retry-after');
+
+		let delay = 10_000;
+
+		if (retryAfter) {
+			if (/^\d+$/.test(retryAfter)) {
+				delay = +retryAfter;
+			} else {
+				const date = new Date(retryAfter);
+
+				if (Number.isNaN(date.getTime())) {
+					const delta = date.getTime() - Date.now();
+
+					if (delta > 0) {
+						delay = delta;
+					}
+				}
+			}
+		}
+
+		await sleep(delay);
+		return get(url, signal);
+	}
+
 	if (!response.ok) {
 		throw new Error(`got ${response.status} from ${url}`);
 	}
 
 	return response;
+}
+
+function sleep(ms: number): Promise<void> {
+	return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 // Retrieve PLC DIDs
