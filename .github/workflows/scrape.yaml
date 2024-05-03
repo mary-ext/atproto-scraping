@@ -12,8 +12,6 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    env:
-      STORE_CACHE_KEY: store-cache-v1
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,12 +21,6 @@ jobs:
           bun-version: latest
       - name: Install dependencies
         run: bun install --frozen-lockfile
-      - name: Retrieve store cache
-        id: cache-restore
-        uses: actions/cache/restore@v3
-        with:
-          path: ./store
-          key: ${{ env.STORE_CACHE_KEY }}
       - name: Run DID exporter
         run: bun run ./scripts/export-dids.ts
       - name: Run Markdown generator
@@ -41,12 +33,6 @@ jobs:
           gh actions-cache delete "${{ env.STORE_CACHE_KEY }}" --confirm
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Write store cache
-        uses: actions/cache/save@v3
-        if: ${{ always() }}
-        with:
-          path: ./store
-          key: ${{ env.cache-key }}
       - name: Push to repository
         run: |
           git config user.name github-actions[bot]
