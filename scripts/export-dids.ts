@@ -47,14 +47,13 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 // Iterate through PLC events
 {
-	console.log(`crawling plc.directory`);
-
 	const limit = 1000;
 	let after: string | undefined = plcCursor;
 
-	do {
-		console.log(`  fetching ${after || '<root>'}`);
+	console.log(`crawling plc.directory`);
+	console.log(`  starting ${after || '<root>'}`);
 
+	do {
 		const url = `https://plc.directory/export` + `?count=${limit}` + (after ? `&after=${after}` : '');
 
 		const response = await get(url);
@@ -74,14 +73,14 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 				if (pds) {
 					if (!pdses.has(pds)) {
-						console.log(`    found pds: ${pds}`);
+						console.log(`  found pds: ${pds}`);
 						pdses.set(pds, {});
 					}
 				}
 
 				if (labeler) {
 					if (!labelers.has(labeler)) {
-						console.log(`    found labeler: ${labeler}`);
+						console.log(`  found labeler: ${labeler}`);
 						labelers.set(labeler, { did });
 					} else {
 						labelers.get(labeler)!.did = did;
@@ -155,9 +154,9 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 	let cursor: string | undefined = firehoseCursor;
 
 	console.log(`crawling bsky.network`);
+	console.log(`  starting ${cursor || '<root>'}`);
 
 	do {
-		console.log(`  fetching ${cursor || '<root>'}`);
 		const { data } = await rpc.get('com.atproto.sync.listRepos', {
 			params: {
 				cursor: cursor,
@@ -168,7 +167,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 		for (const { did } of data.repos) {
 			if (did.startsWith('did:web:')) {
 				if (!didWebs.has(did)) {
-					console.log(`    found ${did}`);
+					console.log(`  found ${did}`);
 					didWebs.set(did, {});
 				}
 			}
@@ -203,6 +202,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					const pds = getPdsEndpoint(doc);
 					const labeler = getLabelerEndpoint(doc);
 
+					console.log(`  ${did}: pass`);
+
 					if (pds && obj.pds !== pds) {
 						if (!pdses.has(pds)) {
 							console.log(`    found pds: ${pds}`);
@@ -222,8 +223,6 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					obj.errorAt = undefined;
 					obj.pds = pds;
 					obj.labeler = labeler;
-
-					console.log(`  ${did}: pass`);
 				} catch (err) {
 					const errorAt = obj.errorAt;
 
