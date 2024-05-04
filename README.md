@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-03T16:54:07.793Z[^1]
+Last updated: 2024-05-04T01:14:13.535Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -61,6 +61,7 @@ part of mainnet.
 | bsky.day | No | 0.4.12 |
 | bsky.dayl.in | No | 0.4.7 |
 | bsky.dead10ck.dev | No | 0.4.7 |
+| bsky.doskel.net | No | 0.4.12 |
 | bsky.eqver.se | No | 0.4.12 |
 | bsky.furry.win | No | 0.4.12 |
 | bsky.giurgiu.io | No | 0.4.0-beta.7 |
@@ -72,6 +73,7 @@ part of mainnet.
 | bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | bsky.mabataki.moe | No | 0.4.13 |
 | bsky.mcphail.uk | No | 0.4.12 |
+| bsky.mcr.gb.net | No | 0.4.12 |
 | bsky.milkcocoa.info | No | 0.4.12 |
 | bsky.milv.life | No | 0.4.12 |
 | bsky.mycapitolwatchdog.com | No | 0.4.12 |
@@ -140,6 +142,7 @@ part of mainnet.
 | lacunas.net | No | 0.4.12 |
 | lalasky.fun | No | 0.4.12 |
 | lamp.wtf | No | 0.4.0-beta.7 |
+| laurenandquinn.love | No | 0.4.12 |
 | lepista.us-west.host.bsky.network | No | git-b400fae |
 | libertywave.app | Yes | 0.4.12 |
 | lionsmane.us-east.host.bsky.network | No | git-b400fae |

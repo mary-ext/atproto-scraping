@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5656239",
+		"cursor": "5657701",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -30,7 +30,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-03T16:34:44.933Z"
+		"cursor": "2024-05-04T00:54:32.858Z"
 	},
 	"pdses": {
 		"https://03f.co/": {
@@ -361,7 +361,7 @@
 			"errorAt": 1714746913409
 		},
 		"https://bsky.doskel.net/": {
-			"errorAt": 1714747043948
+			"version": "0.4.12"
 		},
 		"https://bsky.emi.cool/": {
 			"errorAt": 1714746910705
@@ -439,6 +439,9 @@
 			"errorAt": 1714746916326
 		},
 		"https://bsky.mcphail.uk/": {
+			"version": "0.4.12"
+		},
+		"https://bsky.mcr.gb.net/": {
 			"version": "0.4.12"
 		},
 		"https://bsky.melijn.com/": {
@@ -809,6 +812,9 @@
 		},
 		"https://landingdev.xyz/": {
 			"errorAt": 1714747205901
+		},
+		"https://laurenandquinn.love/": {
+			"version": "0.4.12"
 		},
 		"https://lavavex.net/": {
 			"errorAt": 1714747091079
