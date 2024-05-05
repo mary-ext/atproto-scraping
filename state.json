@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5661893",
+		"cursor": "5662416",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -30,7 +30,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-05T00:58:29.903Z"
+		"cursor": "2024-05-05T04:11:10.824Z"
 	},
 	"pdses": {
 		"https://03f.co/": {
@@ -100,7 +100,7 @@
 			"version": "0.4.12"
 		},
 		"https://at.dingdongdata.com/": {
-			"errorAt": 1714754099094
+			"version": "0.4.12"
 		},
 		"https://at.donley.io/": {
 			"version": "0.4.12"
@@ -337,7 +337,7 @@
 			"version": "0.4.12"
 		},
 		"https://bsky.dead10ck.dev/": {
-			"version": "0.4.7"
+			"version": "0.4.12"
 		},
 		"https://bsky.digitalmalayali.in/": {
 			"errorAt": 1714746909550
