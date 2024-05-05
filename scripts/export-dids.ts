@@ -167,7 +167,8 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 			},
 		});
 
-		for (const { did } of data.repos) {
+		// safeguard against the relay returning repos: null
+		for (const { did } of data.repos || []) {
 			if (did.startsWith('did:web:')) {
 				if (!didWebs.has(did)) {
 					console.log(`  found ${did}`);
