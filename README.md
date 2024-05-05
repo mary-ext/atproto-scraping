@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-04T01:14:13.535Z[^1]
+Last updated: 2024-05-05T01:17:25.689Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -92,6 +92,7 @@ part of mainnet.
 | bsky.theatl.social | No | 0.4.7 |
 | bsky.tm2t.net | No | 0.4.12 |
 | bsky.tranvender.site | No | 0.4.12 |
+| bsky.wtr.app | No | 0.4.12 |
 | bsky.zoeyvid.de | No | 0.4.12 |
 | bskytest.marginal.net | No | 0.4.7 |
 | bum.ninja | No | 0.4.12 |
@@ -209,6 +210,7 @@ part of mainnet.
 | pds.mnogu.net | No | 0.4.12 |
 | pds.mozzius.dev | No | 0.4.12 |
 | pds.nebu.land | No | 0.4.12 |
+| pds.nixeneko.info | No | 0.4.12 |
 | pds.pokete.com | No | 0.4.12 |
 | pds.quimian.com | No | 0.4.12 |
 | pds.robocracy.org | No | 0.4.12 |
@@ -236,6 +238,7 @@ part of mainnet.
 | puffball.us-east.host.bsky.network | No | git-b400fae |
 | quokka.today | No | 0.4.12 |
 | rainbowgirl.moe | No | 0.4.12 |
+| randir.link | No | 0.4.12 |
 | rebroad.com | No | 0.4.12 |
 | redocean.one | No | 0.4.12 |
 | rows.io | No | 0.4.12 |
@@ -274,7 +277,6 @@ part of mainnet.
 | tkpn.social | No | 0.4.0-beta.7 |
 | tksocial.eu.org | No | 0.4.12 |
 | trashcave.net | No | 0.4.12 |
-| trekologer.social | No | 0.4.12 |
 | tweethive.net | No | 0.4.12 |
 | userdir.de | No | 0.4.12 |
 | v-laboratory.com | No | 0.4.12 |
@@ -309,7 +311,7 @@ part of mainnet.
 | mod.bsky.app | git-58551bb |
 | mod.staging.bsky.dev | git-58551bb |
 | mod.sunaba.network | 0.1.1 |
-| ozone.anon5r.com | 0.1.1 |
+| ozone.anon5r.com | 0.1.11 |
 | ozone.bossett.social | 0.1.1 |
 | ozone.bsky.imax.in.ua | 0.1.1 |
 | ozone.dovgonosyk.xyz | 0.1.11 |
@@ -329,7 +331,6 @@ part of mainnet.
 | ozone.usounds.work | 0.1.1 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
-| ozone.y-force.info | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |
 | stopthegifs.haileyok.com | 0.1.11 |
