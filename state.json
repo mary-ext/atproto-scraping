@@ -96,9 +96,6 @@
 		"https://arisskey.win/": {
 			"errorAt": 1714746758917
 		},
-		"https://arxys.io/": {
-			"version": "0.4.12"
-		},
 		"https://at.clavis.info/": {
 			"version": "0.4.12"
 		},
@@ -108,9 +105,6 @@
 		"https://at.donley.io/": {
 			"version": "0.4.12"
 		},
-		"https://at.drigs.org/": {
-			"version": "0.4.12"
-		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.12"
 		},
@@ -118,9 +112,6 @@
 			"version": "0.4.12"
 		},
 		"https://at.l1qu1d.net/": {
-			"version": "0.4.12"
-		},
-		"https://at.oddte.ch/": {
 			"version": "0.4.12"
 		},
 		"https://at.qatoqat.com/": {
@@ -202,9 +193,6 @@
 			"errorAt": 1714746908820
 		},
 		"https://bluesky.akyoz.net/": {
-			"version": "0.4.12"
-		},
-		"https://bluesky.cronocide.net/": {
 			"version": "0.4.12"
 		},
 		"https://bluesky.dingdongdata.com/": {
@@ -348,9 +336,6 @@
 		"https://bsky.day/": {
 			"version": "0.4.12"
 		},
-		"https://bsky.dayl.in/": {
-			"version": "0.4.7"
-		},
 		"https://bsky.dead10ck.dev/": {
 			"version": "0.4.7"
 		},
@@ -374,9 +359,6 @@
 		},
 		"https://bsky.fayy.net/": {
 			"errorAt": 1714746911225
-		},
-		"https://bsky.furry.win/": {
-			"version": "0.4.12"
 		},
 		"https://bsky.gdgd.tokyo/": {
 			"errorAt": 1714746911579
@@ -406,9 +388,6 @@
 			"errorAt": 1714746914047
 		},
 		"https://bsky.j0.lol/": {
-			"version": "0.4.12"
-		},
-		"https://bsky.jeykey.org/": {
 			"version": "0.4.12"
 		},
 		"https://bsky.katerstrophal.me/": {
@@ -509,9 +488,6 @@
 		},
 		"https://bsky.sneezey.uk/": {
 			"version": "0.4.0-beta.7"
-		},
-		"https://bsky.social/": {
-			"version": "git-f1e804e"
 		},
 		"https://bsky.syui.ai/": {
 			"errorAt": 1714746920907
@@ -768,9 +744,6 @@
 		"https://italiansky.mooo.com/": {
 			"version": "0.4.12"
 		},
-		"https://jabberstory.net/": {
-			"version": "0.4.12"
-		},
 		"https://jackalbox.xyz/": {
 			"errorAt": 1714747059386
 		},
@@ -864,9 +837,6 @@
 		"https://makibisky.win/": {
 			"errorAt": 1714747099072
 		},
-		"https://mastonon.net/": {
-			"version": "0.4.12"
-		},
 		"https://maughtchiner.com/": {
 			"errorAt": 1714747099910
 		},
@@ -910,9 +880,6 @@
 			"errorAt": 1714747102265
 		},
 		"https://nerdynate.cc/": {
-			"version": "0.4.12"
-		},
-		"https://netdeaf.com/": {
 			"version": "0.4.12"
 		},
 		"https://nmatsui.work/": {
@@ -1022,9 +989,6 @@
 		},
 		"https://pds.cybervillains.gay/": {
 			"errorAt": 1714747206984
-		},
-		"https://pds.dad2cl3.com/": {
-			"version": "0.4.12"
 		},
 		"https://pds.darn.fish/": {
 			"version": "0.4.12"
@@ -1161,9 +1125,6 @@
 		"https://pds.robocracy.org/": {
 			"version": "0.4.12"
 		},
-		"https://pds.rotimsarth.com/": {
-			"version": "0.4.12"
-		},
 		"https://pds.sapient.jp/": {
 			"errorAt": 1714747381868
 		},
@@ -1205,9 +1166,6 @@
 		},
 		"https://pds.therobbiedavis.com/": {
 			"errorAt": 1714747354091
-		},
-		"https://pds.thrown-into.space/": {
-			"version": "0.4.12"
 		},
 		"https://pds.tosiiu.com/": {
 			"version": "0.4.12"
@@ -1365,9 +1323,6 @@
 		"https://skycat.blue/": {
 			"errorAt": 1714747565027
 		},
-		"https://skywarriors.social/": {
-			"version": "0.4.12"
-		},
 		"https://sleepy.cafe/": {
 			"errorAt": 1714747526291
 		},
@@ -1389,16 +1344,10 @@
 		"https://social.pcora.eu/": {
 			"errorAt": 1714747527733
 		},
-		"https://social.somedevfox.art/": {
-			"version": "0.4.12"
-		},
 		"https://social.zach.codes/": {
 			"errorAt": 1714747528354
 		},
 		"https://sowedu.net/": {
-			"version": "0.4.12"
-		},
-		"https://spds.terushu.jp/": {
 			"version": "0.4.12"
 		},
 		"https://squarewave.lol/": {
@@ -1409,9 +1358,6 @@
 		},
 		"https://staging.dholms.xyz/": {
 			"errorAt": 1714747530416
-		},
-		"https://staging.host.bsky.network/": {
-			"version": "git-de6518d"
 		},
 		"https://staging.skeets.org/": {
 			"errorAt": 1714747530754
@@ -1431,13 +1377,7 @@
 		"https://stinkhorn.jacob.gold/": {
 			"version": "0.4.12"
 		},
-		"https://summerwind.blue/": {
-			"version": "0.4.12"
-		},
 		"https://sunaba.io/": {
-			"version": "0.4.12"
-		},
-		"https://sys.rainier.jp/": {
 			"version": "0.4.12"
 		},
 		"https://sysad.ninja/": {
@@ -1469,9 +1409,6 @@
 		},
 		"https://test.dholms.xyz/": {
 			"version": "0.4.0-beta"
-		},
-		"https://test.joelanders.net/": {
-			"version": "0.4.12"
 		},
 		"https://test.shailendra.space/": {
 			"errorAt": 1714747536987
