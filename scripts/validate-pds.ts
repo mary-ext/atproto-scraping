@@ -42,10 +42,10 @@ await Promise.all(
 			const host = new URL(href).host;
 			const rpc = new BskyXRPC({ service: href });
 
-			let did: At.DID;
+			let dids: At.DID[];
 
 			try {
-				const { data: pdsData } = await rpc.get('com.atproto.sync.listRepos', { params: { limit: 1 } });
+				const { data: pdsData } = await rpc.get('com.atproto.sync.listRepos', { params: { limit: 1_000 } });
 				const repos = pdsData.repos;
 
 				if (repos.length === 0) {
@@ -53,7 +53,8 @@ await Promise.all(
 					return;
 				}
 
-				did = repos[0].did;
+				shuffle(repos);
+				dids = repos.slice(0, 10).map((repo) => repo.did);
 			} catch (err) {
 				if (err instanceof XRPCError && err.status === 403) {
 					console.log(`${host}: fail`);
@@ -65,18 +66,23 @@ await Promise.all(
 				return;
 			}
 
-			try {
-				await relay.get('com.atproto.sync.getLatestCommit', { params: { did } });
-				console.log(`${host}: pass`);
-			} catch (err) {
-				if (err instanceof XRPCError && err.status === 404) {
-					console.log(`${host}: fail`);
-					pdses.delete(href);
-					return;
-				}
+			for (const did of dids) {
+				try {
+					console.log(`${host}: testing ${did}`);
+					await relay.get('com.atproto.sync.getLatestCommit', { params: { did } });
 
-				console.log(`${host}: unknown error`);
+					console.log(`${host}: pass`);
+					return;
+				} catch (err) {
+					if (err instanceof XRPCError && err.status !== 404) {
+						console.log(`${host}: unknown error`);
+						return;
+					}
+				}
 			}
+
+			console.log(`${host}: fail`);
+			pdses.delete(href);
 		});
 	}),
 );
@@ -97,4 +103,14 @@ await Promise.all(
 	};
 
 	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
+}
+
+function shuffle(array: any[]) {
+	for (let i = array.length - 1; i > 0; i--) {
+		const j = Math.floor(Math.random() * (i + 1));
+		const temp = array[i];
+
+		array[i] = array[j];
+		array[j] = temp;
+	}
 }
