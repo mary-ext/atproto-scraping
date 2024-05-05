@@ -12,6 +12,7 @@ import {
 	type SerializedState,
 } from '../src/state';
 
+import { RELAY_URL, PLC_URL } from '../src/constants';
 import { didDocument, type DidDocument } from '../src/utils/did';
 import { PromiseQueue } from '../src/utils/pqueue';
 import { LineBreakStream, TextDecoderStream } from '../src/utils/stream';
@@ -55,7 +56,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 	console.log(`  starting ${plcCursor || '<root>'}`);
 
 	do {
-		const url = `https://plc.directory/export` + `?count=${limit}` + (after ? `&after=${after}` : '');
+		const url = `${PLC_URL}/export` + `?count=${limit}` + (after ? `&after=${after}` : '');
 
 		const response = await get(url);
 		const stream = response.body!.pipeThrough(new TextDecoderStream()).pipeThrough(new LineBreakStream());
@@ -152,7 +153,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 // Iterate through firehose' known repositories
 {
-	const rpc = new BskyXRPC({ service: 'https://bsky.network' });
+	const rpc = new BskyXRPC({ service: RELAY_URL });
 
 	let cursor: string | undefined = firehoseCursor;
 
