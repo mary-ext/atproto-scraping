@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-06T01:15:40.911Z[^1]
+Last updated: 2024-05-07T01:13:08.058Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -23,7 +23,6 @@ part of mainnet.
 | at.donley.io | No | 0.4.12 |
 | at.hwsc.link | No | 0.4.12 |
 | at.kizaing.ca | No | 0.4.12 |
-| at.l1qu1d.net | No | 0.4.12 |
 | at.yuntan.tech | No | 0.4.12 |
 | b.yufushiro.dev | No | 0.4.0-beta.7 |
 | beta.thehippo.dev | No | 0.4.12 |
@@ -48,6 +47,7 @@ part of mainnet.
 | boymodelworld.com | No | 0.4.12 |
 | brnc.at | No | 0.4.12 |
 | bs.siren.jp | No | 0.4.12 |
+| bs.songngu.xyz | No | 0.4.12 |
 | bs.vrccl.life | No | 0.4.12 |
 | bsky-pds.h3z.jp | No | 0.4.1 |
 | bsky-pds.lamberti.io | No | 0.4.12 |
@@ -171,6 +171,7 @@ part of mainnet.
 | pds.c-stellar.net | No | 0.4.12 |
 | pds.cacheblasters.com | No | 0.4.12 |
 | pds.caruanafamily.net | No | 0.4.12 |
+| pds.danni.id | No | 0.4.12 |
 | pds.darn.fish | No | 0.4.12 |
 | pds.dholms.xyz | No | 0.4.12 |
 | pds.dlun.ch | No | 0.4.7 |
@@ -265,7 +266,6 @@ part of mainnet.
 | vengeful.eu | No | 0.4.12 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
 | veryun.cool | No | 0.4.12 |
-| w7f.social | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.12 |
 | whipq.com | No | 0.4.12 |
 | yoshiki.burnworks.com | No | 0.4.12 |
@@ -293,6 +293,7 @@ part of mainnet.
 | mod.staging.bsky.dev | git-58551bb |
 | mod.sunaba.network | 0.1.1 |
 | ozone.anon5r.com | 0.1.11 |
+| ozone.bluemusha.com | 0.1.11 |
 | ozone.bossett.social | 0.1.11 |
 | ozone.bsky.imax.in.ua | 0.1.1 |
 | ozone.dovgonosyk.xyz | 0.1.11 |

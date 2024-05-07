@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5666038",
+		"cursor": "5670612",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -30,7 +30,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-06T00:56:50.589Z"
+		"cursor": "2024-05-07T00:55:38.744Z"
 	},
 	"pdses": {
 		"https://03f.co/": {
@@ -112,7 +112,8 @@
 			"version": "0.4.12"
 		},
 		"https://at.l1qu1d.net/": {
-			"version": "0.4.12"
+			"version": "0.4.12",
+			"errorAt": 1715043361797
 		},
 		"https://at.qatoqat.com/": {
 			"errorAt": 1714746760106
@@ -280,6 +281,9 @@
 			"errorAt": 1714746935879
 		},
 		"https://bs.siren.jp/": {
+			"version": "0.4.12"
+		},
+		"https://bs.songngu.xyz/": {
 			"version": "0.4.12"
 		},
 		"https://bs.thagoat.rip/": {
@@ -994,6 +998,9 @@
 		"https://pds.cybervillains.gay/": {
 			"errorAt": 1714747206984
 		},
+		"https://pds.danni.id/": {
+			"version": "0.4.12"
+		},
 		"https://pds.darn.fish/": {
 			"version": "0.4.12"
 		},
@@ -1475,7 +1482,8 @@
 			"version": "0.4.12"
 		},
 		"https://w7f.social/": {
-			"version": "0.4.12"
+			"version": "0.4.12",
+			"errorAt": 1715043361797
 		},
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.12"
@@ -1626,8 +1634,8 @@
 			"version": "0.1.11"
 		},
 		"https://ozone.bluemusha.com/": {
-			"did": "did:plc:w7zqwdyhz7ux6xz2xwswvvy2",
-			"errorAt": 1714747760689
+			"did": "did:plc:n5aztsyungwywj3psng3z65i",
+			"version": "0.1.11"
 		},
 		"https://ozone.bossett.social/": {
 			"did": "did:plc:i65enriuag7n5fgkopbqtkyk",
