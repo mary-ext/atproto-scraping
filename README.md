@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-07T01:13:08.058Z[^1]
+Last updated: 2024-05-08T01:04:32.542Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -37,7 +37,6 @@ part of mainnet.
 | bluesky.nissesdomain.org | No | 0.4.12 |
 | bluesky.nk.ca | No | 0.4.12 |
 | bluesky.rosafamily.net | No | 0.4.12 |
-| bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.sami.sk | No | 0.4.12 |
 | bluesky.therobbiedavis.com | No | 0.4.12 |
 | bluesky.zergy.net | No | 0.4.12 |
@@ -66,7 +65,7 @@ part of mainnet.
 | bsky.kevoun.com | No | 0.4.12 |
 | bsky.kit-a.net | No | 0.4.12 |
 | bsky.kretschmann.social | No | 0.4.0-beta.7 |
-| bsky.mabataki.moe | No | 0.4.13 |
+| bsky.mabataki.moe | No | 0.4.19 |
 | bsky.mcphail.uk | No | 0.4.12 |
 | bsky.mcr.gb.net | No | 0.4.12 |
 | bsky.milkcocoa.info | No | 0.4.12 |
@@ -75,6 +74,7 @@ part of mainnet.
 | bsky.mystech.ink | No | 0.4.0-beta.7 |
 | bsky.nerdfest.dev | No | 0.4.12 |
 | bsky.njsharp.uk | No | 0.4.12 |
+| bsky.ocelot.lol | No | 0.4.12 |
 | bsky.pavli.cc | No | 0.4.12 |
 | bsky.pink | Yes | 0.4.12 |
 | bsky.powerg.love | No | 0.4.12 |
@@ -303,13 +303,12 @@ part of mainnet.
 | ozone.launchpadx.top | 0.1.1 |
 | ozone.lio.systems | 0.1.1 |
 | ozone.lotor.online | 0.1.1 |
-| ozone.moderation.moe | 0.1.1 |
+| ozone.moderation.moe | 0.1.11 |
 | ozone.mountainherder.xyz | 0.1.11 |
 | ozone.shawnhoffman.dev | 0.1.1 |
-| ozone.skeet.ing | 0.1.1 |
 | ozone.thebull.app | 0.1.11 |
 | ozone.topicalsource.com | 0.1.3 |
-| ozone.usounds.work | 0.1.1 |
+| ozone.usounds.work | 0.1.11 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
 | ozone.y-force.info | 0.1.11 |

@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5670612",
+		"cursor": "5674765",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -30,7 +30,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-07T00:55:38.744Z"
+		"cursor": "2024-05-08T00:46:01.012Z"
 	},
 	"pdses": {
 		"https://03f.co/": {
@@ -227,7 +227,8 @@
 			"version": "0.4.12"
 		},
 		"https://bluesky.rp-taki.com/": {
-			"version": "0.4.7"
+			"version": "0.4.7",
+			"errorAt": 1715129176774
 		},
 		"https://bluesky.sami.sk/": {
 			"version": "0.4.12"
@@ -416,7 +417,7 @@
 			"errorAt": 1714746915740
 		},
 		"https://bsky.mabataki.moe/": {
-			"version": "0.4.13"
+			"version": "0.4.19"
 		},
 		"https://bsky.marzillier.net/": {
 			"errorAt": 1714746916164
@@ -468,6 +469,9 @@
 		},
 		"https://bsky.nyago.zip/": {
 			"errorAt": 1714746918816
+		},
+		"https://bsky.ocelot.lol/": {
+			"version": "0.4.12"
 		},
 		"https://bsky.pavli.cc/": {
 			"version": "0.4.12"
@@ -1687,7 +1691,7 @@
 		},
 		"https://ozone.moderation.moe/": {
 			"did": "did:plc:cnn3jrtucivembf66xe6fdfs",
-			"version": "0.1.1"
+			"version": "0.1.11"
 		},
 		"https://ozone.mountainherder.xyz/": {
 			"did": "did:plc:e4elbtctnfqocyfcml6h2lf7",
@@ -1708,7 +1712,8 @@
 		},
 		"https://ozone.skeet.ing/": {
 			"did": "did:plc:hxgctysbwhc3bap3a5c7gdu3",
-			"version": "0.1.1"
+			"version": "0.1.1",
+			"errorAt": 1715129176774
 		},
 		"https://ozone.thebull.app/": {
 			"did": "did:plc:vrjubqujt3v46z5poehh4qfg",
@@ -1724,7 +1729,7 @@
 		},
 		"https://ozone.usounds.work/": {
 			"did": "did:plc:fcikraffwejtuqffifeykcml",
-			"version": "0.1.1"
+			"version": "0.1.11"
 		},
 		"https://ozone.verun.cool/": {
 			"did": "did:plc:lydl7umexooxibfhdtwcijn2",
