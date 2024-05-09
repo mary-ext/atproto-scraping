@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-08T01:04:32.542Z[^1]
+Last updated: 2024-05-09T01:15:51.002Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -29,6 +29,7 @@ part of mainnet.
 | bevenhall.net | No | 0.4.12 |
 | blewit.us-west.host.bsky.network | No | git-b400fae |
 | blue-ocean.social | No | 0.4.12 |
+| blue.jbonomi.dev | No | 0.4.12 |
 | blueskeet.social | No | 0.4.12 |
 | bluesky.akyoz.net | No | 0.4.12 |
 | bluesky.goober.cloud | No | 0.4.12 |
@@ -37,6 +38,7 @@ part of mainnet.
 | bluesky.nissesdomain.org | No | 0.4.12 |
 | bluesky.nk.ca | No | 0.4.12 |
 | bluesky.rosafamily.net | No | 0.4.12 |
+| bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.sami.sk | No | 0.4.12 |
 | bluesky.therobbiedavis.com | No | 0.4.12 |
 | bluesky.zergy.net | No | 0.4.12 |
@@ -93,6 +95,7 @@ part of mainnet.
 | buqbuq.ca | No | 0.4.12 |
 | cauda.cloud | No | 0.4.12 |
 | chaga.us-west.host.bsky.network | No | git-b400fae |
+| chair.rocks | No | 0.4.12 |
 | comrades.social | No | 0.4.12 |
 | conceptualcat.net | No | 0.4.12 |
 | conocybe.us-west.host.bsky.network | No | git-b400fae |
@@ -211,6 +214,7 @@ part of mainnet.
 | pds.soap.systems | No | 0.4.12 |
 | pds.taichibit.com | No | 0.4.12 |
 | pds.tentacle.expert | No | 0.4.12 |
+| pds.timburga.social | No | 0.4.12 |
 | pds.tosiiu.com | No | 0.4.12 |
 | pds.trkw.dev | No | 0.4.12 |
 | pds.tw | No | 0.4.12 |
@@ -245,7 +249,6 @@ part of mainnet.
 | sns.limelee.xyz | No | 0.4.12 |
 | social.owo.cl | No | 0.4.12 |
 | sowedu.net | No | 0.4.12 |
-| squarewave.lol | No | 0.4.12 |
 | stack.party | No | 0.4.0-beta.7 |
 | starburst.social | No | 0.4.12 |
 | stinkhorn.jacob.gold | No | 0.4.12 |
@@ -311,7 +314,6 @@ part of mainnet.
 | ozone.usounds.work | 0.1.11 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
-| ozone.y-force.info | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |
 | stopthegifs.haileyok.com | 0.1.11 |
