@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5678811",
+		"cursor": "5683116",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -30,7 +30,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-09T00:55:39.714Z"
+		"cursor": "2024-05-10T00:56:10.274Z"
 	},
 	"pdses": {
 		"https://03f.co/": {
@@ -681,7 +681,8 @@
 			"version": "0.4.12"
 		},
 		"https://giulia.social/": {
-			"version": "0.4.7"
+			"version": "0.4.7",
+			"errorAt": 1715302572281
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.12"
@@ -949,6 +950,9 @@
 		},
 		"https://pds.00z.sh/": {
 			"errorAt": 1714747106565
+		},
+		"https://pds.a2.rip/": {
+			"version": "0.4.12"
 		},
 		"https://pds.agrmohit.com/": {
 			"errorAt": 1714747106584
@@ -1224,7 +1228,8 @@
 			"version": "0.4.12"
 		},
 		"https://pds.znsk.ca/": {
-			"version": "0.4.12"
+			"version": "0.4.12",
+			"errorAt": 1715302572281
 		},
 		"https://penoaks.com/": {
 			"errorAt": 1714747373619
@@ -1646,6 +1651,10 @@
 			"did": "did:plc:4vf7tgwlg6edds2g2nixyjda",
 			"version": "0.1.11"
 		},
+		"https://ozone.bka.li/": {
+			"did": "did:plc:bqcfe3frnfpte7udjaojhddt",
+			"version": "0.1.11"
+		},
 		"https://ozone.bluemusha.com/": {
 			"did": "did:plc:n5aztsyungwywj3psng3z65i",
 			"version": "0.1.11"
@@ -1766,8 +1775,7 @@
 		},
 		"https://ozone.y-force.info/": {
 			"did": "did:plc:coynarrmyjsm2s3zkbbr5iow",
-			"version": "0.1.11",
-			"errorAt": 1715216175434
+			"version": "0.1.11"
 		},
 		"https://ozone.yagicommoner.com/": {
 			"did": "did:plc:x5mkfa2sdernkil7gp64xtn2",

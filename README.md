@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-09T01:15:51.002Z[^1]
+Last updated: 2024-05-10T01:16:01.491Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -116,7 +116,6 @@ part of mainnet.
 | fttp.cc | No | 0.4.12 |
 | gear.blue | No | 0.4.12 |
 | gesetz-bsky.world | Yes | 0.4.12 |
-| giulia.social | No | 0.4.7 |
 | goeo.lol | No | 0.4.12 |
 | habanero.f5.si | No | 0.4.12 |
 | hellthread.pro | No | 0.4.12 |
@@ -163,6 +162,7 @@ part of mainnet.
 | oyster.us-east.host.bsky.network | No | git-b400fae |
 | p.kojira.io | No | 0.4.12 |
 | pdeeznuts.amith.sbs | No | 0.4.12 |
+| pds.a2.rip | No | 0.4.12 |
 | pds.akigami.org | No | 0.4.12 |
 | pds.andreslucero.com | No | 0.4.12 |
 | pds.anymanystreams.cc | No | 0.4.12 |
@@ -224,7 +224,6 @@ part of mainnet.
 | pds.walloftext.ca | No | 0.4.12 |
 | pds.y-force.info | Yes | 0.4.12 |
 | pds.zccx.net | No | 0.4.12 |
-| pds.znsk.ca | No | 0.4.12 |
 | porcini.us-east.host.bsky.network | No | git-b400fae |
 | proto.sorcie.re | No | 0.4.12 |
 | puffball.us-east.host.bsky.network | No | git-b400fae |
@@ -296,6 +295,7 @@ part of mainnet.
 | mod.staging.bsky.dev | git-58551bb |
 | mod.sunaba.network | 0.1.1 |
 | ozone.anon5r.com | 0.1.11 |
+| ozone.bka.li | 0.1.11 |
 | ozone.bluemusha.com | 0.1.11 |
 | ozone.bossett.social | 0.1.11 |
 | ozone.bsky.imax.in.ua | 0.1.1 |
@@ -314,6 +314,7 @@ part of mainnet.
 | ozone.usounds.work | 0.1.11 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
+| ozone.y-force.info | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |
 | stopthegifs.haileyok.com | 0.1.11 |
