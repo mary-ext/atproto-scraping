@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-11T01:14:41.862Z[^1]
+Last updated: 2024-05-12T01:20:32.586Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -44,11 +44,12 @@ part of mainnet.
 | bluesky.zergy.net | No | 0.4.12 |
 | bluetony.com | No | 0.4.21 |
 | boletus.us-west.host.bsky.network | No | git-b400fae |
-| bossett.social | No | 0.4.12 |
+| bossett.social | No | 0.4.21 |
 | boymodelworld.com | No | 0.4.21 |
 | brnc.at | No | 0.4.21 |
 | bs.siren.jp | No | 0.4.21 |
 | bs.songngu.xyz | No | 0.4.21 |
+| bs.thagoat.rip | No | 0.4.21 |
 | bs.vrccl.life | No | 0.4.21 |
 | bsky-pds.h3z.jp | No | 0.4.1 |
 | bsky-pds.lamberti.io | No | 0.4.21 |
@@ -72,7 +73,7 @@ part of mainnet.
 | bsky.mcr.gb.net | No | 0.4.21 |
 | bsky.milkcocoa.info | No | 0.4.21 |
 | bsky.milv.life | No | 0.4.12 |
-| bsky.mycapitolwatchdog.com | No | 0.4.12 |
+| bsky.mycapitolwatchdog.com | No | 0.4.21 |
 | bsky.mystech.ink | No | 0.4.0-beta.7 |
 | bsky.nerdfest.dev | No | 0.4.21 |
 | bsky.njsharp.uk | No | 0.4.21 |
@@ -111,11 +112,13 @@ part of mainnet.
 | ekaki.art | No | 0.4.21 |
 | enoki.us-east.host.bsky.network | No | git-b400fae |
 | epicspace.quest | No | 0.4.21 |
+| ethans-mbp.tail07d32.ts.net | No | 0.4.13 |
 | filly.social | No | 0.4.21 |
 | friendlypds.cloud | No | 0.4.21 |
 | fttp.cc | No | 0.4.21 |
-| gear.blue | No | 0.4.12 |
+| gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
+| giulia.social | No | 0.4.7 |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -125,7 +128,7 @@ part of mainnet.
 | hydnum.us-west.host.bsky.network | No | git-b400fae |
 | iame.li | No | 0.4.12 |
 | inkcap.us-east.host.bsky.network | No | git-b400fae |
-| internect.ing | No | 0.4.12 |
+| internect.ing | No | 0.4.21 |
 | ishimmi.net | No | 0.4.21 |
 | italiansky.mooo.com | No | 0.4.21 |
 | jlailu.social | No | 0.4.21 |
@@ -153,7 +156,7 @@ part of mainnet.
 | morel.us-east.host.bsky.network | No | git-4e0271b |
 | mraow.party | No | 0.4.21 |
 | naomie.digital | No | 0.4.21 |
-| nerdynate.cc | No | 0.4.21 |
+| nekohana.blue | No | 0.4.21 |
 | nonsono.online | No | 0.4.7 |
 | nyago.zip | No | 0.4.21 |
 | okashi.social | No | 0.4.21 |
@@ -173,7 +176,7 @@ part of mainnet.
 | pds.bsky.ealmuina.xyz | No | 0.4.21 |
 | pds.c-stellar.net | No | 0.4.21 |
 | pds.cacheblasters.com | No | 0.4.21 |
-| pds.caruanafamily.net | No | 0.4.12 |
+| pds.caruanafamily.net | No | 0.4.21 |
 | pds.danni.id | No | 0.4.21 |
 | pds.darn.fish | No | 0.4.12 |
 | pds.dholms.xyz | No | 0.4.21 |
@@ -186,18 +189,17 @@ part of mainnet.
 | pds.golf1052.com | No | 0.4.21 |
 | pds.graefekiez.de | No | 0.4.21 |
 | pds.gza.jp | No | 0.4.21 |
-| pds.haileyok.com | No | 0.4.21 |
 | pds.invr.chat | No | 0.4.21 |
 | pds.itsjason.net | No | 0.4.21 |
 | pds.jaronoff.com | No | 0.4.21 |
 | pds.jay.xyz | No | 0.4.21 |
 | pds.keiji0501.com | No | 0.4.21 |
 | pds.krasovs.ky | No | 0.4.21 |
-| pds.lotor.online | No | 0.4.12 |
+| pds.lotor.online | No | 0.4.21 |
 | pds.lunar.town | No | 0.4.7 |
 | pds.matsuuratomoya.com | No | 0.4.21 |
 | pds.mattobs.com | No | 0.4.21 |
-| pds.mbl.social | No | 0.4.12 |
+| pds.mbl.social | No | 0.4.21 |
 | pds.megantoots.com | No | 0.4.21 |
 | pds.mevo.xyz | No | 0.4.21 |
 | pds.mnogu.net | No | 0.4.21 |
@@ -213,7 +215,6 @@ part of mainnet.
 | pds.snek.dev | No | 0.4.21 |
 | pds.soap.systems | No | 0.4.21 |
 | pds.taichibit.com | No | 0.4.21 |
-| pds.tentacle.expert | No | 0.4.12 |
 | pds.timburga.social | No | 0.4.21 |
 | pds.tosiiu.com | No | 0.4.21 |
 | pds.trkw.dev | No | 0.4.21 |
@@ -222,7 +223,6 @@ part of mainnet.
 | pds.unsocial.dev | No | 0.4.21 |
 | pds.vforge.social | No | 0.4.21 |
 | pds.walloftext.ca | No | 0.4.21 |
-| pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
 | porcini.us-east.host.bsky.network | No | git-b400fae |
 | proto.sorcie.re | No | 0.4.21 |
@@ -265,6 +265,7 @@ part of mainnet.
 | userdir.de | No | 0.4.21 |
 | v-laboratory.com | No | 0.4.21 |
 | v9v.net | No | 0.4.21 |
+| vengeful.eu | No | 0.4.21 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
 | veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
@@ -314,6 +315,7 @@ part of mainnet.
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
 | ozone.y-force.info | 0.1.11 |
+| ozone.yardcrow.com | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |
 | stopthegifs.haileyok.com | 0.1.11 |
