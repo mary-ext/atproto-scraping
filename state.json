@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5692010",
+		"cursor": "5695722",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-12T01:00:47.291Z"
+		"cursor": "2024-05-13T00:57:48.512Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -38,6 +38,9 @@
 		},
 		"https://80px.org/": {
 			"version": "0.4.21"
+		},
+		"https://aeth.cafe/": {
+			"errorAt": 1715561879982
 		},
 		"https://afternooncurry.com/": {
 			"version": "0.4.21"
@@ -75,6 +78,9 @@
 		},
 		"https://at.yuntan.tech/": {
 			"version": "0.4.21"
+		},
+		"https://atproto.brid.gy/": {
+			"errorAt": 1715561879982
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7"
@@ -179,7 +185,7 @@
 			"version": "0.4.21"
 		},
 		"https://bsky.day/": {
-			"version": "0.4.12"
+			"version": "0.4.21"
 		},
 		"https://bsky.dead10ck.dev/": {
 			"version": "0.4.21"
@@ -372,7 +378,7 @@
 			"version": "0.4.21"
 		},
 		"https://giulia.social/": {
-			"version": "0.4.7"
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.21"
@@ -589,8 +595,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.haileyok.com/": {
-			"version": "0.4.21",
-			"errorAt": 1715475656429
+			"version": "0.4.21"
 		},
 		"https://pds.invr.chat/": {
 			"version": "0.4.21"
@@ -699,8 +704,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.y-force.info/": {
-			"version": "0.4.21",
-			"errorAt": 1715475656429
+			"version": "0.4.21"
 		},
 		"https://pds.zccx.net/": {
 			"version": "0.4.21"
@@ -921,7 +925,7 @@
 		},
 		"https://mod.sunaba.network/": {
 			"did": "did:plc:hjhlwomi2kwyrss5w5i5l7xq",
-			"version": "0.1.1"
+			"version": "0.1.11"
 		},
 		"https://ozone.anon5r.com/": {
 			"did": "did:plc:4vf7tgwlg6edds2g2nixyjda",

@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-12T01:20:32.586Z[^1]
+Last updated: 2024-05-13T01:05:22.213Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -58,7 +58,7 @@ part of mainnet.
 | bsky.chagge.com | No | 0.4.21 |
 | bsky.col.social | No | 0.4.21 |
 | bsky.davewinter.social | No | 0.4.21 |
-| bsky.day | No | 0.4.12 |
+| bsky.day | No | 0.4.21 |
 | bsky.dead10ck.dev | No | 0.4.21 |
 | bsky.doskel.net | No | 0.4.21 |
 | bsky.eqver.se | No | 0.4.21 |
@@ -118,7 +118,7 @@ part of mainnet.
 | fttp.cc | No | 0.4.21 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
-| giulia.social | No | 0.4.7 |
+| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -189,6 +189,7 @@ part of mainnet.
 | pds.golf1052.com | No | 0.4.21 |
 | pds.graefekiez.de | No | 0.4.21 |
 | pds.gza.jp | No | 0.4.21 |
+| pds.haileyok.com | No | 0.4.21 |
 | pds.invr.chat | No | 0.4.21 |
 | pds.itsjason.net | No | 0.4.21 |
 | pds.jaronoff.com | No | 0.4.21 |
@@ -223,6 +224,7 @@ part of mainnet.
 | pds.unsocial.dev | No | 0.4.21 |
 | pds.vforge.social | No | 0.4.21 |
 | pds.walloftext.ca | No | 0.4.21 |
+| pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
 | porcini.us-east.host.bsky.network | No | git-b400fae |
 | proto.sorcie.re | No | 0.4.21 |
@@ -293,7 +295,7 @@ part of mainnet.
 | mod.armifi.com | 0.1.11 |
 | mod.bsky.app | git-58551bb |
 | mod.staging.bsky.dev | git-58551bb |
-| mod.sunaba.network | 0.1.1 |
+| mod.sunaba.network | 0.1.11 |
 | ozone.anon5r.com | 0.1.11 |
 | ozone.bka.li | 0.1.11 |
 | ozone.bluemusha.com | 0.1.11 |
