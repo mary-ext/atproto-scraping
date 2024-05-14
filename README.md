@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-13T01:05:22.213Z[^1]
+Last updated: 2024-05-14T01:06:31.451Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -18,8 +18,8 @@ part of mainnet.
 | akiba.blue | No | 0.4.12 |
 | aliciousintent.com | No | 0.4.12 |
 | amanita.us-east.host.bsky.network | No | git-b400fae |
-| at.clavis.info | No | 0.4.12 |
-| at.dingdongdata.com | No | 0.4.12 |
+| at.clavis.info | No | 0.4.21 |
+| at.dingdongdata.com | No | 0.4.21 |
 | at.donley.io | No | 0.4.21 |
 | at.hwsc.link | No | 0.4.21 |
 | at.kizaing.ca | No | 0.4.21 |
@@ -118,7 +118,6 @@ part of mainnet.
 | fttp.cc | No | 0.4.21 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
-| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -133,7 +132,6 @@ part of mainnet.
 | italiansky.mooo.com | No | 0.4.21 |
 | jlailu.social | No | 0.4.21 |
 | kansascity.social | No | 0.4.21 |
-| kiichigo.cloud | Yes | 0.4.21 |
 | knot.land | No | 0.4.21 |
 | ksky.7ka.org | No | 0.4.21 |
 | labcaffeinated.com | No | 0.4.21 |
@@ -152,7 +150,6 @@ part of mainnet.
 | meety.me | No | 0.4.21 |
 | midgardmates.com | No | 0.4.21 |
 | mkl.lol | No | 0.4.21 |
-| moegi.stream | No | 0.4.21 |
 | morel.us-east.host.bsky.network | No | git-4e0271b |
 | mraow.party | No | 0.4.21 |
 | naomie.digital | No | 0.4.21 |
@@ -173,7 +170,6 @@ part of mainnet.
 | pds.axtch.net | No | 0.4.21 |
 | pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | pds.bernd.network | No | 0.4.21 |
-| pds.bsky.ealmuina.xyz | No | 0.4.21 |
 | pds.c-stellar.net | No | 0.4.21 |
 | pds.cacheblasters.com | No | 0.4.21 |
 | pds.caruanafamily.net | No | 0.4.21 |
@@ -195,11 +191,9 @@ part of mainnet.
 | pds.jaronoff.com | No | 0.4.21 |
 | pds.jay.xyz | No | 0.4.21 |
 | pds.keiji0501.com | No | 0.4.21 |
-| pds.krasovs.ky | No | 0.4.21 |
 | pds.lotor.online | No | 0.4.21 |
 | pds.lunar.town | No | 0.4.7 |
 | pds.matsuuratomoya.com | No | 0.4.21 |
-| pds.mattobs.com | No | 0.4.21 |
 | pds.mbl.social | No | 0.4.21 |
 | pds.megantoots.com | No | 0.4.21 |
 | pds.mevo.xyz | No | 0.4.21 |
@@ -253,10 +247,10 @@ part of mainnet.
 | stack.party | No | 0.4.0-beta.7 |
 | starburst.social | No | 0.4.21 |
 | stinkhorn.jacob.gold | No | 0.4.21 |
+| stupol.social | No | 0.4.21 |
 | sunaba.io | No | 0.4.21 |
 | sysad.ninja | No | 0.4.0-beta.7 |
 | sysadmins.cc | No | 0.4.21 |
-| tambaramodule.tech | No | 0.4.21 |
 | test.dholms.xyz | No | 0.4.0-beta |
 | thewired.online | No | 0.4.21 |
 | tkpn.social | No | 0.4.0-beta.7 |
@@ -272,6 +266,7 @@ part of mainnet.
 | veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
 | whipq.com | No | 0.4.21 |
+| wordsky.xyz | No | 0.4.21 |
 | yoshiki.burnworks.com | No | 0.4.21 |
 | zazen.social | No | 0.4.21 |
 <!-- pds-end -->
@@ -293,7 +288,7 @@ part of mainnet.
 | labeler.tokimeki.blue | 0.0.17-next.1 |
 | lavka.zalupa.in.ua | 0.1.1 |
 | mod.armifi.com | 0.1.11 |
-| mod.bsky.app | git-58551bb |
+| mod.bsky.app | git-1f3c41a |
 | mod.staging.bsky.dev | git-58551bb |
 | mod.sunaba.network | 0.1.11 |
 | ozone.anon5r.com | 0.1.11 |

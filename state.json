@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5695722",
+		"cursor": "5704838",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-13T00:57:48.512Z"
+		"cursor": "2024-05-14T00:56:41.110Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -58,10 +58,10 @@
 			"version": "git-b400fae"
 		},
 		"https://at.clavis.info/": {
-			"version": "0.4.12"
+			"version": "0.4.21"
 		},
 		"https://at.dingdongdata.com/": {
-			"version": "0.4.12"
+			"version": "0.4.21"
 		},
 		"https://at.donley.io/": {
 			"version": "0.4.21"
@@ -319,10 +319,6 @@
 		"https://danya.dev/": {
 			"version": "0.4.21"
 		},
-		"https://davewinter.dev/": {
-			"version": "0.4.12",
-			"errorAt": 1714957013892
-		},
 		"https://derpzilla.net/": {
 			"version": "0.4.0-beta.7"
 		},
@@ -350,17 +346,11 @@
 		"https://epicspace.quest/": {
 			"version": "0.4.21"
 		},
-		"https://ethans-mbp.tail.ts.net/": {
-			"errorAt": 1714870762709
-		},
-		"https://ethans-mbp.tail0.ts.net/": {
-			"errorAt": 1714870762709
-		},
 		"https://ethans-mbp.tail07d32.ts.net/": {
 			"version": "0.4.13"
 		},
-		"https://ethans-mbp.ts.net/": {
-			"errorAt": 1714870762709
+		"https://family.bluesky.suiren.jp/": {
+			"errorAt": 1715648229059
 		},
 		"https://filly.social/": {
 			"version": "0.4.21"
@@ -378,7 +368,8 @@
 			"version": "0.4.21"
 		},
 		"https://giulia.social/": {
-			"version": null
+			"version": null,
+			"errorAt": 1715648229059
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.21"
@@ -423,7 +414,8 @@
 			"version": "0.4.21"
 		},
 		"https://kiichigo.cloud/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://knot.land/": {
 			"version": "0.4.21"
@@ -480,7 +472,8 @@
 			"version": "0.4.21"
 		},
 		"https://moegi.stream/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://morel.us-east.host.bsky.network/": {
 			"version": "git-4e0271b"
@@ -522,6 +515,9 @@
 		"https://pdeeznuts.amith.sbs/": {
 			"version": "0.4.21"
 		},
+		"https://pds.0x539.lol/": {
+			"errorAt": 1715648229059
+		},
 		"https://pds.a2.rip/": {
 			"version": "0.4.12"
 		},
@@ -547,7 +543,8 @@
 			"version": "0.4.21"
 		},
 		"https://pds.bsky.ealmuina.xyz/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://pds.c-stellar.net/": {
 			"version": "0.4.21"
@@ -613,7 +610,8 @@
 			"version": "0.4.21"
 		},
 		"https://pds.krasovs.ky/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://pds.lotor.online/": {
 			"version": "0.4.21"
@@ -625,7 +623,8 @@
 			"version": "0.4.21"
 		},
 		"https://pds.mattobs.com/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://pds.mbl.social/": {
 			"version": "0.4.21"
@@ -798,6 +797,9 @@
 		"https://stinkhorn.jacob.gold/": {
 			"version": "0.4.21"
 		},
+		"https://stupol.social/": {
+			"version": "0.4.21"
+		},
 		"https://sunaba.io/": {
 			"version": "0.4.21"
 		},
@@ -808,7 +810,8 @@
 			"version": "0.4.21"
 		},
 		"https://tambaramodule.tech/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715648229059
 		},
 		"https://test.dholms.xyz/": {
 			"version": "0.4.0-beta"
@@ -856,7 +859,13 @@
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.21"
 		},
+		"https://waverly.social/": {
+			"errorAt": 1715648229059
+		},
 		"https://whipq.com/": {
+			"version": "0.4.21"
+		},
+		"https://wordsky.xyz/": {
 			"version": "0.4.21"
 		},
 		"https://yoshiki.burnworks.com/": {
@@ -917,7 +926,7 @@
 		},
 		"https://mod.bsky.app/": {
 			"did": "did:plc:ar7c4by46qjdydhdevvrndac",
-			"version": "git-58551bb"
+			"version": "git-1f3c41a"
 		},
 		"https://mod.staging.bsky.dev/": {
 			"did": "did:plc:kfiaag3o66qk75mfgwebyyns",
@@ -982,11 +991,6 @@
 		"https://ozone.mountainherder.xyz/": {
 			"did": "did:plc:e4elbtctnfqocyfcml6h2lf7",
 			"version": "0.1.11"
-		},
-		"https://ozone.nmatsui.work/": {
-			"did": "did:plc:fckjqanjagumq5qw4ozwj7go",
-			"version": "0.1.11",
-			"errorAt": 1714957013892
 		},
 		"https://ozone.shawnhoffman.dev/": {
 			"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
