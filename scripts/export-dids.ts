@@ -1,8 +1,8 @@
 import { BskyXRPC } from '@mary/bluesky-client';
 
+import * as v from '@badrap/valita';
 import { differenceInDays } from 'date-fns/differenceInDays';
 import * as tld from 'tldts';
-import * as v from '@badrap/valita';
 
 import {
 	serializedState,
@@ -12,11 +12,11 @@ import {
 	type SerializedState,
 } from '../src/state';
 
-import { RELAY_URL, PLC_URL } from '../src/constants';
+import { PLC_URL, RELAY_URL } from '../src/constants';
 import { didDocument, type DidDocument } from '../src/utils/did';
+import { compareString } from '../src/utils/misc';
 import { PromiseQueue } from '../src/utils/pqueue';
 import { LineBreakStream, TextDecoderStream } from '../src/utils/stream';
-import { compareString } from '../src/utils/misc';
 
 const now = Date.now();
 

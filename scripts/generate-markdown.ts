@@ -1,8 +1,8 @@
 import { BskyXRPC } from '@mary/bluesky-client';
 import { XRPCError } from '@mary/bluesky-client/xrpc';
 
-import { differenceInDays } from 'date-fns/differenceInDays';
 import * as v from '@badrap/valita';
+import { differenceInDays } from 'date-fns/differenceInDays';
 
 import { serializedState, type InstanceInfo, type LabelerInfo, type SerializedState } from '../src/state';
 
