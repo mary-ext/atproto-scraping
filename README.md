@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-14T01:06:31.451Z[^1]
+Last updated: 2024-05-15T01:02:53.847Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -19,7 +19,6 @@ part of mainnet.
 | aliciousintent.com | No | 0.4.12 |
 | amanita.us-east.host.bsky.network | No | git-b400fae |
 | at.clavis.info | No | 0.4.21 |
-| at.dingdongdata.com | No | 0.4.21 |
 | at.donley.io | No | 0.4.21 |
 | at.hwsc.link | No | 0.4.21 |
 | at.kizaing.ca | No | 0.4.21 |
@@ -40,7 +39,7 @@ part of mainnet.
 | bluesky.rosafamily.net | No | 0.4.21 |
 | bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.sami.sk | No | 0.4.21 |
-| bluesky.therobbiedavis.com | No | 0.4.12 |
+| bluesky.therobbiedavis.com | No | 0.4.21 |
 | bluesky.zergy.net | No | 0.4.12 |
 | bluetony.com | No | 0.4.21 |
 | boletus.us-west.host.bsky.network | No | git-b400fae |
@@ -62,6 +61,7 @@ part of mainnet.
 | bsky.dead10ck.dev | No | 0.4.21 |
 | bsky.doskel.net | No | 0.4.21 |
 | bsky.eqver.se | No | 0.4.21 |
+| bsky.frncs.eu | No | 0.4.21 |
 | bsky.giurgiu.io | No | 0.4.0-beta.7 |
 | bsky.huimao.xyz | No | 0.4.21 |
 | bsky.j0.lol | No | 0.4.21 |
@@ -73,6 +73,7 @@ part of mainnet.
 | bsky.mcr.gb.net | No | 0.4.21 |
 | bsky.milkcocoa.info | No | 0.4.21 |
 | bsky.milv.life | No | 0.4.12 |
+| bsky.moellus.net | No | 0.4.21 |
 | bsky.mycapitolwatchdog.com | No | 0.4.21 |
 | bsky.mystech.ink | No | 0.4.0-beta.7 |
 | bsky.nerdfest.dev | No | 0.4.21 |
@@ -93,7 +94,6 @@ part of mainnet.
 | bsky.zoeyvid.de | No | 0.4.21 |
 | bskytest.marginal.net | No | 0.4.7 |
 | bum.ninja | No | 0.4.21 |
-| buqbuq.ca | No | 0.4.21 |
 | cauda.cloud | No | 0.4.21 |
 | chaga.us-west.host.bsky.network | No | git-b400fae |
 | chair.rocks | No | 0.4.21 |
@@ -112,7 +112,6 @@ part of mainnet.
 | ekaki.art | No | 0.4.21 |
 | enoki.us-east.host.bsky.network | No | git-b400fae |
 | epicspace.quest | No | 0.4.21 |
-| ethans-mbp.tail07d32.ts.net | No | 0.4.13 |
 | filly.social | No | 0.4.21 |
 | friendlypds.cloud | No | 0.4.21 |
 | fttp.cc | No | 0.4.21 |
@@ -150,6 +149,7 @@ part of mainnet.
 | meety.me | No | 0.4.21 |
 | midgardmates.com | No | 0.4.21 |
 | mkl.lol | No | 0.4.21 |
+| moegi.stream | No | 0.4.21 |
 | morel.us-east.host.bsky.network | No | git-4e0271b |
 | mraow.party | No | 0.4.21 |
 | naomie.digital | No | 0.4.21 |
@@ -170,6 +170,7 @@ part of mainnet.
 | pds.axtch.net | No | 0.4.21 |
 | pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | pds.bernd.network | No | 0.4.21 |
+| pds.bsky.ealmuina.xyz | No | 0.4.21 |
 | pds.c-stellar.net | No | 0.4.21 |
 | pds.cacheblasters.com | No | 0.4.21 |
 | pds.caruanafamily.net | No | 0.4.21 |
@@ -210,6 +211,7 @@ part of mainnet.
 | pds.snek.dev | No | 0.4.21 |
 | pds.soap.systems | No | 0.4.21 |
 | pds.taichibit.com | No | 0.4.21 |
+| pds.tentacle.expert | No | 0.4.12 |
 | pds.timburga.social | No | 0.4.21 |
 | pds.tosiiu.com | No | 0.4.21 |
 | pds.trkw.dev | No | 0.4.21 |
@@ -220,6 +222,7 @@ part of mainnet.
 | pds.walloftext.ca | No | 0.4.21 |
 | pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
+| pds.znsk.ca | No | 0.4.21 |
 | porcini.us-east.host.bsky.network | No | git-b400fae |
 | proto.sorcie.re | No | 0.4.21 |
 | puffball.us-east.host.bsky.network | No | git-b400fae |
@@ -311,7 +314,6 @@ part of mainnet.
 | ozone.usounds.work | 0.1.11 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
-| ozone.y-force.info | 0.1.11 |
 | ozone.yardcrow.com | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |

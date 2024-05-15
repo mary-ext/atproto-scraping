@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5704838",
+		"cursor": "5708333",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-14T00:56:41.110Z"
+		"cursor": "2024-05-15T00:57:17.099Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -61,7 +61,8 @@
 			"version": "0.4.21"
 		},
 		"https://at.dingdongdata.com/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715734640512
 		},
 		"https://at.donley.io/": {
 			"version": "0.4.21"
@@ -71,10 +72,6 @@
 		},
 		"https://at.kizaing.ca/": {
 			"version": "0.4.21"
-		},
-		"https://at.l1qu1d.net/": {
-			"version": "0.4.12",
-			"errorAt": 1715043361797
 		},
 		"https://at.yuntan.tech/": {
 			"version": "0.4.21"
@@ -131,7 +128,7 @@
 			"version": "0.4.21"
 		},
 		"https://bluesky.therobbiedavis.com/": {
-			"version": "0.4.12"
+			"version": "0.4.21"
 		},
 		"https://bluesky.zergy.net/": {
 			"version": "0.4.12"
@@ -196,6 +193,9 @@
 		"https://bsky.eqver.se/": {
 			"version": "0.4.21"
 		},
+		"https://bsky.frncs.eu/": {
+			"version": "0.4.21"
+		},
 		"https://bsky.giurgiu.io/": {
 			"version": "0.4.0-beta.7"
 		},
@@ -228,6 +228,9 @@
 		},
 		"https://bsky.milv.life/": {
 			"version": "0.4.12"
+		},
+		"https://bsky.moellus.net/": {
+			"version": "0.4.21"
 		},
 		"https://bsky.mycapitolwatchdog.com/": {
 			"version": "0.4.21"
@@ -290,7 +293,8 @@
 			"version": "0.4.21"
 		},
 		"https://buqbuq.ca/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715734640512
 		},
 		"https://cauda.cloud/": {
 			"version": "0.4.21"
@@ -347,7 +351,8 @@
 			"version": "0.4.21"
 		},
 		"https://ethans-mbp.tail07d32.ts.net/": {
-			"version": "0.4.13"
+			"version": "0.4.13",
+			"errorAt": 1715734640512
 		},
 		"https://family.bluesky.suiren.jp/": {
 			"errorAt": 1715648229059
@@ -472,8 +477,7 @@
 			"version": "0.4.21"
 		},
 		"https://moegi.stream/": {
-			"version": "0.4.21",
-			"errorAt": 1715648229059
+			"version": "0.4.21"
 		},
 		"https://morel.us-east.host.bsky.network/": {
 			"version": "git-4e0271b"
@@ -515,6 +519,9 @@
 		"https://pdeeznuts.amith.sbs/": {
 			"version": "0.4.21"
 		},
+		"https://pds-harley.pagekite.me/": {
+			"errorAt": 1715734640512
+		},
 		"https://pds.0x539.lol/": {
 			"errorAt": 1715648229059
 		},
@@ -543,8 +550,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.bsky.ealmuina.xyz/": {
-			"version": "0.4.21",
-			"errorAt": 1715648229059
+			"version": "0.4.21"
 		},
 		"https://pds.c-stellar.net/": {
 			"version": "0.4.21"
@@ -675,8 +681,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.tentacle.expert/": {
-			"version": "0.4.12",
-			"errorAt": 1715475656429
+			"version": "0.4.12"
 		},
 		"https://pds.timburga.social/": {
 			"version": "0.4.21"
@@ -709,8 +714,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.znsk.ca/": {
-			"version": "0.4.12",
-			"errorAt": 1715302572281
+			"version": "0.4.21"
 		},
 		"https://porcini.us-east.host.bsky.network/": {
 			"version": "git-b400fae"
@@ -851,10 +855,6 @@
 		},
 		"https://veryun.cool/": {
 			"version": "0.4.12"
-		},
-		"https://w7f.social/": {
-			"version": "0.4.12",
-			"errorAt": 1715043361797
 		},
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.21"
@@ -1023,7 +1023,8 @@
 		},
 		"https://ozone.y-force.info/": {
 			"did": "did:plc:coynarrmyjsm2s3zkbbr5iow",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1715734640512
 		},
 		"https://ozone.yardcrow.com/": {
 			"did": "did:plc:z3yk2cflhmn6vmzo3f5ixqh4",
