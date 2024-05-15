@@ -7,13 +7,13 @@
 	},
 	"dependencies": {
 		"@badrap/valita": "^0.3.8",
-		"@mary/bluesky-client": "npm:@jsr/mary__bluesky-client",
+		"@mary/bluesky-client": "npm:@jsr/mary__bluesky-client@^0.5.14",
 		"date-fns": "^3.6.0",
-		"tldts": "^6.1.18"
+		"tldts": "^6.1.20"
 	},
 	"devDependencies": {
-		"@types/bun": "latest",
+		"@types/bun": "^1.1.2",
 		"prettier": "^3.2.5",
-		"typescript": "^5.5.0-beta"
+		"typescript": "~5.5.0-beta"
 	}
 }
