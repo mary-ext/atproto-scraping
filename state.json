@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5708333",
+		"cursor": "5712013",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-15T00:57:17.099Z"
+		"cursor": "2024-05-16T00:56:16.752Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -194,10 +194,14 @@
 			"version": "0.4.21"
 		},
 		"https://bsky.frncs.eu/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715821035682
 		},
 		"https://bsky.giurgiu.io/": {
 			"version": "0.4.0-beta.7"
+		},
+		"https://bsky.gsheps.net/": {
+			"version": "0.4.21"
 		},
 		"https://bsky.huimao.xyz/": {
 			"version": "0.4.21"
@@ -337,6 +341,9 @@
 		},
 		"https://drakeno.de/": {
 			"version": "0.4.21"
+		},
+		"https://ds.povario.com/": {
+			"version": "0.4.12"
 		},
 		"https://ecow.dev/": {
 			"version": "0.4.21"
@@ -585,6 +592,9 @@
 		"https://pds.erechorse.com/": {
 			"version": "0.4.21"
 		},
+		"https://pds.frncs.eu/": {
+			"version": "0.4.21"
+		},
 		"https://pds.furtenbach.social/": {
 			"version": "0.4.21"
 		},
@@ -616,8 +626,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.krasovs.ky/": {
-			"version": "0.4.21",
-			"errorAt": 1715648229059
+			"version": "0.4.21"
 		},
 		"https://pds.lotor.online/": {
 			"version": "0.4.21"
@@ -741,7 +750,7 @@
 			"version": "0.4.21"
 		},
 		"https://rows.io/": {
-			"version": "0.4.12"
+			"version": "0.4.21"
 		},
 		"https://russula.us-west.host.bsky.network/": {
 			"version": "git-b400fae"
@@ -854,7 +863,8 @@
 			"version": "git-b400fae"
 		},
 		"https://veryun.cool/": {
-			"version": "0.4.12"
+			"version": "0.4.12",
+			"errorAt": 1715821035682
 		},
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.21"
@@ -995,11 +1005,6 @@
 		"https://ozone.shawnhoffman.dev/": {
 			"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
 			"version": "0.1.1"
-		},
-		"https://ozone.skeet.ing/": {
-			"did": "did:plc:hxgctysbwhc3bap3a5c7gdu3",
-			"version": "0.1.1",
-			"errorAt": 1715129176774
 		},
 		"https://ozone.thebull.app/": {
 			"did": "did:plc:vrjubqujt3v46z5poehh4qfg",

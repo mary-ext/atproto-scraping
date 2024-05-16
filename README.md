@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-15T01:02:53.847Z[^1]
+Last updated: 2024-05-16T01:02:38.922Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -61,8 +61,8 @@ part of mainnet.
 | bsky.dead10ck.dev | No | 0.4.21 |
 | bsky.doskel.net | No | 0.4.21 |
 | bsky.eqver.se | No | 0.4.21 |
-| bsky.frncs.eu | No | 0.4.21 |
 | bsky.giurgiu.io | No | 0.4.0-beta.7 |
+| bsky.gsheps.net | No | 0.4.21 |
 | bsky.huimao.xyz | No | 0.4.21 |
 | bsky.j0.lol | No | 0.4.21 |
 | bsky.kevoun.com | No | 0.4.21 |
@@ -108,6 +108,7 @@ part of mainnet.
 | divy.zone | No | 0.4.21 |
 | dollpost.ing | No | 0.4.12 |
 | drakeno.de | No | 0.4.21 |
+| ds.povario.com | No | 0.4.12 |
 | ecow.dev | No | 0.4.21 |
 | ekaki.art | No | 0.4.21 |
 | enoki.us-east.host.bsky.network | No | git-b400fae |
@@ -182,6 +183,7 @@ part of mainnet.
 | pds.draboros.net | No | 0.4.21 |
 | pds.elxx.net | No | 0.4.12 |
 | pds.erechorse.com | No | 0.4.21 |
+| pds.frncs.eu | No | 0.4.21 |
 | pds.furtenbach.social | No | 0.4.21 |
 | pds.golf1052.com | No | 0.4.21 |
 | pds.graefekiez.de | No | 0.4.21 |
@@ -192,6 +194,7 @@ part of mainnet.
 | pds.jaronoff.com | No | 0.4.21 |
 | pds.jay.xyz | No | 0.4.21 |
 | pds.keiji0501.com | No | 0.4.21 |
+| pds.krasovs.ky | No | 0.4.21 |
 | pds.lotor.online | No | 0.4.21 |
 | pds.lunar.town | No | 0.4.7 |
 | pds.matsuuratomoya.com | No | 0.4.21 |
@@ -231,7 +234,7 @@ part of mainnet.
 | randir.link | No | 0.4.21 |
 | rebroad.com | No | 0.4.21 |
 | redocean.one | No | 0.4.21 |
-| rows.io | No | 0.4.12 |
+| rows.io | No | 0.4.21 |
 | russula.us-west.host.bsky.network | No | git-b400fae |
 | senshi.dev | No | 0.4.21 |
 | shiitake.us-east.host.bsky.network | No | git-b400fae |
@@ -266,7 +269,6 @@ part of mainnet.
 | v9v.net | No | 0.4.21 |
 | vengeful.eu | No | 0.4.21 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
-| veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
 | whipq.com | No | 0.4.21 |
 | wordsky.xyz | No | 0.4.21 |
