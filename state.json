@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5712013",
+		"cursor": "5715510",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-16T00:56:16.752Z"
+		"cursor": "2024-05-17T00:57:01.372Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -61,8 +61,7 @@
 			"version": "0.4.21"
 		},
 		"https://at.dingdongdata.com/": {
-			"version": "0.4.21",
-			"errorAt": 1715734640512
+			"version": "0.4.21"
 		},
 		"https://at.donley.io/": {
 			"version": "0.4.21"
@@ -326,6 +325,9 @@
 		},
 		"https://danya.dev/": {
 			"version": "0.4.21"
+		},
+		"https://deaf.jp/": {
+			"errorAt": 1715907441241
 		},
 		"https://derpzilla.net/": {
 			"version": "0.4.0-beta.7"
@@ -723,7 +725,8 @@
 			"version": "0.4.21"
 		},
 		"https://pds.znsk.ca/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1715907441241
 		},
 		"https://porcini.us-east.host.bsky.network/": {
 			"version": "git-b400fae"
@@ -797,10 +800,6 @@
 		"https://sowedu.net/": {
 			"version": "0.4.21"
 		},
-		"https://squarewave.lol/": {
-			"version": "0.4.12",
-			"errorAt": 1715216175434
-		},
 		"https://stack.party/": {
 			"version": "0.4.0-beta.7"
 		},
@@ -863,8 +862,7 @@
 			"version": "git-b400fae"
 		},
 		"https://veryun.cool/": {
-			"version": "0.4.12",
-			"errorAt": 1715821035682
+			"version": "0.4.12"
 		},
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.21"
@@ -936,11 +934,11 @@
 		},
 		"https://mod.bsky.app/": {
 			"did": "did:plc:ar7c4by46qjdydhdevvrndac",
-			"version": "git-1f3c41a"
+			"version": "git-52ad510"
 		},
 		"https://mod.staging.bsky.dev/": {
 			"did": "did:plc:kfiaag3o66qk75mfgwebyyns",
-			"version": "git-58551bb"
+			"version": "git-52ad510"
 		},
 		"https://mod.sunaba.network/": {
 			"did": "did:plc:hjhlwomi2kwyrss5w5i5l7xq",
@@ -1028,8 +1026,7 @@
 		},
 		"https://ozone.y-force.info/": {
 			"did": "did:plc:coynarrmyjsm2s3zkbbr5iow",
-			"version": "0.1.11",
-			"errorAt": 1715734640512
+			"version": "0.1.11"
 		},
 		"https://ozone.yardcrow.com/": {
 			"did": "did:plc:z3yk2cflhmn6vmzo3f5ixqh4",

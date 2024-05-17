@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-16T01:02:38.922Z[^1]
+Last updated: 2024-05-17T01:01:05.540Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -19,6 +19,7 @@ part of mainnet.
 | aliciousintent.com | No | 0.4.12 |
 | amanita.us-east.host.bsky.network | No | git-b400fae |
 | at.clavis.info | No | 0.4.21 |
+| at.dingdongdata.com | No | 0.4.21 |
 | at.donley.io | No | 0.4.21 |
 | at.hwsc.link | No | 0.4.21 |
 | at.kizaing.ca | No | 0.4.21 |
@@ -225,7 +226,6 @@ part of mainnet.
 | pds.walloftext.ca | No | 0.4.21 |
 | pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
-| pds.znsk.ca | No | 0.4.21 |
 | porcini.us-east.host.bsky.network | No | git-b400fae |
 | proto.sorcie.re | No | 0.4.21 |
 | puffball.us-east.host.bsky.network | No | git-b400fae |
@@ -269,6 +269,7 @@ part of mainnet.
 | v9v.net | No | 0.4.21 |
 | vengeful.eu | No | 0.4.21 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
+| veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
 | whipq.com | No | 0.4.21 |
 | wordsky.xyz | No | 0.4.21 |
@@ -293,8 +294,8 @@ part of mainnet.
 | labeler.tokimeki.blue | 0.0.17-next.1 |
 | lavka.zalupa.in.ua | 0.1.1 |
 | mod.armifi.com | 0.1.11 |
-| mod.bsky.app | git-1f3c41a |
-| mod.staging.bsky.dev | git-58551bb |
+| mod.bsky.app | git-52ad510 |
+| mod.staging.bsky.dev | git-52ad510 |
 | mod.sunaba.network | 0.1.11 |
 | ozone.anon5r.com | 0.1.11 |
 | ozone.bka.li | 0.1.11 |
@@ -316,6 +317,7 @@ part of mainnet.
 | ozone.usounds.work | 0.1.11 |
 | ozone.w3igg.com | 0.1.11 |
 | ozone.wyvern.blue | 0.1.11 |
+| ozone.y-force.info | 0.1.11 |
 | ozone.yardcrow.com | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
 | stopthebeans.haileyok.com | 0.1.11 |
