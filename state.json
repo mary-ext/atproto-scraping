@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5715510",
+		"cursor": "5719502",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-17T00:57:01.372Z"
+		"cursor": "2024-05-18T00:56:16.612Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -382,8 +382,7 @@
 			"version": "0.4.21"
 		},
 		"https://giulia.social/": {
-			"version": null,
-			"errorAt": 1715648229059
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.21"
@@ -506,6 +505,9 @@
 		},
 		"https://nonsono.online/": {
 			"version": "0.4.7"
+		},
+		"https://nottyboi.me/": {
+			"version": "0.4.21"
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.21"
@@ -1038,7 +1040,8 @@
 		},
 		"https://stopthebeans.haileyok.com/": {
 			"did": "did:plc:3ehw5dwwptcy3xuzugwq2u6t",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1715993779697
 		},
 		"https://stopthegifs.haileyok.com/": {
 			"did": "did:plc:mjyeurqmqjeexbgigk3yytvb",

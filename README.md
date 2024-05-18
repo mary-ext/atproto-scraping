@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-17T01:01:05.540Z[^1]
+Last updated: 2024-05-18T01:01:49.577Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -119,6 +119,7 @@ part of mainnet.
 | fttp.cc | No | 0.4.21 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
+| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -157,6 +158,7 @@ part of mainnet.
 | naomie.digital | No | 0.4.21 |
 | nekohana.blue | No | 0.4.21 |
 | nonsono.online | No | 0.4.7 |
+| nottyboi.me | No | 0.4.21 |
 | nyago.zip | No | 0.4.21 |
 | okashi.social | No | 0.4.21 |
 | opp.minuspoint.com | No | 0.4.21 |
@@ -320,7 +322,6 @@ part of mainnet.
 | ozone.y-force.info | 0.1.11 |
 | ozone.yardcrow.com | 0.1.11 |
 | phobial.mastod.one | 0.1.11 |
-| stopthebeans.haileyok.com | 0.1.11 |
 | stopthegifs.haileyok.com | 0.1.11 |
 | xblock.aendra.dev | 0.1.11 |
 <!-- labeler-end -->
