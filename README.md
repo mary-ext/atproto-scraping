@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-18T01:01:49.577Z[^1]
+Last updated: 2024-05-19T01:06:41.743Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -71,14 +71,12 @@ part of mainnet.
 | bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | bsky.mabataki.moe | No | 0.4.19 |
 | bsky.mcphail.uk | No | 0.4.21 |
-| bsky.mcr.gb.net | No | 0.4.21 |
 | bsky.milkcocoa.info | No | 0.4.21 |
 | bsky.milv.life | No | 0.4.12 |
 | bsky.moellus.net | No | 0.4.21 |
 | bsky.mycapitolwatchdog.com | No | 0.4.21 |
 | bsky.mystech.ink | No | 0.4.0-beta.7 |
 | bsky.nerdfest.dev | No | 0.4.21 |
-| bsky.njsharp.uk | No | 0.4.21 |
 | bsky.ocelot.lol | No | 0.4.21 |
 | bsky.pavli.cc | No | 0.4.21 |
 | bsky.pink | Yes | 0.4.21 |
@@ -108,6 +106,7 @@ part of mainnet.
 | disbursement.center | No | 0.4.21 |
 | divy.zone | No | 0.4.21 |
 | dollpost.ing | No | 0.4.12 |
+| dopsky.social | No | 0.4.21 |
 | drakeno.de | No | 0.4.21 |
 | ds.povario.com | No | 0.4.12 |
 | ecow.dev | No | 0.4.21 |
@@ -157,8 +156,8 @@ part of mainnet.
 | mraow.party | No | 0.4.21 |
 | naomie.digital | No | 0.4.21 |
 | nekohana.blue | No | 0.4.21 |
+| njsharp.uk | No | 0.4.21 |
 | nonsono.online | No | 0.4.7 |
-| nottyboi.me | No | 0.4.21 |
 | nyago.zip | No | 0.4.21 |
 | okashi.social | No | 0.4.21 |
 | opp.minuspoint.com | No | 0.4.21 |
@@ -179,7 +178,6 @@ part of mainnet.
 | pds.cacheblasters.com | No | 0.4.21 |
 | pds.caruanafamily.net | No | 0.4.21 |
 | pds.danni.id | No | 0.4.21 |
-| pds.darn.fish | No | 0.4.12 |
 | pds.dholms.xyz | No | 0.4.21 |
 | pds.dlun.ch | No | 0.4.7 |
 | pds.dolciss.net | No | 0.4.21 |
@@ -250,6 +248,7 @@ part of mainnet.
 | sky01.ketto.ca | No | 0.4.21 |
 | skyblue.cc | No | 0.4.21 |
 | sns.limelee.xyz | No | 0.4.21 |
+| social.barrybach.com | No | 0.4.21 |
 | social.owo.cl | No | 0.4.12 |
 | sowedu.net | No | 0.4.21 |
 | stack.party | No | 0.4.0-beta.7 |
@@ -284,7 +283,7 @@ part of mainnet.
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
-| aegismoderation.com | 0.1.1 |
+| aegismoderation.com | 0.1.11 |
 | aimod.social | 0.1.11 |
 | baatl.mastod.one | 0.1.11 |
 | blue-cosmos.social | 0.1.11 |
@@ -314,6 +313,7 @@ part of mainnet.
 | ozone.moderation.moe | 0.1.11 |
 | ozone.mountainherder.xyz | 0.1.11 |
 | ozone.shawnhoffman.dev | 0.1.1 |
+| ozone.shreyanjain.net | 0.1.11 |
 | ozone.thebull.app | 0.1.11 |
 | ozone.topicalsource.com | 0.1.3 |
 | ozone.usounds.work | 0.1.11 |

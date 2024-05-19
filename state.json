@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5719502",
+		"cursor": "5723258",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -27,7 +27,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-18T00:56:16.612Z"
+		"cursor": "2024-05-19T01:00:57.281Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -224,7 +224,8 @@
 			"version": "0.4.21"
 		},
 		"https://bsky.mcr.gb.net/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1716080467781
 		},
 		"https://bsky.milkcocoa.info/": {
 			"version": "0.4.21"
@@ -245,7 +246,8 @@
 			"version": "0.4.21"
 		},
 		"https://bsky.njsharp.uk/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1716080467781
 		},
 		"https://bsky.ocelot.lol/": {
 			"version": "0.4.21"
@@ -340,6 +342,9 @@
 		},
 		"https://dollpost.ing/": {
 			"version": "0.4.12"
+		},
+		"https://dopsky.social/": {
+			"version": "0.4.21"
 		},
 		"https://drakeno.de/": {
 			"version": "0.4.21"
@@ -503,11 +508,15 @@
 			"version": "0.4.21",
 			"errorAt": 1715475656429
 		},
+		"https://njsharp.uk/": {
+			"version": "0.4.21"
+		},
 		"https://nonsono.online/": {
 			"version": "0.4.7"
 		},
 		"https://nottyboi.me/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1716080467781
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.21"
@@ -576,7 +585,8 @@
 			"version": "0.4.21"
 		},
 		"https://pds.darn.fish/": {
-			"version": "0.4.12"
+			"version": "0.4.12",
+			"errorAt": 1716080467781
 		},
 		"https://pds.dholms.xyz/": {
 			"version": "0.4.21"
@@ -796,6 +806,9 @@
 		"https://sns.limelee.xyz/": {
 			"version": "0.4.21"
 		},
+		"https://social.barrybach.com/": {
+			"version": "0.4.21"
+		},
 		"https://social.owo.cl/": {
 			"version": "0.4.12"
 		},
@@ -888,7 +901,7 @@
 	"labelers": {
 		"https://aegismoderation.com/": {
 			"did": "did:plc:j67mwmangcbxch7knfm7jo2b",
-			"version": "0.1.1"
+			"version": "0.1.11"
 		},
 		"https://aimod.social/": {
 			"did": "did:plc:bpkpvmwpd3nr2ry4btt55ack",
@@ -1005,6 +1018,10 @@
 		"https://ozone.shawnhoffman.dev/": {
 			"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
 			"version": "0.1.1"
+		},
+		"https://ozone.shreyanjain.net/": {
+			"did": "did:plc:eeptyms6w2crpi6h73ok7qjt",
+			"version": "0.1.11"
 		},
 		"https://ozone.thebull.app/": {
 			"did": "did:plc:vrjubqujt3v46z5poehh4qfg",
