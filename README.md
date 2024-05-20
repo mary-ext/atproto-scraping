@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-19T01:06:41.743Z[^1]
+Last updated: 2024-05-20T01:07:43.131Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -32,14 +32,12 @@ part of mainnet.
 | blue.jbonomi.dev | No | 0.4.21 |
 | blueskeet.social | No | 0.4.21 |
 | bluesky.akyoz.net | No | 0.4.21 |
-| bluesky.goober.cloud | No | 0.4.21 |
 | bluesky.kumasotakeru.net | No | 0.4.21 |
 | bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | bluesky.nissesdomain.org | No | 0.4.21 |
 | bluesky.nk.ca | No | 0.4.21 |
 | bluesky.rosafamily.net | No | 0.4.21 |
 | bluesky.rp-taki.com | No | 0.4.7 |
-| bluesky.sami.sk | No | 0.4.21 |
 | bluesky.therobbiedavis.com | No | 0.4.21 |
 | bluesky.zergy.net | No | 0.4.12 |
 | bluetony.com | No | 0.4.21 |
@@ -71,6 +69,7 @@ part of mainnet.
 | bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | bsky.mabataki.moe | No | 0.4.19 |
 | bsky.mcphail.uk | No | 0.4.21 |
+| bsky.mcr.gb.net | No | 0.4.21 |
 | bsky.milkcocoa.info | No | 0.4.21 |
 | bsky.milv.life | No | 0.4.12 |
 | bsky.moellus.net | No | 0.4.21 |
@@ -118,7 +117,6 @@ part of mainnet.
 | fttp.cc | No | 0.4.21 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
-| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -130,7 +128,6 @@ part of mainnet.
 | inkcap.us-east.host.bsky.network | No | git-b400fae |
 | internect.ing | No | 0.4.21 |
 | ishimmi.net | No | 0.4.21 |
-| italiansky.mooo.com | No | 0.4.21 |
 | jlailu.social | No | 0.4.21 |
 | kansascity.social | No | 0.4.21 |
 | knot.land | No | 0.4.21 |
@@ -156,8 +153,8 @@ part of mainnet.
 | mraow.party | No | 0.4.21 |
 | naomie.digital | No | 0.4.21 |
 | nekohana.blue | No | 0.4.21 |
-| njsharp.uk | No | 0.4.21 |
 | nonsono.online | No | 0.4.7 |
+| nottyboi.me | No | 0.4.21 |
 | nyago.zip | No | 0.4.21 |
 | okashi.social | No | 0.4.21 |
 | opp.minuspoint.com | No | 0.4.21 |
@@ -177,6 +174,7 @@ part of mainnet.
 | pds.c-stellar.net | No | 0.4.21 |
 | pds.cacheblasters.com | No | 0.4.21 |
 | pds.caruanafamily.net | No | 0.4.21 |
+| pds.crys.uno | No | 0.4.21 |
 | pds.danni.id | No | 0.4.21 |
 | pds.dholms.xyz | No | 0.4.21 |
 | pds.dlun.ch | No | 0.4.7 |
@@ -222,7 +220,6 @@ part of mainnet.
 | pds.tw | No | 0.4.21 |
 | pds.ubanis.mydns.jp | No | 0.4.21 |
 | pds.unsocial.dev | No | 0.4.21 |
-| pds.vforge.social | No | 0.4.21 |
 | pds.walloftext.ca | No | 0.4.21 |
 | pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
@@ -236,7 +233,6 @@ part of mainnet.
 | redocean.one | No | 0.4.21 |
 | rows.io | No | 0.4.21 |
 | russula.us-west.host.bsky.network | No | git-b400fae |
-| senshi.dev | No | 0.4.21 |
 | shiitake.us-east.host.bsky.network | No | git-b400fae |
 | shimeji.us-east.host.bsky.network | No | git-b400fae |
 | skeleton.rodeo | No | 0.4.21 |
@@ -249,7 +245,7 @@ part of mainnet.
 | skyblue.cc | No | 0.4.21 |
 | sns.limelee.xyz | No | 0.4.21 |
 | social.barrybach.com | No | 0.4.21 |
-| social.owo.cl | No | 0.4.12 |
+| social.owo.cl | No | 0.4.21 |
 | sowedu.net | No | 0.4.21 |
 | stack.party | No | 0.4.0-beta.7 |
 | starburst.social | No | 0.4.21 |
@@ -268,7 +264,6 @@ part of mainnet.
 | userdir.de | No | 0.4.21 |
 | v-laboratory.com | No | 0.4.21 |
 | v9v.net | No | 0.4.21 |
-| vengeful.eu | No | 0.4.21 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
 | veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
@@ -288,12 +283,14 @@ part of mainnet.
 | baatl.mastod.one | 0.1.11 |
 | blue-cosmos.social | 0.1.11 |
 | bsky-labeler.thenexus.today | 0.1.11 |
+| dev.pronouns.social | 0.1.11 |
 | example.mastod.one | 0.1.11 |
 | howaboutyougeta.life | 0.1.11 |
 | labeler.dholms.xyz | 0.1.11 |
 | labeler.divy.zone | 0.1.11 |
 | labeler.tokimeki.blue | 0.0.17-next.1 |
 | lavka.zalupa.in.ua | 0.1.1 |
+| merke.maanebedotten.no | 0.1.11 |
 | mod.armifi.com | 0.1.11 |
 | mod.bsky.app | git-52ad510 |
 | mod.staging.bsky.dev | git-52ad510 |
@@ -312,6 +309,7 @@ part of mainnet.
 | ozone.lotor.online | 0.1.1 |
 | ozone.moderation.moe | 0.1.11 |
 | ozone.mountainherder.xyz | 0.1.11 |
+| ozone.papercut.rodeo | 0.1.11 |
 | ozone.shawnhoffman.dev | 0.1.1 |
 | ozone.shreyanjain.net | 0.1.11 |
 | ozone.thebull.app | 0.1.11 |
