@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5726783",
+		"cursor": "5730279",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -26,7 +26,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-20T00:56:55.599Z"
+		"cursor": "2024-05-21T00:57:14.928Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -102,8 +102,7 @@
 			"version": "0.4.21"
 		},
 		"https://bluesky.goober.cloud/": {
-			"version": "0.4.21",
-			"errorAt": 1716166660191
+			"version": "0.4.21"
 		},
 		"https://bluesky.kumasotakeru.net/": {
 			"version": "0.4.21"
@@ -387,8 +386,7 @@
 			"version": "0.4.21"
 		},
 		"https://giulia.social/": {
-			"version": null,
-			"errorAt": 1716166660191
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.21"
@@ -434,8 +432,7 @@
 			"version": "0.4.21"
 		},
 		"https://kiichigo.cloud/": {
-			"version": "0.4.21",
-			"errorAt": 1715648229059
+			"version": "0.4.21"
 		},
 		"https://knot.land/": {
 			"version": "0.4.21"
@@ -506,10 +503,6 @@
 		"https://nekohana.blue/": {
 			"version": "0.4.21"
 		},
-		"https://nerdynate.cc/": {
-			"version": "0.4.21",
-			"errorAt": 1715475656429
-		},
 		"https://njsharp.uk/": {
 			"version": "0.4.21",
 			"errorAt": 1716166660191
@@ -572,6 +565,9 @@
 			"version": "0.4.21"
 		},
 		"https://pds.bsky.ealmuina.xyz/": {
+			"version": "0.4.21"
+		},
+		"https://pds.bsky.okaits7534.net/": {
 			"version": "0.4.21"
 		},
 		"https://pds.c-stellar.net/": {
@@ -730,8 +726,7 @@
 			"version": "0.4.21"
 		},
 		"https://pds.vforge.social/": {
-			"version": "0.4.21",
-			"errorAt": 1716166660191
+			"version": "0.4.21"
 		},
 		"https://pds.walloftext.ca/": {
 			"version": "0.4.21"
@@ -878,8 +873,7 @@
 			"version": "0.4.21"
 		},
 		"https://vengeful.eu/": {
-			"version": "0.4.21",
-			"errorAt": 1716166660191
+			"version": "0.4.21"
 		},
 		"https://verpa.us-west.host.bsky.network/": {
 			"version": "git-b400fae"
@@ -945,7 +939,8 @@
 		},
 		"https://labeler.divy.zone/": {
 			"did": "did:plc:oz5zavafp7szpd2yyko57ccz",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1716253036811
 		},
 		"https://labeler.tokimeki.blue/": {
 			"did": "did:plc:7fkqmr7dfu6vanyxvjtloos3",
@@ -994,6 +989,10 @@
 		"https://ozone.bsky.imax.in.ua/": {
 			"did": "did:plc:orkjknb6lx4snybzwsolhatt",
 			"version": "0.1.1"
+		},
+		"https://ozone.bskytest-hcc8588.f5.si/": {
+			"did": "did:plc:wmcsxbe3knr47y6h7dpazn4k",
+			"errorAt": 1716253036811
 		},
 		"https://ozone.dovgonosyk.xyz/": {
 			"did": "did:plc:nyfwpkztgsrbhrjewnw2p7yo",

@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-20T01:07:43.131Z[^1]
+Last updated: 2024-05-21T01:03:23.114Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -32,6 +32,7 @@ part of mainnet.
 | blue.jbonomi.dev | No | 0.4.21 |
 | blueskeet.social | No | 0.4.21 |
 | bluesky.akyoz.net | No | 0.4.21 |
+| bluesky.goober.cloud | No | 0.4.21 |
 | bluesky.kumasotakeru.net | No | 0.4.21 |
 | bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | bluesky.nissesdomain.org | No | 0.4.21 |
@@ -117,6 +118,7 @@ part of mainnet.
 | fttp.cc | No | 0.4.21 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.21 |
+| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.21 |
 | habanero.f5.si | No | 0.4.21 |
 | hellthread.pro | No | 0.4.12 |
@@ -130,6 +132,7 @@ part of mainnet.
 | ishimmi.net | No | 0.4.21 |
 | jlailu.social | No | 0.4.21 |
 | kansascity.social | No | 0.4.21 |
+| kiichigo.cloud | Yes | 0.4.21 |
 | knot.land | No | 0.4.21 |
 | ksky.7ka.org | No | 0.4.21 |
 | labcaffeinated.com | No | 0.4.21 |
@@ -171,6 +174,7 @@ part of mainnet.
 | pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | pds.bernd.network | No | 0.4.21 |
 | pds.bsky.ealmuina.xyz | No | 0.4.21 |
+| pds.bsky.okaits7534.net | No | 0.4.21 |
 | pds.c-stellar.net | No | 0.4.21 |
 | pds.cacheblasters.com | No | 0.4.21 |
 | pds.caruanafamily.net | No | 0.4.21 |
@@ -220,6 +224,7 @@ part of mainnet.
 | pds.tw | No | 0.4.21 |
 | pds.ubanis.mydns.jp | No | 0.4.21 |
 | pds.unsocial.dev | No | 0.4.21 |
+| pds.vforge.social | No | 0.4.21 |
 | pds.walloftext.ca | No | 0.4.21 |
 | pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.21 |
@@ -264,6 +269,7 @@ part of mainnet.
 | userdir.de | No | 0.4.21 |
 | v-laboratory.com | No | 0.4.21 |
 | v9v.net | No | 0.4.21 |
+| vengeful.eu | No | 0.4.21 |
 | verpa.us-west.host.bsky.network | No | git-b400fae |
 | veryun.cool | No | 0.4.12 |
 | waraiotoko.xyz | No | 0.4.21 |
@@ -287,7 +293,6 @@ part of mainnet.
 | example.mastod.one | 0.1.11 |
 | howaboutyougeta.life | 0.1.11 |
 | labeler.dholms.xyz | 0.1.11 |
-| labeler.divy.zone | 0.1.11 |
 | labeler.tokimeki.blue | 0.0.17-next.1 |
 | lavka.zalupa.in.ua | 0.1.1 |
 | merke.maanebedotten.no | 0.1.11 |
