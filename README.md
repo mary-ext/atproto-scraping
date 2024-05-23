@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-22T01:03:21.926Z[^1]
+Last updated: 2024-05-23T01:02:04.527Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -25,7 +25,6 @@ part of mainnet.
 | at.kizaing.ca | No | 0.4.23 |
 | at.yuntan.tech | No | 0.4.23 |
 | b.yufushiro.dev | No | 0.4.0-beta.7 |
-| beekeeping.social | No | 0.4.23 |
 | beta.thehippo.dev | No | 0.4.23 |
 | bevenhall.net | No | 0.4.23 |
 | blewit.us-west.host.bsky.network | No | git-b400fae |
@@ -41,7 +40,7 @@ part of mainnet.
 | bluesky.rosafamily.net | No | 0.4.23 |
 | bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.therobbiedavis.com | No | 0.4.23 |
-| bluesky.zergy.net | No | 0.4.12 |
+| bluesky.zergy.net | No | 0.4.23 |
 | bluetony.com | No | 0.4.23 |
 | boletus.us-west.host.bsky.network | No | git-b400fae |
 | bossett.social | No | 0.4.21 |
@@ -75,7 +74,7 @@ part of mainnet.
 | bsky.milkcocoa.info | No | 0.4.23 |
 | bsky.milv.life | No | 0.4.12 |
 | bsky.moellus.net | No | 0.4.23 |
-| bsky.mycapitolwatchdog.com | No | 0.4.21 |
+| bsky.mycapitolwatchdog.com | No | 0.4.23 |
 | bsky.mystech.ink | No | 0.4.0-beta.7 |
 | bsky.nerdfest.dev | No | 0.4.23 |
 | bsky.ocelot.lol | No | 0.4.23 |
@@ -115,10 +114,12 @@ part of mainnet.
 | enoki.us-east.host.bsky.network | No | git-b400fae |
 | epicspace.quest | No | 0.4.23 |
 | filly.social | No | 0.4.23 |
+| foxhole.lgbt | No | 0.4.23 |
 | friendlypds.cloud | No | 0.4.23 |
 | fttp.cc | No | 0.4.23 |
 | gear.blue | No | 0.4.21 |
 | gesetz-bsky.world | Yes | 0.4.23 |
+| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.23 |
 | habanero.f5.si | No | 0.4.23 |
 | hellthread.pro | No | 0.4.23 |
@@ -126,7 +127,7 @@ part of mainnet.
 | holofan.live | No | 0.4.23 |
 | hooray.social | No | 0.4.23 |
 | hydnum.us-west.host.bsky.network | No | git-b400fae |
-| iame.li | No | 0.4.12 |
+| iame.li | No | 0.4.23 |
 | inkcap.us-east.host.bsky.network | No | git-b400fae |
 | internect.ing | No | 0.4.23 |
 | ishimmi.net | No | 0.4.23 |
@@ -235,7 +236,7 @@ part of mainnet.
 | randir.link | No | 0.4.23 |
 | rebroad.com | No | 0.4.23 |
 | redocean.one | No | 0.4.23 |
-| rows.io | No | 0.4.21 |
+| rows.io | No | 0.4.23 |
 | russula.us-west.host.bsky.network | No | git-b400fae |
 | shiitake.us-east.host.bsky.network | No | git-b400fae |
 | shimeji.us-east.host.bsky.network | No | git-b400fae |
@@ -252,10 +253,9 @@ part of mainnet.
 | social.owo.cl | No | 0.4.21 |
 | sowedu.net | No | 0.4.23 |
 | stack.party | No | 0.4.0-beta.7 |
-| starburst.social | No | 0.4.23 |
 | stinkhorn.jacob.gold | No | 0.4.23 |
 | stupol.social | No | 0.4.23 |
-| sunaba.io | No | 0.4.21 |
+| sunaba.io | No | 0.4.23 |
 | sysad.ninja | No | 0.4.0-beta.7 |
 | sysadmins.cc | No | 0.4.23 |
 | test.dholms.xyz | No | 0.4.0-beta |
