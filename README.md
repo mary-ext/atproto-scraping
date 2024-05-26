@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-25T01:01:17.180Z[^1]
+Last updated: 2024-05-26T01:07:03.778Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -19,6 +19,7 @@ part of mainnet.
 | aliciousintent.com | No | 0.4.24 |
 | amanita.us-east.host.bsky.network | No | git-8ce97d4 |
 | at.clavis.info | No | 0.4.24 |
+| at.dingdongdata.com | No | 0.4.25 |
 | at.donley.io | No | 0.4.27 |
 | at.hwsc.link | No | 0.4.27 |
 | at.kizaing.ca | No | 0.4.27 |
@@ -40,12 +41,12 @@ part of mainnet.
 | bluesky.rosafamily.net | No | 0.4.27 |
 | bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.sami.sk | No | 0.4.27 |
-| bluesky.therobbiedavis.com | No | 0.4.27 |
 | bluesky.zergy.net | No | 0.4.23 |
 | bluetony.com | No | 0.4.27 |
 | boletus.us-west.host.bsky.network | No | git-8ce97d4 |
 | bossett.social | No | 0.4.21 |
 | boymodelworld.com | No | 0.4.27 |
+| brnc.at | No | 0.4.27 |
 | bs.siren.jp | No | 0.4.27 |
 | bs.songngu.xyz | No | 0.4.27 |
 | bs.thagoat.rip | No | 0.4.27 |
@@ -86,7 +87,7 @@ part of mainnet.
 | bsky.samulireijula.net | No | 0.4.27 |
 | bsky.sneezey.uk | No | 0.4.0-beta.7 |
 | bsky.taila5061.ts.net | No | 0.4.27 |
-| bsky.theatl.social | No | 0.4.7 |
+| bsky.theatl.social | No | 0.4.27 |
 | bsky.tm2t.net | No | 0.4.27 |
 | bsky.tranvender.site | No | 0.4.27 |
 | bsky.wtr.app | No | 0.4.27 |
@@ -98,7 +99,6 @@ part of mainnet.
 | chair.rocks | No | 0.4.27 |
 | closedcircle.io | No | 0.4.27 |
 | comrades.social | No | 0.4.27 |
-| conceptualcat.net | No | 0.4.27 |
 | conocybe.us-west.host.bsky.network | No | git-8ce97d4 |
 | daemons.work | No | 0.4.12 |
 | danya.dev | No | 0.4.27 |
@@ -106,6 +106,7 @@ part of mainnet.
 | disbursement.center | No | 0.4.27 |
 | divy.zone | No | 0.4.24 |
 | dollpost.ing | No | 0.4.12 |
+| doom.broker | No | 0.4.27 |
 | dopsky.social | No | 0.4.27 |
 | drakeno.de | No | 0.4.27 |
 | ds.povario.com | No | 0.4.12 |
@@ -147,7 +148,7 @@ part of mainnet.
 | lionsmane.us-east.host.bsky.network | No | git-8ce97d4 |
 | machikadosora.online | No | 0.4.0-beta.7 |
 | madeorsk.com | No | 0.4.0-beta.7 |
-| madiator.cloud | No | 0.4.12 |
+| madiator.cloud | No | 0.4.27 |
 | magrasea.com | No | 0.4.27 |
 | maitake.us-west.host.bsky.network | No | git-8ce97d4 |
 | meety.me | No | 0.4.27 |
@@ -174,6 +175,7 @@ part of mainnet.
 | pds.axtch.net | No | 0.4.27 |
 | pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | pds.bernd.network | No | 0.4.27 |
+| pds.bsky.okaits7534.net | No | 0.4.27 |
 | pds.c-stellar.net | No | 0.4.27 |
 | pds.cacheblasters.com | No | 0.4.27 |
 | pds.caruanafamily.net | No | 0.4.27 |
@@ -211,6 +213,7 @@ part of mainnet.
 | pds.quimian.com | No | 0.4.27 |
 | pds.robocracy.org | No | 0.4.12 |
 | pds.shigepon.net | No | 0.4.12 |
+| pds.shreyanjain.net | No | 0.4.27 |
 | pds.simplespace.jp | No | 0.4.27 |
 | pds.skyfeed.dev | No | 0.4.0-beta.7 |
 | pds.snek.dev | No | 0.4.27 |
@@ -287,7 +290,6 @@ part of mainnet.
 | baatl.mastod.one | 0.1.11 |
 | blue-cosmos.social | 0.1.11 |
 | bsky-labeler.thenexus.today | 0.1.11 |
-| dev.pronouns.social | 0.1.11 |
 | example.mastod.one | 0.1.11 |
 | howaboutyougeta.life | 0.1.11 |
 | labeler.dholms.xyz | 0.1.11 |
