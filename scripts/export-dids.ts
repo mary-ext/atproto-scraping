@@ -74,18 +74,32 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 				const labeler = getEndpoint(operation.services.atproto_labeler?.endpoint);
 
 				if (pds) {
-					if (!pdses.has(pds)) {
+					const info = pdses.get(pds);
+
+					if (info === undefined) {
 						console.log(`  found pds: ${pds}`);
 						pdses.set(pds, {});
+					} else if (info.errorAt !== undefined) {
+						// reset `errorAt` if we encounter this PDS
+						console.log(`  found pds: ${pds} (errored)`);
+						info.errorAt = undefined;
 					}
 				}
 
 				if (labeler) {
-					if (!labelers.has(labeler)) {
+					const info = labelers.get(labeler);
+
+					if (info === undefined) {
 						console.log(`  found labeler: ${labeler}`);
 						labelers.set(labeler, { did });
 					} else {
-						labelers.get(labeler)!.did = did;
+						if (info.errorAt !== undefined) {
+							// reset `errorAt` if we encounter this labeler
+							console.log(`  found labeler: ${labeler} (errored)`);
+							info.errorAt = undefined;
+						}
+
+						info.did = did;
 					}
 				}
 			}
