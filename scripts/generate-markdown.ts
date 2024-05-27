@@ -200,8 +200,9 @@ part of mainnet.
 
 		const on = errorAt === undefined ? '✅' : '❌';
 		const v = version || (version === null ? 'N/A' : '???');
+		const invites = inviteCodeRequired === true ? 'Yes' : 'No';
 
-		pdsTable += `| ${on} ${host} | ${!inviteCodeRequired ? 'Yes' : 'No'} | ${v} |\n`;
+		pdsTable += `| ${on} ${host} | ${invites} | ${v} |\n`;
 	}
 
 	// Generate the labeler table
