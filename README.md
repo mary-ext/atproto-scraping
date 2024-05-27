@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-27T01:03:33.357Z[^1]
+Last updated: 2024-05-27T09:36:55.932Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -46,6 +46,7 @@ part of mainnet.
 | bluetony.com | No | 0.4.27 |
 | boletus.us-west.host.bsky.network | No | git-8ce97d4 |
 | bossett.social | No | 0.4.21 |
+| boymodelworld.com | No | 0.4.27 |
 | brnc.at | No | 0.4.27 |
 | bs.siren.jp | No | 0.4.27 |
 | bs.songngu.xyz | No | 0.4.27 |
@@ -120,6 +121,7 @@ part of mainnet.
 | fttp.cc | No | 0.4.27 |
 | gear.blue | No | 0.4.27 |
 | gesetz-bsky.world | Yes | 0.4.27 |
+| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.27 |
 | habanero.f5.si | No | 0.4.27 |
 | hellthread.pro | No | 0.4.23 |
@@ -258,7 +260,6 @@ part of mainnet.
 | sysad.ninja | No | 0.4.0-beta.7 |
 | sysadmins.cc | No | 0.4.27 |
 | test.dholms.xyz | No | 0.4.0-beta |
-| thewired.online | No | 0.4.27 |
 | tkpn.social | No | 0.4.0-beta.7 |
 | tksocial.eu.org | No | 0.4.27 |
 | trashcave.net | No | 0.4.27 |
