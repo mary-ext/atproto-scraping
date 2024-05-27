@@ -29,6 +29,7 @@ export const serializedState = v.object({
 	pdses: v.record(
 		v.object({
 			errorAt: dateInt.optional(),
+			inviteCodeRequired: v.boolean().optional(),
 			version: v.string().nullable().optional(),
 		}),
 	),
@@ -52,6 +53,10 @@ export interface DidWebInfo {
 export interface InstanceInfo {
 	errorAt?: number;
 	version?: string | null;
+}
+
+export interface PDSInfo extends InstanceInfo {
+	inviteCodeRequired?: boolean;
 }
 
 export interface LabelerInfo extends InstanceInfo {

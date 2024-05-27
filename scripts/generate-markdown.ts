@@ -4,7 +4,7 @@ import { XRPCError } from '@mary/bluesky-client/xrpc';
 import * as v from '@badrap/valita';
 import { differenceInDays } from 'date-fns/differenceInDays';
 
-import { serializedState, type InstanceInfo, type LabelerInfo, type SerializedState } from '../src/state';
+import { serializedState, type LabelerInfo, type PDSInfo, type SerializedState } from '../src/state';
 
 import { PromiseQueue } from '../src/utils/pqueue';
 
@@ -63,7 +63,7 @@ const offHealthResponse = v.object({
 });
 
 // Global states
-const pdses = new Map<string, InstanceInfo>(state ? Object.entries(state.pdses) : []);
+const pdses = new Map<string, PDSInfo>(state ? Object.entries(state.pdses) : []);
 const labelers = new Map<string, LabelerInfo>(state ? Object.entries(state.labelers) : []);
 
 const queue = new PromiseQueue();
@@ -107,6 +107,7 @@ const pdsResults = await Promise.all(
 			const version = await getVersion(rpc, obj.version);
 
 			obj.version = version;
+			obj.inviteCodeRequired = meta.inviteCodeRequired;
 			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
