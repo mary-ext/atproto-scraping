@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5756673",
+		"cursor": "5756775",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -26,7 +26,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-27T09:32:01.538Z"
+		"cursor": "2024-05-27T09:51:10.628Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -496,7 +496,8 @@
 		},
 		"https://giulia.social/": {
 			"version": null,
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1716803485702
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.27",
