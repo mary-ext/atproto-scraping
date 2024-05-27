@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-26T01:07:03.778Z[^1]
+Last updated: 2024-05-27T01:03:33.357Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -41,11 +41,11 @@ part of mainnet.
 | bluesky.rosafamily.net | No | 0.4.27 |
 | bluesky.rp-taki.com | No | 0.4.7 |
 | bluesky.sami.sk | No | 0.4.27 |
+| bluesky.therobbiedavis.com | No | 0.4.27 |
 | bluesky.zergy.net | No | 0.4.23 |
 | bluetony.com | No | 0.4.27 |
 | boletus.us-west.host.bsky.network | No | git-8ce97d4 |
 | bossett.social | No | 0.4.21 |
-| boymodelworld.com | No | 0.4.27 |
 | brnc.at | No | 0.4.27 |
 | bs.siren.jp | No | 0.4.27 |
 | bs.songngu.xyz | No | 0.4.27 |
@@ -59,7 +59,7 @@ part of mainnet.
 | bsky.col.social | No | 0.4.27 |
 | bsky.davewinter.social | No | 0.4.27 |
 | bsky.day | No | 0.4.23 |
-| bsky.dead10ck.dev | No | 0.4.24 |
+| bsky.dead10ck.dev | No | 0.4.27 |
 | bsky.doskel.net | No | 0.4.27 |
 | bsky.eqver.se | No | 0.4.27 |
 | bsky.giurgiu.io | No | 0.4.0-beta.7 |
@@ -118,9 +118,8 @@ part of mainnet.
 | foxhole.lgbt | No | 0.4.24 |
 | friendlypds.cloud | No | 0.4.27 |
 | fttp.cc | No | 0.4.27 |
-| gear.blue | No | 0.4.21 |
+| gear.blue | No | 0.4.27 |
 | gesetz-bsky.world | Yes | 0.4.27 |
-| giulia.social | No | N/A |
 | goeo.lol | No | 0.4.27 |
 | habanero.f5.si | No | 0.4.27 |
 | hellthread.pro | No | 0.4.23 |
@@ -175,7 +174,6 @@ part of mainnet.
 | pds.axtch.net | No | 0.4.27 |
 | pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | pds.bernd.network | No | 0.4.27 |
-| pds.bsky.okaits7534.net | No | 0.4.27 |
 | pds.c-stellar.net | No | 0.4.27 |
 | pds.cacheblasters.com | No | 0.4.27 |
 | pds.caruanafamily.net | No | 0.4.27 |
@@ -228,7 +226,6 @@ part of mainnet.
 | pds.unsocial.dev | No | 0.4.27 |
 | pds.vforge.social | No | 0.4.27 |
 | pds.walloftext.ca | No | 0.4.27 |
-| pds.y-force.info | Yes | 0.4.21 |
 | pds.zccx.net | No | 0.4.27 |
 | porcini.us-east.host.bsky.network | No | git-8ce97d4 |
 | proto.sorcie.re | No | 0.4.27 |
@@ -314,6 +311,7 @@ part of mainnet.
 | ozone.lotor.online | 0.1.1 |
 | ozone.moderation.moe | 0.1.11 |
 | ozone.mountainherder.xyz | 0.1.11 |
+| ozone.papercut.rodeo | 0.1.11 |
 | ozone.shawnhoffman.dev | 0.1.1 |
 | ozone.shreyanjain.net | 0.1.11 |
 | ozone.thebull.app | 0.1.11 |

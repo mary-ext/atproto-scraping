@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5751039",
+		"cursor": "5754882",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/"
@@ -26,7 +26,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-05-26T01:01:50.271Z"
+		"cursor": "2024-05-27T00:58:11.171Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -136,8 +136,7 @@
 			"version": "0.4.27"
 		},
 		"https://bluesky.therobbiedavis.com/": {
-			"version": "0.4.27",
-			"errorAt": 1716685322601
+			"version": "0.4.27"
 		},
 		"https://bluesky.zergy.net/": {
 			"version": "0.4.23"
@@ -152,7 +151,8 @@
 			"version": "0.4.21"
 		},
 		"https://boymodelworld.com/": {
-			"version": "0.4.27"
+			"version": "0.4.27",
+			"errorAt": 1716771520365
 		},
 		"https://brnc.at/": {
 			"version": "0.4.27"
@@ -194,7 +194,7 @@
 			"version": "0.4.23"
 		},
 		"https://bsky.dead10ck.dev/": {
-			"version": "0.4.24"
+			"version": "0.4.27"
 		},
 		"https://bsky.doskel.net/": {
 			"version": "0.4.27"
@@ -383,13 +383,14 @@
 			"version": "0.4.27"
 		},
 		"https://gear.blue/": {
-			"version": "0.4.21"
+			"version": "0.4.27"
 		},
 		"https://gesetz-bsky.world/": {
 			"version": "0.4.27"
 		},
 		"https://giulia.social/": {
-			"version": null
+			"version": null,
+			"errorAt": 1716771520365
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.27"
@@ -573,7 +574,8 @@
 			"errorAt": 1716512263335
 		},
 		"https://pds.bsky.okaits7534.net/": {
-			"version": "0.4.27"
+			"version": "0.4.27",
+			"errorAt": 1716771520365
 		},
 		"https://pds.c-stellar.net/": {
 			"version": "0.4.27"
@@ -736,7 +738,8 @@
 			"version": "0.4.27"
 		},
 		"https://pds.y-force.info/": {
-			"version": "0.4.21"
+			"version": "0.4.21",
+			"errorAt": 1716771520365
 		},
 		"https://pds.zccx.net/": {
 			"version": "0.4.27"
@@ -1030,8 +1033,7 @@
 		},
 		"https://ozone.papercut.rodeo/": {
 			"did": "did:plc:4ffrdzuhiq4coouadh5btkbf",
-			"version": "0.1.11",
-			"errorAt": 1716598578020
+			"version": "0.1.11"
 		},
 		"https://ozone.shawnhoffman.dev/": {
 			"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
