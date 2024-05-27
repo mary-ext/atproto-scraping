@@ -97,11 +97,14 @@ const pdsResults = await Promise.all(
 				if (errorAt === undefined) {
 					obj.errorAt = now;
 				} else if (differenceInDays(now, errorAt) > 7) {
+					// It's been 7 days without a response, so let's remove it
+
 					pdses.delete(href);
+					return;
 				}
 
 				console.log(`  ${host}: fail`);
-				return;
+				return { host, info: obj };
 			}
 
 			const version = await getVersion(rpc, obj.version);
@@ -111,7 +114,7 @@ const pdsResults = await Promise.all(
 			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
-			return { host, meta, version };
+			return { host, info: obj };
 		});
 	}),
 ).then((results) => results.filter((r) => r !== undefined));
@@ -137,11 +140,14 @@ const labelerResults = await Promise.all(
 				if (errorAt === undefined) {
 					obj.errorAt = now;
 				} else if (differenceInDays(now, errorAt) > 7) {
+					// It's been 7 days without a response, so let's remove it
+
 					labelers.delete(href);
+					return;
 				}
 
 				console.log(`  ${host}: fail`);
-				return;
+				return { host, info: obj };
 			}
 
 			const version = await getVersion(rpc, obj.version);
@@ -150,7 +156,7 @@ const labelerResults = await Promise.all(
 			obj.errorAt = undefined;
 
 			console.log(`  ${host}: pass`);
-			return { host, version };
+			return { host, info: obj };
 		});
 	}),
 ).then((results) => results.filter((r) => r !== undefined));
@@ -189,17 +195,23 @@ part of mainnet.
 `;
 
 	// Generate the PDS table
-	for (const { host, meta, version } of pdsResults) {
+	for (const { host, info } of pdsResults) {
+		const { errorAt, inviteCodeRequired, version } = info;
+
+		const on = errorAt === undefined ? '✅' : '❌';
 		const v = version || (version === null ? 'N/A' : '???');
 
-		pdsTable += `| ${host} | ${!meta.inviteCodeRequired ? 'Yes' : 'No'} | ${v} |\n`;
+		pdsTable += `| ${on} ${host} | ${!inviteCodeRequired ? 'Yes' : 'No'} | ${v} |\n`;
 	}
 
 	// Generate the labeler table
-	for (const { host, version } of labelerResults) {
+	for (const { host, info } of labelerResults) {
+		const { errorAt, version } = info;
+
+		const on = errorAt === undefined ? '✅' : '❌';
 		const v = version || (version === null ? 'N/A' : '???');
 
-		labelerTable += `| ${host} | ${v} |\n`;
+		labelerTable += `| ${on} ${host} | ${v} |\n`;
 	}
 
 	// Read existing Markdown file, check if it's equivalent
