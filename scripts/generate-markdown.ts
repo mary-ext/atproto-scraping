@@ -4,6 +4,7 @@ import { XRPCError } from '@mary/bluesky-client/xrpc';
 import * as v from '@badrap/valita';
 import { differenceInDays } from 'date-fns/differenceInDays';
 
+import { MAX_FAILURE_DAYS } from '../src/constants';
 import { serializedState, type LabelerInfo, type PDSInfo, type SerializedState } from '../src/state';
 
 import { PromiseQueue } from '../src/utils/pqueue';
@@ -96,8 +97,8 @@ const pdsResults = await Promise.all(
 
 				if (errorAt === undefined) {
 					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) > 7) {
-					// It's been 7 days without a response, so let's remove it
+				} else if (differenceInDays(now, errorAt) > MAX_FAILURE_DAYS) {
+					// It's been days without a response, stop tracking.
 
 					pdses.delete(href);
 					return;
@@ -139,8 +140,8 @@ const labelerResults = await Promise.all(
 
 				if (errorAt === undefined) {
 					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) > 7) {
-					// It's been 7 days without a response, so let's remove it
+				} else if (differenceInDays(now, errorAt) > MAX_FAILURE_DAYS) {
+					// It's been days without a response, stop tracking.
 
 					labelers.delete(href);
 					return;

@@ -12,7 +12,7 @@ import {
 	type SerializedState,
 } from '../src/state';
 
-import { PLC_URL, RELAY_URL } from '../src/constants';
+import { MAX_FAILURE_DAYS, PLC_URL, RELAY_URL } from '../src/constants';
 import { didDocument, type DidDocument } from '../src/utils/did';
 import { compareString } from '../src/utils/misc';
 import { PromiseQueue } from '../src/utils/pqueue';
@@ -249,7 +249,9 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 					if (errorAt === undefined) {
 						obj.errorAt = now;
-					} else if (differenceInDays(now, errorAt) > 7) {
+					} else if (differenceInDays(now, errorAt) > MAX_FAILURE_DAYS) {
+						// It's been days without a response, stop tracking.
+
 						didWebs.delete(did);
 					}
 
