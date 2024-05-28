@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-27T09:56:05.672Z[^1]
+Last updated: 2024-05-28T04:12:51.737Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -18,20 +18,20 @@ part of mainnet.
 | ✅ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.24 |
 | ✅ amanita.us-east.host.bsky.network | No | git-8ce97d4 |
-| ❌ anselm-schumacher.de | Yes | ??? |
+| ❌ anselm-schumacher.de | No | ??? |
 | ✅ at.clavis.info | No | 0.4.24 |
 | ✅ at.dingdongdata.com | No | 0.4.25 |
-| ✅ at.donley.io | No | 0.4.27 |
+| ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
 | ✅ at.yuntan.tech | No | 0.4.27 |
-| ❌ atproto.brid.gy | Yes | ??? |
+| ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
-| ❌ beekeeping.social | Yes | 0.4.23 |
+| ❌ beekeeping.social | No | 0.4.23 |
 | ✅ beta.thehippo.dev | No | 0.4.23 |
 | ✅ bevenhall.net | No | 0.4.27 |
 | ✅ blewit.us-west.host.bsky.network | No | git-8ce97d4 |
-| ❌ blsky01.prologics.fr | Yes | ??? |
+| ❌ blsky01.prologics.fr | No | ??? |
 | ✅ blue-ocean.social | No | 0.4.27 |
 | ✅ blue.jbonomi.dev | No | 0.4.27 |
 | ✅ blueskeet.social | No | 0.4.27 |
@@ -46,7 +46,7 @@ part of mainnet.
 | ✅ bluesky.rp-taki.com | No | 0.4.7 |
 | ✅ bluesky.sami.sk | No | 0.4.27 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.27 |
-| ✅ bluesky.zergy.net | No | 0.4.23 |
+| ❌ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.27 |
 | ✅ boletus.us-west.host.bsky.network | No | git-8ce97d4 |
 | ✅ bossett.social | No | 0.4.21 |
@@ -66,7 +66,7 @@ part of mainnet.
 | ✅ bsky.day | No | 0.4.23 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
 | ✅ bsky.doskel.net | No | 0.4.27 |
-| ✅ bsky.eqver.se | No | 0.4.27 |
+| ❌ bsky.eqver.se | No | 0.4.27 |
 | ✅ bsky.giurgiu.io | No | 0.4.0-beta.7 |
 | ✅ bsky.gsheps.net | No | 0.4.27 |
 | ✅ bsky.huimao.xyz | No | 0.4.27 |
@@ -104,9 +104,9 @@ part of mainnet.
 | ✅ chair.rocks | No | 0.4.27 |
 | ✅ closedcircle.io | No | 0.4.27 |
 | ✅ comrades.social | No | 0.4.27 |
-| ❌ conceptualcat.net | Yes | 0.4.27 |
+| ❌ conceptualcat.net | No | 0.4.27 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-8ce97d4 |
-| ❌ corgi.dance | Yes | 0.4.27 |
+| ✅ corgi.dance | No | 0.4.27 |
 | ✅ daemons.work | No | 0.4.12 |
 | ✅ danya.dev | No | 0.4.27 |
 | ✅ derpzilla.net | Yes | 0.4.0-beta.7 |
@@ -122,12 +122,12 @@ part of mainnet.
 | ✅ enoki.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ epicspace.quest | No | 0.4.27 |
 | ✅ filly.social | No | 0.4.27 |
-| ✅ foxhole.lgbt | No | 0.4.24 |
+| ✅ foxhole.lgbt | No | 0.4.27 |
 | ✅ friendlypds.cloud | No | 0.4.27 |
 | ✅ fttp.cc | No | 0.4.27 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.27 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.27 |
 | ✅ habanero.f5.si | No | 0.4.27 |
 | ✅ hellthread.pro | No | 0.4.23 |
@@ -139,8 +139,7 @@ part of mainnet.
 | ✅ inkcap.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ internect.ing | No | 0.4.27 |
 | ✅ ishimmi.net | No | 0.4.27 |
-| ❌ italiansky.mooo.com | Yes | 0.4.21 |
-| ❌ jajestemwojtek.pl | Yes | ??? |
+| ❌ jajestemwojtek.pl | No | ??? |
 | ✅ jlailu.social | No | 0.4.27 |
 | ✅ kansascity.social | No | 0.4.27 |
 | ✅ kiichigo.cloud | Yes | 0.4.27 |
@@ -164,13 +163,13 @@ part of mainnet.
 | ✅ midgardmates.com | No | 0.4.27 |
 | ✅ mkl.lol | No | 0.4.27 |
 | ✅ moegi.stream | No | 0.4.27 |
+| ✅ moogleyacht.club | No | 0.4.27 |
 | ✅ morel.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ mraow.party | No | 0.4.27 |
 | ✅ naomie.digital | No | 0.4.27 |
 | ✅ nekohana.blue | No | 0.4.27 |
-| ❌ njsharp.uk | Yes | 0.4.21 |
 | ✅ nonsono.online | No | 0.4.7 |
-| ❌ nottyboi.me | Yes | 0.4.21 |
+| ❌ nottyboi.me | No | 0.4.21 |
 | ✅ nyago.zip | No | 0.4.27 |
 | ✅ okashi.social | No | 0.4.27 |
 | ✅ opp.minuspoint.com | No | 0.4.27 |
@@ -186,8 +185,8 @@ part of mainnet.
 | ✅ pds.axtch.net | No | 0.4.27 |
 | ✅ pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | ✅ pds.bernd.network | No | 0.4.27 |
-| ❌ pds.bsky.ealmuina.xyz | Yes | 0.4.23 |
-| ❌ pds.bsky.okaits7534.net | Yes | 0.4.27 |
+| ❌ pds.bsky.ealmuina.xyz | No | 0.4.23 |
+| ❌ pds.bsky.okaits7534.net | No | 0.4.27 |
 | ✅ pds.c-stellar.net | No | 0.4.27 |
 | ✅ pds.cacheblasters.com | No | 0.4.27 |
 | ✅ pds.caruanafamily.net | No | 0.4.27 |
@@ -220,6 +219,7 @@ part of mainnet.
 | ✅ pds.mnogu.net | No | 0.4.27 |
 | ✅ pds.mozzius.dev | No | 0.4.27 |
 | ✅ pds.nebu.land | No | 0.4.27 |
+| ✅ pds.nerkho.wtf | No | 0.4.27 |
 | ✅ pds.nixeneko.info | No | 0.4.27 |
 | ✅ pds.pokete.com | No | 0.4.27 |
 | ✅ pds.quimian.com | No | 0.4.27 |
@@ -240,8 +240,9 @@ part of mainnet.
 | ✅ pds.unsocial.dev | No | 0.4.27 |
 | ✅ pds.vforge.social | No | 0.4.27 |
 | ✅ pds.walloftext.ca | No | 0.4.27 |
-| ❌ pds.y-force.info | Yes | 0.4.21 |
+| ✅ pds.y-force.info | Yes | 0.4.21 |
 | ✅ pds.zccx.net | No | 0.4.27 |
+| ✅ pony.bz | No | 0.4.27 |
 | ✅ porcini.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ proto.sorcie.re | No | 0.4.27 |
 | ✅ puffball.us-east.host.bsky.network | No | git-8ce97d4 |
@@ -252,7 +253,6 @@ part of mainnet.
 | ✅ redocean.one | No | 0.4.27 |
 | ✅ rows.io | No | 0.4.23 |
 | ✅ russula.us-west.host.bsky.network | No | git-8ce97d4 |
-| ❌ senshi.dev | Yes | 0.4.21 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ skeleton.rodeo | No | 0.4.27 |
@@ -265,17 +265,17 @@ part of mainnet.
 | ✅ skyblue.cc | No | 0.4.27 |
 | ✅ sns.limelee.xyz | No | 0.4.27 |
 | ✅ social.barrybach.com | No | 0.4.27 |
-| ✅ social.owo.cl | No | 0.4.21 |
+| ✅ social.owo.cl | No | 0.4.27 |
 | ✅ sowedu.net | No | 0.4.27 |
 | ✅ stack.party | No | 0.4.0-beta.7 |
-| ❌ starburst.social | Yes | 0.4.23 |
+| ❌ starburst.social | No | 0.4.23 |
 | ✅ stinkhorn.jacob.gold | No | 0.4.27 |
 | ✅ stupol.social | No | 0.4.27 |
 | ✅ sunaba.io | No | 0.4.27 |
 | ✅ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.27 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ❌ thewired.online | Yes | 0.4.27 |
+| ❌ thewired.online | No | 0.4.27 |
 | ✅ tkpn.social | No | 0.4.0-beta.7 |
 | ✅ tksocial.eu.org | No | 0.4.27 |
 | ✅ trashcave.net | No | 0.4.27 |
@@ -288,7 +288,7 @@ part of mainnet.
 | ✅ verpa.us-west.host.bsky.network | No | git-8ce97d4 |
 | ✅ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.27 |
-| ❌ waverly.social | Yes | ??? |
+| ❌ waverly.social | No | ??? |
 | ✅ whipq.com | No | 0.4.27 |
 | ✅ wordsky.xyz | No | 0.4.27 |
 | ✅ yoshiki.burnworks.com | No | 0.4.27 |
@@ -324,8 +324,10 @@ part of mainnet.
 | ✅ ozone.bsky.imax.in.ua | 0.1.1 |
 | ❌ ozone.bskytest-hcc8588.f5.si | ??? |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
+| ✅ ozone.flatlander.social | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.goeo.lol | 0.1.11 |
+| ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
 | ✅ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
