@@ -1,3 +1,5 @@
+import crypto from 'node:crypto';
+
 import { BskyXRPC } from '@mary/bluesky-client';
 
 import * as v from '@badrap/valita';
@@ -217,33 +219,57 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 					const signal = AbortSignal.timeout(15_000);
 					const res = await get(`https://${host}/.well-known/did.json`, signal);
 
-					const json = (await res.json()) as unknown;
-					const doc = didDocument.parse(json, { mode: 'passthrough' });
+					const text = await res.text();
+					const sha256sum = getHash('sha256', text);
 
-					const pds = getPdsEndpoint(doc);
-					const labeler = getLabelerEndpoint(doc);
+					if (obj.hash !== sha256sum) {
+						const json = JSON.parse(text);
+						const doc = didDocument.parse(json, { mode: 'passthrough' });
 
-					console.log(`  ${did}: pass`);
+						const pds = getPdsEndpoint(doc);
+						const labeler = getLabelerEndpoint(doc);
 
-					if (pds && obj.pds !== pds) {
-						if (!pdses.has(pds)) {
-							console.log(`    found pds: ${pds}`);
-							pdses.set(pds, {});
+						console.log(`  ${did}: pass (updated)`);
+
+						if (pds) {
+							const info = pdses.get(pds);
+
+							if (info === undefined) {
+								console.log(`    found pds: ${pds}`);
+								pdses.set(pds, {});
+							} else if (info.errorAt !== undefined) {
+								// reset `errorAt` if we encounter this PDS
+								console.log(`    found pds: ${pds} (errored)`);
+								info.errorAt = undefined;
+							}
 						}
-					}
 
-					if (labeler && obj.labeler !== labeler) {
-						if (!labelers.has(labeler)) {
-							console.log(`    found labeler: ${labeler}`);
-							labelers.set(labeler, { did });
-						} else {
-							labelers.get(labeler)!.did = did;
+						if (labeler) {
+							const info = labelers.get(labeler);
+
+							if (info === undefined) {
+								console.log(`    found labeler: ${labeler}`);
+								labelers.set(labeler, { did });
+							} else {
+								if (info.errorAt !== undefined) {
+									// reset `errorAt` if we encounter this labeler
+									console.log(`    found labeler: ${labeler} (errored)`);
+									info.errorAt = undefined;
+								}
+
+								info.did = did;
+							}
 						}
+
+						obj.hash = sha256sum;
+
+						obj.pds = pds;
+						obj.labeler = labeler;
+					} else {
+						console.log(`  ${did}: pass`);
 					}
 
 					obj.errorAt = undefined;
-					obj.pds = pds;
-					obj.labeler = labeler;
 				} catch (err) {
 					const errorAt = obj.errorAt;
 
@@ -255,7 +281,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 						didWebs.delete(did);
 					}
 
-					console.log(`  ${did}: fail`);
+					console.log(`  ${did}: fail (${err})`);
 				}
 			});
 		}),
@@ -343,4 +369,11 @@ function getEndpoint(urlStr: string | undefined): string | undefined {
 	}
 
 	return url.href;
+}
+
+function getHash(algo: string, data: string) {
+	const hasher = crypto.createHash(algo);
+	hasher.update(data);
+
+	return hasher.digest('base64url');
 }

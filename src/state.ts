@@ -17,6 +17,7 @@ export const serializedState = v.object({
 		didWebs: v.record(
 			v.object({
 				errorAt: dateInt.optional(),
+				hash: v.string().optional(),
 				pds: v.string().optional(),
 				labeler: v.string().optional(),
 			}),
@@ -46,6 +47,7 @@ export type SerializedState = v.Infer<typeof serializedState>;
 
 export interface DidWebInfo {
 	errorAt?: number;
+	hash?: string;
 	pds?: string;
 	labeler?: string;
 }
