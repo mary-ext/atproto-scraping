@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-28T04:12:51.737Z[^1]
+Last updated: 2024-05-29T01:05:55.195Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -25,6 +25,7 @@ part of mainnet.
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
 | ✅ at.yuntan.tech | No | 0.4.27 |
+| ✅ atp.retroheart.net | No | 0.4.27 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
 | ❌ beekeeping.social | No | 0.4.23 |
@@ -46,7 +47,7 @@ part of mainnet.
 | ✅ bluesky.rp-taki.com | No | 0.4.7 |
 | ✅ bluesky.sami.sk | No | 0.4.27 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.27 |
-| ❌ bluesky.zergy.net | No | 0.4.23 |
+| ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.27 |
 | ✅ boletus.us-west.host.bsky.network | No | git-8ce97d4 |
 | ✅ bossett.social | No | 0.4.21 |
@@ -65,7 +66,7 @@ part of mainnet.
 | ✅ bsky.davewinter.social | No | 0.4.27 |
 | ✅ bsky.day | No | 0.4.23 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
-| ✅ bsky.doskel.net | No | 0.4.27 |
+| ❌ bsky.doskel.net | No | 0.4.27 |
 | ❌ bsky.eqver.se | No | 0.4.27 |
 | ✅ bsky.giurgiu.io | No | 0.4.0-beta.7 |
 | ✅ bsky.gsheps.net | No | 0.4.27 |
@@ -83,12 +84,12 @@ part of mainnet.
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.23 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.27 |
-| ✅ bsky.ocelot.lol | No | 0.4.27 |
+| ❌ bsky.ocelot.lol | No | 0.4.27 |
 | ✅ bsky.pavli.cc | No | 0.4.27 |
 | ✅ bsky.pink | Yes | 0.4.27 |
 | ✅ bsky.powerg.love | No | 0.4.27 |
 | ✅ bsky.psote.ing | No | 0.4.27 |
-| ✅ bsky.runhello.com | No | 0.4.12 |
+| ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.27 |
 | ✅ bsky.sneezey.uk | No | 0.4.0-beta.7 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.27 |
@@ -132,6 +133,7 @@ part of mainnet.
 | ✅ habanero.f5.si | No | 0.4.27 |
 | ✅ hellthread.pro | No | 0.4.23 |
 | ✅ hivetasks.com | No | 0.4.27 |
+| ✅ hockley.info | Yes | 0.4.27 |
 | ✅ holofan.live | No | 0.4.27 |
 | ✅ hooray.social | No | 0.4.27 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-8ce97d4 |
@@ -152,7 +154,7 @@ part of mainnet.
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
 | ✅ laurenandquinn.love | No | 0.4.27 |
 | ✅ lepista.us-west.host.bsky.network | No | git-8ce97d4 |
-| ✅ libertywave.app | Yes | 0.4.27 |
+| ❌ libertywave.app | Yes | 0.4.27 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-8ce97d4 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
@@ -221,6 +223,7 @@ part of mainnet.
 | ✅ pds.nebu.land | No | 0.4.27 |
 | ✅ pds.nerkho.wtf | No | 0.4.27 |
 | ✅ pds.nixeneko.info | No | 0.4.27 |
+| ❌ pds.nmatsui.work | No | ??? |
 | ✅ pds.pokete.com | No | 0.4.27 |
 | ✅ pds.quimian.com | No | 0.4.27 |
 | ✅ pds.robocracy.org | No | 0.4.12 |
@@ -230,6 +233,7 @@ part of mainnet.
 | ✅ pds.skyfeed.dev | No | 0.4.0-beta.7 |
 | ✅ pds.snek.dev | No | 0.4.27 |
 | ✅ pds.soap.systems | No | 0.4.27 |
+| ✅ pds.stupid.fish | No | 0.4.27 |
 | ✅ pds.taichibit.com | No | 0.4.27 |
 | ✅ pds.tentacle.expert | No | 0.4.12 |
 | ✅ pds.timburga.social | No | 0.4.27 |
@@ -275,11 +279,12 @@ part of mainnet.
 | ✅ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.27 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ❌ thewired.online | No | 0.4.27 |
+| ✅ thewired.online | No | 0.4.27 |
 | ✅ tkpn.social | No | 0.4.0-beta.7 |
 | ✅ tksocial.eu.org | No | 0.4.27 |
 | ✅ trashcave.net | No | 0.4.27 |
 | ✅ trekologer.social | No | 0.4.27 |
+| ❌ tubular.retroheart.net | No | ??? |
 | ✅ tweethive.net | No | 0.4.27 |
 | ✅ userdir.de | No | 0.4.27 |
 | ✅ v-laboratory.com | No | 0.4.27 |
