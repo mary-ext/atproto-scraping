@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-29T01:05:55.195Z[^1]
+Last updated: 2024-05-30T01:03:27.345Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -18,7 +18,9 @@ part of mainnet.
 | ✅ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.24 |
 | ✅ amanita.us-east.host.bsky.network | No | git-8ce97d4 |
+| ✅ angels.fan | No | 0.4.27 |
 | ❌ anselm-schumacher.de | No | ??? |
+| ✅ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.24 |
 | ✅ at.dingdongdata.com | No | 0.4.25 |
 | ❌ at.donley.io | No | 0.4.27 |
@@ -27,6 +29,7 @@ part of mainnet.
 | ✅ at.yuntan.tech | No | 0.4.27 |
 | ✅ atp.retroheart.net | No | 0.4.27 |
 | ❌ atproto.brid.gy | No | ??? |
+| ❌ b.hill.fo | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
 | ❌ beekeeping.social | No | 0.4.23 |
 | ✅ beta.thehippo.dev | No | 0.4.23 |
@@ -44,7 +47,7 @@ part of mainnet.
 | ✅ bluesky.nissesdomain.org | No | 0.4.27 |
 | ✅ bluesky.nk.ca | No | 0.4.27 |
 | ✅ bluesky.rosafamily.net | No | 0.4.27 |
-| ✅ bluesky.rp-taki.com | No | 0.4.7 |
+| ✅ bluesky.rp-taki.com | No | 0.4.27 |
 | ✅ bluesky.sami.sk | No | 0.4.27 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.27 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
@@ -84,7 +87,7 @@ part of mainnet.
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.23 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.27 |
-| ❌ bsky.ocelot.lol | No | 0.4.27 |
+| ✅ bsky.ocelot.lol | No | 0.4.27 |
 | ✅ bsky.pavli.cc | No | 0.4.27 |
 | ✅ bsky.pink | Yes | 0.4.27 |
 | ✅ bsky.powerg.love | No | 0.4.27 |
@@ -114,7 +117,7 @@ part of mainnet.
 | ✅ disbursement.center | No | 0.4.27 |
 | ✅ divy.zone | No | 0.4.24 |
 | ✅ dollpost.ing | No | 0.4.12 |
-| ✅ doom.broker | No | 0.4.27 |
+| ❌ doom.broker | No | 0.4.27 |
 | ✅ dopsky.social | No | 0.4.27 |
 | ✅ drakeno.de | No | 0.4.27 |
 | ✅ ds.povario.com | No | 0.4.12 |
@@ -238,12 +241,13 @@ part of mainnet.
 | ✅ pds.tentacle.expert | No | 0.4.12 |
 | ✅ pds.timburga.social | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.27 |
-| ✅ pds.trkw.dev | No | 0.4.27 |
+| ❌ pds.trkw.dev | No | 0.4.27 |
 | ✅ pds.tw | No | 0.4.27 |
 | ✅ pds.ubanis.mydns.jp | No | 0.4.27 |
 | ✅ pds.unsocial.dev | No | 0.4.27 |
 | ✅ pds.vforge.social | No | 0.4.27 |
 | ✅ pds.walloftext.ca | No | 0.4.27 |
+| ✅ pds.wyvern.rip | No | 0.4.27 |
 | ✅ pds.y-force.info | Yes | 0.4.21 |
 | ✅ pds.zccx.net | No | 0.4.27 |
 | ✅ pony.bz | No | 0.4.27 |
@@ -279,9 +283,9 @@ part of mainnet.
 | ✅ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.27 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ✅ thewired.online | No | 0.4.27 |
+| ❌ thewired.online | No | 0.4.27 |
 | ✅ tkpn.social | No | 0.4.0-beta.7 |
-| ✅ tksocial.eu.org | No | 0.4.27 |
+| ❌ tksocial.eu.org | No | 0.4.27 |
 | ✅ trashcave.net | No | 0.4.27 |
 | ✅ trekologer.social | No | 0.4.27 |
 | ❌ tubular.retroheart.net | No | ??? |
@@ -294,9 +298,10 @@ part of mainnet.
 | ✅ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.27 |
 | ❌ waverly.social | No | ??? |
-| ✅ whipq.com | No | 0.4.27 |
+| ❌ whipq.com | No | 0.4.27 |
 | ✅ wordsky.xyz | No | 0.4.27 |
 | ✅ yoshiki.burnworks.com | No | 0.4.27 |
+| ✅ yumeka.cc | No | 0.4.27 |
 | ✅ zazen.social | No | 0.4.27 |
 <!-- pds-end -->
 
@@ -314,7 +319,7 @@ part of mainnet.
 | ✅ example.mastod.one | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
-| ❌ labeler.divy.zone | 0.1.11 |
+| ✅ labeler.divy.zone | 0.1.11 |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
@@ -328,13 +333,14 @@ part of mainnet.
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bsky.imax.in.ua | 0.1.1 |
 | ❌ ozone.bskytest-hcc8588.f5.si | ??? |
+| ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.goeo.lol | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
-| ✅ ozone.launchpadx.top | 0.1.1 |
+| ❌ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
