@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-05-31T01:03:59.785Z[^1]
+Last updated: 2024-06-01T01:06:50.907Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -16,13 +16,13 @@ part of mainnet.
 | ✅ afternooncurry.com | No | 0.4.27 |
 | ✅ agaric.us-west.host.bsky.network | No | git-5643fa4 |
 | ✅ akiba.blue | No | 0.4.12 |
-| ✅ aliciousintent.com | No | 0.4.24 |
+| ✅ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-5643fa4 |
 | ✅ angels.fan | No | 0.4.27 |
 | ❌ anselm-schumacher.de | No | ??? |
 | ✅ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.24 |
-| ❌ at.dingdongdata.com | No | 0.4.25 |
+| ✅ at.dingdongdata.com | No | 0.4.25 |
 | ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
@@ -95,10 +95,11 @@ part of mainnet.
 | ✅ bsky.psote.ing | No | 0.4.27 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.27 |
-| ✅ bsky.sneezey.uk | No | 0.4.0-beta.7 |
+| ✅ bsky.sneezey.uk | No | 0.4.27 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.27 |
 | ✅ bsky.theatl.social | No | 0.4.27 |
 | ✅ bsky.tm2t.net | No | 0.4.27 |
+| ❌ bsky.tochu-cha.mydns.jp | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.27 |
 | ✅ bsky.wtr.app | No | 0.4.27 |
 | ✅ bsky.zoeyvid.de | No | 0.4.27 |
@@ -152,6 +153,7 @@ part of mainnet.
 | ✅ killdozer.church | No | 0.4.27 |
 | ✅ knot.land | No | 0.4.27 |
 | ✅ ksky.7ka.org | No | 0.4.27 |
+| ❌ kty.lol | No | ??? |
 | ✅ labcaffeinated.com | No | 0.4.27 |
 | ✅ lacunas.net | No | 0.4.27 |
 | ✅ lalasky.fun | No | 0.4.27 |
@@ -240,7 +242,7 @@ part of mainnet.
 | ✅ pds.soap.systems | No | 0.4.27 |
 | ✅ pds.stupid.fish | No | 0.4.27 |
 | ✅ pds.taichibit.com | No | 0.4.27 |
-| ✅ pds.tentacle.expert | No | 0.4.12 |
+| ✅ pds.tentacle.expert | No | 0.4.27 |
 | ✅ pds.timburga.social | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.27 |
 | ❌ pds.trkw.dev | No | 0.4.27 |
@@ -302,6 +304,7 @@ part of mainnet.
 | ❌ waverly.social | No | ??? |
 | ❌ whipq.com | No | 0.4.27 |
 | ✅ wordsky.xyz | No | 0.4.27 |
+| ✅ x.kty.lol | No | 0.4.27 |
 | ✅ yoshiki.burnworks.com | No | 0.4.27 |
 | ✅ yumeka.cc | No | 0.4.27 |
 | ✅ zazen.social | No | 0.4.27 |
@@ -348,6 +351,7 @@ part of mainnet.
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
 | ✅ ozone.papercut.rodeo | 0.1.11 |
+| ❌ ozone.playground.do.orthanc.co.nz | ??? |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.thebull.app | 0.1.11 |
@@ -359,7 +363,7 @@ part of mainnet.
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ stopthegifs.haileyok.com | 0.1.11 |
-| ✅ xblock.aendra.dev | 0.1.11 |
+| ❌ xblock.aendra.dev | 0.1.11 |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run
