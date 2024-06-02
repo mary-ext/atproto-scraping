@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-01T01:06:50.907Z[^1]
+Last updated: 2024-06-02T01:07:16.535Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -88,7 +88,7 @@ part of mainnet.
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.27 |
-| ✅ bsky.ocelot.lol | No | 0.4.27 |
+| ❌ bsky.ocelot.lol | No | 0.4.27 |
 | ✅ bsky.pavli.cc | No | 0.4.27 |
 | ✅ bsky.pink | Yes | 0.4.27 |
 | ✅ bsky.powerg.love | No | 0.4.27 |
@@ -133,7 +133,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.27 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.27 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.27 |
 | ✅ habanero.f5.si | No | 0.4.27 |
 | ✅ hellthread.pro | No | 0.4.23 |
@@ -185,7 +185,7 @@ part of mainnet.
 | ✅ otasora.blue | No | 0.4.27 |
 | ✅ oyster.us-east.host.bsky.network | No | git-5643fa4 |
 | ✅ p.kojira.io | No | 0.4.27 |
-| ❌ pdeeznuts.amith.sbs | No | 0.4.27 |
+| ✅ pdeeznuts.amith.sbs | No | 0.4.27 |
 | ✅ pds.a2.rip | No | 0.4.27 |
 | ✅ pds.akigami.org | No | 0.4.27 |
 | ✅ pds.andreslucero.com | No | 0.4.27 |
@@ -244,6 +244,7 @@ part of mainnet.
 | ✅ pds.taichibit.com | No | 0.4.27 |
 | ✅ pds.tentacle.expert | No | 0.4.27 |
 | ✅ pds.timburga.social | No | 0.4.27 |
+| ❌ pds.tom-sherman.com | No | ??? |
 | ✅ pds.tosiiu.com | No | 0.4.27 |
 | ❌ pds.trkw.dev | No | 0.4.27 |
 | ✅ pds.tw | No | 0.4.27 |
@@ -252,7 +253,7 @@ part of mainnet.
 | ✅ pds.vforge.social | No | 0.4.27 |
 | ✅ pds.walloftext.ca | No | 0.4.27 |
 | ✅ pds.wyvern.rip | No | 0.4.27 |
-| ✅ pds.y-force.info | Yes | 0.4.21 |
+| ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.27 |
 | ❌ pony.bz | No | 0.4.27 |
 | ✅ porcini.us-east.host.bsky.network | No | git-5643fa4 |
@@ -334,7 +335,7 @@ part of mainnet.
 | ✅ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
 | ✅ ozone.bka.li | 0.1.11 |
-| ✅ ozone.bluemusha.com | 0.1.11 |
+| ❌ ozone.bluemusha.com | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bsky.imax.in.ua | 0.1.1 |
 | ❌ ozone.bskytest-hcc8588.f5.si | ??? |
@@ -363,7 +364,7 @@ part of mainnet.
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ stopthegifs.haileyok.com | 0.1.11 |
-| ❌ xblock.aendra.dev | 0.1.11 |
+| ✅ xblock.aendra.dev | 0.1.11 |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run

@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5776563",
+		"cursor": "5780711",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-01T01:01:27.905Z"
+		"cursor": "2024-06-02T01:01:28.635Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -113,7 +113,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717203704869
+			"errorAt": 1717290129892
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -353,7 +353,8 @@
 		},
 		"https://bsky.ocelot.lol/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.27"
+			"version": "0.4.27",
+			"errorAt": 1717290129892
 		},
 		"https://bsky.pavli.cc/": {
 			"version": "0.4.27",
@@ -533,8 +534,7 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null,
-			"errorAt": 1717117133648
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.27",
@@ -741,8 +741,7 @@
 		},
 		"https://pdeeznuts.amith.sbs/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717117133648
+			"version": "0.4.27"
 		},
 		"https://pds.a2.rip/": {
 			"version": "0.4.27",
@@ -975,6 +974,9 @@
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
+		"https://pds.tom-sherman.com/": {
+			"errorAt": 1717290129892
+		},
 		"https://pds.tosiiu.com/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
@@ -1009,7 +1011,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.y-force.info/": {
-			"version": "0.4.21",
+			"version": "0.4.27",
 			"inviteCodeRequired": false
 		},
 		"https://pds.zccx.net/": {
@@ -1314,7 +1316,8 @@
 		},
 		"https://ozone.bluemusha.com/": {
 			"did": "did:plc:n5aztsyungwywj3psng3z65i",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1717290129892
 		},
 		"https://ozone.bossett.social/": {
 			"did": "did:plc:i65enriuag7n5fgkopbqtkyk",
@@ -1430,8 +1433,7 @@
 		},
 		"https://xblock.aendra.dev/": {
 			"did": "did:plc:newitj5jo3uel7o4mnf3vj2o",
-			"version": "0.1.11",
-			"errorAt": 1717203704869
+			"version": "0.1.11"
 		}
 	}
 }
