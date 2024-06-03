@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-02T01:07:16.535Z[^1]
+Last updated: 2024-06-03T01:05:02.127Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,7 +22,7 @@ part of mainnet.
 | ❌ anselm-schumacher.de | No | ??? |
 | ✅ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.24 |
-| ✅ at.dingdongdata.com | No | 0.4.25 |
+| ❌ at.dingdongdata.com | No | 0.4.25 |
 | ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
@@ -77,7 +77,7 @@ part of mainnet.
 | ✅ bsky.huimao.xyz | No | 0.4.27 |
 | ✅ bsky.j0.lol | No | 0.4.27 |
 | ✅ bsky.kevoun.com | No | 0.4.27 |
-| ✅ bsky.kit-a.net | No | 0.4.27 |
+| ❌ bsky.kit-a.net | No | 0.4.27 |
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | ✅ bsky.mabataki.moe | No | 0.4.27 |
 | ✅ bsky.mcphail.uk | No | 0.4.27 |
@@ -88,7 +88,7 @@ part of mainnet.
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.27 |
-| ❌ bsky.ocelot.lol | No | 0.4.27 |
+| ✅ bsky.ocelot.lol | No | 0.4.27 |
 | ✅ bsky.pavli.cc | No | 0.4.27 |
 | ✅ bsky.pink | Yes | 0.4.27 |
 | ✅ bsky.powerg.love | No | 0.4.27 |
@@ -133,7 +133,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.27 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.27 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.27 |
 | ✅ habanero.f5.si | No | 0.4.27 |
 | ✅ hellthread.pro | No | 0.4.23 |
@@ -176,7 +176,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.27 |
 | ✅ naomie.digital | No | 0.4.27 |
 | ✅ nekohana.blue | No | 0.4.27 |
-| ✅ nmatsui.work | No | 0.4.27 |
+| ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
 | ❌ nottyboi.me | No | 0.4.21 |
 | ✅ nyago.zip | No | 0.4.27 |
@@ -228,7 +228,7 @@ part of mainnet.
 | ✅ pds.mnogu.net | No | 0.4.27 |
 | ✅ pds.mozzius.dev | No | 0.4.27 |
 | ✅ pds.nebu.land | No | 0.4.27 |
-| ✅ pds.nerkho.wtf | No | 0.4.27 |
+| ❌ pds.nerkho.wtf | No | 0.4.27 |
 | ✅ pds.nixeneko.info | No | 0.4.27 |
 | ❌ pds.nmatsui.work | No | ??? |
 | ✅ pds.pokete.com | No | 0.4.27 |
@@ -244,7 +244,7 @@ part of mainnet.
 | ✅ pds.taichibit.com | No | 0.4.27 |
 | ✅ pds.tentacle.expert | No | 0.4.27 |
 | ✅ pds.timburga.social | No | 0.4.27 |
-| ❌ pds.tom-sherman.com | No | ??? |
+| ✅ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.27 |
 | ❌ pds.trkw.dev | No | 0.4.27 |
 | ✅ pds.tw | No | 0.4.27 |
@@ -289,7 +289,7 @@ part of mainnet.
 | ✅ sysadmins.cc | No | 0.4.27 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ❌ thewired.online | No | 0.4.27 |
-| ✅ tkpn.social | No | 0.4.0-beta.7 |
+| ❌ tkpn.social | No | 0.4.0-beta.7 |
 | ✅ tksocial.eu.org | No | 0.4.27 |
 | ✅ trashcave.net | No | 0.4.27 |
 | ✅ trekologer.social | No | 0.4.27 |

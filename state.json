@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5780711",
+		"cursor": "5784731",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-02T01:01:28.635Z"
+		"cursor": "2024-06-03T00:58:58.147Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -89,7 +89,8 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.25"
+			"version": "0.4.25",
+			"errorAt": 1717376366462
 		},
 		"https://at.donley.io/": {
 			"inviteCodeRequired": true,
@@ -113,7 +114,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717290129892
+			"errorAt": 1717376366462
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -309,7 +310,8 @@
 		},
 		"https://bsky.kit-a.net/": {
 			"version": "0.4.27",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717376366462
 		},
 		"https://bsky.kretschmann.social/": {
 			"version": "0.4.0-beta.7",
@@ -353,8 +355,7 @@
 		},
 		"https://bsky.ocelot.lol/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717290129892
+			"version": "0.4.27"
 		},
 		"https://bsky.pavli.cc/": {
 			"version": "0.4.27",
@@ -534,7 +535,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1717376366462
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.27",
@@ -705,7 +707,8 @@
 		},
 		"https://nmatsui.work/": {
 			"version": "0.4.27",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717376366462
 		},
 		"https://nonsono.online/": {
 			"version": "0.4.7",
@@ -913,7 +916,8 @@
 		},
 		"https://pds.nerkho.wtf/": {
 			"version": "0.4.27",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717376366462
 		},
 		"https://pds.nixeneko.info/": {
 			"version": "0.4.27",
@@ -975,7 +979,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.tom-sherman.com/": {
-			"errorAt": 1717290129892
+			"version": "0.4.27",
+			"inviteCodeRequired": true
 		},
 		"https://pds.tosiiu.com/": {
 			"version": "0.4.27",
@@ -1158,7 +1163,8 @@
 		},
 		"https://tkpn.social/": {
 			"version": "0.4.0-beta.7",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717376366462
 		},
 		"https://tksocial.eu.org/": {
 			"inviteCodeRequired": true,
