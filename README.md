@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-03T01:05:02.127Z[^1]
+Last updated: 2024-06-04T01:04:36.976Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,7 +22,7 @@ part of mainnet.
 | ❌ anselm-schumacher.de | No | ??? |
 | ✅ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.24 |
-| ❌ at.dingdongdata.com | No | 0.4.25 |
+| ✅ at.dingdongdata.com | No | 0.4.25 |
 | ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
@@ -56,6 +56,7 @@ part of mainnet.
 | ✅ bossett.social | No | 0.4.21 |
 | ✅ boymodelworld.com | No | 0.4.27 |
 | ✅ brnc.at | No | 0.4.27 |
+| ✅ bs.lehtiin.eu | No | 0.4.27 |
 | ✅ bs.siren.jp | No | 0.4.27 |
 | ✅ bs.songngu.xyz | No | 0.4.27 |
 | ✅ bs.thagoat.rip | No | 0.4.27 |
@@ -101,6 +102,7 @@ part of mainnet.
 | ✅ bsky.tm2t.net | No | 0.4.27 |
 | ❌ bsky.tochu-cha.mydns.jp | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.27 |
+| ✅ bsky.vylion.com | No | 0.4.27 |
 | ✅ bsky.wtr.app | No | 0.4.27 |
 | ✅ bsky.zoeyvid.de | No | 0.4.27 |
 | ✅ bskytest.marginal.net | No | 0.4.7 |
@@ -133,7 +135,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.27 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.27 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.27 |
 | ✅ habanero.f5.si | No | 0.4.27 |
 | ✅ hellthread.pro | No | 0.4.23 |
@@ -185,7 +187,7 @@ part of mainnet.
 | ✅ otasora.blue | No | 0.4.27 |
 | ✅ oyster.us-east.host.bsky.network | No | git-5643fa4 |
 | ✅ p.kojira.io | No | 0.4.27 |
-| ✅ pdeeznuts.amith.sbs | No | 0.4.27 |
+| ❌ pdeeznuts.amith.sbs | No | 0.4.27 |
 | ✅ pds.a2.rip | No | 0.4.27 |
 | ✅ pds.akigami.org | No | 0.4.27 |
 | ✅ pds.andreslucero.com | No | 0.4.27 |
@@ -220,7 +222,7 @@ part of mainnet.
 | ✅ pds.keiji0501.com | No | 0.4.27 |
 | ✅ pds.krasovs.ky | No | 0.4.27 |
 | ✅ pds.lotor.online | No | 0.4.27 |
-| ✅ pds.lunar.town | No | 0.4.7 |
+| ❌ pds.lunar.town | No | 0.4.7 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.27 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.27 |
@@ -300,7 +302,7 @@ part of mainnet.
 | ✅ v9v.net | No | 0.4.27 |
 | ✅ vengeful.eu | No | 0.4.27 |
 | ✅ verpa.us-west.host.bsky.network | No | git-5643fa4 |
-| ✅ veryun.cool | No | 0.4.12 |
+| ❌ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.27 |
 | ❌ waverly.social | No | ??? |
 | ❌ whipq.com | No | 0.4.27 |
