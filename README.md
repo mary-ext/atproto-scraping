@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-05T01:05:30.333Z[^1]
+Last updated: 2024-06-05T15:10:01.766Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,7 +22,7 @@ part of mainnet.
 | ❌ anselm-schumacher.de | No | ??? |
 | ❌ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.24 |
-| ❌ at.dingdongdata.com | No | 0.4.25 |
+| ✅ at.dingdongdata.com | No | 0.4.25 |
 | ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.27 |
 | ✅ at.kizaing.ca | No | 0.4.27 |
@@ -129,6 +129,7 @@ part of mainnet.
 | ✅ ekaki.art | No | 0.4.27 |
 | ✅ enoki.us-east.host.bsky.network | No | git-5007d74 |
 | ✅ epicspace.quest | No | 0.4.27 |
+| ❌ fastani.me | No | ??? |
 | ✅ filly.social | No | 0.4.27 |
 | ✅ foxhole.lgbt | No | 0.4.27 |
 | ✅ friendlypds.cloud | No | 0.4.27 |
@@ -171,6 +172,7 @@ part of mainnet.
 | ✅ maitake.us-west.host.bsky.network | No | git-5007d74 |
 | ✅ meety.me | No | 0.4.27 |
 | ✅ midgardmates.com | No | 0.4.27 |
+| ✅ mitexleo.one | No | 0.4.27 |
 | ✅ mkl.lol | No | 0.4.27 |
 | ✅ moegi.stream | No | 0.4.27 |
 | ✅ moogleyacht.club | No | 0.4.27 |
@@ -224,6 +226,7 @@ part of mainnet.
 | ✅ pds.lotor.online | No | 0.4.27 |
 | ❌ pds.lunar.town | No | 0.4.7 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.27 |
+| ✅ pds.mattobs.com | No | 0.4.27 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.27 |
 | ✅ pds.mevo.xyz | No | 0.4.27 |

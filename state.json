@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5793055",
+		"cursor": "5795201",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-05T00:58:26.681Z"
+		"cursor": "2024-06-05T15:04:21.994Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -80,8 +80,8 @@
 			"errorAt": 1716512263335
 		},
 		"https://aspen.moe/": {
-			"version": "0.4.27",
 			"inviteCodeRequired": true,
+			"version": "0.4.27",
 			"errorAt": 1717549121817
 		},
 		"https://at.clavis.info/": {
@@ -90,8 +90,7 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.25",
-			"errorAt": 1717549121817
+			"version": "0.4.25"
 		},
 		"https://at.donley.io/": {
 			"inviteCodeRequired": true,
@@ -115,7 +114,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717549121817
+			"errorAt": 1717599863984
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -518,6 +517,9 @@
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
+		"https://fastani.me/": {
+			"errorAt": 1717599863984
+		},
 		"https://filly.social/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
@@ -682,6 +684,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://midgardmates.com/": {
+			"version": "0.4.27",
+			"inviteCodeRequired": true
+		},
+		"https://mitexleo.one/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
@@ -896,6 +902,10 @@
 			"errorAt": 1717462745005
 		},
 		"https://pds.matsuuratomoya.com/": {
+			"version": "0.4.27",
+			"inviteCodeRequired": true
+		},
+		"https://pds.mattobs.com/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
