@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5789047",
+		"cursor": "5793055",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-04T00:58:58.547Z"
+		"cursor": "2024-06-05T00:58:26.681Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -57,7 +57,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://agaric.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://akiba.blue/": {
@@ -69,7 +69,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://amanita.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://angels.fan/": {
@@ -81,7 +81,8 @@
 		},
 		"https://aspen.moe/": {
 			"version": "0.4.27",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717549121817
 		},
 		"https://at.clavis.info/": {
 			"version": "0.4.24",
@@ -89,7 +90,8 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.25"
+			"version": "0.4.25",
+			"errorAt": 1717549121817
 		},
 		"https://at.donley.io/": {
 			"inviteCodeRequired": true,
@@ -113,7 +115,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717462745005
+			"errorAt": 1717549121817
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -135,7 +137,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://blewit.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://blsky01.prologics.fr/": {
@@ -206,7 +208,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://boletus.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://bossett.social/": {
@@ -432,7 +434,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://chaga.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://chair.rocks/": {
@@ -452,7 +454,7 @@
 			"errorAt": 1716685322601
 		},
 		"https://conocybe.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://corgi.dance/": {
@@ -509,7 +511,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://enoki.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://epicspace.quest/": {
@@ -573,7 +575,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://hydnum.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://iame.li/": {
@@ -581,7 +583,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://inkcap.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://internect.ing/": {
@@ -643,7 +645,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://lepista.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://libertywave.app/": {
@@ -652,7 +654,7 @@
 			"errorAt": 1716944467904
 		},
 		"https://lionsmane.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://machikadosora.online/": {
@@ -672,7 +674,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://maitake.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://meety.me/": {
@@ -696,7 +698,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://morel.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://mraow.party/": {
@@ -741,7 +743,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://oyster.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://p.kojira.io/": {
@@ -750,8 +752,7 @@
 		},
 		"https://pdeeznuts.amith.sbs/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717462745005
+			"version": "0.4.27"
 		},
 		"https://pds.a2.rip/": {
 			"version": "0.4.27",
@@ -890,8 +891,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.lunar.town/": {
-			"version": "0.4.7",
 			"inviteCodeRequired": true,
+			"version": "0.4.7",
 			"errorAt": 1717462745005
 		},
 		"https://pds.matsuuratomoya.com/": {
@@ -1037,7 +1038,7 @@
 			"errorAt": 1717117133648
 		},
 		"https://porcini.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://proto.sorcie.re/": {
@@ -1045,7 +1046,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://puffball.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://quokka.today/": {
@@ -1073,15 +1074,15 @@
 			"inviteCodeRequired": true
 		},
 		"https://russula.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://shiitake.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://shimeji.us-east.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://skeleton.rodeo/": {
@@ -1210,13 +1211,12 @@
 			"inviteCodeRequired": true
 		},
 		"https://verpa.us-west.host.bsky.network/": {
-			"version": "git-5643fa4",
+			"version": "git-5007d74",
 			"inviteCodeRequired": true
 		},
 		"https://veryun.cool/": {
-			"version": "0.4.12",
 			"inviteCodeRequired": true,
-			"errorAt": 1717462745005
+			"version": "0.4.12"
 		},
 		"https://waraiotoko.xyz/": {
 			"version": "0.4.27",
