@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-06T01:04:02.854Z[^1]
+Last updated: 2024-06-07T01:06:59.806Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -31,11 +31,9 @@ part of mainnet.
 | ❌ atproto.brid.gy | No | ??? |
 | ❌ b.hill.fo | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
-| ❌ beekeeping.social | No | 0.4.23 |
 | ✅ beta.thehippo.dev | No | 0.4.23 |
 | ✅ bevenhall.net | No | 0.4.32 |
 | ✅ blewit.us-west.host.bsky.network | No | git-5007d74 |
-| ❌ blsky01.prologics.fr | No | ??? |
 | ✅ blue-ocean.social | No | 0.4.32 |
 | ✅ blue.jbonomi.dev | No | 0.4.32 |
 | ✅ blueskeet.social | No | 0.4.32 |
@@ -50,6 +48,7 @@ part of mainnet.
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
 | ✅ bluesky.sami.sk | No | 0.4.32 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.32 |
+| ❌ bluesky.whiz.social | No | ??? |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.32 |
 | ✅ boletus.us-west.host.bsky.network | No | git-5007d74 |
@@ -63,7 +62,7 @@ part of mainnet.
 | ✅ bs.vrccl.life | No | 0.4.32 |
 | ✅ bsky-pds.dsrs.it | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
-| ✅ bsky-pds.lamberti.io | No | 0.4.27 |
+| ✅ bsky-pds.lamberti.io | No | 0.4.32 |
 | ✅ bsky.air11.social | No | 0.4.32 |
 | ❌ bsky.bulles.social | No | 0.4.27 |
 | ✅ bsky.chagge.com | No | 0.4.32 |
@@ -91,8 +90,8 @@ part of mainnet.
 | ✅ bsky.nerdfest.dev | No | 0.4.32 |
 | ✅ bsky.ocelot.lol | No | 0.4.32 |
 | ✅ bsky.pavli.cc | No | 0.4.32 |
-| ✅ bsky.pink | Yes | 0.4.27 |
-| ✅ bsky.powerg.love | No | 0.4.27 |
+| ✅ bsky.pink | Yes | 0.4.32 |
+| ✅ bsky.powerg.love | No | 0.4.32 |
 | ✅ bsky.psote.ing | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.32 |
@@ -102,10 +101,10 @@ part of mainnet.
 | ✅ bsky.tm2t.net | No | 0.4.32 |
 | ❌ bsky.tochu-cha.mydns.jp | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.27 |
-| ✅ bsky.vasco-shot.com | No | 0.4.32 |
+| ❌ bsky.vasco-shot.com | No | 0.4.32 |
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
-| ✅ bsky.zoeyvid.de | No | 0.4.27 |
+| ✅ bsky.zoeyvid.de | No | 0.4.32 |
 | ✅ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.32 |
 | ✅ cauda.cloud | No | 0.4.32 |
@@ -148,7 +147,7 @@ part of mainnet.
 | ✅ hydnum.us-west.host.bsky.network | No | git-5007d74 |
 | ✅ iame.li | No | 0.4.23 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-5007d74 |
-| ✅ internect.ing | No | 0.4.27 |
+| ✅ internect.ing | No | 0.4.32 |
 | ✅ ishimmi.net | No | 0.4.32 |
 | ❌ jajestemwojtek.pl | No | ??? |
 | ✅ jlailu.social | No | 0.4.32 |
@@ -171,6 +170,7 @@ part of mainnet.
 | ✅ madiator.cloud | No | 0.4.27 |
 | ✅ magrasea.com | No | 0.4.32 |
 | ✅ maitake.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ matcha.systems | No | 0.4.32 |
 | ✅ meety.me | No | 0.4.32 |
 | ✅ midgardmates.com | No | 0.4.32 |
 | ❌ mitexleo.one | No | 0.4.27 |
@@ -189,7 +189,7 @@ part of mainnet.
 | ✅ otasora.blue | No | 0.4.32 |
 | ✅ oyster.us-east.host.bsky.network | No | git-5007d74 |
 | ✅ p.kojira.io | No | 0.4.32 |
-| ❌ pdeeznuts.amith.sbs | No | 0.4.27 |
+| ✅ pdeeznuts.amith.sbs | No | 0.4.32 |
 | ✅ pds.a2.rip | No | 0.4.27 |
 | ✅ pds.akigami.org | No | 0.4.32 |
 | ✅ pds.andreslucero.com | No | 0.4.32 |
@@ -202,14 +202,14 @@ part of mainnet.
 | ❌ pds.bsky.okaits7534.net | No | 0.4.27 |
 | ✅ pds.c-stellar.net | No | 0.4.32 |
 | ✅ pds.cacheblasters.com | No | 0.4.32 |
-| ✅ pds.caruanafamily.net | No | 0.4.27 |
+| ✅ pds.caruanafamily.net | No | 0.4.32 |
 | ✅ pds.crys.uno | No | 0.4.32 |
 | ✅ pds.danni.id | No | 0.4.32 |
 | ✅ pds.dholms.xyz | No | 0.4.32 |
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.32 |
 | ✅ pds.draboros.net | No | 0.4.32 |
-| ✅ pds.elxx.net | No | 0.4.12 |
+| ✅ pds.elxx.net | No | 0.4.32 |
 | ✅ pds.erechorse.com | No | 0.4.32 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
 | ✅ pds.furtenbach.social | No | 0.4.32 |
@@ -223,12 +223,12 @@ part of mainnet.
 | ✅ pds.jay.xyz | No | 0.4.32 |
 | ✅ pds.keiji0501.com | No | 0.4.32 |
 | ✅ pds.krasovs.ky | No | 0.4.32 |
-| ✅ pds.lotor.online | No | 0.4.27 |
+| ✅ pds.lotor.online | No | 0.4.32 |
 | ❌ pds.lunar.town | No | 0.4.7 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.32 |
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
-| ✅ pds.megantoots.com | No | 0.4.27 |
+| ✅ pds.megantoots.com | No | 0.4.32 |
 | ✅ pds.mevo.xyz | No | 0.4.32 |
 | ✅ pds.mnogu.net | No | 0.4.32 |
 | ✅ pds.mozzius.dev | No | 0.4.32 |
@@ -247,7 +247,7 @@ part of mainnet.
 | ✅ pds.soap.systems | No | 0.4.32 |
 | ✅ pds.stupid.fish | No | 0.4.27 |
 | ✅ pds.taichibit.com | No | 0.4.32 |
-| ✅ pds.tentacle.expert | No | 0.4.27 |
+| ✅ pds.tentacle.expert | No | 0.4.32 |
 | ✅ pds.timburga.social | No | 0.4.32 |
 | ✅ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.32 |
@@ -286,10 +286,9 @@ part of mainnet.
 | ✅ social.owo.cl | No | 0.4.27 |
 | ✅ sowedu.net | No | 0.4.32 |
 | ✅ stack.party | No | 0.4.0-beta.7 |
-| ❌ starburst.social | No | 0.4.23 |
 | ✅ stinkhorn.jacob.gold | No | 0.4.32 |
 | ✅ stupol.social | No | 0.4.32 |
-| ✅ sunaba.io | No | 0.4.27 |
+| ✅ sunaba.io | No | 0.4.32 |
 | ✅ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.32 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
@@ -307,7 +306,6 @@ part of mainnet.
 | ✅ verpa.us-west.host.bsky.network | No | git-5007d74 |
 | ✅ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.32 |
-| ❌ waverly.social | No | ??? |
 | ❌ whipq.com | No | 0.4.27 |
 | ✅ wordsky.xyz | No | 0.4.32 |
 | ✅ x.kty.lol | No | 0.4.32 |
@@ -355,7 +353,7 @@ part of mainnet.
 | ✅ ozone.lio.systems | 0.1.1 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
-| ✅ ozone.mountainherder.xyz | 0.1.11 |
+| ❌ ozone.mountainherder.xyz | 0.1.11 |
 | ✅ ozone.papercut.rodeo | 0.1.11 |
 | ❌ ozone.playground.do.orthanc.co.nz | ??? |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
