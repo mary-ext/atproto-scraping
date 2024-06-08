@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5800428",
+		"cursor": "5803906",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-07T01:00:54.225Z"
+		"cursor": "2024-06-08T00:58:02.145Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -77,9 +77,6 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
-		"https://anselm-schumacher.de/": {
-			"errorAt": 1716512263335
-		},
 		"https://aspen.moe/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.27",
@@ -115,7 +112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717722061086
+			"errorAt": 1717808325401
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -193,7 +190,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bluesky.whiz.social/": {
-			"errorAt": 1717722061086
+			"errorAt": 1717808325401
 		},
 		"https://bluesky.zergy.net/": {
 			"inviteCodeRequired": true,
@@ -220,7 +217,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bs.lehtiin.eu/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://bs.siren.jp/": {
@@ -374,6 +371,10 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
+		"https://bsky.redho.st/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
+		},
 		"https://bsky.runhello.com/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
@@ -406,8 +407,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.vasco-shot.com/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1717722061086
 		},
 		"https://bsky.vylion.com/": {
@@ -505,11 +506,13 @@
 		},
 		"https://ecow.dev/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717808325401
 		},
 		"https://ekaki.art/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717808325401
 		},
 		"https://enoki.us-east.host.bsky.network/": {
 			"version": "git-5007d74",
@@ -599,9 +602,6 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
-		"https://jajestemwojtek.pl/": {
-			"errorAt": 1716512263335
-		},
 		"https://jlailu.social/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -664,8 +664,7 @@
 		},
 		"https://machikadosora.online/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.0-beta.7",
-			"errorAt": 1717635509908
+			"version": "0.4.0-beta.7"
 		},
 		"https://madeorsk.com/": {
 			"version": "0.4.0-beta.7",
@@ -796,10 +795,6 @@
 		"https://pds.bernd.network/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
-		},
-		"https://pds.bsky.ealmuina.xyz/": {
-			"version": "0.4.23",
-			"errorAt": 1716512263335
 		},
 		"https://pds.bsky.okaits7534.net/": {
 			"version": "0.4.27",
@@ -1205,6 +1200,10 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
+		"https://uabsky.org/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
+		},
 		"https://userdir.de/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -1233,10 +1232,17 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
+		"https://waverly.social/": {
+			"errorAt": 1717808325401
+		},
 		"https://whipq.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.27",
 			"errorAt": 1717030694020
+		},
+		"https://whiz.social/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
 		},
 		"https://wordsky.xyz/": {
 			"version": "0.4.32",
@@ -1378,6 +1384,10 @@
 			"did": "did:plc:d26oolevqznqar5vjjkkkcwa",
 			"version": "0.1.11"
 		},
+		"https://ozone.hellthread.pro/": {
+			"did": "did:plc:z5b7do4yl7afp7mtida66nts",
+			"version": "0.1.22"
+		},
 		"https://ozone.iftas.dev/": {
 			"did": "did:plc:5bs7ob2txc2fub2ikvkjgkaf",
 			"version": "0.1.11"
@@ -1400,8 +1410,7 @@
 		},
 		"https://ozone.mountainherder.xyz/": {
 			"did": "did:plc:e4elbtctnfqocyfcml6h2lf7",
-			"version": "0.1.11",
-			"errorAt": 1717722061086
+			"version": "0.1.11"
 		},
 		"https://ozone.papercut.rodeo/": {
 			"did": "did:plc:4ffrdzuhiq4coouadh5btkbf",
