@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-08T01:04:00.073Z[^1]
+Last updated: 2024-06-09T01:11:23.898Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -37,6 +37,7 @@ part of mainnet.
 | ✅ blue.jbonomi.dev | No | 0.4.32 |
 | ✅ blueskeet.social | No | 0.4.32 |
 | ✅ bluesky.akyoz.net | No | 0.4.32 |
+| ❌ bluesky.ericmitch.com | No | ??? |
 | ✅ bluesky.goober.cloud | No | 0.4.32 |
 | ✅ bluesky.kosti.dev | No | 0.4.32 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.32 |
@@ -63,7 +64,7 @@ part of mainnet.
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.32 |
 | ✅ bsky.air11.social | No | 0.4.32 |
-| ❌ bsky.bulles.social | No | 0.4.27 |
+| ✅ bsky.bulles.social | No | 0.4.32 |
 | ✅ bsky.chagge.com | No | 0.4.32 |
 | ✅ bsky.col.social | No | 0.4.32 |
 | ✅ bsky.davewinter.social | No | 0.4.32 |
@@ -75,6 +76,7 @@ part of mainnet.
 | ✅ bsky.gsheps.net | No | 0.4.32 |
 | ✅ bsky.huimao.xyz | No | 0.4.32 |
 | ✅ bsky.j0.lol | No | 0.4.32 |
+| ✅ bsky.kakushin.dev | No | 0.4.32 |
 | ✅ bsky.kevoun.com | No | 0.4.32 |
 | ✅ bsky.kit-a.net | No | 0.4.32 |
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
@@ -84,7 +86,7 @@ part of mainnet.
 | ✅ bsky.milkcocoa.info | No | 0.4.32 |
 | ✅ bsky.milv.life | No | 0.4.12 |
 | ✅ bsky.moellus.net | No | 0.4.32 |
-| ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
+| ✅ bsky.mycapitolwatchdog.com | No | 0.4.32 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.32 |
 | ✅ bsky.ocelot.lol | No | 0.4.32 |
@@ -92,7 +94,7 @@ part of mainnet.
 | ✅ bsky.pink | Yes | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.32 |
 | ✅ bsky.psote.ing | No | 0.4.32 |
-| ✅ bsky.redho.st | No | 0.4.32 |
+| ❌ bsky.redho.st | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.32 |
 | ✅ bsky.sneezey.uk | No | 0.4.27 |
@@ -100,6 +102,7 @@ part of mainnet.
 | ✅ bsky.theatl.social | No | 0.4.32 |
 | ✅ bsky.tm2t.net | No | 0.4.32 |
 | ❌ bsky.tochu-cha.mydns.jp | No | ??? |
+| ❌ bsky.tomoki-h.com | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.27 |
 | ❌ bsky.vasco-shot.com | No | 0.4.32 |
 | ✅ bsky.vylion.com | No | 0.4.32 |
@@ -227,7 +230,7 @@ part of mainnet.
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.32 |
-| ✅ pds.mevo.xyz | No | 0.4.32 |
+| ❌ pds.mevo.xyz | No | 0.4.32 |
 | ✅ pds.mnogu.net | No | 0.4.32 |
 | ✅ pds.mozzius.dev | No | 0.4.32 |
 | ✅ pds.nebu.land | No | 0.4.32 |

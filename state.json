@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5803906",
+		"cursor": "5893315",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-08T00:58:02.145Z"
+		"cursor": "2024-06-09T01:04:18.148Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -112,7 +112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717808325401
+			"errorAt": 1717895071295
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -148,6 +148,9 @@
 		"https://bluesky.akyoz.net/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
+		},
+		"https://bluesky.ericmitch.com/": {
+			"errorAt": 1717895071295
 		},
 		"https://bluesky.goober.cloud/": {
 			"version": "0.4.32",
@@ -254,8 +257,7 @@
 		},
 		"https://bsky.bulles.social/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717635509908
+			"version": "0.4.32"
 		},
 		"https://bsky.chagge.com/": {
 			"version": "0.4.32",
@@ -303,6 +305,10 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
+		"https://bsky.kakushin.dev/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
+		},
 		"https://bsky.kevoun.com/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -340,7 +346,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.mycapitolwatchdog.com/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.mystech.ink/": {
@@ -373,7 +379,8 @@
 		},
 		"https://bsky.redho.st/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717895071295
 		},
 		"https://bsky.runhello.com/": {
 			"version": "0.4.27",
@@ -401,6 +408,9 @@
 		},
 		"https://bsky.tochu-cha.mydns.jp/": {
 			"errorAt": 1717203704869
+		},
+		"https://bsky.tomoki-h.com/": {
+			"errorAt": 1717895071295
 		},
 		"https://bsky.tranvender.site/": {
 			"version": "0.4.27",
@@ -505,13 +515,13 @@
 			"inviteCodeRequired": true
 		},
 		"https://ecow.dev/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1717808325401
 		},
 		"https://ekaki.art/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1717808325401
 		},
 		"https://enoki.us-east.host.bsky.network/": {
@@ -919,7 +929,8 @@
 		},
 		"https://pds.mevo.xyz/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717895071295
 		},
 		"https://pds.mnogu.net/": {
 			"version": "0.4.32",
@@ -1233,7 +1244,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://waverly.social/": {
-			"errorAt": 1717808325401
+			"errorAt": 1717895071295
 		},
 		"https://whipq.com/": {
 			"inviteCodeRequired": true,
