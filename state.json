@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5893315",
+		"cursor": "5911432",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-09T01:04:18.148Z"
+		"cursor": "2024-06-10T01:01:09.942Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -112,7 +112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1717895071295
+			"errorAt": 1717981273940
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -186,7 +186,8 @@
 		},
 		"https://bluesky.sami.sk/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1717981273940
 		},
 		"https://bluesky.therobbiedavis.com/": {
 			"version": "0.4.32",
@@ -378,8 +379,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.redho.st/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1717895071295
 		},
 		"https://bsky.runhello.com/": {
@@ -746,6 +747,10 @@
 			"version": "0.4.7",
 			"inviteCodeRequired": true
 		},
+		"https://nottyboi.me/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
+		},
 		"https://nyago.zip/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -928,9 +933,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.mevo.xyz/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1717895071295
+			"version": "0.4.32"
 		},
 		"https://pds.mnogu.net/": {
 			"version": "0.4.32",
@@ -1047,7 +1051,8 @@
 		},
 		"https://pds.y-force.info/": {
 			"version": "0.4.27",
-			"inviteCodeRequired": false
+			"inviteCodeRequired": false,
+			"errorAt": 1717981273940
 		},
 		"https://pds.zccx.net/": {
 			"version": "0.4.32",
@@ -1244,7 +1249,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://waverly.social/": {
-			"errorAt": 1717895071295
+			"errorAt": 1717981273940
 		},
 		"https://whipq.com/": {
 			"inviteCodeRequired": true,
@@ -1370,6 +1375,10 @@
 		"https://ozone.bskytest-hcc8588.f5.si/": {
 			"did": "did:plc:gnfzp6jfn6veacox4a5px7aw",
 			"errorAt": 1717030694020
+		},
+		"https://ozone.bunnynabbit.com/": {
+			"did": "did:plc:bv3lcacietc6fkdokxfqtdkj",
+			"version": "0.1.11"
 		},
 		"https://ozone.department7.org/": {
 			"did": "did:plc:bqaoaao7n5qqv2pf7rtyncqs",

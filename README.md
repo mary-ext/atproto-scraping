@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-09T01:11:23.898Z[^1]
+Last updated: 2024-06-10T01:08:06.832Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -46,7 +46,7 @@ part of mainnet.
 | ✅ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
-| ✅ bluesky.sami.sk | No | 0.4.32 |
+| ❌ bluesky.sami.sk | No | 0.4.32 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.32 |
 | ❌ bluesky.whiz.social | No | ??? |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
@@ -185,6 +185,7 @@ part of mainnet.
 | ✅ nekohana.blue | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
+| ✅ nottyboi.me | No | 0.4.32 |
 | ✅ nyago.zip | No | 0.4.32 |
 | ✅ okashi.social | No | 0.4.32 |
 | ✅ opp.minuspoint.com | No | 0.4.32 |
@@ -230,7 +231,7 @@ part of mainnet.
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.32 |
-| ❌ pds.mevo.xyz | No | 0.4.32 |
+| ✅ pds.mevo.xyz | No | 0.4.32 |
 | ✅ pds.mnogu.net | No | 0.4.32 |
 | ✅ pds.mozzius.dev | No | 0.4.32 |
 | ✅ pds.nebu.land | No | 0.4.32 |
@@ -259,7 +260,7 @@ part of mainnet.
 | ✅ pds.vforge.social | No | 0.4.32 |
 | ✅ pds.walloftext.ca | No | 0.4.32 |
 | ✅ pds.wyvern.rip | No | 0.4.32 |
-| ✅ pds.y-force.info | Yes | 0.4.27 |
+| ❌ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.32 |
 | ❌ pony.bz | No | 0.4.27 |
 | ✅ porcini.us-east.host.bsky.network | No | git-5007d74 |
@@ -346,6 +347,7 @@ part of mainnet.
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bsky.imax.in.ua | 0.1.1 |
 | ❌ ozone.bskytest-hcc8588.f5.si | ??? |
+| ✅ ozone.bunnynabbit.com | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
