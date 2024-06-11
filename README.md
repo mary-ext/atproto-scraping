@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-10T01:08:06.832Z[^1]
+Last updated: 2024-06-11T01:06:51.041Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -86,7 +86,7 @@ part of mainnet.
 | ✅ bsky.milkcocoa.info | No | 0.4.32 |
 | ✅ bsky.milv.life | No | 0.4.12 |
 | ✅ bsky.moellus.net | No | 0.4.32 |
-| ✅ bsky.mycapitolwatchdog.com | No | 0.4.32 |
+| ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.32 |
 | ✅ bsky.ocelot.lol | No | 0.4.32 |
@@ -115,7 +115,6 @@ part of mainnet.
 | ✅ chair.rocks | No | 0.4.32 |
 | ✅ closedcircle.io | No | 0.4.32 |
 | ✅ comrades.social | No | 0.4.32 |
-| ❌ conceptualcat.net | No | 0.4.27 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-5007d74 |
 | ✅ corgi.dance | No | 0.4.32 |
 | ✅ daemons.work | No | 0.4.12 |
@@ -155,7 +154,7 @@ part of mainnet.
 | ✅ jlailu.social | No | 0.4.32 |
 | ✅ kansascity.social | No | 0.4.32 |
 | ✅ kiichigo.cloud | Yes | 0.4.32 |
-| ✅ killdozer.church | No | 0.4.32 |
+| ❌ killdozer.church | No | 0.4.32 |
 | ✅ knot.land | No | 0.4.32 |
 | ✅ ksky.7ka.org | No | 0.4.32 |
 | ❌ kty.lol | No | ??? |
@@ -183,6 +182,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
+| ✅ neontrix.xyz | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
 | ✅ nottyboi.me | No | 0.4.32 |
@@ -201,7 +201,6 @@ part of mainnet.
 | ✅ pds.axtch.net | No | 0.4.32 |
 | ✅ pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | ✅ pds.bernd.network | No | 0.4.32 |
-| ❌ pds.bsky.okaits7534.net | No | 0.4.27 |
 | ✅ pds.c-stellar.net | No | 0.4.32 |
 | ✅ pds.cacheblasters.com | No | 0.4.32 |
 | ✅ pds.caruanafamily.net | No | 0.4.32 |
@@ -309,9 +308,10 @@ part of mainnet.
 | ✅ verpa.us-west.host.bsky.network | No | git-5007d74 |
 | ✅ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.32 |
+| ❌ wave.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
 | ❌ whipq.com | No | 0.4.27 |
-| ✅ whiz.social | No | 0.4.32 |
+| ❌ whiz.social | No | 0.4.32 |
 | ✅ wordsky.xyz | No | 0.4.32 |
 | ✅ x.kty.lol | No | 0.4.32 |
 | ✅ yoshiki.burnworks.com | No | 0.4.32 |
@@ -329,7 +329,6 @@ part of mainnet.
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
-| ❌ dev.pronouns.social | 0.1.11 |
 | ✅ example.mastod.one | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
