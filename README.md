@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-11T01:06:51.041Z[^1]
+Last updated: 2024-06-12T01:06:46.454Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -20,8 +20,8 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-5007d74 |
 | ✅ angels.fan | No | 0.4.32 |
 | ❌ aspen.moe | No | 0.4.27 |
-| ✅ at.clavis.info | No | 0.4.24 |
-| ✅ at.dingdongdata.com | No | 0.4.25 |
+| ✅ at.clavis.info | No | 0.4.32 |
+| ✅ at.dingdongdata.com | No | 0.4.32 |
 | ❌ at.donley.io | No | 0.4.27 |
 | ✅ at.hwsc.link | No | 0.4.32 |
 | ✅ at.kizaing.ca | No | 0.4.32 |
@@ -46,7 +46,8 @@ part of mainnet.
 | ✅ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
-| ❌ bluesky.sami.sk | No | 0.4.32 |
+| ❌ bluesky.ryuka-lucas.net | No | ??? |
+| ✅ bluesky.sami.sk | No | 0.4.32 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.32 |
 | ❌ bluesky.whiz.social | No | ??? |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
@@ -59,7 +60,8 @@ part of mainnet.
 | ✅ bs.siren.jp | No | 0.4.32 |
 | ✅ bs.songngu.xyz | No | 0.4.32 |
 | ✅ bs.thagoat.rip | No | 0.4.32 |
-| ✅ bs.vrccl.life | No | 0.4.32 |
+| ❌ bs.vrccl.life | No | 0.4.32 |
+| ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.dsrs.it | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.32 |
@@ -83,7 +85,7 @@ part of mainnet.
 | ✅ bsky.mabataki.moe | No | 0.4.27 |
 | ✅ bsky.mcphail.uk | No | 0.4.32 |
 | ✅ bsky.mcr.gb.net | No | 0.4.32 |
-| ✅ bsky.milkcocoa.info | No | 0.4.32 |
+| ❌ bsky.milkcocoa.info | No | 0.4.32 |
 | ✅ bsky.milv.life | No | 0.4.12 |
 | ✅ bsky.moellus.net | No | 0.4.32 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
@@ -96,6 +98,7 @@ part of mainnet.
 | ✅ bsky.psote.ing | No | 0.4.32 |
 | ❌ bsky.redho.st | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
+| ❌ bsky.ryuka-lucas.net | No | ??? |
 | ✅ bsky.samulireijula.net | No | 0.4.32 |
 | ✅ bsky.sneezey.uk | No | 0.4.27 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.32 |
@@ -103,7 +106,7 @@ part of mainnet.
 | ✅ bsky.tm2t.net | No | 0.4.32 |
 | ❌ bsky.tochu-cha.mydns.jp | No | ??? |
 | ❌ bsky.tomoki-h.com | No | ??? |
-| ✅ bsky.tranvender.site | No | 0.4.27 |
+| ✅ bsky.tranvender.site | No | 0.4.32 |
 | ❌ bsky.vasco-shot.com | No | 0.4.32 |
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
@@ -133,7 +136,7 @@ part of mainnet.
 | ✅ epicspace.quest | No | 0.4.32 |
 | ✅ fastani.me | No | 0.4.27 |
 | ✅ filly.social | No | 0.4.32 |
-| ✅ foxhole.lgbt | No | 0.4.27 |
+| ✅ foxhole.lgbt | No | 0.4.32 |
 | ✅ friendlypds.cloud | No | 0.4.32 |
 | ✅ fttp.cc | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
@@ -259,7 +262,7 @@ part of mainnet.
 | ✅ pds.vforge.social | No | 0.4.32 |
 | ✅ pds.walloftext.ca | No | 0.4.32 |
 | ✅ pds.wyvern.rip | No | 0.4.32 |
-| ❌ pds.y-force.info | Yes | 0.4.27 |
+| ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.32 |
 | ❌ pony.bz | No | 0.4.27 |
 | ✅ porcini.us-east.host.bsky.network | No | git-5007d74 |
@@ -279,7 +282,7 @@ part of mainnet.
 | ✅ sky.joeferguson.me | No | 0.4.32 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.32 |
-| ✅ sky.tokimeki.blue | No | 0.4.32 |
+| ❌ sky.tokimeki.blue | No | 0.4.32 |
 | ✅ sky01.ketto.ca | No | 0.4.32 |
 | ✅ skyblue.cc | No | 0.4.32 |
 | ✅ sns.limelee.xyz | No | 0.4.32 |
@@ -333,7 +336,7 @@ part of mainnet.
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
 | ✅ labeler.divy.zone | 0.1.11 |
-| ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
+| ❌ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |

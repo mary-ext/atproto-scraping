@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5919457",
+		"cursor": "5930160",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-11T00:59:38.824Z"
+		"cursor": "2024-06-12T00:59:46.214Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -83,12 +83,12 @@
 			"errorAt": 1717549121817
 		},
 		"https://at.clavis.info/": {
-			"version": "0.4.24",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.25"
+			"version": "0.4.32"
 		},
 		"https://at.donley.io/": {
 			"inviteCodeRequired": true,
@@ -112,7 +112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718067588922
+			"errorAt": 1718153993691
 		},
 		"https://b.hill.fo/": {
 			"errorAt": 1717030694020
@@ -184,10 +184,12 @@
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
+		"https://bluesky.ryuka-lucas.net/": {
+			"errorAt": 1718153993691
+		},
 		"https://bluesky.sami.sk/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1717981273940
+			"version": "0.4.32"
 		},
 		"https://bluesky.therobbiedavis.com/": {
 			"version": "0.4.32",
@@ -237,6 +239,11 @@
 			"inviteCodeRequired": true
 		},
 		"https://bs.vrccl.life/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true,
+			"errorAt": 1718153993691
+		},
+		"https://bsk.ryuka-lucas.net/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
@@ -336,7 +343,8 @@
 		},
 		"https://bsky.milkcocoa.info/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718153993691
 		},
 		"https://bsky.milv.life/": {
 			"version": "0.4.12",
@@ -387,6 +395,9 @@
 			"version": "0.4.27",
 			"inviteCodeRequired": true
 		},
+		"https://bsky.ryuka-lucas.net/": {
+			"errorAt": 1718153993691
+		},
 		"https://bsky.samulireijula.net/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -414,7 +425,7 @@
 			"errorAt": 1717895071295
 		},
 		"https://bsky.tranvender.site/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.vasco-shot.com/": {
@@ -538,7 +549,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://foxhole.lgbt/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://friendlypds.cloud/": {
@@ -622,8 +633,8 @@
 			"inviteCodeRequired": false
 		},
 		"https://killdozer.church/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718067588922
 		},
 		"https://knot.land/": {
@@ -742,7 +753,7 @@
 		"https://nmatsui.work/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.27",
-			"errorAt": 1717462745005
+			"errorAt": 1718153993691
 		},
 		"https://nonsono.online/": {
 			"version": "0.4.7",
@@ -1048,8 +1059,7 @@
 		},
 		"https://pds.y-force.info/": {
 			"inviteCodeRequired": false,
-			"version": "0.4.27",
-			"errorAt": 1717981273940
+			"version": "0.4.27"
 		},
 		"https://pds.zccx.net/": {
 			"version": "0.4.32",
@@ -1130,7 +1140,8 @@
 		},
 		"https://sky.tokimeki.blue/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718153993691
 		},
 		"https://sky01.ketto.ca/": {
 			"version": "0.4.32",
@@ -1249,7 +1260,7 @@
 			"errorAt": 1718067588922
 		},
 		"https://waverly.social/": {
-			"errorAt": 1718067588922
+			"errorAt": 1718153993691
 		},
 		"https://whipq.com/": {
 			"inviteCodeRequired": true,
@@ -1257,8 +1268,8 @@
 			"errorAt": 1717030694020
 		},
 		"https://whiz.social/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718067588922
 		},
 		"https://wordsky.xyz/": {
@@ -1321,7 +1332,8 @@
 		},
 		"https://labeler.tokimeki.blue/": {
 			"did": "did:plc:7fkqmr7dfu6vanyxvjtloos3",
-			"version": "0.0.17-next.1"
+			"version": "0.0.17-next.1",
+			"errorAt": 1718153993691
 		},
 		"https://lavka.zalupa.in.ua/": {
 			"did": "did:plc:z2i5ah5elywxdcr64i7xai3z",
