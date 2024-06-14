@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-13T01:06:22.784Z[^1]
+Last updated: 2024-06-14T01:04:34.247Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -14,10 +14,10 @@ part of mainnet.
 | ✅ 465789.xyz | No | 0.4.32 |
 | ✅ 80px.org | No | 0.4.32 |
 | ✅ afternooncurry.com | No | 0.4.32 |
-| ✅ agaric.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ agaric.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.27 |
-| ✅ amanita.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ amanita.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ angels.fan | No | 0.4.32 |
 | ❌ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.32 |
@@ -27,11 +27,10 @@ part of mainnet.
 | ✅ at.yuntan.tech | No | 0.4.32 |
 | ✅ atp.retroheart.net | No | 0.4.32 |
 | ❌ atproto.brid.gy | No | ??? |
-| ❌ b.hill.fo | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
 | ✅ beta.thehippo.dev | No | 0.4.23 |
 | ✅ bevenhall.net | No | 0.4.32 |
-| ✅ blewit.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ blewit.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ blue-ocean.social | No | 0.4.32 |
 | ✅ blue.jbonomi.dev | No | 0.4.32 |
 | ✅ blueskeet.social | No | 0.4.32 |
@@ -51,7 +50,8 @@ part of mainnet.
 | ❌ bluesky.whiz.social | No | ??? |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.32 |
-| ✅ boletus.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ blusky.fly-social.com | No | 0.4.32 |
+| ✅ boletus.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ bossett.social | No | 0.4.21 |
 | ✅ boymodelworld.com | No | 0.4.32 |
 | ✅ brnc.at | No | 0.4.32 |
@@ -61,7 +61,7 @@ part of mainnet.
 | ✅ bs.thagoat.rip | No | 0.4.32 |
 | ❌ bs.vrccl.life | No | 0.4.32 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
-| ✅ bsky-pds.dsrs.it | No | 0.4.32 |
+| ❌ bsky-pds.dsrs.it | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.32 |
 | ✅ bsky.air11.social | No | 0.4.32 |
@@ -71,7 +71,6 @@ part of mainnet.
 | ✅ bsky.davewinter.social | No | 0.4.32 |
 | ✅ bsky.day | No | 0.4.32 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
-| ❌ bsky.doskel.net | No | 0.4.27 |
 | ✅ bsky.giurgiu.io | No | 0.4.0-beta.7 |
 | ✅ bsky.gsheps.net | No | 0.4.32 |
 | ✅ bsky.huimao.xyz | No | 0.4.32 |
@@ -110,14 +109,14 @@ part of mainnet.
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
 | ✅ bsky.zoeyvid.de | No | 0.4.32 |
-| ✅ bskytest.marginal.net | No | 0.4.7 |
+| ❌ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.32 |
 | ✅ cauda.cloud | No | 0.4.32 |
-| ✅ chaga.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ chaga.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ chair.rocks | No | 0.4.32 |
 | ✅ closedcircle.io | No | 0.4.32 |
 | ✅ comrades.social | No | 0.4.32 |
-| ✅ conocybe.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ conocybe.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ corgi.dance | No | 0.4.32 |
 | ✅ daemons.work | No | 0.4.12 |
 | ✅ danya.dev | No | 0.4.32 |
@@ -125,20 +124,19 @@ part of mainnet.
 | ✅ disbursement.center | No | 0.4.32 |
 | ✅ divy.zone | No | 0.4.24 |
 | ✅ dollpost.ing | No | 0.4.12 |
-| ❌ doom.broker | No | 0.4.27 |
 | ✅ dopsky.social | No | 0.4.32 |
 | ✅ drakeno.de | No | 0.4.32 |
 | ✅ ds.povario.com | No | 0.4.12 |
 | ❌ ecow.dev | No | 0.4.32 |
 | ❌ ekaki.art | No | 0.4.32 |
-| ✅ enoki.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ enoki.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ epicspace.quest | No | 0.4.32 |
 | ✅ fastani.me | No | 0.4.27 |
 | ✅ filly.social | No | 0.4.32 |
 | ✅ foxhole.lgbt | No | 0.4.32 |
 | ✅ friendlypds.cloud | No | 0.4.32 |
 | ✅ fttp.cc | No | 0.4.32 |
-| ✅ fuku.monster | No | 0.4.32 |
+| ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
 | ✅ giulia.social | No | N/A |
@@ -149,14 +147,15 @@ part of mainnet.
 | ✅ hockley.info | Yes | 0.4.32 |
 | ✅ holofan.live | No | 0.4.32 |
 | ✅ hooray.social | No | 0.4.32 |
-| ✅ hydnum.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ hydnum.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ iame.li | No | 0.4.23 |
-| ✅ inkcap.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ inkcap.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ internect.ing | No | 0.4.32 |
+| ✅ ionosphere.neontrix.xyz | No | 0.4.32 |
 | ✅ ishimmi.net | No | 0.4.32 |
 | ✅ jlailu.social | No | 0.4.32 |
 | ✅ kansascity.social | No | 0.4.32 |
-| ✅ kiichigo.cloud | Yes | 0.4.32 |
+| ❌ kiichigo.cloud | Yes | 0.4.32 |
 | ❌ killdozer.church | No | 0.4.32 |
 | ✅ knot.land | No | 0.4.32 |
 | ✅ ksky.7ka.org | No | 0.4.32 |
@@ -166,15 +165,14 @@ part of mainnet.
 | ✅ lalasky.fun | No | 0.4.32 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
 | ✅ laurenandquinn.love | No | 0.4.32 |
-| ✅ lepista.us-west.host.bsky.network | No | git-5007d74 |
-| ❌ libertywave.app | Yes | 0.4.27 |
-| ✅ lionsmane.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ lepista.us-west.host.bsky.network | No | git-fcae4c5 |
+| ✅ lionsmane.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ lukitomo.com | No | 0.4.32 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
 | ✅ madiator.cloud | No | 0.4.27 |
 | ✅ magrasea.com | No | 0.4.32 |
-| ✅ maitake.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ maitake.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ matcha.systems | No | 0.4.32 |
 | ✅ meety.me | No | 0.4.32 |
 | ✅ midgardmates.com | No | 0.4.32 |
@@ -182,7 +180,7 @@ part of mainnet.
 | ✅ mkl.lol | No | 0.4.32 |
 | ✅ moegi.stream | No | 0.4.32 |
 | ✅ moogleyacht.club | No | 0.4.32 |
-| ✅ morel.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ morel.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
@@ -195,7 +193,7 @@ part of mainnet.
 | ✅ okashi.social | No | 0.4.32 |
 | ✅ opp.minuspoint.com | No | 0.4.32 |
 | ✅ otasora.blue | No | 0.4.32 |
-| ✅ oyster.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ oyster.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ p.kojira.io | No | 0.4.32 |
 | ✅ pdeeznuts.amith.sbs | No | 0.4.32 |
 | ✅ pds.a2.rip | No | 0.4.32 |
@@ -204,7 +202,7 @@ part of mainnet.
 | ✅ pds.anymanystreams.cc | No | 0.4.32 |
 | ✅ pds.aparker.io | No | 0.4.32 |
 | ✅ pds.axtch.net | No | 0.4.32 |
-| ✅ pds.bboysoul.cn | No | 0.4.0-beta.7 |
+| ❌ pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | ✅ pds.bernd.network | No | 0.4.32 |
 | ✅ pds.c-stellar.net | No | 0.4.32 |
 | ✅ pds.cacheblasters.com | No | 0.4.32 |
@@ -241,7 +239,6 @@ part of mainnet.
 | ✅ pds.nebu.land | No | 0.4.32 |
 | ❌ pds.nerkho.wtf | No | 0.4.27 |
 | ✅ pds.nixeneko.info | No | 0.4.32 |
-| ❌ pds.nmatsui.work | No | ??? |
 | ✅ pds.pokete.com | No | 0.4.32 |
 | ✅ pds.quimian.com | No | 0.4.32 |
 | ✅ pds.robocracy.org | No | 0.4.12 |
@@ -257,7 +254,6 @@ part of mainnet.
 | ✅ pds.timburga.social | No | 0.4.32 |
 | ✅ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.32 |
-| ❌ pds.trkw.dev | No | 0.4.27 |
 | ✅ pds.tw | No | 0.4.32 |
 | ✅ pds.ubanis.mydns.jp | No | 0.4.32 |
 | ✅ pds.unsocial.dev | No | 0.4.32 |
@@ -267,24 +263,24 @@ part of mainnet.
 | ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.32 |
 | ❌ pony.bz | No | 0.4.27 |
-| ✅ porcini.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ porcini.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ proto.sorcie.re | No | 0.4.32 |
-| ✅ puffball.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ puffball.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ quokka.today | No | 0.4.32 |
 | ✅ rainbowgirl.moe | No | 0.4.32 |
 | ✅ randir.link | No | 0.4.32 |
 | ❌ rebroad.com | No | 0.4.32 |
 | ✅ redocean.one | No | 0.4.32 |
 | ✅ rows.io | No | 0.4.23 |
-| ✅ russula.us-west.host.bsky.network | No | git-5007d74 |
-| ✅ shiitake.us-east.host.bsky.network | No | git-5007d74 |
-| ✅ shimeji.us-east.host.bsky.network | No | git-5007d74 |
+| ✅ russula.us-west.host.bsky.network | No | git-fcae4c5 |
+| ✅ shiitake.us-east.host.bsky.network | No | git-fcae4c5 |
+| ✅ shimeji.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ skeleton.rodeo | No | 0.4.32 |
 | ✅ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.joeferguson.me | No | 0.4.32 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.32 |
-| ❌ sky.tokimeki.blue | No | 0.4.32 |
+| ✅ sky.tokimeki.blue | No | 0.4.32 |
 | ✅ sky01.ketto.ca | No | 0.4.32 |
 | ✅ skyblue.cc | No | 0.4.32 |
 | ✅ sns.limelee.xyz | No | 0.4.32 |
@@ -298,24 +294,21 @@ part of mainnet.
 | ✅ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.32 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ❌ thewired.online | No | 0.4.27 |
 | ❌ tkpn.social | No | 0.4.0-beta.7 |
 | ✅ tksocial.eu.org | No | 0.4.32 |
 | ✅ trashcave.net | No | 0.4.32 |
 | ✅ trekologer.social | No | 0.4.32 |
-| ❌ tubular.retroheart.net | No | ??? |
 | ✅ tweethive.net | No | 0.4.32 |
 | ✅ uabsky.org | No | 0.4.32 |
 | ✅ userdir.de | No | 0.4.32 |
 | ✅ v-laboratory.com | No | 0.4.32 |
 | ✅ v9v.net | No | 0.4.32 |
 | ✅ vengeful.eu | No | 0.4.32 |
-| ✅ verpa.us-west.host.bsky.network | No | git-5007d74 |
+| ✅ verpa.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.32 |
 | ❌ wave.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
-| ❌ whipq.com | No | 0.4.27 |
 | ❌ whiz.social | No | 0.4.32 |
 | ✅ wordsky.xyz | No | 0.4.32 |
 | ✅ x.kty.lol | No | 0.4.32 |
@@ -338,7 +331,7 @@ part of mainnet.
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
 | ✅ labeler.divy.zone | 0.1.11 |
-| ❌ labeler.tokimeki.blue | 0.0.17-next.1 |
+| ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |
@@ -349,8 +342,7 @@ part of mainnet.
 | ✅ ozone.bka.li | 0.1.11 |
 | ❌ ozone.bluemusha.com | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
-| ❌ ozone.bsky.imax.in.ua | 0.1.1 |
-| ❌ ozone.bskytest-hcc8588.f5.si | ??? |
+| ✅ ozone.bsky.imax.in.ua | 0.1.1 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
@@ -367,6 +359,7 @@ part of mainnet.
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
 | ✅ ozone.papercut.rodeo | 0.1.11 |
 | ❌ ozone.playground.do.orthanc.co.nz | ??? |
+| ✅ ozone.procycling.social | 0.1.11 |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.thebull.app | 0.1.11 |
