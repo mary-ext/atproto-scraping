@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "5972977",
+		"cursor": "5983614",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-14T00:59:18.825Z"
+		"cursor": "2024-06-15T00:59:22.253Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -87,8 +87,7 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1718240362151
+			"version": "0.4.32"
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.32",
@@ -107,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718326769265
+			"errorAt": 1718413170253
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -244,8 +243,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky-pds.dsrs.it/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718326769265
 		},
 		"https://bsky-pds.h3z.jp/": {
@@ -437,8 +436,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bskytest.marginal.net/": {
-			"version": "0.4.7",
 			"inviteCodeRequired": true,
+			"version": "0.4.7",
 			"errorAt": 1718326769265
 		},
 		"https://bum.ninja/": {
@@ -548,8 +547,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://fuku.monster/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718326769265
 		},
 		"https://gear.blue/": {
@@ -562,7 +561,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1718413170253
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -625,8 +625,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://kiichigo.cloud/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": false,
+			"version": "0.4.32",
 			"errorAt": 1718326769265
 		},
 		"https://killdozer.church/": {
@@ -816,8 +816,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.bboysoul.cn/": {
-			"version": "0.4.0-beta.7",
 			"inviteCodeRequired": true,
+			"version": "0.4.0-beta.7",
 			"errorAt": 1718326769265
 		},
 		"https://pds.bernd.network/": {
@@ -1058,11 +1058,6 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
-		"https://pony.bz/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717117133648
-		},
 		"https://porcini.us-east.host.bsky.network/": {
 			"version": "git-fcae4c5",
 			"inviteCodeRequired": true
@@ -1245,7 +1240,7 @@
 			"errorAt": 1718067588922
 		},
 		"https://waverly.social/": {
-			"errorAt": 1718326769265
+			"errorAt": 1718413170253
 		},
 		"https://whiz.social/": {
 			"inviteCodeRequired": true,

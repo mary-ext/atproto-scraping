@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-14T01:04:34.247Z[^1]
+Last updated: 2024-06-15T01:02:29.086Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ angels.fan | No | 0.4.32 |
 | ❌ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.32 |
-| ❌ at.dingdongdata.com | No | 0.4.32 |
+| ✅ at.dingdongdata.com | No | 0.4.32 |
 | ✅ at.hwsc.link | No | 0.4.32 |
 | ✅ at.kizaing.ca | No | 0.4.32 |
 | ✅ at.yuntan.tech | No | 0.4.32 |
@@ -139,7 +139,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -262,7 +262,6 @@ part of mainnet.
 | ✅ pds.wyvern.rip | No | 0.4.32 |
 | ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.32 |
-| ❌ pony.bz | No | 0.4.27 |
 | ✅ porcini.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ proto.sorcie.re | No | 0.4.32 |
 | ✅ puffball.us-east.host.bsky.network | No | git-fcae4c5 |
