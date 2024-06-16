@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-15T01:02:29.086Z[^1]
+Last updated: 2024-06-16T01:07:21.379Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -93,7 +93,7 @@ part of mainnet.
 | ✅ bsky.pink | Yes | 0.4.32 |
 | ✅ bsky.plasmatrap.com | No | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.32 |
-| ✅ bsky.psote.ing | No | 0.4.32 |
+| ❌ bsky.psote.ing | No | 0.4.32 |
 | ❌ bsky.redho.st | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ❌ bsky.ryuka-lucas.net | No | ??? |
@@ -102,7 +102,6 @@ part of mainnet.
 | ✅ bsky.taila5061.ts.net | No | 0.4.32 |
 | ✅ bsky.theatl.social | No | 0.4.32 |
 | ✅ bsky.tm2t.net | No | 0.4.32 |
-| ❌ bsky.tochu-cha.mydns.jp | No | ??? |
 | ❌ bsky.tomoki-h.com | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.32 |
 | ❌ bsky.vasco-shot.com | No | 0.4.32 |
@@ -139,7 +138,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -153,13 +152,13 @@ part of mainnet.
 | ✅ internect.ing | No | 0.4.32 |
 | ✅ ionosphere.neontrix.xyz | No | 0.4.32 |
 | ✅ ishimmi.net | No | 0.4.32 |
+| ❌ ix-works.coco-mundy.fr | No | ??? |
 | ✅ jlailu.social | No | 0.4.32 |
 | ✅ kansascity.social | No | 0.4.32 |
 | ❌ kiichigo.cloud | Yes | 0.4.32 |
 | ❌ killdozer.church | No | 0.4.32 |
 | ✅ knot.land | No | 0.4.32 |
 | ✅ ksky.7ka.org | No | 0.4.32 |
-| ❌ kty.lol | No | ??? |
 | ✅ labcaffeinated.com | No | 0.4.32 |
 | ✅ lacunas.net | No | 0.4.32 |
 | ✅ lalasky.fun | No | 0.4.32 |
@@ -304,7 +303,7 @@ part of mainnet.
 | ✅ v9v.net | No | 0.4.32 |
 | ✅ vengeful.eu | No | 0.4.32 |
 | ✅ verpa.us-west.host.bsky.network | No | git-fcae4c5 |
-| ✅ veryun.cool | No | 0.4.12 |
+| ❌ veryun.cool | No | 0.4.12 |
 | ✅ waraiotoko.xyz | No | 0.4.32 |
 | ❌ wave.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
@@ -331,6 +330,7 @@ part of mainnet.
 | ✅ labeler.dholms.xyz | 0.1.11 |
 | ✅ labeler.divy.zone | 0.1.11 |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
+| ✅ labeling.newsdetective.org | 0.1.11 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |
@@ -357,6 +357,7 @@ part of mainnet.
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
 | ✅ ozone.papercut.rodeo | 0.1.11 |
+| ✅ ozone.perfect-bra.in | 0.1.11 |
 | ❌ ozone.playground.do.orthanc.co.nz | ??? |
 | ✅ ozone.procycling.social | 0.1.11 |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
