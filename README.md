@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-16T01:07:21.379Z[^1]
+Last updated: 2024-06-17T01:04:40.463Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -82,10 +82,10 @@ part of mainnet.
 | ✅ bsky.mabataki.moe | No | 0.4.27 |
 | ✅ bsky.mcphail.uk | No | 0.4.32 |
 | ✅ bsky.mcr.gb.net | No | 0.4.32 |
-| ❌ bsky.milkcocoa.info | No | 0.4.32 |
+| ✅ bsky.milkcocoa.info | No | 0.4.32 |
 | ✅ bsky.milv.life | No | 0.4.12 |
 | ✅ bsky.moellus.net | No | 0.4.32 |
-| ✅ bsky.mycapitolwatchdog.com | No | 0.4.27 |
+| ✅ bsky.mycapitolwatchdog.com | No | 0.4.32 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.32 |
 | ✅ bsky.ocelot.lol | No | 0.4.32 |
@@ -93,7 +93,7 @@ part of mainnet.
 | ✅ bsky.pink | Yes | 0.4.32 |
 | ✅ bsky.plasmatrap.com | No | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.32 |
-| ❌ bsky.psote.ing | No | 0.4.32 |
+| ✅ bsky.psote.ing | No | 0.4.32 |
 | ❌ bsky.redho.st | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ❌ bsky.ryuka-lucas.net | No | ??? |
@@ -138,7 +138,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -155,7 +155,7 @@ part of mainnet.
 | ❌ ix-works.coco-mundy.fr | No | ??? |
 | ✅ jlailu.social | No | 0.4.32 |
 | ✅ kansascity.social | No | 0.4.32 |
-| ❌ kiichigo.cloud | Yes | 0.4.32 |
+| ✅ kiichigo.cloud | Yes | 0.4.32 |
 | ❌ killdozer.church | No | 0.4.32 |
 | ✅ knot.land | No | 0.4.32 |
 | ✅ ksky.7ka.org | No | 0.4.32 |
@@ -166,7 +166,7 @@ part of mainnet.
 | ✅ laurenandquinn.love | No | 0.4.32 |
 | ✅ lepista.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-fcae4c5 |
-| ✅ lukitomo.com | No | 0.4.32 |
+| ❌ lukitomo.com | No | 0.4.32 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
 | ✅ madiator.cloud | No | 0.4.27 |
@@ -322,6 +322,7 @@ part of mainnet.
 | --- | --- |
 | ✅ aegismoderation.com | 0.1.11 |
 | ✅ aimod.social | 0.1.11 |
+| ✅ atproto.bsky.watch | ??? |
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
@@ -341,7 +342,7 @@ part of mainnet.
 | ✅ ozone.bka.li | 0.1.11 |
 | ❌ ozone.bluemusha.com | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
-| ✅ ozone.bsky.imax.in.ua | 0.1.1 |
+| ❌ ozone.bsky.imax.in.ua | 0.1.1 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |

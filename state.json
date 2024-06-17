@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6004697",
+		"cursor": "6018758",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-16T01:04:06.231Z"
+		"cursor": "2024-06-17T01:01:26.866Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -107,7 +107,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718499856541
+			"errorAt": 1718586103416
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -330,8 +330,7 @@
 		},
 		"https://bsky.milkcocoa.info/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1718153993691
+			"version": "0.4.32"
 		},
 		"https://bsky.milv.life/": {
 			"version": "0.4.12",
@@ -342,7 +341,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.mycapitolwatchdog.com/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.mystech.ink/": {
@@ -374,9 +373,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.psote.ing/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1718499856541
+			"version": "0.4.32"
 		},
 		"https://bsky.redho.st/": {
 			"inviteCodeRequired": true,
@@ -560,7 +558,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1718586103416
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -627,8 +626,7 @@
 		},
 		"https://kiichigo.cloud/": {
 			"inviteCodeRequired": false,
-			"version": "0.4.32",
-			"errorAt": 1718326769265
+			"version": "0.4.32"
 		},
 		"https://killdozer.church/": {
 			"inviteCodeRequired": true,
@@ -673,7 +671,8 @@
 		},
 		"https://lukitomo.com/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718586103416
 		},
 		"https://machikadosora.online/": {
 			"inviteCodeRequired": true,
@@ -1276,6 +1275,9 @@
 			"did": "did:plc:bpkpvmwpd3nr2ry4btt55ack",
 			"version": "0.1.11"
 		},
+		"https://atproto.bsky.watch/": {
+			"did": "did:plc:fro6kbnitc47ia5x23ds4o3b"
+		},
 		"https://baatl.mastod.one/": {
 			"did": "did:plc:wp7hxfjl5l4zlptn7y6774lk",
 			"version": "0.1.11"
@@ -1355,7 +1357,8 @@
 		},
 		"https://ozone.bsky.imax.in.ua/": {
 			"did": "did:plc:orkjknb6lx4snybzwsolhatt",
-			"version": "0.1.1"
+			"version": "0.1.1",
+			"errorAt": 1718586103416
 		},
 		"https://ozone.bunnynabbit.com/": {
 			"did": "did:plc:bv3lcacietc6fkdokxfqtdkj",
