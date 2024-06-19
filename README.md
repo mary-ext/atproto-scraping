@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-18T01:03:35.774Z[^1]
+Last updated: 2024-06-19T01:03:06.719Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -40,7 +40,7 @@ part of mainnet.
 | ✅ bluesky.kosti.dev | No | 0.4.32 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.32 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
-| ❌ bluesky.nissesdomain.org | No | 0.4.32 |
+| ✅ bluesky.nissesdomain.org | No | 0.4.32 |
 | ✅ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
@@ -121,7 +121,7 @@ part of mainnet.
 | ✅ danya.dev | No | 0.4.32 |
 | ✅ derpzilla.net | Yes | 0.4.0-beta.7 |
 | ✅ disbursement.center | No | 0.4.32 |
-| ✅ divy.zone | No | 0.4.24 |
+| ✅ divy.zone | No | 0.4.35 |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ dopsky.social | No | 0.4.32 |
 | ✅ drakeno.de | No | 0.4.32 |
@@ -130,7 +130,7 @@ part of mainnet.
 | ❌ ekaki.art | No | 0.4.32 |
 | ✅ enoki.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ epicspace.quest | No | 0.4.32 |
-| ✅ fastani.me | No | 0.4.27 |
+| ✅ fastani.me | No | 0.4.32 |
 | ✅ filly.social | No | 0.4.32 |
 | ✅ foxhole.lgbt | No | 0.4.32 |
 | ✅ friendlypds.cloud | No | 0.4.32 |
@@ -185,10 +185,10 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
 | ❌ neontrix.xyz | No | 0.4.32 |
-| ❌ nmatsui.com | No | ??? |
+| ✅ nmatsui.com | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
-| ✅ nottyboi.me | No | 0.4.32 |
+| ❌ nottyboi.me | No | 0.4.32 |
 | ✅ nyago.zip | No | 0.4.32 |
 | ✅ okashi.social | No | 0.4.32 |
 | ✅ opp.minuspoint.com | No | 0.4.32 |
@@ -228,7 +228,6 @@ part of mainnet.
 | ✅ pds.keiji0501.com | No | 0.4.32 |
 | ✅ pds.krasovs.ky | No | 0.4.32 |
 | ✅ pds.lotor.online | No | 0.4.32 |
-| ❌ pds.lunar.town | No | 0.4.7 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.32 |
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
@@ -334,14 +333,15 @@ part of mainnet.
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |
-| ✅ mod.bsky.app | git-b82efd5 |
-| ✅ mod.staging.bsky.dev | git-b82efd5 |
+| ✅ mod.bsky.app | git-3ad0519 |
+| ✅ mod.staging.bsky.dev | git-3ad0519 |
 | ✅ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ❌ ozone.bsky.imax.in.ua | 0.1.1 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
+| ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
