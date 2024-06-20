@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6034269",
+		"cursor": "6040167",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-19T00:59:59.011Z"
+		"cursor": "2024-06-20T00:58:08.616Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -106,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718758811112
+			"errorAt": 1718845109799
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -529,7 +529,8 @@
 		},
 		"https://filly.social/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718845109799
 		},
 		"https://foxhole.lgbt/": {
 			"version": "0.4.32",
@@ -558,7 +559,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1718845109799
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -574,7 +576,8 @@
 		},
 		"https://hivetasks.com/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718845109799
 		},
 		"https://hockley.info/": {
 			"version": "0.4.32",
@@ -720,7 +723,8 @@
 		},
 		"https://moegi.stream/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718845109799
 		},
 		"https://moogleyacht.club/": {
 			"version": "0.4.32",
@@ -761,8 +765,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://nottyboi.me/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718758811112
 		},
 		"https://nyago.zip/": {
@@ -1228,7 +1232,7 @@
 			"errorAt": 1718067588922
 		},
 		"https://waverly.social/": {
-			"errorAt": 1718758811112
+			"errorAt": 1718845109799
 		},
 		"https://whiz.social/": {
 			"inviteCodeRequired": true,
