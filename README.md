@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-20T01:01:12.905Z[^1]
+Last updated: 2024-06-21T01:01:38.578Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -19,7 +19,6 @@ part of mainnet.
 | ✅ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ angels.fan | No | 0.4.32 |
-| ❌ aspen.moe | No | 0.4.27 |
 | ✅ at.clavis.info | No | 0.4.32 |
 | ✅ at.dingdongdata.com | No | 0.4.32 |
 | ✅ at.hwsc.link | No | 0.4.32 |
@@ -131,18 +130,18 @@ part of mainnet.
 | ✅ enoki.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ epicspace.quest | No | 0.4.32 |
 | ✅ fastani.me | No | 0.4.32 |
-| ❌ filly.social | No | 0.4.32 |
+| ✅ filly.social | No | 0.4.32 |
 | ✅ foxhole.lgbt | No | 0.4.32 |
 | ✅ friendlypds.cloud | No | 0.4.32 |
 | ✅ fttp.cc | No | 0.4.32 |
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
-| ❌ hivetasks.com | No | 0.4.32 |
+| ✅ hivetasks.com | No | 0.4.32 |
 | ✅ hockley.info | Yes | 0.4.32 |
 | ✅ holofan.live | No | 0.4.32 |
 | ✅ hooray.social | No | 0.4.32 |
@@ -176,16 +175,15 @@ part of mainnet.
 | ✅ meety.me | No | 0.4.32 |
 | ✅ midgardmates.com | No | 0.4.32 |
 | ✅ mikemerritt.xyz | No | 0.4.32 |
-| ❌ mitexleo.one | No | 0.4.27 |
 | ✅ mkl.lol | No | 0.4.32 |
-| ❌ moegi.stream | No | 0.4.32 |
+| ✅ moegi.stream | No | 0.4.32 |
 | ✅ moogleyacht.club | No | 0.4.32 |
 | ✅ morel.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
 | ❌ neontrix.xyz | No | 0.4.32 |
-| ✅ nmatsui.com | No | 0.4.32 |
+| ❌ nmatsui.com | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
 | ❌ nottyboi.me | No | 0.4.32 |

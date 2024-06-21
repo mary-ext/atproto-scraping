@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6040167",
+		"cursor": "6045055",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -28,7 +28,8 @@
 			},
 			"did:web:tei.su": {
 				"hash": "D028zsTqiUCScgjX1ArWBnWy4U2WesbkzfQV-eFhICg",
-				"pds": "https://pds.stupid.fish/"
+				"pds": "https://pds.stupid.fish/",
+				"errorAt": 1718931532211
 			},
 			"did:web:yamarten.github.io": {
 				"pds": "https://porcini.us-east.host.bsky.network/",
@@ -37,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-20T00:58:08.616Z"
+		"cursor": "2024-06-21T00:58:49.257Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -76,11 +77,6 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
-		"https://aspen.moe/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717549121817
-		},
 		"https://at.clavis.info/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
@@ -106,7 +102,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718845109799
+			"errorAt": 1718931534988
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -528,9 +524,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://filly.social/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1718845109799
+			"version": "0.4.32"
 		},
 		"https://foxhole.lgbt/": {
 			"version": "0.4.32",
@@ -559,8 +554,7 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null,
-			"errorAt": 1718845109799
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -575,9 +569,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://hivetasks.com/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1718845109799
+			"version": "0.4.32"
 		},
 		"https://hockley.info/": {
 			"version": "0.4.32",
@@ -712,19 +705,13 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
-		"https://mitexleo.one/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.27",
-			"errorAt": 1717635509908
-		},
 		"https://mkl.lol/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://moegi.stream/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1718845109799
+			"version": "0.4.32"
 		},
 		"https://moogleyacht.club/": {
 			"version": "0.4.32",
@@ -753,7 +740,8 @@
 		},
 		"https://nmatsui.com/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1718931534988
 		},
 		"https://nmatsui.work/": {
 			"inviteCodeRequired": true,
