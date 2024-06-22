@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6045055",
+		"cursor": "6049642",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-21T00:58:49.257Z"
+		"cursor": "2024-06-22T00:57:22.589Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -83,7 +83,8 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32"
+			"version": "0.4.32",
+			"errorAt": 1719017910190
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.32",
@@ -102,7 +103,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1718931534988
+			"errorAt": 1719017910190
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -157,7 +158,8 @@
 		},
 		"https://bluesky.nissesdomain.org/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32"
+			"version": "0.4.32",
+			"errorAt": 1719017910190
 		},
 		"https://bluesky.nk.ca/": {
 			"version": "0.4.32",
@@ -554,7 +556,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1719017910190
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -733,14 +736,17 @@
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
+		"https://neondestiny.com/": {
+			"errorAt": 1719017910190
+		},
 		"https://neontrix.xyz/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.32",
 			"errorAt": 1718240362151
 		},
 		"https://nmatsui.com/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
+			"version": "0.4.32",
 			"errorAt": 1718931534988
 		},
 		"https://nmatsui.work/": {
@@ -783,7 +789,8 @@
 		},
 		"https://pdeeznuts.amith.sbs/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32"
+			"version": "0.4.32",
+			"errorAt": 1719017910190
 		},
 		"https://pds.a2.rip/": {
 			"version": "0.4.32",
@@ -980,7 +987,8 @@
 		},
 		"https://pds.snek.dev/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719017910190
 		},
 		"https://pds.soap.systems/": {
 			"version": "0.4.32",
@@ -1220,7 +1228,7 @@
 			"errorAt": 1718067588922
 		},
 		"https://waverly.social/": {
-			"errorAt": 1718845109799
+			"errorAt": 1719017910190
 		},
 		"https://whiz.social/": {
 			"inviteCodeRequired": true,

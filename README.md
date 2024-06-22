@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-21T01:01:38.578Z[^1]
+Last updated: 2024-06-22T01:01:22.078Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -20,7 +20,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ angels.fan | No | 0.4.32 |
 | ✅ at.clavis.info | No | 0.4.32 |
-| ✅ at.dingdongdata.com | No | 0.4.32 |
+| ❌ at.dingdongdata.com | No | 0.4.32 |
 | ✅ at.hwsc.link | No | 0.4.32 |
 | ✅ at.kizaing.ca | No | 0.4.32 |
 | ✅ at.yuntan.tech | No | 0.4.32 |
@@ -39,7 +39,7 @@ part of mainnet.
 | ✅ bluesky.kosti.dev | No | 0.4.32 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.32 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
-| ✅ bluesky.nissesdomain.org | No | 0.4.32 |
+| ❌ bluesky.nissesdomain.org | No | 0.4.32 |
 | ✅ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
@@ -137,7 +137,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -182,6 +182,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
+| ❌ neondestiny.com | No | ??? |
 | ❌ neontrix.xyz | No | 0.4.32 |
 | ❌ nmatsui.com | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
@@ -193,7 +194,7 @@ part of mainnet.
 | ✅ otasora.blue | No | 0.4.32 |
 | ✅ oyster.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ p.kojira.io | No | 0.4.32 |
-| ✅ pdeeznuts.amith.sbs | No | 0.4.32 |
+| ❌ pdeeznuts.amith.sbs | No | 0.4.32 |
 | ✅ pds.a2.rip | No | 0.4.32 |
 | ✅ pds.akigami.org | No | 0.4.32 |
 | ✅ pds.andreslucero.com | No | 0.4.32 |
@@ -242,7 +243,7 @@ part of mainnet.
 | ✅ pds.shreyanjain.net | No | 0.4.32 |
 | ✅ pds.simplespace.jp | No | 0.4.32 |
 | ✅ pds.skyfeed.dev | No | 0.4.0-beta.7 |
-| ✅ pds.snek.dev | No | 0.4.32 |
+| ❌ pds.snek.dev | No | 0.4.32 |
 | ✅ pds.soap.systems | No | 0.4.32 |
 | ✅ pds.stupid.fish | No | 0.4.32 |
 | ✅ pds.taichibit.com | No | 0.4.32 |
