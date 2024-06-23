@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-22T01:01:22.078Z[^1]
+Last updated: 2024-06-23T01:06:30.288Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -17,7 +17,7 @@ part of mainnet.
 | ✅ agaric.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.27 |
-| ✅ amanita.us-east.host.bsky.network | No | git-fcae4c5 |
+| ✅ amanita.us-east.host.bsky.network | No | git-c29e5d4 |
 | ✅ angels.fan | No | 0.4.32 |
 | ✅ at.clavis.info | No | 0.4.32 |
 | ❌ at.dingdongdata.com | No | 0.4.32 |
@@ -39,14 +39,13 @@ part of mainnet.
 | ✅ bluesky.kosti.dev | No | 0.4.32 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.32 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
-| ❌ bluesky.nissesdomain.org | No | 0.4.32 |
+| ✅ bluesky.nissesdomain.org | No | 0.4.32 |
 | ✅ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
 | ❌ bluesky.ryuka-lucas.net | No | ??? |
 | ✅ bluesky.sami.sk | No | 0.4.32 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.32 |
-| ❌ bluesky.whiz.social | No | ??? |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.32 |
 | ✅ blusky.fly-social.com | No | 0.4.32 |
@@ -103,7 +102,6 @@ part of mainnet.
 | ✅ bsky.tm2t.net | No | 0.4.32 |
 | ❌ bsky.tomoki-h.com | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.32 |
-| ❌ bsky.vasco-shot.com | No | 0.4.32 |
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
 | ✅ bsky.zoeyvid.de | No | 0.4.32 |
@@ -125,8 +123,6 @@ part of mainnet.
 | ✅ dopsky.social | No | 0.4.32 |
 | ✅ drakeno.de | No | 0.4.32 |
 | ✅ ds.povario.com | No | 0.4.12 |
-| ❌ ecow.dev | No | 0.4.32 |
-| ❌ ekaki.art | No | 0.4.32 |
 | ✅ enoki.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ epicspace.quest | No | 0.4.32 |
 | ✅ fastani.me | No | 0.4.32 |
@@ -137,7 +133,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -178,7 +174,7 @@ part of mainnet.
 | ✅ mkl.lol | No | 0.4.32 |
 | ✅ moegi.stream | No | 0.4.32 |
 | ✅ moogleyacht.club | No | 0.4.32 |
-| ✅ morel.us-east.host.bsky.network | No | git-fcae4c5 |
+| ✅ morel.us-east.host.bsky.network | No | git-c29e5d4 |
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
@@ -194,7 +190,7 @@ part of mainnet.
 | ✅ otasora.blue | No | 0.4.32 |
 | ✅ oyster.us-east.host.bsky.network | No | git-fcae4c5 |
 | ✅ p.kojira.io | No | 0.4.32 |
-| ❌ pdeeznuts.amith.sbs | No | 0.4.32 |
+| ✅ pdeeznuts.amith.sbs | No | 0.4.32 |
 | ✅ pds.a2.rip | No | 0.4.32 |
 | ✅ pds.akigami.org | No | 0.4.32 |
 | ✅ pds.andreslucero.com | No | 0.4.32 |
@@ -224,7 +220,7 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.32 |
 | ✅ pds.jaronoff.com | No | 0.4.32 |
 | ✅ pds.jay.xyz | No | 0.4.32 |
-| ✅ pds.keiji0501.com | No | 0.4.32 |
+| ❌ pds.keiji0501.com | No | 0.4.32 |
 | ✅ pds.krasovs.ky | No | 0.4.32 |
 | ✅ pds.lotor.online | No | 0.4.32 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.32 |
@@ -243,7 +239,7 @@ part of mainnet.
 | ✅ pds.shreyanjain.net | No | 0.4.32 |
 | ✅ pds.simplespace.jp | No | 0.4.32 |
 | ✅ pds.skyfeed.dev | No | 0.4.0-beta.7 |
-| ❌ pds.snek.dev | No | 0.4.32 |
+| ✅ pds.snek.dev | No | 0.4.32 |
 | ✅ pds.soap.systems | No | 0.4.32 |
 | ✅ pds.stupid.fish | No | 0.4.32 |
 | ✅ pds.taichibit.com | No | 0.4.32 |
@@ -340,7 +336,7 @@ part of mainnet.
 | ✅ ozone.bossett.social | 0.1.11 |
 | ❌ ozone.bsky.imax.in.ua | 0.1.1 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ✅ ozone.darkcarnival.gay | 0.1.11 |
+| ❌ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
