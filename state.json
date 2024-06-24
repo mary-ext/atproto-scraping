@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6054254",
+		"cursor": "6058642",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -38,7 +38,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-23T01:03:30.092Z"
+		"cursor": "2024-06-24T01:01:07.798Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -103,7 +103,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1719104614062
+			"errorAt": 1719190869913
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -360,7 +360,8 @@
 		},
 		"https://bsky.plasmatrap.com/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719190869913
 		},
 		"https://bsky.powerg.love/": {
 			"version": "0.4.32",
@@ -418,6 +419,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.zoeyvid.de/": {
+			"version": "0.4.32",
+			"inviteCodeRequired": true
+		},
+		"https://bsky.zoner.work/": {
 			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
@@ -537,7 +542,8 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null
+			"version": null,
+			"errorAt": 1719190869913
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.32",
@@ -661,7 +667,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://madiator.cloud/": {
-			"version": "0.4.27",
+			"version": "0.4.32",
 			"inviteCodeRequired": true
 		},
 		"https://magrasea.com/": {
@@ -737,6 +743,9 @@
 		"https://nonsono.online/": {
 			"version": "0.4.7",
 			"inviteCodeRequired": true
+		},
+		"https://nopueden.com/": {
+			"errorAt": 1719190869913
 		},
 		"https://nottyboi.me/": {
 			"inviteCodeRequired": true,
@@ -889,9 +898,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.keiji0501.com/": {
-			"version": "0.4.32",
 			"inviteCodeRequired": true,
-			"errorAt": 1719104614062
+			"version": "0.4.32"
 		},
 		"https://pds.krasovs.ky/": {
 			"version": "0.4.32",
@@ -903,7 +911,8 @@
 		},
 		"https://pds.matsuuratomoya.com/": {
 			"version": "0.4.32",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719190869913
 		},
 		"https://pds.mattobs.com/": {
 			"version": "0.4.32",
@@ -1330,8 +1339,7 @@
 		},
 		"https://ozone.darkcarnival.gay/": {
 			"did": "did:plc:jwqm25l6zbkgmorz3k35hf32",
-			"version": "0.1.11",
-			"errorAt": 1719104614062
+			"version": "0.1.11"
 		},
 		"https://ozone.department7.org/": {
 			"did": "did:plc:bqaoaao7n5qqv2pf7rtyncqs",

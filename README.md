@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-23T01:06:30.288Z[^1]
+Last updated: 2024-06-24T01:03:50.353Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -89,7 +89,7 @@ part of mainnet.
 | ✅ bsky.ocelot.lol | No | 0.4.32 |
 | ✅ bsky.pavli.cc | No | 0.4.32 |
 | ✅ bsky.pink | Yes | 0.4.32 |
-| ✅ bsky.plasmatrap.com | No | 0.4.32 |
+| ❌ bsky.plasmatrap.com | No | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.32 |
 | ✅ bsky.psote.ing | No | 0.4.32 |
 | ❌ bsky.redho.st | No | 0.4.32 |
@@ -105,6 +105,7 @@ part of mainnet.
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
 | ✅ bsky.zoeyvid.de | No | 0.4.32 |
+| ✅ bsky.zoner.work | No | 0.4.32 |
 | ❌ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.32 |
 | ✅ cauda.cloud | No | 0.4.32 |
@@ -133,7 +134,7 @@ part of mainnet.
 | ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.32 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.32 |
 | ✅ habanero.f5.si | No | 0.4.32 |
 | ✅ hellthread.pro | No | 0.4.32 |
@@ -164,7 +165,7 @@ part of mainnet.
 | ❌ lukitomo.com | No | 0.4.32 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
-| ✅ madiator.cloud | No | 0.4.27 |
+| ✅ madiator.cloud | No | 0.4.32 |
 | ✅ magrasea.com | No | 0.4.32 |
 | ✅ maitake.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ matcha.systems | No | 0.4.32 |
@@ -183,6 +184,7 @@ part of mainnet.
 | ❌ nmatsui.com | No | 0.4.32 |
 | ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
+| ❌ nopueden.com | No | ??? |
 | ❌ nottyboi.me | No | 0.4.32 |
 | ✅ nyago.zip | No | 0.4.32 |
 | ✅ okashi.social | No | 0.4.32 |
@@ -220,10 +222,10 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.32 |
 | ✅ pds.jaronoff.com | No | 0.4.32 |
 | ✅ pds.jay.xyz | No | 0.4.32 |
-| ❌ pds.keiji0501.com | No | 0.4.32 |
+| ✅ pds.keiji0501.com | No | 0.4.32 |
 | ✅ pds.krasovs.ky | No | 0.4.32 |
 | ✅ pds.lotor.online | No | 0.4.32 |
-| ✅ pds.matsuuratomoya.com | No | 0.4.32 |
+| ❌ pds.matsuuratomoya.com | No | 0.4.32 |
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.32 |
@@ -336,7 +338,7 @@ part of mainnet.
 | ✅ ozone.bossett.social | 0.1.11 |
 | ❌ ozone.bsky.imax.in.ua | 0.1.1 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ❌ ozone.darkcarnival.gay | 0.1.11 |
+| ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
