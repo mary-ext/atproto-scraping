@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-24T01:03:50.353Z[^1]
+Last updated: 2024-06-25T01:02:22.201Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -17,10 +17,10 @@ part of mainnet.
 | ✅ agaric.us-west.host.bsky.network | No | git-fcae4c5 |
 | ✅ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.27 |
-| ✅ amanita.us-east.host.bsky.network | No | git-c29e5d4 |
+| ✅ amanita.us-east.host.bsky.network | No | git-794d30e |
 | ✅ angels.fan | No | 0.4.32 |
 | ✅ at.clavis.info | No | 0.4.32 |
-| ❌ at.dingdongdata.com | No | 0.4.32 |
+| ✅ at.dingdongdata.com | No | 0.4.32 |
 | ✅ at.hwsc.link | No | 0.4.32 |
 | ✅ at.kizaing.ca | No | 0.4.32 |
 | ✅ at.yuntan.tech | No | 0.4.32 |
@@ -34,13 +34,12 @@ part of mainnet.
 | ✅ blue.jbonomi.dev | No | 0.4.32 |
 | ✅ blueskeet.social | No | 0.4.32 |
 | ✅ bluesky.akyoz.net | No | 0.4.32 |
-| ❌ bluesky.ericmitch.com | No | ??? |
 | ✅ bluesky.goober.cloud | No | 0.4.32 |
 | ✅ bluesky.kosti.dev | No | 0.4.32 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.32 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.32 |
-| ✅ bluesky.nk.ca | No | 0.4.32 |
+| ❌ bluesky.nk.ca | No | 0.4.32 |
 | ✅ bluesky.rosafamily.net | No | 0.4.32 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
 | ❌ bluesky.ryuka-lucas.net | No | ??? |
@@ -92,7 +91,6 @@ part of mainnet.
 | ❌ bsky.plasmatrap.com | No | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.32 |
 | ✅ bsky.psote.ing | No | 0.4.32 |
-| ❌ bsky.redho.st | No | 0.4.32 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ❌ bsky.ryuka-lucas.net | No | ??? |
 | ✅ bsky.samulireijula.net | No | 0.4.32 |
@@ -100,7 +98,6 @@ part of mainnet.
 | ✅ bsky.taila5061.ts.net | No | 0.4.32 |
 | ✅ bsky.theatl.social | No | 0.4.32 |
 | ✅ bsky.tm2t.net | No | 0.4.32 |
-| ❌ bsky.tomoki-h.com | No | ??? |
 | ✅ bsky.tranvender.site | No | 0.4.32 |
 | ✅ bsky.vylion.com | No | 0.4.32 |
 | ✅ bsky.wtr.app | No | 0.4.32 |
@@ -122,6 +119,7 @@ part of mainnet.
 | ✅ divy.zone | No | 0.4.35 |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ dopsky.social | No | 0.4.32 |
+| ✅ downbadcryingatthegym.xyz | No | 0.4.32 |
 | ✅ drakeno.de | No | 0.4.32 |
 | ✅ ds.povario.com | No | 0.4.12 |
 | ✅ enoki.us-east.host.bsky.network | No | git-fcae4c5 |
@@ -172,10 +170,10 @@ part of mainnet.
 | ✅ meety.me | No | 0.4.32 |
 | ✅ midgardmates.com | No | 0.4.32 |
 | ✅ mikemerritt.xyz | No | 0.4.32 |
-| ✅ mkl.lol | No | 0.4.32 |
+| ❌ mkl.lol | No | 0.4.32 |
 | ✅ moegi.stream | No | 0.4.32 |
 | ✅ moogleyacht.club | No | 0.4.32 |
-| ✅ morel.us-east.host.bsky.network | No | git-c29e5d4 |
+| ✅ morel.us-east.host.bsky.network | No | git-794d30e |
 | ✅ mraow.party | No | 0.4.32 |
 | ✅ naomie.digital | No | 0.4.32 |
 | ✅ nekohana.blue | No | 0.4.32 |
@@ -225,7 +223,7 @@ part of mainnet.
 | ✅ pds.keiji0501.com | No | 0.4.32 |
 | ✅ pds.krasovs.ky | No | 0.4.32 |
 | ✅ pds.lotor.online | No | 0.4.32 |
-| ❌ pds.matsuuratomoya.com | No | 0.4.32 |
+| ✅ pds.matsuuratomoya.com | No | 0.4.32 |
 | ✅ pds.mattobs.com | No | 0.4.32 |
 | ✅ pds.mbl.social | No | 0.4.27 |
 | ✅ pds.megantoots.com | No | 0.4.32 |
@@ -285,7 +283,7 @@ part of mainnet.
 | ✅ stinkhorn.jacob.gold | No | 0.4.32 |
 | ✅ stupol.social | No | 0.4.32 |
 | ✅ sunaba.io | No | 0.4.32 |
-| ✅ sysad.ninja | No | 0.4.0-beta.7 |
+| ❌ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.32 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.32 |
@@ -323,6 +321,7 @@ part of mainnet.
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
 | ✅ example.mastod.one | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
+| ✅ kiki-bouba.mozzius.dev | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
 | ✅ labeler.divy.zone | 0.1.11 |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
@@ -352,7 +351,7 @@ part of mainnet.
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
-| ✅ ozone.papercut.rodeo | 0.1.11 |
+| ❌ ozone.papercut.rodeo | 0.1.11 |
 | ✅ ozone.perfect-bra.in | 0.1.11 |
 | ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
