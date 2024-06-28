@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-27T01:05:12.758Z[^1]
+Last updated: 2024-06-28T01:05:00.364Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -20,7 +20,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.32 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -53,22 +53,23 @@ part of mainnet.
 | ✅ brnc.at | No | 0.4.38 |
 | ✅ bs.lehtiin.eu | No | 0.4.32 |
 | ✅ bs.siren.jp | No | 0.4.38 |
-| ✅ bs.songngu.xyz | No | 0.4.38 |
+| ❌ bs.songngu.xyz | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
-| ❌ bsky-pds.dsrs.it | No | 0.4.32 |
+| ✅ bsky-pds.dsrs.it | No | 0.4.38 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
-| ✅ bsky-pds.lamberti.io | No | 0.4.32 |
+| ✅ bsky-pds.lamberti.io | No | 0.4.38 |
 | ✅ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
 | ✅ bsky.col.social | No | 0.4.38 |
 | ✅ bsky.davewinter.social | No | 0.4.38 |
-| ✅ bsky.day | No | 0.4.32 |
+| ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
-| ✅ bsky.giurgiu.io | No | 0.4.0-beta.7 |
+| ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
+| ✅ bsky.hyperreal.coffee | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ❌ bsky.kakushin.dev | No | 0.4.32 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
@@ -85,9 +86,9 @@ part of mainnet.
 | ✅ bsky.nerdfest.dev | No | 0.4.38 |
 | ✅ bsky.ocelot.lol | No | 0.4.38 |
 | ✅ bsky.pavli.cc | No | 0.4.38 |
-| ✅ bsky.pink | Yes | 0.4.32 |
+| ✅ bsky.pink | Yes | 0.4.38 |
 | ❌ bsky.plasmatrap.com | No | 0.4.32 |
-| ✅ bsky.powerg.love | No | 0.4.32 |
+| ✅ bsky.powerg.love | No | 0.4.38 |
 | ✅ bsky.psote.ing | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.38 |
@@ -95,12 +96,12 @@ part of mainnet.
 | ✅ bsky.taila5061.ts.net | No | 0.4.38 |
 | ✅ bsky.theatl.social | No | 0.4.32 |
 | ✅ bsky.tm2t.net | No | 0.4.38 |
-| ✅ bsky.tranvender.site | No | 0.4.32 |
+| ✅ bsky.tranvender.site | No | 0.4.38 |
 | ✅ bsky.vylion.com | No | 0.4.38 |
 | ✅ bsky.wtr.app | No | 0.4.38 |
-| ✅ bsky.zoeyvid.de | No | 0.4.32 |
+| ✅ bsky.zoeyvid.de | No | 0.4.38 |
 | ✅ bsky.zoner.work | No | 0.4.38 |
-| ❌ bskytest.marginal.net | No | 0.4.7 |
+| ✅ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.38 |
 | ✅ cauda.cloud | No | 0.4.38 |
 | ✅ chaga.us-west.host.bsky.network | No | git-4ddf457 |
@@ -123,7 +124,7 @@ part of mainnet.
 | ✅ epicspace.quest | No | 0.4.38 |
 | ✅ fastani.me | No | 0.4.38 |
 | ✅ filly.social | No | 0.4.38 |
-| ✅ foxhole.lgbt | No | 0.4.32 |
+| ✅ foxhole.lgbt | No | 0.4.38 |
 | ✅ friendlypds.cloud | No | 0.4.38 |
 | ✅ fttp.cc | No | 0.4.38 |
 | ❌ fuku.monster | No | 0.4.32 |
@@ -174,9 +175,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ neondestiny.com | No | ??? |
-| ❌ neontrix.xyz | No | 0.4.32 |
 | ❌ nmatsui.com | No | 0.4.32 |
-| ❌ nmatsui.work | No | 0.4.27 |
 | ✅ nonsono.online | No | 0.4.7 |
 | ❌ nopueden.com | No | ??? |
 | ❌ nottyboi.me | No | 0.4.32 |
@@ -197,7 +196,7 @@ part of mainnet.
 | ✅ pds.bernd.network | No | 0.4.38 |
 | ✅ pds.c-stellar.net | No | 0.4.38 |
 | ✅ pds.cacheblasters.com | No | 0.4.38 |
-| ✅ pds.caruanafamily.net | No | 0.4.32 |
+| ✅ pds.caruanafamily.net | No | 0.4.38 |
 | ✅ pds.crys.uno | No | 0.4.38 |
 | ✅ pds.danni.id | No | 0.4.38 |
 | ✅ pds.dholms.xyz | No | 0.4.38 |
@@ -207,7 +206,7 @@ part of mainnet.
 | ✅ pds.elxx.net | No | 0.4.32 |
 | ✅ pds.erechorse.com | No | 0.4.38 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
-| ✅ pds.furtenbach.social | No | 0.4.32 |
+| ✅ pds.furtenbach.social | No | 0.4.38 |
 | ✅ pds.golf1052.com | No | 0.4.38 |
 | ✅ pds.graefekiez.de | No | 0.4.38 |
 | ✅ pds.gza.jp | No | 0.4.38 |
@@ -218,11 +217,11 @@ part of mainnet.
 | ✅ pds.jay.xyz | No | 0.4.38 |
 | ✅ pds.keiji0501.com | No | 0.4.38 |
 | ✅ pds.krasovs.ky | No | 0.4.38 |
-| ✅ pds.lotor.online | No | 0.4.32 |
+| ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
 | ✅ pds.mattobs.com | No | 0.4.38 |
 | ✅ pds.mbl.social | No | 0.4.27 |
-| ✅ pds.megantoots.com | No | 0.4.32 |
+| ✅ pds.megantoots.com | No | 0.4.38 |
 | ✅ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
@@ -239,7 +238,7 @@ part of mainnet.
 | ✅ pds.soap.systems | No | 0.4.38 |
 | ✅ pds.stupid.fish | No | 0.4.32 |
 | ✅ pds.taichibit.com | No | 0.4.38 |
-| ✅ pds.tentacle.expert | No | 0.4.32 |
+| ✅ pds.tentacle.expert | No | 0.4.38 |
 | ✅ pds.timburga.social | No | 0.4.38 |
 | ✅ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.38 |
@@ -257,7 +256,6 @@ part of mainnet.
 | ❌ quokka.today | No | 0.4.32 |
 | ✅ rainbowgirl.moe | No | 0.4.38 |
 | ✅ randir.link | No | 0.4.38 |
-| ❌ rebroad.com | No | 0.4.32 |
 | ✅ redocean.one | No | 0.4.38 |
 | ✅ rows.io | No | 0.4.32 |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
@@ -338,7 +336,7 @@ part of mainnet.
 | ✅ ozone.friend.town | 0.1.11 |
 | ❌ ozone.goeo.lol | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ✅ ozone.hellthread.pro | 0.1.22 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
 | ✅ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
@@ -349,6 +347,7 @@ part of mainnet.
 | ✅ ozone.perfect-bra.in | 0.1.11 |
 | ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
+| ❌ ozone.ripperoni.com | ??? |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.suvpen.com | 0.1.11 |
