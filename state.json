@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6075312",
+		"cursor": "6079148",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-28T00:59:51.138Z"
+		"cursor": "2024-06-29T00:58:19.961Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -102,7 +102,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1719536401396
+			"errorAt": 1719622735092
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -205,7 +205,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bs.lehtiin.eu/": {
-			"version": "0.4.32",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://bs.siren.jp/": {
@@ -213,8 +213,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bs.songngu.xyz/": {
-			"version": "0.4.38",
 			"inviteCodeRequired": true,
+			"version": "0.4.38",
 			"errorAt": 1719536401396
 		},
 		"https://bs.thagoat.rip/": {
@@ -296,8 +296,7 @@
 		},
 		"https://bsky.kit-a.net/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1719450005120
+			"version": "0.4.38"
 		},
 		"https://bsky.kretschmann.social/": {
 			"version": "0.4.0-beta.7",
@@ -382,7 +381,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.theatl.social/": {
-			"version": "0.4.32",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.tm2t.net/": {
@@ -711,7 +710,7 @@
 		"https://nmatsui.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.32",
-			"errorAt": 1718931534988
+			"errorAt": 1719622735092
 		},
 		"https://nonsono.online/": {
 			"version": "0.4.7",
@@ -1183,7 +1182,7 @@
 			"errorAt": 1719363587971
 		},
 		"https://waverly.social/": {
-			"errorAt": 1719277177810
+			"errorAt": 1719622735092
 		},
 		"https://wordsky.xyz/": {
 			"version": "0.4.38",
@@ -1379,7 +1378,7 @@
 		},
 		"https://ozone.ripperoni.com/": {
 			"did": "did:plc:hysbs7znfgxyb4tsvetzo4sk",
-			"errorAt": 1719536401396
+			"version": "0.1.11"
 		},
 		"https://ozone.shawnhoffman.dev/": {
 			"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
@@ -1397,6 +1396,10 @@
 			"did": "did:plc:vrjubqujt3v46z5poehh4qfg",
 			"version": "0.1.11",
 			"errorAt": 1719450005120
+		},
+		"https://ozone.timrombouts.be/": {
+			"did": "did:plc:3ej5knrqezo3meltfsb4vwnv",
+			"version": "0.1.11"
 		},
 		"https://ozone.topicalsource.com/": {
 			"did": "did:plc:3wabolcdllw3w5lnwbrrlp7z",

@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-28T01:05:00.364Z[^1]
+Last updated: 2024-06-29T01:03:53.538Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -51,7 +51,7 @@ part of mainnet.
 | ✅ bossett.social | No | 0.4.21 |
 | ✅ boymodelworld.com | No | 0.4.38 |
 | ✅ brnc.at | No | 0.4.38 |
-| ✅ bs.lehtiin.eu | No | 0.4.32 |
+| ✅ bs.lehtiin.eu | No | 0.4.38 |
 | ✅ bs.siren.jp | No | 0.4.38 |
 | ❌ bs.songngu.xyz | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
@@ -73,7 +73,7 @@ part of mainnet.
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ❌ bsky.kakushin.dev | No | 0.4.32 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
-| ❌ bsky.kit-a.net | No | 0.4.32 |
+| ✅ bsky.kit-a.net | No | 0.4.38 |
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | ✅ bsky.mabataki.moe | No | 0.4.27 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
@@ -94,7 +94,7 @@ part of mainnet.
 | ✅ bsky.samulireijula.net | No | 0.4.38 |
 | ✅ bsky.sneezey.uk | No | 0.4.32 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.38 |
-| ✅ bsky.theatl.social | No | 0.4.32 |
+| ✅ bsky.theatl.social | No | 0.4.38 |
 | ✅ bsky.tm2t.net | No | 0.4.38 |
 | ✅ bsky.tranvender.site | No | 0.4.38 |
 | ✅ bsky.vylion.com | No | 0.4.38 |
@@ -347,11 +347,12 @@ part of mainnet.
 | ✅ ozone.perfect-bra.in | 0.1.11 |
 | ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
-| ❌ ozone.ripperoni.com | ??? |
+| ✅ ozone.ripperoni.com | 0.1.11 |
 | ✅ ozone.shawnhoffman.dev | 0.1.1 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.suvpen.com | 0.1.11 |
 | ❌ ozone.thebull.app | 0.1.11 |
+| ✅ ozone.timrombouts.be | 0.1.11 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
