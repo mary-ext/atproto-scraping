@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-29T01:03:53.538Z[^1]
+Last updated: 2024-06-30T01:10:13.953Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,6 +12,7 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
+| ✅ 48north.org | No | 0.4.38 |
 | ❌ 80px.org | No | 0.4.32 |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
@@ -110,7 +111,7 @@ part of mainnet.
 | ✅ comrades.social | No | 0.4.38 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ corgi.dance | No | 0.4.38 |
-| ✅ daemons.work | No | 0.4.12 |
+| ✅ daemons.work | No | 0.4.38 |
 | ✅ danya.dev | No | 0.4.38 |
 | ✅ derpzilla.net | Yes | 0.4.0-beta.7 |
 | ✅ disbursement.center | No | 0.4.38 |
@@ -127,10 +128,9 @@ part of mainnet.
 | ✅ foxhole.lgbt | No | 0.4.38 |
 | ✅ friendlypds.cloud | No | 0.4.38 |
 | ✅ fttp.cc | No | 0.4.38 |
-| ❌ fuku.monster | No | 0.4.32 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ hellthread.pro | No | 0.4.38 |
@@ -192,7 +192,6 @@ part of mainnet.
 | ✅ pds.anymanystreams.cc | No | 0.4.38 |
 | ✅ pds.aparker.io | No | 0.4.38 |
 | ✅ pds.axtch.net | No | 0.4.38 |
-| ❌ pds.bboysoul.cn | No | 0.4.0-beta.7 |
 | ✅ pds.bernd.network | No | 0.4.38 |
 | ✅ pds.c-stellar.net | No | 0.4.38 |
 | ✅ pds.cacheblasters.com | No | 0.4.38 |
@@ -224,6 +223,7 @@ part of mainnet.
 | ✅ pds.megantoots.com | No | 0.4.38 |
 | ✅ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
+| ✅ pds.monster | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
 | ✅ pds.nebu.land | No | 0.4.38 |
 | ✅ pds.nixeneko.info | No | 0.4.38 |
@@ -274,6 +274,7 @@ part of mainnet.
 | ✅ social.owo.cl | No | 0.4.27 |
 | ✅ sowedu.net | No | 0.4.38 |
 | ✅ stack.party | No | 0.4.0-beta.7 |
+| ❌ stg.waverly.social | No | ??? |
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.32 |
@@ -292,6 +293,7 @@ part of mainnet.
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ veryun.cool | No | 0.4.12 |
 | ❌ waraiotoko.xyz | No | 0.4.32 |
+| ❌ wave.stg.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
 | ✅ wordsky.xyz | No | 0.4.38 |
 | ✅ x.kty.lol | No | 0.4.38 |
@@ -312,6 +314,8 @@ part of mainnet.
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
 | ✅ example.mastod.one | 0.1.11 |
+| ✅ foodlabeler.haileyok.com | 0.1.11 |
+| ✅ hbms.hexandcube.eu.org | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |

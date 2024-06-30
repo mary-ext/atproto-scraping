@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6079148",
+		"cursor": "6083136",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -37,7 +37,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-06-29T00:58:19.961Z"
+		"cursor": "2024-06-30T01:05:03.816Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -45,6 +45,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://465789.xyz/": {
+			"version": "0.4.38",
+			"inviteCodeRequired": true
+		},
+		"https://48north.org/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
@@ -102,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1719622735092
+			"errorAt": 1719709514668
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -445,7 +449,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://daemons.work/": {
-			"version": "0.4.12",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://danya.dev/": {
@@ -513,11 +517,6 @@
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
-		"https://fuku.monster/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1718326769265
-		},
 		"https://gear.blue/": {
 			"version": "0.4.27",
 			"inviteCodeRequired": true
@@ -528,8 +527,7 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null,
-			"errorAt": 1719190869913
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.38",
@@ -776,11 +774,6 @@
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
-		"https://pds.bboysoul.cn/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.0-beta.7",
-			"errorAt": 1718326769265
-		},
 		"https://pds.bernd.network/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
@@ -902,6 +895,10 @@
 			"version": "0.4.38"
 		},
 		"https://pds.mnogu.net/": {
+			"version": "0.4.38",
+			"inviteCodeRequired": true
+		},
+		"https://pds.monster/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
@@ -1106,6 +1103,9 @@
 			"version": "0.4.0-beta.7",
 			"inviteCodeRequired": true
 		},
+		"https://stg.waverly.social/": {
+			"errorAt": 1719709514668
+		},
 		"https://stinkhorn.jacob.gold/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
@@ -1181,6 +1181,9 @@
 			"version": "0.4.32",
 			"errorAt": 1719363587971
 		},
+		"https://wave.stg.waverly.social/": {
+			"errorAt": 1719709514668
+		},
 		"https://waverly.social/": {
 			"errorAt": 1719622735092
 		},
@@ -1231,6 +1234,14 @@
 		},
 		"https://example.mastod.one/": {
 			"did": "did:plc:exlb5xx2t4pgtjqzdm6ntsgh",
+			"version": "0.1.11"
+		},
+		"https://foodlabeler.haileyok.com/": {
+			"did": "did:plc:utt4jyjybor57tjdxigghzqk",
+			"version": "0.1.11"
+		},
+		"https://hbms.hexandcube.eu.org/": {
+			"did": "did:plc:an6ro7od3invm4vowxehbrdz",
 			"version": "0.1.11"
 		},
 		"https://howaboutyougeta.life/": {
