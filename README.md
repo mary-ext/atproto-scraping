@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-06-30T01:10:13.953Z[^1]
+Last updated: 2024-07-01T01:11:54.207Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -91,6 +91,7 @@ part of mainnet.
 | ❌ bsky.plasmatrap.com | No | 0.4.32 |
 | ✅ bsky.powerg.love | No | 0.4.38 |
 | ✅ bsky.psote.ing | No | 0.4.38 |
+| ✅ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.27 |
 | ✅ bsky.samulireijula.net | No | 0.4.38 |
 | ✅ bsky.sneezey.uk | No | 0.4.32 |
@@ -130,7 +131,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ hellthread.pro | No | 0.4.38 |
@@ -144,7 +145,6 @@ part of mainnet.
 | ✅ internect.ing | No | 0.4.38 |
 | ✅ ionosphere.neontrix.xyz | No | 0.4.38 |
 | ✅ ishimmi.net | No | 0.4.38 |
-| ❌ ix-works.coco-mundy.fr | No | ??? |
 | ✅ jlailu.social | No | 0.4.38 |
 | ✅ kansascity.social | No | 0.4.38 |
 | ✅ kiichigo.cloud | Yes | 0.4.38 |
@@ -291,7 +291,7 @@ part of mainnet.
 | ✅ v9v.net | No | 0.4.38 |
 | ✅ vengeful.eu | No | 0.4.38 |
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
-| ❌ veryun.cool | No | 0.4.12 |
+| ✅ w7f.social | No | 0.4.38 |
 | ❌ waraiotoko.xyz | No | 0.4.32 |
 | ❌ wave.stg.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
@@ -365,6 +365,7 @@ part of mainnet.
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ stopthegifs.haileyok.com | 0.1.11 |
+| ✅ warlabel.dattil.io | 0.1.11 |
 | ✅ xblock.aendra.dev | 0.1.11 |
 <!-- labeler-end -->
 
