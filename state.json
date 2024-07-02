@@ -1,10 +1,15 @@
 {
 	"firehose": {
-		"cursor": "6087073",
+		"cursor": "6091322",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI"
+			},
+			"did:web:de1.tentacle.expert": {
+				"hash": "pfw1qlXf6EGhPUC3X2xaMGB9Ddf-SNQRA5U6xRur4p4",
+				"pds": "https://pds.tentacle.expert/",
+				"labeler": "https://feed.tentacle.expert/"
 			},
 			"did:web:dead10ck.dev": {
 				"pds": "https://bsky.dead10ck.dev/",
@@ -37,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-07-01T01:06:41.066Z"
+		"cursor": "2024-07-02T01:00:15.402Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -50,7 +55,8 @@
 		},
 		"https://48north.org/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719882022889
 		},
 		"https://80px.org/": {
 			"inviteCodeRequired": true,
@@ -67,7 +73,8 @@
 		},
 		"https://akiba.blue/": {
 			"version": "0.4.12",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719882022889
 		},
 		"https://aliciousintent.com/": {
 			"version": "0.4.27",
@@ -87,7 +94,8 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1719882022889
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.38",
@@ -106,7 +114,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1719796011974
+			"errorAt": 1719882022889
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -199,6 +207,9 @@
 		"https://bossett.social/": {
 			"version": "0.4.21",
 			"inviteCodeRequired": true
+		},
+		"https://bou.social/": {
+			"errorAt": 1719882022889
 		},
 		"https://boymodelworld.com/": {
 			"version": "0.4.38",
@@ -624,7 +635,8 @@
 		},
 		"https://laurenandquinn.love/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719882022889
 		},
 		"https://lepista.us-west.host.bsky.network/": {
 			"version": "git-4ddf457",
@@ -721,8 +733,7 @@
 		},
 		"https://nottyboi.me/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.32",
-			"errorAt": 1719536401396
+			"version": "0.4.38"
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.38",
@@ -798,7 +809,8 @@
 		},
 		"https://pds.danni.id/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1719882022889
 		},
 		"https://pds.dholms.xyz/": {
 			"version": "0.4.38",
@@ -1094,7 +1106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://social.owo.cl/": {
-			"version": "0.4.27",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://sowedu.net/": {
@@ -1212,7 +1224,8 @@
 	"labelers": {
 		"https://aegismoderation.com/": {
 			"did": "did:plc:j67mwmangcbxch7knfm7jo2b",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1719882022889
 		},
 		"https://aimod.social/": {
 			"did": "did:plc:bpkpvmwpd3nr2ry4btt55ack",
@@ -1237,9 +1250,14 @@
 			"did": "did:plc:exlb5xx2t4pgtjqzdm6ntsgh",
 			"version": "0.1.11"
 		},
+		"https://feed.tentacle.expert/": {
+			"did": "did:web:de1.tentacle.expert",
+			"errorAt": 1719882022889
+		},
 		"https://foodlabeler.haileyok.com/": {
 			"did": "did:plc:utt4jyjybor57tjdxigghzqk",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1719882022889
 		},
 		"https://hbms.hexandcube.eu.org/": {
 			"did": "did:plc:an6ro7od3invm4vowxehbrdz",
