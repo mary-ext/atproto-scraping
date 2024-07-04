@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-03T01:05:23.321Z[^1]
+Last updated: 2024-07-04T01:05:21.367Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -43,7 +43,7 @@ part of mainnet.
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.27 |
-| ❌ bluesky.sami.sk | No | 0.4.38 |
+| ✅ bluesky.sami.sk | No | 0.4.38 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.38 |
@@ -88,7 +88,7 @@ part of mainnet.
 | ✅ bsky.ocelot.lol | No | 0.4.38 |
 | ✅ bsky.pavli.cc | No | 0.4.38 |
 | ✅ bsky.pink | Yes | 0.4.38 |
-| ❌ bsky.plasmatrap.com | No | 0.4.32 |
+| ✅ bsky.plasmatrap.com | No | 0.4.38 |
 | ✅ bsky.powerg.love | No | 0.4.38 |
 | ✅ bsky.psote.ing | No | 0.4.38 |
 | ✅ bsky.rothlyn.online | No | 0.4.38 |
@@ -163,8 +163,9 @@ part of mainnet.
 | ✅ magrasea.com | No | 0.4.38 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ matcha.systems | No | 0.4.38 |
+| ❌ mbit.sh | No | ??? |
 | ✅ meety.me | No | 0.4.38 |
-| ✅ midgardmates.com | No | 0.4.38 |
+| ❌ midgardmates.com | No | 0.4.38 |
 | ✅ mikemerritt.xyz | No | 0.4.38 |
 | ❌ mkl.lol | No | 0.4.32 |
 | ✅ moegi.stream | No | 0.4.38 |
@@ -286,6 +287,8 @@ part of mainnet.
 | ✅ trekologer.social | No | 0.4.38 |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
+| ✅ unbnd.net | No | 0.4.38 |
+| ❌ unbnd.venusonvenus.com | No | ??? |
 | ✅ userdir.de | No | 0.4.38 |
 | ✅ v-laboratory.com | No | 0.4.38 |
 | ✅ v9v.net | No | 0.4.38 |
@@ -352,7 +355,7 @@ part of mainnet.
 | ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
 | ✅ ozone.ripperoni.com | 0.1.11 |
-| ✅ ozone.shawnhoffman.dev | 0.1.1 |
+| ✅ ozone.shawnhoffman.dev | 0.1.11 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.suvpen.com | 0.1.11 |
 | ❌ ozone.thebull.app | 0.1.11 |
