@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-04T01:05:21.367Z[^1]
+Last updated: 2024-07-05T01:05:16.839Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -14,6 +14,7 @@ part of mainnet.
 | ✅ 465789.xyz | No | 0.4.38 |
 | ❌ 48north.org | No | 0.4.38 |
 | ❌ 80px.org | No | 0.4.32 |
+| ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ akiba.blue | No | 0.4.12 |
@@ -124,6 +125,7 @@ part of mainnet.
 | ✅ ds.povario.com | No | 0.4.12 |
 | ✅ enoki.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ epicspace.quest | No | 0.4.38 |
+| ❌ ericchi.moe | No | ??? |
 | ✅ fastani.me | No | 0.4.38 |
 | ✅ filly.social | No | 0.4.38 |
 | ✅ foxhole.lgbt | No | 0.4.38 |
@@ -131,7 +133,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ hellthread.pro | No | 0.4.38 |
@@ -222,7 +224,7 @@ part of mainnet.
 | ✅ pds.mattobs.com | No | 0.4.38 |
 | ✅ pds.mbl.social | No | 0.4.38 |
 | ✅ pds.megantoots.com | No | 0.4.38 |
-| ✅ pds.mevo.xyz | No | 0.4.38 |
+| ❌ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
 | ✅ pds.monster | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
@@ -354,6 +356,7 @@ part of mainnet.
 | ✅ ozone.perfect-bra.in | 0.1.11 |
 | ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
+| ✅ ozone.renahlee.com | 0.1.11 |
 | ✅ ozone.ripperoni.com | 0.1.11 |
 | ✅ ozone.shawnhoffman.dev | 0.1.11 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
