@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-05T01:05:16.839Z[^1]
+Last updated: 2024-07-06T01:03:45.771Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,14 +22,14 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
 | ✅ atp.retroheart.net | No | 0.4.38 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
-| ✅ beta.thehippo.dev | No | 0.4.23 |
+| ✅ beta.thehippo.dev | No | 0.4.38 |
 | ✅ bevenhall.net | No | 0.4.38 |
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ blue-ocean.social | No | 0.4.38 |
@@ -59,14 +59,14 @@ part of mainnet.
 | ❌ bs.songngu.xyz | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
-| ✅ bsky-pds.dsrs.it | No | 0.4.38 |
+| ❌ bsky-pds.dsrs.it | No | 0.4.38 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.38 |
 | ✅ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
 | ✅ bsky.col.social | No | 0.4.38 |
-| ✅ bsky.davewinter.social | No | 0.4.38 |
+| ❌ bsky.davewinter.social | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
@@ -78,7 +78,7 @@ part of mainnet.
 | ✅ bsky.kevoun.com | No | 0.4.38 |
 | ✅ bsky.kit-a.net | No | 0.4.38 |
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
-| ✅ bsky.mabataki.moe | No | 0.4.27 |
+| ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
 | ✅ bsky.mcr.gb.net | No | 0.4.38 |
 | ✅ bsky.milkcocoa.info | No | 0.4.38 |
@@ -224,7 +224,7 @@ part of mainnet.
 | ✅ pds.mattobs.com | No | 0.4.38 |
 | ✅ pds.mbl.social | No | 0.4.38 |
 | ✅ pds.megantoots.com | No | 0.4.38 |
-| ❌ pds.mevo.xyz | No | 0.4.38 |
+| ✅ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
 | ✅ pds.monster | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
@@ -301,6 +301,7 @@ part of mainnet.
 | ✅ warmsushi.com | No | 0.4.38 |
 | ❌ wave.stg.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
+| ✅ wilford.industries | No | 0.4.38 |
 | ✅ wordsky.xyz | No | 0.4.38 |
 | ✅ x.kty.lol | No | 0.4.38 |
 | ✅ yoshiki.burnworks.com | No | 0.4.38 |
@@ -317,7 +318,7 @@ part of mainnet.
 | ✅ aimod.social | 0.1.11 |
 | ✅ atproto.bsky.watch | ??? |
 | ✅ baatl.mastod.one | 0.1.11 |
-| ✅ blue-cosmos.social | 0.1.11 |
+| ❌ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
 | ✅ example.mastod.one | 0.1.11 |
 | ❌ feed.tentacle.expert | ??? |
@@ -332,7 +333,7 @@ part of mainnet.
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |
-| ✅ mod.bsky.app | git-e956ac0 |
+| ✅ mod.bsky.app | git-34c1b9b |
 | ✅ mod.staging.bsky.dev | git-e956ac0 |
 | ✅ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
@@ -370,6 +371,7 @@ part of mainnet.
 | ✅ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
+| ✅ posters.rip | 0.1.11 |
 | ✅ stopthegifs.haileyok.com | 0.1.11 |
 | ✅ warlabel.dattil.io | 0.1.11 |
 | ✅ xblock.aendra.dev | 0.1.11 |
