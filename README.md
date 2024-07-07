@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-06T01:03:45.771Z[^1]
+Last updated: 2024-07-07T01:10:52.987Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -133,7 +133,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ hellthread.pro | No | 0.4.38 |
@@ -159,6 +159,7 @@ part of mainnet.
 | ❌ laurenandquinn.love | No | 0.4.38 |
 | ✅ lepista.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
+| ✅ lucassky.ddns.net | No | 0.4.38 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
 | ✅ madiator.cloud | No | 0.4.32 |
@@ -176,7 +177,6 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.38 |
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
-| ❌ neondestiny.com | No | ??? |
 | ❌ nmatsui.com | No | 0.4.32 |
 | ✅ nonsono.online | No | 0.4.7 |
 | ❌ nopueden.com | No | ??? |
@@ -280,7 +280,7 @@ part of mainnet.
 | ❌ stg.waverly.social | No | ??? |
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
-| ✅ sunaba.io | No | 0.4.32 |
+| ✅ sunaba.io | No | 0.4.38 |
 | ❌ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
@@ -294,7 +294,7 @@ part of mainnet.
 | ✅ userdir.de | No | 0.4.38 |
 | ✅ v-laboratory.com | No | 0.4.38 |
 | ✅ v9v.net | No | 0.4.38 |
-| ✅ vengeful.eu | No | 0.4.38 |
+| ❌ vengeful.eu | No | 0.4.38 |
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ w7f.social | No | 0.4.38 |
 | ✅ waraiotoko.xyz | No | 0.4.38 |
@@ -355,7 +355,7 @@ part of mainnet.
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
 | ❌ ozone.papercut.rodeo | 0.1.11 |
 | ✅ ozone.perfect-bra.in | 0.1.11 |
-| ✅ ozone.playground.do.orthanc.co.nz | 0.1.11 |
+| ❌ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
 | ✅ ozone.renahlee.com | 0.1.11 |
 | ✅ ozone.ripperoni.com | 0.1.11 |
@@ -368,7 +368,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ✅ ozone.y-force.info | 0.1.11 |
+| ❌ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |

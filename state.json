@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6108789",
+		"cursor": "6115095",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-07-06T00:58:35.154Z"
+		"cursor": "2024-07-07T01:05:29.655Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -116,7 +116,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1720227526772
+			"errorAt": 1720314340102
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -274,8 +274,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.davewinter.social/": {
-			"version": "0.4.38",
 			"inviteCodeRequired": true,
+			"version": "0.4.38",
 			"errorAt": 1720227526772
 		},
 		"https://bsky.day/": {
@@ -547,8 +547,7 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null,
-			"errorAt": 1720141210468
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.38",
@@ -651,6 +650,10 @@
 			"version": "git-4ddf457",
 			"inviteCodeRequired": true
 		},
+		"https://lucassky.ddns.net/": {
+			"version": "0.4.38",
+			"inviteCodeRequired": true
+		},
 		"https://machikadosora.online/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.0-beta.7"
@@ -719,9 +722,6 @@
 		"https://nekohana.blue/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
-		},
-		"https://neondestiny.com/": {
-			"errorAt": 1719017910190
 		},
 		"https://nmatsui.com/": {
 			"inviteCodeRequired": true,
@@ -1136,7 +1136,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://sunaba.io/": {
-			"version": "0.4.32",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://sysad.ninja/": {
@@ -1193,7 +1193,8 @@
 		},
 		"https://vengeful.eu/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1720314340102
 		},
 		"https://verpa.us-west.host.bsky.network/": {
 			"version": "git-4ddf457",
@@ -1215,7 +1216,7 @@
 			"errorAt": 1719709514668
 		},
 		"https://waverly.social/": {
-			"errorAt": 1720054817583
+			"errorAt": 1720314340102
 		},
 		"https://wilford.industries/": {
 			"version": "0.4.38",
@@ -1412,7 +1413,8 @@
 		},
 		"https://ozone.playground.do.orthanc.co.nz/": {
 			"did": "did:plc:qjehb7vyu2hw7mtm4qjsh4h4",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1720314340102
 		},
 		"https://ozone.procycling.social/": {
 			"did": "did:plc:2qhdv5xwffbogrfoqcqzpady",
@@ -1465,7 +1467,8 @@
 		},
 		"https://ozone.y-force.info/": {
 			"did": "did:plc:coynarrmyjsm2s3zkbbr5iow",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1720314340102
 		},
 		"https://ozone.yardcrow.com/": {
 			"did": "did:plc:z3yk2cflhmn6vmzo3f5ixqh4",
