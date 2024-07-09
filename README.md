@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-08T01:07:27.029Z[^1]
+Last updated: 2024-07-09T01:06:34.913Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -34,7 +34,7 @@ part of mainnet.
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ blue-ocean.social | No | 0.4.38 |
 | ✅ blue.jbonomi.dev | No | 0.4.38 |
-| ✅ blueskeet.social | No | 0.4.38 |
+| ❌ blueskeet.social | No | 0.4.38 |
 | ✅ bluesky.akyoz.net | No | 0.4.38 |
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
@@ -69,6 +69,7 @@ part of mainnet.
 | ❌ bsky.davewinter.social | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
+| ✅ bsky.gearlicious.one | No | 0.4.38 |
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
@@ -134,13 +135,13 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
 | ✅ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
-| ✅ hockley.info | Yes | 0.4.38 |
+| ❌ hockley.info | Yes | 0.4.38 |
 | ✅ holofan.live | No | 0.4.38 |
 | ✅ hooray.social | No | 0.4.38 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-4ddf457 |
@@ -181,7 +182,6 @@ part of mainnet.
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nmatsui.com | No | 0.4.32 |
 | ✅ nonsono.online | No | 0.4.7 |
-| ❌ nopueden.com | No | ??? |
 | ✅ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
@@ -207,7 +207,7 @@ part of mainnet.
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.38 |
 | ✅ pds.draboros.net | No | 0.4.38 |
-| ✅ pds.elxx.net | No | 0.4.32 |
+| ✅ pds.elxx.net | No | 0.4.38 |
 | ✅ pds.erechorse.com | No | 0.4.38 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
 | ✅ pds.furtenbach.social | No | 0.4.38 |
@@ -339,7 +339,7 @@ part of mainnet.
 | ✅ mod.bsky.app | git-34c1b9b |
 | ✅ mod.staging.bsky.dev | git-e956ac0 |
 | ✅ mod.sunaba.network | 0.1.11 |
-| ❌ ozone.adorable.mom | ??? |
+| ✅ ozone.adorable.mom | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
@@ -372,7 +372,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ❌ ozone.y-force.info | 0.1.11 |
+| ✅ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
