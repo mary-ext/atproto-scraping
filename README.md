@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-09T01:06:34.913Z[^1]
+Last updated: 2024-07-10T01:07:11.536Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -18,11 +18,11 @@ part of mainnet.
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ akiba.blue | No | 0.4.12 |
-| ✅ aliciousintent.com | No | 0.4.27 |
+| ❌ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -34,7 +34,7 @@ part of mainnet.
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ blue-ocean.social | No | 0.4.38 |
 | ✅ blue.jbonomi.dev | No | 0.4.38 |
-| ❌ blueskeet.social | No | 0.4.38 |
+| ✅ blueskeet.social | No | 0.4.38 |
 | ✅ bluesky.akyoz.net | No | 0.4.38 |
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
@@ -43,7 +43,7 @@ part of mainnet.
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
-| ✅ bluesky.rp-taki.com | No | 0.4.27 |
+| ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.38 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
@@ -160,6 +160,7 @@ part of mainnet.
 | ✅ lalasky.fun | No | 0.4.38 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
 | ❌ laurenandquinn.love | No | 0.4.38 |
+| ❌ leak.media | No | ??? |
 | ✅ lepista.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
 | ❌ lucassky.ddns.net | No | 0.4.38 |
@@ -173,7 +174,6 @@ part of mainnet.
 | ✅ meety.me | No | 0.4.38 |
 | ❌ midgardmates.com | No | 0.4.38 |
 | ✅ mikemerritt.xyz | No | 0.4.38 |
-| ❌ mkl.lol | No | 0.4.32 |
 | ✅ moegi.stream | No | 0.4.38 |
 | ✅ moogleyacht.club | No | 0.4.38 |
 | ✅ morel.us-east.host.bsky.network | No | git-4ddf457 |
@@ -251,7 +251,7 @@ part of mainnet.
 | ✅ pds.ubanis.mydns.jp | No | 0.4.38 |
 | ✅ pds.unsocial.dev | No | 0.4.38 |
 | ✅ pds.vforge.social | No | 0.4.38 |
-| ✅ pds.walloftext.ca | No | 0.4.38 |
+| ❌ pds.walloftext.ca | No | 0.4.38 |
 | ✅ pds.wyvern.rip | No | 0.4.38 |
 | ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.38 |
@@ -284,12 +284,12 @@ part of mainnet.
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
-| ❌ sysad.ninja | No | 0.4.0-beta.7 |
 | ✅ sysadmins.cc | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
 | ✅ trekologer.social | No | 0.4.38 |
+| ❌ troll.im | No | ??? |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
@@ -347,6 +347,7 @@ part of mainnet.
 | ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
+| ❌ ozone.example.com | ??? |
 | ✅ ozone.flatlander.social | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
@@ -357,7 +358,6 @@ part of mainnet.
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
-| ❌ ozone.papercut.rodeo | 0.1.11 |
 | ✅ ozone.perfect-bra.in | 0.1.11 |
 | ❌ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
