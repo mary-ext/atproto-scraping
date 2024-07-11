@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-10T01:07:11.536Z[^1]
+Last updated: 2024-07-11T01:07:08.906Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -13,7 +13,6 @@ part of mainnet.
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
 | ❌ 48north.org | No | 0.4.38 |
-| ❌ 80px.org | No | 0.4.32 |
 | ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
@@ -22,7 +21,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -65,7 +64,7 @@ part of mainnet.
 | ✅ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
-| ✅ bsky.col.social | No | 0.4.38 |
+| ❌ bsky.col.social | No | 0.4.38 |
 | ❌ bsky.davewinter.social | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
@@ -75,7 +74,6 @@ part of mainnet.
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
 | ✅ bsky.hyperreal.coffee | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
-| ❌ bsky.kakushin.dev | No | 0.4.32 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
 | ✅ bsky.kit-a.net | No | 0.4.38 |
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
@@ -106,7 +104,7 @@ part of mainnet.
 | ✅ bsky.wtr.app | No | 0.4.38 |
 | ✅ bsky.zoeyvid.de | No | 0.4.38 |
 | ✅ bsky.zoner.work | No | 0.4.38 |
-| ✅ bskytest.marginal.net | No | 0.4.7 |
+| ❌ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.38 |
 | ❌ cauda.cloud | No | 0.4.38 |
 | ✅ chaga.us-west.host.bsky.network | No | git-4ddf457 |
@@ -135,7 +133,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -234,7 +232,7 @@ part of mainnet.
 | ✅ pds.nixeneko.info | No | 0.4.38 |
 | ✅ pds.pokete.com | No | 0.4.38 |
 | ✅ pds.quimian.com | No | 0.4.38 |
-| ✅ pds.robocracy.org | No | 0.4.12 |
+| ✅ pds.robocracy.org | No | 0.4.38 |
 | ✅ pds.shigepon.net | No | 0.4.38 |
 | ✅ pds.shreyanjain.net | No | 0.4.38 |
 | ✅ pds.simplespace.jp | No | 0.4.38 |
@@ -259,12 +257,12 @@ part of mainnet.
 | ✅ proto.sorcie.re | No | 0.4.38 |
 | ✅ puffball.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ quampy.com | No | 0.4.38 |
-| ❌ quokka.today | No | 0.4.32 |
 | ✅ rainbowgirl.moe | No | 0.4.38 |
 | ✅ randir.link | No | 0.4.38 |
 | ✅ redocean.one | No | 0.4.38 |
 | ✅ rows.io | No | 0.4.38 |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
+| ❌ sedlardavid.cz | No | ??? |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ skeleton.rodeo | No | 0.4.38 |
@@ -294,6 +292,7 @@ part of mainnet.
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
 | ❌ unbnd.venusonvenus.com | No | ??? |
+| ✅ unconsensus.com | No | 0.4.38 |
 | ✅ userdir.de | No | 0.4.38 |
 | ✅ v-laboratory.com | No | 0.4.38 |
 | ✅ v9v.net | No | 0.4.38 |
@@ -349,6 +348,7 @@ part of mainnet.
 | ✅ ozone.dovgonosyk.xyz | 0.1.11 |
 | ❌ ozone.example.com | ??? |
 | ✅ ozone.flatlander.social | 0.1.11 |
+| ✅ ozone.flicknow.xyz | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.hellthread.pro | 0.1.11 |
