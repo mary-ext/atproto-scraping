@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-11T01:07:08.906Z[^1]
+Last updated: 2024-07-12T01:05:28.823Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -120,7 +120,6 @@ part of mainnet.
 | ✅ divy.zone | No | 0.4.38 |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ❌ dopsky.social | No | 0.4.38 |
-| ❌ downbadcryingatthegym.xyz | No | 0.4.32 |
 | ✅ drakeno.de | No | 0.4.38 |
 | ✅ ds.povario.com | No | 0.4.12 |
 | ✅ enoki.us-east.host.bsky.network | No | git-4ddf457 |
@@ -133,7 +132,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -164,7 +163,7 @@ part of mainnet.
 | ❌ lucassky.ddns.net | No | 0.4.38 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
-| ✅ madiator.cloud | No | 0.4.32 |
+| ✅ madiator.cloud | No | 0.4.38 |
 | ✅ magrasea.com | No | 0.4.38 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ matcha.systems | No | 0.4.38 |
@@ -256,13 +255,13 @@ part of mainnet.
 | ✅ porcini.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ proto.sorcie.re | No | 0.4.38 |
 | ✅ puffball.us-east.host.bsky.network | No | git-4ddf457 |
-| ✅ quampy.com | No | 0.4.38 |
+| ❌ quampy.com | No | 0.4.38 |
 | ✅ rainbowgirl.moe | No | 0.4.38 |
 | ✅ randir.link | No | 0.4.38 |
 | ✅ redocean.one | No | 0.4.38 |
 | ✅ rows.io | No | 0.4.38 |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
-| ❌ sedlardavid.cz | No | ??? |
+| ✅ sedlardavid.cz | No | 0.4.38 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ skeleton.rodeo | No | 0.4.38 |
@@ -366,7 +365,6 @@ part of mainnet.
 | ✅ ozone.shawnhoffman.dev | 0.1.11 |
 | ✅ ozone.shreyanjain.net | 0.1.11 |
 | ✅ ozone.suvpen.com | 0.1.11 |
-| ❌ ozone.thebull.app | 0.1.11 |
 | ✅ ozone.timrombouts.be | 0.1.11 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
 | ✅ ozone.usounds.work | 0.1.11 |
