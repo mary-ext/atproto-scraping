@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-12T01:05:28.823Z[^1]
+Last updated: 2024-07-13T01:06:19.575Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -55,7 +55,6 @@ part of mainnet.
 | ❌ brnc.at | No | 0.4.38 |
 | ❌ bs.lehtiin.eu | No | 0.4.38 |
 | ✅ bs.siren.jp | No | 0.4.38 |
-| ❌ bs.songngu.xyz | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ❌ bsky-pds.dsrs.it | No | 0.4.38 |
@@ -72,11 +71,11 @@ part of mainnet.
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
-| ✅ bsky.hyperreal.coffee | No | 0.4.38 |
+| ❌ bsky.hyperreal.coffee | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
 | ✅ bsky.kit-a.net | No | 0.4.38 |
-| ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
+| ❌ bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
 | ✅ bsky.mcr.gb.net | No | 0.4.38 |
@@ -132,7 +131,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -166,7 +165,7 @@ part of mainnet.
 | ✅ madiator.cloud | No | 0.4.38 |
 | ✅ magrasea.com | No | 0.4.38 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
-| ✅ matcha.systems | No | 0.4.38 |
+| ❌ matcha.systems | No | 0.4.38 |
 | ❌ mbit.sh | No | ??? |
 | ✅ meety.me | No | 0.4.38 |
 | ❌ midgardmates.com | No | 0.4.38 |
@@ -179,7 +178,7 @@ part of mainnet.
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nmatsui.com | No | 0.4.32 |
 | ✅ nonsono.online | No | 0.4.7 |
-| ✅ nottyboi.me | No | 0.4.38 |
+| ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -212,7 +211,7 @@ part of mainnet.
 | ✅ pds.graefekiez.de | No | 0.4.38 |
 | ✅ pds.gza.jp | No | 0.4.38 |
 | ✅ pds.haileyok.com | No | 0.4.38 |
-| ✅ pds.invr.chat | No | 0.4.38 |
+| ❌ pds.invr.chat | No | 0.4.38 |
 | ✅ pds.itsjason.net | No | 0.4.38 |
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
@@ -370,7 +369,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ✅ ozone.y-force.info | 0.1.11 |
+| ❌ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
