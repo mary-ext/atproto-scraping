@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-13T01:06:19.575Z[^1]
+Last updated: 2024-07-14T01:11:29.052Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -71,11 +71,11 @@ part of mainnet.
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
-| ❌ bsky.hyperreal.coffee | No | 0.4.38 |
+| ✅ bsky.hyperreal.coffee | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
 | ✅ bsky.kit-a.net | No | 0.4.38 |
-| ❌ bsky.kretschmann.social | No | 0.4.0-beta.7 |
+| ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
 | ✅ bsky.mcr.gb.net | No | 0.4.38 |
@@ -122,7 +122,7 @@ part of mainnet.
 | ✅ drakeno.de | No | 0.4.38 |
 | ✅ ds.povario.com | No | 0.4.12 |
 | ✅ enoki.us-east.host.bsky.network | No | git-4ddf457 |
-| ✅ epicspace.quest | No | 0.4.38 |
+| ❌ epicspace.quest | No | 0.4.38 |
 | ❌ ericchi.moe | No | ??? |
 | ✅ fastani.me | No | 0.4.38 |
 | ✅ filly.social | No | 0.4.38 |
@@ -147,7 +147,7 @@ part of mainnet.
 | ✅ ionosphere.neontrix.xyz | No | 0.4.38 |
 | ✅ ishimmi.net | No | 0.4.38 |
 | ✅ jlailu.social | No | 0.4.38 |
-| ✅ kansascity.social | No | 0.4.38 |
+| ❌ kansascity.social | No | 0.4.38 |
 | ✅ kiichigo.cloud | Yes | 0.4.38 |
 | ✅ knot.land | No | 0.4.38 |
 | ✅ ksky.7ka.org | No | 0.4.38 |
@@ -178,7 +178,7 @@ part of mainnet.
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nmatsui.com | No | 0.4.32 |
 | ✅ nonsono.online | No | 0.4.7 |
-| ❌ nottyboi.me | No | 0.4.38 |
+| ✅ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -215,7 +215,7 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.38 |
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
-| ✅ pds.keiji0501.com | No | 0.4.38 |
+| ❌ pds.keiji0501.com | No | 0.4.38 |
 | ✅ pds.krasovs.ky | No | 0.4.38 |
 | ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
@@ -224,7 +224,7 @@ part of mainnet.
 | ✅ pds.megantoots.com | No | 0.4.38 |
 | ✅ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
-| ✅ pds.monster | No | 0.4.38 |
+| ❌ pds.monster | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
 | ✅ pds.nebu.land | No | 0.4.38 |
 | ✅ pds.nixeneko.info | No | 0.4.38 |
@@ -280,7 +280,7 @@ part of mainnet.
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
-| ✅ sysadmins.cc | No | 0.4.38 |
+| ❌ sysadmins.cc | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
@@ -317,6 +317,7 @@ part of mainnet.
 | ❌ aegismoderation.com | 0.1.11 |
 | ✅ aimod.social | 0.1.11 |
 | ✅ atproto.bsky.watch | ??? |
+| ✅ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
@@ -369,7 +370,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ❌ ozone.y-force.info | 0.1.11 |
+| ✅ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
