@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6146533",
+		"cursor": "6150423",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-07-15T01:03:16.154Z"
+		"cursor": "2024-07-16T01:02:23.166Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -115,7 +115,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1721005412371
+			"errorAt": 1721091763968
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -144,6 +144,10 @@
 		"https://blueskeet.social/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.38"
+		},
+		"https://bluesky.adriansmares.ro/": {
+			"version": "0.4.38",
+			"inviteCodeRequired": true
 		},
 		"https://bluesky.akyoz.net/": {
 			"version": "0.4.38",
@@ -299,7 +303,8 @@
 		},
 		"https://bsky.hyperreal.coffee/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1721091763968
 		},
 		"https://bsky.j0.lol/": {
 			"version": "0.4.38",
@@ -335,7 +340,8 @@
 		},
 		"https://bsky.milkcocoa.info/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1721091763968
 		},
 		"https://bsky.moellus.net/": {
 			"version": "0.4.38",
@@ -370,9 +376,8 @@
 			"version": "0.4.38"
 		},
 		"https://bsky.powerg.love/": {
-			"version": "0.4.38",
 			"inviteCodeRequired": true,
-			"errorAt": 1721005412371
+			"version": "0.4.38"
 		},
 		"https://bsky.psote.ing/": {
 			"inviteCodeRequired": true,
@@ -696,6 +701,9 @@
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
+		"https://metastableholdings.eu/": {
+			"errorAt": 1721091763968
+		},
 		"https://midgardmates.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.38",
@@ -741,7 +749,7 @@
 		"https://nottyboi.me/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.38",
-			"errorAt": 1721005412371
+			"errorAt": 1721091763968
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.38",
@@ -1138,9 +1146,6 @@
 			"version": "0.4.0-beta.7",
 			"inviteCodeRequired": true
 		},
-		"https://stg.waverly.social/": {
-			"errorAt": 1719709514668
-		},
 		"https://stinkhorn.jacob.gold/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
@@ -1229,9 +1234,6 @@
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
-		"https://wave.stg.waverly.social/": {
-			"errorAt": 1719709514668
-		},
 		"https://waverly.social/": {
 			"errorAt": 1720314340102
 		},
@@ -1275,7 +1277,8 @@
 		},
 		"https://automo-ozone.bunnys.ky/": {
 			"did": "did:plc:likrwr4zffx6ph4ishw7iuwi",
-			"version": "0.1.11"
+			"version": "0.1.11",
+			"errorAt": 1721091763968
 		},
 		"https://baatl.mastod.one/": {
 			"did": "did:plc:wp7hxfjl5l4zlptn7y6774lk",

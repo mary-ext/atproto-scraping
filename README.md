@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-15T01:10:38.519Z[^1]
+Last updated: 2024-07-16T01:08:04.295Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -35,6 +35,7 @@ part of mainnet.
 | ✅ blue-ocean.social | No | 0.4.38 |
 | ✅ blue.jbonomi.dev | No | 0.4.38 |
 | ✅ blueskeet.social | No | 0.4.38 |
+| ✅ bluesky.adriansmares.ro | No | 0.4.38 |
 | ✅ bluesky.akyoz.net | No | 0.4.38 |
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
@@ -72,7 +73,7 @@ part of mainnet.
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
-| ✅ bsky.hyperreal.coffee | No | 0.4.38 |
+| ❌ bsky.hyperreal.coffee | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ✅ bsky.jltml.me | No | 0.4.38 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
@@ -81,7 +82,7 @@ part of mainnet.
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
 | ✅ bsky.mcr.gb.net | No | 0.4.38 |
-| ✅ bsky.milkcocoa.info | No | 0.4.38 |
+| ❌ bsky.milkcocoa.info | No | 0.4.38 |
 | ✅ bsky.moellus.net | No | 0.4.38 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.38 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
@@ -90,7 +91,7 @@ part of mainnet.
 | ✅ bsky.pavli.cc | No | 0.4.38 |
 | ✅ bsky.pink | Yes | 0.4.38 |
 | ✅ bsky.plasmatrap.com | No | 0.4.38 |
-| ❌ bsky.powerg.love | No | 0.4.38 |
+| ✅ bsky.powerg.love | No | 0.4.38 |
 | ✅ bsky.psote.ing | No | 0.4.38 |
 | ✅ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
@@ -170,6 +171,7 @@ part of mainnet.
 | ❌ matcha.systems | No | 0.4.38 |
 | ❌ mbit.sh | No | ??? |
 | ✅ meety.me | No | 0.4.38 |
+| ❌ metastableholdings.eu | No | ??? |
 | ❌ midgardmates.com | No | 0.4.38 |
 | ✅ mikemerritt.xyz | No | 0.4.38 |
 | ✅ moegi.stream | No | 0.4.38 |
@@ -279,7 +281,6 @@ part of mainnet.
 | ✅ social.owo.cl | No | 0.4.38 |
 | ✅ sowedu.net | No | 0.4.38 |
 | ✅ stack.party | No | 0.4.0-beta.7 |
-| ❌ stg.waverly.social | No | ??? |
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
@@ -302,7 +303,6 @@ part of mainnet.
 | ✅ w7f.social | No | 0.4.38 |
 | ❌ waraiotoko.xyz | No | 0.4.38 |
 | ✅ warmsushi.com | No | 0.4.38 |
-| ❌ wave.stg.waverly.social | No | ??? |
 | ❌ waverly.social | No | ??? |
 | ✅ wilford.industries | No | 0.4.38 |
 | ✅ wordsky.xyz | No | 0.4.38 |
@@ -320,7 +320,7 @@ part of mainnet.
 | ❌ aegismoderation.com | 0.1.11 |
 | ✅ aimod.social | 0.1.11 |
 | ✅ atproto.bsky.watch | ??? |
-| ✅ automo-ozone.bunnys.ky | 0.1.11 |
+| ❌ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
