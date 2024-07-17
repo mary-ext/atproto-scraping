@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-16T01:08:04.295Z[^1]
+Last updated: 2024-07-17T01:07:07.271Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,17 +12,15 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
-| ❌ 48north.org | No | 0.4.38 |
 | ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
-| ❌ akiba.blue | No | 0.4.12 |
 | ✅ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -52,7 +50,6 @@ part of mainnet.
 | ✅ blusky.fly-social.com | No | 0.4.38 |
 | ✅ boletus.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ bossett.social | No | 0.4.21 |
-| ❌ bou.social | No | ??? |
 | ✅ boymodelworld.com | No | 0.4.38 |
 | ❌ brnc.at | No | 0.4.38 |
 | ❌ bs.lehtiin.eu | No | 0.4.38 |
@@ -82,7 +79,7 @@ part of mainnet.
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
 | ✅ bsky.mcr.gb.net | No | 0.4.38 |
-| ❌ bsky.milkcocoa.info | No | 0.4.38 |
+| ✅ bsky.milkcocoa.info | No | 0.4.38 |
 | ✅ bsky.moellus.net | No | 0.4.38 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.38 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
@@ -158,7 +155,6 @@ part of mainnet.
 | ✅ lacunas.net | No | 0.4.38 |
 | ✅ lalasky.fun | No | 0.4.38 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
-| ❌ laurenandquinn.love | No | 0.4.38 |
 | ❌ leak.media | No | ??? |
 | ✅ lepista.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
@@ -219,7 +215,7 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.38 |
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
-| ✅ pds.keiji0501.com | No | 0.4.38 |
+| ❌ pds.keiji0501.com | No | 0.4.38 |
 | ✅ pds.krasovs.ky | No | 0.4.38 |
 | ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
@@ -317,16 +313,13 @@ part of mainnet.
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
-| ❌ aegismoderation.com | 0.1.11 |
 | ✅ aimod.social | 0.1.11 |
 | ✅ atproto.bsky.watch | ??? |
-| ❌ automo-ozone.bunnys.ky | 0.1.11 |
+| ✅ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
 | ✅ bsky-labeler.thenexus.today | 0.1.11 |
 | ✅ example.mastod.one | 0.1.11 |
-| ❌ feed.tentacle.expert | ??? |
-| ❌ foodlabeler.haileyok.com | 0.1.11 |
 | ✅ hbms.hexandcube.eu.org | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.11 |
