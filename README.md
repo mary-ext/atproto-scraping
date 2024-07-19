@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-18T01:07:38.836Z[^1]
+Last updated: 2024-07-19T01:07:58.152Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -80,7 +80,7 @@ part of mainnet.
 | ✅ bsky.milkcocoa.info | No | 0.4.38 |
 | ✅ bsky.moellus.net | No | 0.4.38 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.38 |
-| ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
+| ❌ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.38 |
 | ✅ bsky.ocelot.lol | No | 0.4.38 |
 | ✅ bsky.pavli.cc | No | 0.4.38 |
@@ -127,7 +127,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -161,10 +161,8 @@ part of mainnet.
 | ✅ magrasea.com | No | 0.4.38 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ matcha.systems | No | 0.4.38 |
-| ❌ mbit.sh | No | ??? |
 | ✅ meety.me | No | 0.4.38 |
 | ❌ metastableholdings.eu | No | ??? |
-| ❌ midgardmates.com | No | 0.4.38 |
 | ✅ mikemerritt.xyz | No | 0.4.38 |
 | ✅ moegi.stream | No | 0.4.38 |
 | ✅ moogleyacht.club | No | 0.4.38 |
@@ -172,8 +170,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.38 |
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
-| ❌ nmatsui.com | No | 0.4.32 |
-| ✅ nonsono.online | No | 0.4.7 |
+| ❌ nonsono.online | No | 0.4.7 |
 | ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
@@ -260,7 +257,7 @@ part of mainnet.
 | ✅ sedlardavid.cz | No | 0.4.38 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
-| ❌ skeleton.rodeo | No | 0.4.38 |
+| ✅ skeleton.rodeo | No | 0.4.38 |
 | ✅ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.joeferguson.me | No | 0.4.38 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
@@ -268,7 +265,7 @@ part of mainnet.
 | ✅ sky.tokimeki.blue | No | 0.4.38 |
 | ✅ sky01.ketto.ca | No | 0.4.38 |
 | ✅ skyblue.cc | No | 0.4.38 |
-| ✅ sns.dev.taking.kr | No | 0.4.38 |
+| ❌ sns.dev.taking.kr | No | 0.4.38 |
 | ✅ sns.limelee.xyz | No | 0.4.38 |
 | ✅ social.barrybach.com | No | 0.4.38 |
 | ✅ social.owo.cl | No | 0.4.38 |
@@ -286,12 +283,11 @@ part of mainnet.
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
-| ❌ unbnd.venusonvenus.com | No | ??? |
 | ✅ unconsensus.com | No | 0.4.38 |
 | ✅ userdir.de | No | 0.4.38 |
 | ✅ v-laboratory.com | No | 0.4.38 |
 | ✅ v9v.net | No | 0.4.38 |
-| ❌ vengeful.eu | No | 0.4.38 |
+| ✅ vengeful.eu | No | 0.4.38 |
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ w7f.social | No | 0.4.38 |
 | ❌ waraiotoko.xyz | No | 0.4.38 |
@@ -311,7 +307,7 @@ part of mainnet.
 | Labeler | Version |
 | --- | --- |
 | ✅ aimod.social | 0.1.11 |
-| ✅ asukaozone.ripperoni.com | 0.1.11 |
+| ❌ asukaozone.ripperoni.com | 0.1.11 |
 | ✅ atproto.bsky.watch | ??? |
 | ✅ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
@@ -333,10 +329,11 @@ part of mainnet.
 | ✅ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.adorable.mom | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
+| ✅ ozone.asukafield.xyz | 0.1.11 |
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ✅ ozone.darkcarnival.gay | 0.1.11 |
+| ❌ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ❌ ozone.dovgonosyk.xyz | 0.1.11 |
 | ❌ ozone.example.com | ??? |
@@ -344,7 +341,7 @@ part of mainnet.
 | ✅ ozone.flicknow.xyz | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ❌ ozone.hellthread.pro | 0.1.11 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
 | ✅ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
