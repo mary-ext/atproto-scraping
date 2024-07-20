@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-19T01:07:58.152Z[^1]
+Last updated: 2024-07-20T01:05:38.632Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,7 +12,6 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
-| ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ aliciousintent.com | No | 0.4.27 |
@@ -80,7 +79,7 @@ part of mainnet.
 | ✅ bsky.milkcocoa.info | No | 0.4.38 |
 | ✅ bsky.moellus.net | No | 0.4.38 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.38 |
-| ❌ bsky.mystech.ink | No | 0.4.0-beta.7 |
+| ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.38 |
 | ✅ bsky.ocelot.lol | No | 0.4.38 |
 | ✅ bsky.pavli.cc | No | 0.4.38 |
@@ -101,7 +100,7 @@ part of mainnet.
 | ✅ bsky.wtr.app | No | 0.4.38 |
 | ✅ bsky.zoeyvid.de | No | 0.4.38 |
 | ✅ bsky.zoner.work | No | 0.4.38 |
-| ❌ bskytest.marginal.net | No | 0.4.7 |
+| ✅ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.38 |
 | ✅ chaga.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ chair.rocks | No | 0.4.38 |
@@ -119,7 +118,6 @@ part of mainnet.
 | ✅ ds.povario.com | No | 0.4.12 |
 | ✅ enoki.us-east.host.bsky.network | No | git-4ddf457 |
 | ❌ epicspace.quest | No | 0.4.38 |
-| ❌ ericchi.moe | No | ??? |
 | ✅ fastani.me | No | 0.4.38 |
 | ✅ filly.social | No | 0.4.38 |
 | ✅ foxhole.lgbt | No | 0.4.38 |
@@ -146,7 +144,7 @@ part of mainnet.
 | ❌ kansascity.social | No | 0.4.38 |
 | ✅ kiichigo.cloud | Yes | 0.4.38 |
 | ✅ knot.land | No | 0.4.38 |
-| ✅ ksky.7ka.org | No | 0.4.38 |
+| ❌ ksky.7ka.org | No | 0.4.38 |
 | ✅ labcaffeinated.com | No | 0.4.38 |
 | ✅ lacunas.net | No | 0.4.38 |
 | ✅ lalasky.fun | No | 0.4.38 |
@@ -171,7 +169,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ❌ nottyboi.me | No | 0.4.38 |
+| ✅ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -254,7 +252,7 @@ part of mainnet.
 | ✅ rows.io | No | 0.4.38 |
 | ❌ runyanpi.jp | No | ??? |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
-| ✅ sedlardavid.cz | No | 0.4.38 |
+| ❌ sedlardavid.cz | No | 0.4.38 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ skeleton.rodeo | No | 0.4.38 |
@@ -333,7 +331,7 @@ part of mainnet.
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ❌ ozone.darkcarnival.gay | 0.1.11 |
+| ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ❌ ozone.dovgonosyk.xyz | 0.1.11 |
 | ❌ ozone.example.com | ??? |
