@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-20T01:05:38.632Z[^1]
+Last updated: 2024-07-21T01:11:58.839Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,6 +12,7 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
+| ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ aliciousintent.com | No | 0.4.27 |
@@ -39,7 +40,7 @@ part of mainnet.
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
-| ✅ bluesky.nk.ca | No | 0.4.38 |
+| ❌ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.38 |
@@ -53,14 +54,12 @@ part of mainnet.
 | ✅ bs.siren.jp | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
-| ❌ bsky-pds.dsrs.it | No | 0.4.38 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.38 |
 | ✅ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
 | ❌ bsky.col.social | No | 0.4.38 |
-| ❌ bsky.davewinter.social | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.27 |
 | ✅ bsky.gearlicious.one | No | 0.4.38 |
@@ -124,11 +123,11 @@ part of mainnet.
 | ✅ friendlypds.cloud | No | 0.4.38 |
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
-| ✅ gesetz-bsky.world | Yes | 0.4.38 |
+| ❌ gesetz-bsky.world | Yes | 0.4.38 |
 | ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
-| ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
+| ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
 | ✅ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
 | ❌ hockley.info | Yes | 0.4.38 |
@@ -169,7 +168,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ✅ nottyboi.me | No | 0.4.38 |
+| ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -257,7 +256,7 @@ part of mainnet.
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ skeleton.rodeo | No | 0.4.38 |
 | ✅ sky.gami.zip | No | 0.4.0-beta.7 |
-| ✅ sky.joeferguson.me | No | 0.4.38 |
+| ❌ sky.joeferguson.me | No | 0.4.38 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.38 |
 | ✅ sky.tokimeki.blue | No | 0.4.38 |
@@ -359,7 +358,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ✅ ozone.y-force.info | 0.1.11 |
+| ❌ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
