@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-21T01:11:58.839Z[^1]
+Last updated: 2024-07-22T01:09:03.583Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -20,7 +20,7 @@ part of mainnet.
 | ✅ angels.fan | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -40,7 +40,7 @@ part of mainnet.
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
 | ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
-| ❌ bluesky.nk.ca | No | 0.4.38 |
+| ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.38 |
@@ -50,6 +50,7 @@ part of mainnet.
 | ❌ blusky.fly-social.com | No | 0.4.38 |
 | ✅ boletus.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ bossett.social | No | 0.4.21 |
+| ✅ bousky.social | No | 0.4.38 |
 | ✅ boymodelworld.com | No | 0.4.38 |
 | ✅ bs.siren.jp | No | 0.4.38 |
 | ✅ bs.thagoat.rip | No | 0.4.38 |
@@ -123,8 +124,8 @@ part of mainnet.
 | ✅ friendlypds.cloud | No | 0.4.38 |
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
-| ❌ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ gesetz-bsky.world | Yes | 0.4.38 |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -172,7 +173,7 @@ part of mainnet.
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
-| ✅ otasora.blue | No | 0.4.38 |
+| ❌ otasora.blue | No | 0.4.38 |
 | ✅ oyster.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ p.kojira.io | No | 0.4.38 |
 | ✅ pdeeznuts.amith.sbs | No | 0.4.38 |
@@ -305,7 +306,7 @@ part of mainnet.
 | --- | --- |
 | ✅ aimod.social | 0.1.11 |
 | ❌ asukaozone.ripperoni.com | 0.1.11 |
-| ✅ atproto.bsky.watch | ??? |
+| ❌ atproto.bsky.watch | ??? |
 | ✅ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
 | ✅ blue-cosmos.social | 0.1.11 |
@@ -314,6 +315,7 @@ part of mainnet.
 | ✅ hbms.hexandcube.eu.org | 0.1.11 |
 | ✅ howaboutyougeta.life | 0.1.11 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.11 |
+| ✅ kind-labeler.bryan.town | 0.1.11 |
 | ✅ labeler.dholms.xyz | 0.1.11 |
 | ✅ labeler.divy.zone | 0.1.11 |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
@@ -358,7 +360,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ❌ ozone.y-force.info | 0.1.11 |
+| ✅ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
