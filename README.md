@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-22T01:09:03.583Z[^1]
+Last updated: 2024-07-23T01:07:09.184Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -43,7 +43,7 @@ part of mainnet.
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
-| ✅ bluesky.sami.sk | No | 0.4.38 |
+| ❌ bluesky.sami.sk | No | 0.4.38 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.38 |
@@ -90,7 +90,7 @@ part of mainnet.
 | ✅ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
 | ✅ bsky.samulireijula.net | No | 0.4.38 |
-| ✅ bsky.sneezey.uk | No | 0.4.32 |
+| ✅ bsky.sneezey.uk | No | 0.4.38 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.38 |
 | ✅ bsky.theatl.social | No | 0.4.38 |
 | ✅ bsky.tm2t.net | No | 0.4.38 |
@@ -161,7 +161,7 @@ part of mainnet.
 | ❌ matcha.systems | No | 0.4.38 |
 | ✅ meety.me | No | 0.4.38 |
 | ❌ metastableholdings.eu | No | ??? |
-| ✅ mikemerritt.xyz | No | 0.4.38 |
+| ❌ mikemerritt.xyz | No | 0.4.38 |
 | ✅ moegi.stream | No | 0.4.38 |
 | ✅ moogleyacht.club | No | 0.4.38 |
 | ✅ morel.us-east.host.bsky.network | No | git-4ddf457 |
@@ -169,11 +169,11 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ❌ nottyboi.me | No | 0.4.38 |
+| ✅ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
-| ❌ otasora.blue | No | 0.4.38 |
+| ✅ otasora.blue | No | 0.4.38 |
 | ✅ oyster.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ p.kojira.io | No | 0.4.38 |
 | ✅ pdeeznuts.amith.sbs | No | 0.4.38 |
@@ -290,7 +290,6 @@ part of mainnet.
 | ✅ w7f.social | No | 0.4.38 |
 | ❌ waraiotoko.xyz | No | 0.4.38 |
 | ✅ warmsushi.com | No | 0.4.38 |
-| ❌ waverly.social | No | ??? |
 | ✅ wilford.industries | No | 0.4.38 |
 | ✅ wordsky.xyz | No | 0.4.38 |
 | ✅ x.kty.lol | No | 0.4.38 |
@@ -348,7 +347,6 @@ part of mainnet.
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.11 |
 | ✅ ozone.perfect-bra.in | 0.1.11 |
-| ❌ ozone.playground.do.orthanc.co.nz | 0.1.11 |
 | ✅ ozone.procycling.social | 0.1.11 |
 | ✅ ozone.renahlee.com | 0.1.11 |
 | ✅ ozone.ripperoni.com | 0.1.11 |
