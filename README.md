@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-23T01:07:09.184Z[^1]
+Last updated: 2024-07-24T01:07:40.940Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,12 +12,14 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.38 |
 | ✅ 465789.xyz | No | 0.4.38 |
+| ✅ 48north.org | No | 0.4.38 |
 | ❌ abyss.computer | No | ??? |
 | ✅ afternooncurry.com | No | 0.4.38 |
 | ✅ agaric.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ angels.fan | No | 0.4.38 |
+| ✅ aozora.yockow.jp | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
 | ✅ at.dingdongdata.com | No | 0.4.38 |
@@ -38,13 +40,14 @@ part of mainnet.
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
-| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ❌ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ❌ bluesky.sami.sk | No | 0.4.38 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.38 |
+| ✅ bluesky.xeronith.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.38 |
 | ❌ blusky.fly-social.com | No | 0.4.38 |
@@ -125,13 +128,12 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
 | ✅ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
-| ❌ hockley.info | Yes | 0.4.38 |
 | ✅ holofan.live | No | 0.4.38 |
 | ✅ hooray.social | No | 0.4.38 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-4ddf457 |
@@ -152,7 +154,6 @@ part of mainnet.
 | ❌ leak.media | No | ??? |
 | ✅ lepista.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
-| ❌ lucassky.ddns.net | No | 0.4.38 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
 | ✅ madiator.cloud | No | 0.4.38 |
@@ -169,7 +170,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ✅ nottyboi.me | No | 0.4.38 |
+| ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -273,6 +274,7 @@ part of mainnet.
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
 | ❌ sysadmins.cc | No | 0.4.38 |
+| ❌ tbsky.vasco-shot.com | No | ??? |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
@@ -288,7 +290,6 @@ part of mainnet.
 | ✅ vengeful.eu | No | 0.4.38 |
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ w7f.social | No | 0.4.38 |
-| ❌ waraiotoko.xyz | No | 0.4.38 |
 | ✅ warmsushi.com | No | 0.4.38 |
 | ✅ wilford.industries | No | 0.4.38 |
 | ✅ wordsky.xyz | No | 0.4.38 |
