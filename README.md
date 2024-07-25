@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-24T01:07:40.940Z[^1]
+Last updated: 2024-07-25T01:07:11.234Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -40,7 +40,7 @@ part of mainnet.
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
-| ❌ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
@@ -56,7 +56,7 @@ part of mainnet.
 | ✅ bousky.social | No | 0.4.38 |
 | ✅ boymodelworld.com | No | 0.4.38 |
 | ✅ bs.siren.jp | No | 0.4.38 |
-| ✅ bs.thagoat.rip | No | 0.4.38 |
+| ❌ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.38 |
@@ -128,7 +128,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -151,7 +151,6 @@ part of mainnet.
 | ✅ lacunas.net | No | 0.4.38 |
 | ✅ lalasky.fun | No | 0.4.38 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
-| ❌ leak.media | No | ??? |
 | ✅ lepista.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ machikadosora.online | No | 0.4.0-beta.7 |
@@ -207,7 +206,7 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.38 |
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
-| ✅ pds.keiji0501.com | No | 0.4.38 |
+| ❌ pds.keiji0501.com | No | 0.4.38 |
 | ✅ pds.krasovs.ky | No | 0.4.38 |
 | ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
@@ -239,7 +238,6 @@ part of mainnet.
 | ✅ pds.ubanis.mydns.jp | No | 0.4.38 |
 | ✅ pds.unsocial.dev | No | 0.4.38 |
 | ✅ pds.vforge.social | No | 0.4.38 |
-| ❌ pds.walloftext.ca | No | 0.4.38 |
 | ✅ pds.wyvern.rip | No | 0.4.38 |
 | ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.38 |
@@ -274,12 +272,11 @@ part of mainnet.
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
 | ❌ sysadmins.cc | No | 0.4.38 |
-| ❌ tbsky.vasco-shot.com | No | ??? |
+| ✅ tbsky.vasco-shot.com | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
 | ✅ trekologer.social | No | 0.4.38 |
-| ❌ troll.im | No | ??? |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
@@ -324,6 +321,7 @@ part of mainnet.
 | ✅ merke.maanebedotten.no | 0.1.11 |
 | ✅ mod.armifi.com | 0.1.11 |
 | ✅ mod.bsky.app | git-34c1b9b |
+| ✅ mod.laelaps.fyi | 0.1.11 |
 | ✅ mod.staging.bsky.dev | git-e956ac0 |
 | ✅ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.adorable.mom | 0.1.11 |
@@ -335,12 +333,11 @@ part of mainnet.
 | ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ❌ ozone.dovgonosyk.xyz | 0.1.11 |
-| ❌ ozone.example.com | ??? |
 | ✅ ozone.flatlander.social | 0.1.11 |
 | ✅ ozone.flicknow.xyz | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ✅ ozone.hellthread.pro | 0.1.11 |
+| ❌ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
 | ✅ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
