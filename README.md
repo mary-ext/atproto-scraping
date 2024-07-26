@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-25T01:07:11.234Z[^1]
+Last updated: 2024-07-26T01:06:36.859Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -47,7 +47,7 @@ part of mainnet.
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ❌ bluesky.sami.sk | No | 0.4.38 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.38 |
-| ✅ bluesky.xeronith.com | No | 0.4.38 |
+| ❌ bluesky.xeronith.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.38 |
 | ❌ blusky.fly-social.com | No | 0.4.38 |
@@ -128,11 +128,11 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
-| ✅ hellthread.pro | No | 0.4.38 |
+| ❌ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
 | ✅ holofan.live | No | 0.4.38 |
 | ✅ hooray.social | No | 0.4.38 |
@@ -169,7 +169,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ❌ nottyboi.me | No | 0.4.38 |
+| ✅ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -206,7 +206,7 @@ part of mainnet.
 | ✅ pds.itsjason.net | No | 0.4.38 |
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
-| ❌ pds.keiji0501.com | No | 0.4.38 |
+| ✅ pds.keiji0501.com | No | 0.4.38 |
 | ✅ pds.krasovs.ky | No | 0.4.38 |
 | ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
@@ -272,7 +272,7 @@ part of mainnet.
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
 | ❌ sysadmins.cc | No | 0.4.38 |
-| ✅ tbsky.vasco-shot.com | No | 0.4.38 |
+| ❌ tbsky.vasco-shot.com | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
@@ -337,7 +337,7 @@ part of mainnet.
 | ✅ ozone.flicknow.xyz | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ❌ ozone.hellthread.pro | 0.1.11 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
 | ✅ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
@@ -356,7 +356,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ✅ ozone.y-force.info | 0.1.11 |
+| ❌ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
