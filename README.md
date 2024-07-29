@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-28T01:12:00.396Z[^1]
+Last updated: 2024-07-29T01:08:57.453Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,7 +22,7 @@ part of mainnet.
 | ✅ aozora.yockow.jp | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -96,9 +96,9 @@ part of mainnet.
 | ✅ bsky.taila5061.ts.net | No | 0.4.38 |
 | ✅ bsky.theatl.social | No | 0.4.38 |
 | ✅ bsky.tm2t.net | No | 0.4.38 |
-| ❌ bsky.tranvender.site | No | 0.4.38 |
+| ✅ bsky.tranvender.site | No | 0.4.38 |
 | ✅ bsky.vylion.com | No | 0.4.38 |
-| ❌ bsky.wtr.app | No | 0.4.38 |
+| ✅ bsky.wtr.app | No | 0.4.38 |
 | ✅ bsky.zoeyvid.de | No | 0.4.38 |
 | ✅ bsky.zoner.work | No | 0.4.38 |
 | ❌ bskytest.marginal.net | No | 0.4.7 |
@@ -127,7 +127,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -139,7 +139,7 @@ part of mainnet.
 | ✅ iame.li | No | 0.4.23 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ internect.ing | No | 0.4.38 |
-| ✅ ionosphere.neontrix.xyz | No | 0.4.38 |
+| ❌ ionosphere.neontrix.xyz | No | 0.4.38 |
 | ✅ ishimmi.net | No | 0.4.38 |
 | ✅ jlailu.social | No | 0.4.38 |
 | ❌ kansascity.social | No | 0.4.38 |
@@ -167,7 +167,7 @@ part of mainnet.
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
 | ❌ nonsono.online | No | 0.4.7 |
-| ✅ nottyboi.me | No | 0.4.38 |
+| ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
 | ✅ opp.minuspoint.com | No | 0.4.38 |
@@ -328,7 +328,7 @@ part of mainnet.
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ❌ ozone.darkcarnival.gay | 0.1.11 |
+| ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
 | ❌ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
