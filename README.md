@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-07-30T01:07:24.926Z[^1]
+Last updated: 2024-07-31T00:57:08.041Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -40,7 +40,7 @@ part of mainnet.
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
-| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ❌ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
 | ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
@@ -108,11 +108,11 @@ part of mainnet.
 | ✅ closedcircle.io | No | 0.4.38 |
 | ✅ comrades.social | No | 0.4.38 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-4ddf457 |
-| ✅ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
+| ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
 | ✅ corgi.dance | No | 0.4.38 |
 | ✅ daemons.work | No | 0.4.38 |
 | ✅ danya.dev | No | 0.4.38 |
-| ✅ derpzilla.net | Yes | 0.4.0-beta.7 |
+| ✅ derpzilla.net | Yes | 0.4.38 |
 | ✅ disbursement.center | No | 0.4.38 |
 | ✅ divy.zone | No | 0.4.42 |
 | ✅ dollpost.ing | No | 0.4.12 |
@@ -180,6 +180,7 @@ part of mainnet.
 | ✅ pds.aparker.io | No | 0.4.38 |
 | ✅ pds.axtch.net | No | 0.4.38 |
 | ✅ pds.bernd.network | No | 0.4.38 |
+| ❌ pds.btxakita.com | No | ??? |
 | ✅ pds.c-stellar.net | No | 0.4.38 |
 | ✅ pds.cacheblasters.com | No | 0.4.38 |
 | ✅ pds.caruanafamily.net | No | 0.4.38 |
@@ -243,7 +244,6 @@ part of mainnet.
 | ✅ randir.link | No | 0.4.38 |
 | ✅ redocean.one | No | 0.4.38 |
 | ✅ rows.io | No | 0.4.38 |
-| ❌ runyanpi.jp | No | ??? |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ sedlardavid.cz | No | 0.4.38 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
@@ -265,11 +265,11 @@ part of mainnet.
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
 | ✅ stupol.social | No | 0.4.38 |
 | ✅ sunaba.io | No | 0.4.38 |
-| ❌ tbsky.vasco-shot.com | No | 0.4.38 |
+| ✅ tbsky.vasco-shot.com | No | 0.4.38 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ✅ tksocial.eu.org | No | 0.4.38 |
+| ❌ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
-| ✅ trekologer.social | No | 0.4.38 |
+| ❌ trekologer.social | No | 0.4.38 |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
@@ -326,14 +326,13 @@ part of mainnet.
 | ✅ ozone.bunnynabbit.com | 0.1.11 |
 | ✅ ozone.darkcarnival.gay | 0.1.11 |
 | ✅ ozone.department7.org | 0.1.11 |
-| ❌ ozone.dovgonosyk.xyz | 0.1.11 |
 | ✅ ozone.flatlander.social | 0.1.11 |
 | ✅ ozone.flicknow.xyz | 0.1.11 |
 | ✅ ozone.friend.town | 0.1.11 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.11 |
-| ✅ ozone.launchpadx.top | 0.1.1 |
+| ❌ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
