@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6208124",
+		"cursor": "6211890",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-01T01:07:33.274Z"
+		"cursor": "2024-08-02T01:01:56.747Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -95,7 +95,8 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1722560519432
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.38",
@@ -114,7 +115,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1722474457717
+			"errorAt": 1722560519432
 		},
 		"https://b.yufushiro.dev/": {
 			"version": "0.4.0-beta.7",
@@ -166,7 +167,8 @@
 		},
 		"https://bluesky.lazzurs.net/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.0-beta.7"
+			"version": "0.4.0-beta.7",
+			"errorAt": 1722560519432
 		},
 		"https://bluesky.nissesdomain.org/": {
 			"inviteCodeRequired": true,
@@ -174,7 +176,8 @@
 		},
 		"https://bluesky.nk.ca/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1722560519432
 		},
 		"https://bluesky.rosafamily.net/": {
 			"version": "0.4.38",
@@ -204,11 +207,6 @@
 		"https://bluetony.com/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
-		},
-		"https://blusky.fly-social.com/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1721264446932
 		},
 		"https://boletus.us-west.host.bsky.network/": {
 			"version": "git-4ddf457",
@@ -265,7 +263,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.dead10ck.dev/": {
-			"version": "0.4.27",
+			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.gearlicious.one/": {
@@ -313,9 +311,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.mcr.gb.net/": {
-			"version": "0.4.38",
 			"inviteCodeRequired": true,
-			"errorAt": 1722474457717
+			"version": "0.4.38"
 		},
 		"https://bsky.milkcocoa.info/": {
 			"inviteCodeRequired": true,
@@ -352,11 +349,6 @@
 		"https://bsky.plasmatrap.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.38"
-		},
-		"https://bsky.powerg.love/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1721264446932
 		},
 		"https://bsky.psote.ing/": {
 			"inviteCodeRequired": true,
@@ -429,6 +421,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://closedcircle.io/": {
+			"version": "0.4.38",
+			"inviteCodeRequired": true
+		},
+		"https://collantes.me/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
 		},
@@ -529,6 +525,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.13",
 			"errorAt": 1721523979240
+		},
+		"https://hedgehog.us-west.host.bsky.network/": {
+			"version": "git-5643fa4",
+			"inviteCodeRequired": true
 		},
 		"https://hellthread.pro/": {
 			"inviteCodeRequired": true,
@@ -824,9 +824,8 @@
 			"version": "0.4.38"
 		},
 		"https://pds.krasovs.ky/": {
-			"version": "0.4.38",
 			"inviteCodeRequired": true,
-			"errorAt": 1722474457717
+			"version": "0.4.38"
 		},
 		"https://pds.lotor.online/": {
 			"version": "0.4.38",
@@ -850,7 +849,8 @@
 		},
 		"https://pds.mevo.xyz/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.38",
+			"errorAt": 1722560519432
 		},
 		"https://pds.mnogu.net/": {
 			"version": "0.4.38",
@@ -1150,7 +1150,8 @@
 		},
 		"https://wordsky.xyz/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1722560519432
 		},
 		"https://x.kty.lol/": {
 			"version": "0.4.38",
@@ -1170,7 +1171,8 @@
 		},
 		"https://zombie.beauty/": {
 			"version": "0.4.38",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1722560519432
 		}
 	},
 	"labelers": {
@@ -1395,8 +1397,7 @@
 		},
 		"https://ozone.y-force.info/": {
 			"did": "did:plc:coynarrmyjsm2s3zkbbr5iow",
-			"version": "0.1.11",
-			"errorAt": 1722474457717
+			"version": "0.1.11"
 		},
 		"https://ozone.yardcrow.com/": {
 			"did": "did:plc:z3yk2cflhmn6vmzo3f5ixqh4",

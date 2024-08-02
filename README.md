@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-01T01:10:48.569Z[^1]
+Last updated: 2024-08-02T01:05:11.444Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,7 +22,7 @@ part of mainnet.
 | ✅ aozora.yockow.jp | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
@@ -40,9 +40,9 @@ part of mainnet.
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
-| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ❌ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
-| ✅ bluesky.nk.ca | No | 0.4.38 |
+| ❌ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.38 |
@@ -50,7 +50,6 @@ part of mainnet.
 | ❌ bluesky.xeronith.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.38 |
-| ❌ blusky.fly-social.com | No | 0.4.38 |
 | ✅ boletus.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ bossett.social | No | 0.4.21 |
 | ✅ bousky.social | No | 0.4.38 |
@@ -64,7 +63,7 @@ part of mainnet.
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
-| ✅ bsky.dead10ck.dev | No | 0.4.27 |
+| ✅ bsky.dead10ck.dev | No | 0.4.38 |
 | ✅ bsky.gearlicious.one | No | 0.4.38 |
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
@@ -76,7 +75,7 @@ part of mainnet.
 | ✅ bsky.kretschmann.social | No | 0.4.0-beta.7 |
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.38 |
-| ❌ bsky.mcr.gb.net | No | 0.4.38 |
+| ✅ bsky.mcr.gb.net | No | 0.4.38 |
 | ✅ bsky.milkcocoa.info | No | 0.4.38 |
 | ✅ bsky.moellus.net | No | 0.4.38 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.38 |
@@ -86,7 +85,6 @@ part of mainnet.
 | ✅ bsky.pavli.cc | No | 0.4.38 |
 | ✅ bsky.pink | Yes | 0.4.38 |
 | ✅ bsky.plasmatrap.com | No | 0.4.38 |
-| ❌ bsky.powerg.love | No | 0.4.38 |
 | ✅ bsky.psote.ing | No | 0.4.38 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
@@ -105,6 +103,7 @@ part of mainnet.
 | ✅ chaga.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ chair.rocks | No | 0.4.38 |
 | ✅ closedcircle.io | No | 0.4.38 |
+| ✅ collantes.me | No | 0.4.38 |
 | ✅ comrades.social | No | 0.4.38 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
@@ -129,6 +128,7 @@ part of mainnet.
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
+| ✅ hedgehog.us-west.host.bsky.network | No | git-5643fa4 |
 | ✅ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
 | ✅ holofan.live | No | 0.4.38 |
@@ -201,13 +201,13 @@ part of mainnet.
 | ✅ pds.jaronoff.com | No | 0.4.38 |
 | ✅ pds.jay.xyz | No | 0.4.38 |
 | ✅ pds.keiji0501.com | No | 0.4.38 |
-| ❌ pds.krasovs.ky | No | 0.4.38 |
+| ✅ pds.krasovs.ky | No | 0.4.38 |
 | ✅ pds.lotor.online | No | 0.4.38 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.38 |
 | ✅ pds.mattobs.com | No | 0.4.38 |
 | ✅ pds.mbl.social | No | 0.4.38 |
 | ✅ pds.megantoots.com | No | 0.4.38 |
-| ✅ pds.mevo.xyz | No | 0.4.38 |
+| ❌ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.38 |
 | ✅ pds.mozzius.dev | No | 0.4.38 |
 | ✅ pds.nebu.land | No | 0.4.38 |
@@ -281,12 +281,12 @@ part of mainnet.
 | ✅ w7f.social | No | 0.4.38 |
 | ✅ warmsushi.com | No | 0.4.38 |
 | ✅ wilford.industries | No | 0.4.38 |
-| ✅ wordsky.xyz | No | 0.4.38 |
+| ❌ wordsky.xyz | No | 0.4.38 |
 | ✅ x.kty.lol | No | 0.4.38 |
 | ✅ yoshiki.burnworks.com | No | 0.4.38 |
 | ✅ yumeka.cc | No | 0.4.38 |
 | ✅ zazen.social | No | 0.4.38 |
-| ✅ zombie.beauty | No | 0.4.38 |
+| ❌ zombie.beauty | No | 0.4.38 |
 <!-- pds-end -->
 
 ## Labelers
@@ -348,7 +348,7 @@ part of mainnet.
 | ✅ ozone.usounds.work | 0.1.11 |
 | ✅ ozone.w3igg.com | 0.1.11 |
 | ✅ ozone.wyvern.blue | 0.1.11 |
-| ❌ ozone.y-force.info | 0.1.11 |
+| ✅ ozone.y-force.info | 0.1.11 |
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
