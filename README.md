@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-02T01:05:11.444Z[^1]
+Last updated: 2024-08-03T01:04:27.342Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -22,13 +22,14 @@ part of mainnet.
 | ✅ aozora.yockow.jp | No | 0.4.38 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.38 |
 | ✅ at.kizaing.ca | No | 0.4.38 |
 | ✅ at.yuntan.tech | No | 0.4.38 |
 | ✅ atp.retroheart.net | No | 0.4.38 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
+| ✅ baconisyeserpik.com | No | 0.4.38 |
 | ✅ beta.thehippo.dev | No | 0.4.38 |
 | ✅ bevenhall.net | No | 0.4.38 |
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
@@ -36,13 +37,13 @@ part of mainnet.
 | ✅ blue.jbonomi.dev | No | 0.4.38 |
 | ✅ blueskeet.social | No | 0.4.38 |
 | ✅ bluesky.adriansmares.ro | No | 0.4.38 |
-| ✅ bluesky.akyoz.net | No | 0.4.38 |
+| ❌ bluesky.akyoz.net | No | 0.4.38 |
 | ✅ bluesky.goober.cloud | No | 0.4.38 |
 | ✅ bluesky.kosti.dev | No | 0.4.38 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.38 |
-| ❌ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.38 |
-| ❌ bluesky.nk.ca | No | 0.4.38 |
+| ✅ bluesky.nk.ca | No | 0.4.38 |
 | ✅ bluesky.rosafamily.net | No | 0.4.38 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.38 |
@@ -68,6 +69,7 @@ part of mainnet.
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.38 |
 | ✅ bsky.huimao.xyz | No | 0.4.38 |
+| ✅ bsky.infocyb.org | No | 0.4.38 |
 | ✅ bsky.j0.lol | No | 0.4.38 |
 | ✅ bsky.jltml.me | No | 0.4.38 |
 | ✅ bsky.kevoun.com | No | 0.4.38 |
@@ -258,6 +260,7 @@ part of mainnet.
 | ✅ sns.limelee.xyz | No | 0.4.38 |
 | ✅ social.barrybach.com | No | 0.4.38 |
 | ✅ social.owo.cl | No | 0.4.38 |
+| ✅ social.panache.so | No | 0.4.38 |
 | ✅ sowedu.net | No | 0.4.38 |
 | ✅ stack.party | No | 0.4.0-beta.7 |
 | ✅ stinkhorn.jacob.gold | No | 0.4.38 |
@@ -268,6 +271,7 @@ part of mainnet.
 | ❌ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
 | ✅ trekologer.social | No | 0.4.38 |
+| ✅ tubyte.net | No | 0.4.38 |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
@@ -352,6 +356,7 @@ part of mainnet.
 | ✅ ozone.yardcrow.com | 0.1.11 |
 | ✅ phobial.mastod.one | 0.1.11 |
 | ✅ posters.rip | 0.1.11 |
+| ❌ precise-bass-actively.ngrok-free.app | ??? |
 | ✅ stopthegifs.haileyok.com | 0.1.11 |
 | ✅ warlabel.dattil.io | 0.1.11 |
 | ✅ xblock.aendra.dev | 0.1.11 |
