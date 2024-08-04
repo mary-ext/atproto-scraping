@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-03T01:04:27.342Z[^1]
+Last updated: 2024-08-04T01:10:15.064Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -29,7 +29,7 @@ part of mainnet.
 | ✅ atp.retroheart.net | No | 0.4.38 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
-| ✅ baconisyeserpik.com | No | 0.4.38 |
+| ❌ baconisyeserpik.com | No | 0.4.38 |
 | ✅ beta.thehippo.dev | No | 0.4.38 |
 | ✅ bevenhall.net | No | 0.4.38 |
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
@@ -130,6 +130,7 @@ part of mainnet.
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
+| ✅ harley.serveo.net | No | 0.4.38 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-5643fa4 |
 | ✅ hellthread.pro | No | 0.4.38 |
 | ✅ hivetasks.com | No | 0.4.38 |
@@ -144,7 +145,6 @@ part of mainnet.
 | ✅ jlailu.social | No | 0.4.38 |
 | ✅ kiichigo.cloud | Yes | 0.4.38 |
 | ✅ knot.land | No | 0.4.38 |
-| ❌ ksky.7ka.org | No | 0.4.38 |
 | ✅ labcaffeinated.com | No | 0.4.38 |
 | ✅ lacunas.net | No | 0.4.38 |
 | ✅ lalasky.fun | No | 0.4.38 |
@@ -164,7 +164,6 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.38 |
 | ✅ naomie.digital | No | 0.4.38 |
 | ✅ nekohana.blue | No | 0.4.38 |
-| ❌ nonsono.online | No | 0.4.7 |
 | ❌ nottyboi.me | No | 0.4.38 |
 | ✅ nyago.zip | No | 0.4.38 |
 | ✅ okashi.social | No | 0.4.38 |
@@ -245,7 +244,6 @@ part of mainnet.
 | ✅ redocean.one | No | 0.4.38 |
 | ✅ rows.io | No | 0.4.38 |
 | ✅ russula.us-west.host.bsky.network | No | git-4ddf457 |
-| ❌ sedlardavid.cz | No | 0.4.38 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ skeleton.rodeo | No | 0.4.38 |
@@ -256,7 +254,6 @@ part of mainnet.
 | ✅ sky.tokimeki.blue | No | 0.4.38 |
 | ✅ sky01.ketto.ca | No | 0.4.38 |
 | ✅ skyblue.cc | No | 0.4.38 |
-| ❌ sns.dev.taking.kr | No | 0.4.38 |
 | ✅ sns.limelee.xyz | No | 0.4.38 |
 | ✅ social.barrybach.com | No | 0.4.38 |
 | ✅ social.owo.cl | No | 0.4.38 |
@@ -271,7 +268,7 @@ part of mainnet.
 | ❌ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.38 |
 | ✅ trekologer.social | No | 0.4.38 |
-| ✅ tubyte.net | No | 0.4.38 |
+| ❌ tubyte.net | No | 0.4.38 |
 | ✅ tweethive.net | No | 0.4.38 |
 | ✅ uabsky.org | No | 0.4.38 |
 | ✅ unbnd.net | No | 0.4.38 |
@@ -286,6 +283,7 @@ part of mainnet.
 | ✅ warmsushi.com | No | 0.4.38 |
 | ✅ wilford.industries | No | 0.4.38 |
 | ❌ wordsky.xyz | No | 0.4.38 |
+| ❌ wowpro-guides.com | No | ??? |
 | ✅ x.kty.lol | No | 0.4.38 |
 | ✅ yoshiki.burnworks.com | No | 0.4.38 |
 | ✅ yumeka.cc | No | 0.4.38 |
@@ -299,7 +297,6 @@ part of mainnet.
 | Labeler | Version |
 | --- | --- |
 | ✅ aimod.social | 0.1.11 |
-| ❌ asukaozone.ripperoni.com | 0.1.11 |
 | ❌ atproto.bsky.watch | ??? |
 | ✅ automo-ozone.bunnys.ky | 0.1.11 |
 | ✅ baatl.mastod.one | 0.1.11 |
