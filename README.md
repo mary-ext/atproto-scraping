@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-04T01:10:15.064Z[^1]
+Last updated: 2024-08-05T01:06:50.713Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -61,6 +61,7 @@ part of mainnet.
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.38 |
 | ❌ bsky.air11.social | No | 0.4.38 |
+| ✅ bsky.bigboy.us | No | 0.4.38 |
 | ✅ bsky.bulles.social | No | 0.4.38 |
 | ✅ bsky.chagge.com | No | 0.4.38 |
 | ✅ bsky.day | No | 0.4.38 |
@@ -126,7 +127,7 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.38 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.38 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.38 |
 | ✅ habanero.f5.si | No | 0.4.38 |
 | ❌ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -145,6 +146,7 @@ part of mainnet.
 | ✅ jlailu.social | No | 0.4.38 |
 | ✅ kiichigo.cloud | Yes | 0.4.38 |
 | ✅ knot.land | No | 0.4.38 |
+| ✅ lab.yuipcoders.com | No | 0.4.38 |
 | ✅ labcaffeinated.com | No | 0.4.38 |
 | ✅ lacunas.net | No | 0.4.38 |
 | ✅ lalasky.fun | No | 0.4.38 |
@@ -282,7 +284,7 @@ part of mainnet.
 | ✅ w7f.social | No | 0.4.38 |
 | ✅ warmsushi.com | No | 0.4.38 |
 | ✅ wilford.industries | No | 0.4.38 |
-| ❌ wordsky.xyz | No | 0.4.38 |
+| ✅ wordsky.xyz | No | 0.4.38 |
 | ❌ wowpro-guides.com | No | ??? |
 | ✅ x.kty.lol | No | 0.4.38 |
 | ✅ yoshiki.burnworks.com | No | 0.4.38 |
