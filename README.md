@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-06T01:05:08.482Z[^1]
+Last updated: 2024-08-07T01:06:03.483Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ aozora.yockow.jp | No | 0.4.47 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.38 |
-| ✅ at.dingdongdata.com | No | 0.4.38 |
+| ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.47 |
 | ✅ at.kizaing.ca | No | 0.4.47 |
 | ✅ at.yuntan.tech | No | 0.4.47 |
@@ -58,7 +58,7 @@ part of mainnet.
 | ❌ bs.thagoat.rip | No | 0.4.38 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
-| ✅ bsky-pds.lamberti.io | No | 0.4.38 |
+| ✅ bsky-pds.lamberti.io | No | 0.4.47 |
 | ❌ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bigboy.us | No | 0.4.47 |
 | ✅ bsky.bulles.social | No | 0.4.47 |
@@ -68,7 +68,7 @@ part of mainnet.
 | ✅ bsky.gearlicious.one | No | 0.4.47 |
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
 | ✅ bsky.gsheps.net | No | 0.4.47 |
-| ✅ bsky.huimao.xyz | No | 0.4.38 |
+| ✅ bsky.huimao.xyz | No | 0.4.47 |
 | ✅ bsky.infocyb.org | No | 0.4.47 |
 | ✅ bsky.j0.lol | No | 0.4.47 |
 | ✅ bsky.jltml.me | No | 0.4.47 |
@@ -85,8 +85,8 @@ part of mainnet.
 | ✅ bsky.nerdfest.dev | No | 0.4.47 |
 | ✅ bsky.ocelot.lol | No | 0.4.47 |
 | ✅ bsky.pavli.cc | No | 0.4.47 |
-| ✅ bsky.pink | Yes | 0.4.38 |
-| ✅ bsky.plasmatrap.com | No | 0.4.47 |
+| ✅ bsky.pink | Yes | 0.4.47 |
+| ❌ bsky.plasmatrap.com | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.47 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
@@ -98,7 +98,7 @@ part of mainnet.
 | ✅ bsky.tranvender.site | No | 0.4.38 |
 | ✅ bsky.vylion.com | No | 0.4.47 |
 | ✅ bsky.wtr.app | No | 0.4.47 |
-| ✅ bsky.zoeyvid.de | No | 0.4.38 |
+| ✅ bsky.zoeyvid.de | No | 0.4.47 |
 | ✅ bsky.zoner.work | No | 0.4.47 |
 | ❌ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.47 |
@@ -109,7 +109,7 @@ part of mainnet.
 | ✅ comrades.social | No | 0.4.47 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-4ddf457 |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
-| ❌ corgi.dance | No | 0.4.38 |
+| ✅ corgi.dance | No | 0.4.47 |
 | ✅ daemons.work | No | 0.4.38 |
 | ✅ danya.dev | No | 0.4.47 |
 | ✅ derpzilla.net | Yes | 0.4.38 |
@@ -126,19 +126,20 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.47 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.47 |
+| ✅ girl.technology | No | 0.4.47 |
 | ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.47 |
 | ✅ habanero.f5.si | No | 0.4.47 |
 | ❌ harley.serveo.net | No | 0.4.38 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-5643fa4 |
-| ✅ hellthread.pro | No | 0.4.46 |
+| ✅ hellthread.pro | No | 0.4.47 |
 | ✅ hivetasks.com | No | 0.4.47 |
 | ✅ holofan.live | No | 0.4.47 |
 | ✅ hooray.social | No | 0.4.47 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ iame.li | No | 0.4.23 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-4ddf457 |
-| ✅ internect.ing | No | 0.4.38 |
+| ✅ internect.ing | No | 0.4.47 |
 | ❌ ionosphere.neontrix.xyz | No | 0.4.38 |
 | ✅ ishimmi.net | No | 0.4.47 |
 | ✅ jlailu.social | No | 0.4.47 |
@@ -153,11 +154,10 @@ part of mainnet.
 | ✅ lionsmane.us-east.host.bsky.network | No | git-4ddf457 |
 | ❌ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
-| ✅ madiator.cloud | No | 0.4.38 |
+| ✅ madiator.cloud | No | 0.4.47 |
 | ✅ magrasea.com | No | 0.4.47 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ meety.me | No | 0.4.47 |
-| ❌ mikemerritt.xyz | No | 0.4.38 |
 | ✅ moegi.stream | No | 0.4.47 |
 | ✅ moogleyacht.club | No | 0.4.47 |
 | ✅ morel.us-east.host.bsky.network | No | git-4ddf457 |
@@ -182,18 +182,18 @@ part of mainnet.
 | ❌ pds.btxakita.com | No | ??? |
 | ✅ pds.c-stellar.net | No | 0.4.47 |
 | ✅ pds.cacheblasters.com | No | 0.4.47 |
-| ✅ pds.caruanafamily.net | No | 0.4.38 |
+| ✅ pds.caruanafamily.net | No | 0.4.47 |
 | ✅ pds.cauda.cloud | No | 0.4.47 |
 | ✅ pds.crys.uno | No | 0.4.47 |
 | ✅ pds.danni.id | No | 0.4.47 |
 | ✅ pds.dholms.xyz | No | 0.4.47 |
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.47 |
-| ✅ pds.draboros.net | No | 0.4.38 |
+| ✅ pds.draboros.net | No | 0.4.47 |
 | ✅ pds.elxx.net | No | 0.4.38 |
 | ✅ pds.erechorse.com | No | 0.4.47 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
-| ✅ pds.furtenbach.social | No | 0.4.46 |
+| ✅ pds.furtenbach.social | No | 0.4.47 |
 | ✅ pds.golf1052.com | No | 0.4.47 |
 | ✅ pds.graefekiez.de | No | 0.4.47 |
 | ✅ pds.gza.jp | No | 0.4.47 |
@@ -203,7 +203,7 @@ part of mainnet.
 | ✅ pds.jay.xyz | No | 0.4.47 |
 | ✅ pds.keiji0501.com | No | 0.4.47 |
 | ✅ pds.krasovs.ky | No | 0.4.47 |
-| ✅ pds.lotor.online | No | 0.4.38 |
+| ✅ pds.lotor.online | No | 0.4.47 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.47 |
 | ✅ pds.mattobs.com | No | 0.4.47 |
 | ✅ pds.mbl.social | No | 0.4.38 |
@@ -263,6 +263,7 @@ part of mainnet.
 | ✅ stinkhorn.jacob.gold | No | 0.4.47 |
 | ✅ stupol.social | No | 0.4.47 |
 | ✅ sunaba.io | No | 0.4.47 |
+| ✅ tbsky-dev.vasco-shot.com | No | 0.4.47 |
 | ✅ tbsky.vasco-shot.com | No | 0.4.47 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ❌ tksocial.eu.org | No | 0.4.38 |
@@ -296,67 +297,67 @@ part of mainnet.
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
-| ✅ aimod.social | 0.1.11 |
-| ❌ atproto.bsky.watch | ??? |
-| ✅ automo-ozone.bunnys.ky | 0.1.11 |
-| ✅ baatl.mastod.one | 0.1.11 |
-| ✅ blue-cosmos.social | 0.1.11 |
-| ✅ bsky-labeler.thenexus.today | 0.1.11 |
-| ✅ example.mastod.one | 0.1.11 |
-| ✅ hbms.hexandcube.eu.org | 0.1.11 |
-| ✅ howaboutyougeta.life | 0.1.11 |
-| ✅ kiki-bouba.mozzius.dev | 0.1.11 |
-| ✅ kind-labeler.bryan.town | 0.1.11 |
-| ✅ labeler.dholms.xyz | 0.1.11 |
-| ✅ labeler.divy.zone | 0.1.11 |
+| ✅ aimod.social | 0.1.33 |
+| ✅ automo-ozone.bunnys.ky | 0.1.33 |
+| ✅ baatl.mastod.one | 0.1.33 |
+| ✅ blue-cosmos.social | 0.1.33 |
+| ✅ bsky-labeler.thenexus.today | 0.1.33 |
+| ❌ dicorcia.tail8ac55.ts.net | ??? |
+| ✅ example.mastod.one | 0.1.33 |
+| ✅ hbms.hexandcube.eu.org | 0.1.33 |
+| ✅ howaboutyougeta.life | 0.1.33 |
+| ✅ kiki-bouba.mozzius.dev | 0.1.33 |
+| ✅ kind-labeler.bryan.town | 0.1.33 |
+| ✅ labeler.dholms.xyz | 0.1.33 |
+| ✅ labeler.divy.zone | 0.1.33 |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
-| ✅ labeling.newsdetective.org | 0.1.11 |
+| ✅ labeling.newsdetective.org | 0.1.33 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
-| ✅ merke.maanebedotten.no | 0.1.11 |
-| ✅ mod.armifi.com | 0.1.11 |
+| ✅ merke.maanebedotten.no | 0.1.33 |
+| ✅ mod.armifi.com | 0.1.33 |
 | ✅ mod.bsky.app | git-34c1b9b |
-| ✅ mod.laelaps.fyi | 0.1.11 |
+| ✅ mod.laelaps.fyi | 0.1.33 |
 | ✅ mod.staging.bsky.dev | git-e956ac0 |
 | ❌ mod.sunaba.network | 0.1.11 |
 | ✅ ozone.adorable.mom | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.11 |
-| ✅ ozone.asukafield.xyz | 0.1.11 |
+| ✅ ozone.asukafield.xyz | 0.1.33 |
 | ✅ ozone.bka.li | 0.1.11 |
 | ✅ ozone.bossett.social | 0.1.11 |
-| ✅ ozone.bunnynabbit.com | 0.1.11 |
-| ✅ ozone.darkcarnival.gay | 0.1.11 |
-| ✅ ozone.department7.org | 0.1.11 |
-| ✅ ozone.flatlander.social | 0.1.11 |
-| ✅ ozone.flicknow.xyz | 0.1.11 |
-| ✅ ozone.friend.town | 0.1.11 |
+| ✅ ozone.bunnynabbit.com | 0.1.33 |
+| ✅ ozone.darkcarnival.gay | 0.1.33 |
+| ✅ ozone.department7.org | 0.1.33 |
+| ✅ ozone.flatlander.social | 0.1.33 |
+| ✅ ozone.flicknow.xyz | 0.1.33 |
+| ✅ ozone.friend.town | 0.1.33 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.hellthread.pro | 0.1.11 |
-| ✅ ozone.iftas.dev | 0.1.11 |
+| ✅ ozone.iftas.dev | 0.1.33 |
 | ❌ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.1 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
-| ✅ ozone.mountainherder.xyz | 0.1.11 |
-| ✅ ozone.perfect-bra.in | 0.1.11 |
-| ✅ ozone.procycling.social | 0.1.11 |
-| ✅ ozone.renahlee.com | 0.1.11 |
-| ✅ ozone.ripperoni.com | 0.1.11 |
+| ✅ ozone.mountainherder.xyz | 0.1.33 |
+| ✅ ozone.perfect-bra.in | 0.1.33 |
+| ✅ ozone.procycling.social | 0.1.33 |
+| ✅ ozone.renahlee.com | 0.1.33 |
+| ✅ ozone.ripperoni.com | 0.1.33 |
 | ✅ ozone.shawnhoffman.dev | 0.1.11 |
-| ✅ ozone.shreyanjain.net | 0.1.11 |
-| ✅ ozone.suvpen.com | 0.1.11 |
-| ✅ ozone.timrombouts.be | 0.1.11 |
+| ✅ ozone.shreyanjain.net | 0.1.33 |
+| ✅ ozone.suvpen.com | 0.1.33 |
+| ✅ ozone.timrombouts.be | 0.1.33 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
-| ✅ ozone.usounds.work | 0.1.11 |
-| ✅ ozone.w3igg.com | 0.1.11 |
-| ✅ ozone.wyvern.blue | 0.1.11 |
+| ✅ ozone.usounds.work | 0.1.33 |
+| ✅ ozone.w3igg.com | 0.1.33 |
+| ✅ ozone.wyvern.blue | 0.1.33 |
 | ❌ ozone.y-force.info | 0.1.11 |
-| ✅ ozone.yardcrow.com | 0.1.11 |
-| ✅ phobial.mastod.one | 0.1.11 |
-| ✅ posters.rip | 0.1.11 |
+| ✅ ozone.yardcrow.com | 0.1.33 |
+| ✅ phobial.mastod.one | 0.1.33 |
+| ✅ posters.rip | 0.1.33 |
 | ❌ precise-bass-actively.ngrok-free.app | ??? |
-| ✅ stopthegifs.haileyok.com | 0.1.11 |
-| ✅ warlabel.dattil.io | 0.1.11 |
-| ✅ xblock.aendra.dev | 0.1.11 |
+| ✅ stopthegifs.haileyok.com | 0.1.33 |
+| ✅ warlabel.dattil.io | 0.1.33 |
+| ✅ xblock.aendra.dev | 0.1.33 |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run
