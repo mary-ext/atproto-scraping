@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-07T01:06:03.483Z[^1]
+Last updated: 2024-08-08T01:06:28.605Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -20,7 +20,7 @@ part of mainnet.
 | ✅ angels.fan | No | 0.4.47 |
 | ✅ aozora.yockow.jp | No | 0.4.47 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
-| ✅ at.clavis.info | No | 0.4.38 |
+| ✅ at.clavis.info | No | 0.4.47 |
 | ❌ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.47 |
 | ✅ at.kizaing.ca | No | 0.4.47 |
@@ -31,6 +31,7 @@ part of mainnet.
 | ❌ baconisyeserpik.com | No | 0.4.38 |
 | ✅ beta.thehippo.dev | No | 0.4.47 |
 | ✅ bevenhall.net | No | 0.4.47 |
+| ✅ bitemy.app | No | 0.4.47 |
 | ✅ blewit.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ blue-ocean.social | No | 0.4.47 |
 | ✅ blue.jbonomi.dev | No | 0.4.47 |
@@ -40,7 +41,7 @@ part of mainnet.
 | ✅ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
-| ✅ bluesky.lazzurs.net | No | 0.4.0-beta.7 |
+| ✅ bluesky.lazzurs.net | No | 0.4.47 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.47 |
 | ✅ bluesky.nk.ca | No | 0.4.47 |
 | ✅ bluesky.rosafamily.net | No | 0.4.47 |
@@ -62,6 +63,7 @@ part of mainnet.
 | ❌ bsky.air11.social | No | 0.4.38 |
 | ✅ bsky.bigboy.us | No | 0.4.47 |
 | ✅ bsky.bulles.social | No | 0.4.47 |
+| ✅ bsky.byoda.org | No | 0.4.47 |
 | ✅ bsky.chagge.com | No | 0.4.47 |
 | ✅ bsky.day | No | 0.4.38 |
 | ✅ bsky.dead10ck.dev | No | 0.4.38 |
@@ -86,7 +88,7 @@ part of mainnet.
 | ✅ bsky.ocelot.lol | No | 0.4.47 |
 | ✅ bsky.pavli.cc | No | 0.4.47 |
 | ✅ bsky.pink | Yes | 0.4.47 |
-| ❌ bsky.plasmatrap.com | No | 0.4.47 |
+| ✅ bsky.plasmatrap.com | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.47 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
@@ -126,8 +128,9 @@ part of mainnet.
 | ✅ fttp.cc | No | 0.4.47 |
 | ✅ gear.blue | No | 0.4.27 |
 | ✅ gesetz-bsky.world | Yes | 0.4.47 |
+| ❌ gibweb.com | No | ??? |
 | ✅ girl.technology | No | 0.4.47 |
-| ❌ giulia.social | No | N/A |
+| ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.47 |
 | ✅ habanero.f5.si | No | 0.4.47 |
 | ❌ harley.serveo.net | No | 0.4.38 |
@@ -158,13 +161,14 @@ part of mainnet.
 | ✅ magrasea.com | No | 0.4.47 |
 | ✅ maitake.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ meety.me | No | 0.4.47 |
+| ❌ messymax.com | No | ??? |
 | ✅ moegi.stream | No | 0.4.47 |
 | ✅ moogleyacht.club | No | 0.4.47 |
 | ✅ morel.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ mraow.party | No | 0.4.47 |
 | ✅ naomie.digital | No | 0.4.47 |
 | ✅ nekohana.blue | No | 0.4.47 |
-| ❌ nottyboi.me | No | 0.4.38 |
+| ✅ nottyboi.me | No | 0.4.47 |
 | ✅ nyago.zip | No | 0.4.47 |
 | ✅ okashi.social | No | 0.4.47 |
 | ✅ opp.minuspoint.com | No | 0.4.47 |
@@ -172,7 +176,7 @@ part of mainnet.
 | ✅ oyster.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ p.kojira.io | No | 0.4.47 |
 | ✅ pdeeznuts.amith.sbs | No | 0.4.47 |
-| ✅ pds.a2.rip | No | 0.4.32 |
+| ❌ pds.a2.rip | No | 0.4.32 |
 | ✅ pds.akigami.org | No | 0.4.47 |
 | ✅ pds.andreslucero.com | No | 0.4.47 |
 | ✅ pds.anymanystreams.cc | No | 0.4.47 |
@@ -238,6 +242,7 @@ part of mainnet.
 | ✅ porcini.us-east.host.bsky.network | No | git-4ddf457 |
 | ✅ proto.sorcie.re | No | 0.4.47 |
 | ✅ puffball.us-east.host.bsky.network | No | git-4ddf457 |
+| ❌ pupbrained.xyz | No | ??? |
 | ✅ quilt.com.tw | No | 0.4.47 |
 | ✅ rainbowgirl.moe | No | 0.4.47 |
 | ✅ randir.link | No | 0.4.47 |
@@ -277,7 +282,7 @@ part of mainnet.
 | ✅ userdir.de | No | 0.4.47 |
 | ✅ v-laboratory.com | No | 0.4.47 |
 | ✅ v9v.net | No | 0.4.47 |
-| ✅ var.so | No | 0.4.47 |
+| ❌ var.so | No | 0.4.47 |
 | ✅ vengeful.eu | No | 0.4.47 |
 | ✅ verpa.us-west.host.bsky.network | No | git-4ddf457 |
 | ✅ w7f.social | No | 0.4.47 |
@@ -342,6 +347,7 @@ part of mainnet.
 | ✅ ozone.procycling.social | 0.1.33 |
 | ✅ ozone.renahlee.com | 0.1.33 |
 | ✅ ozone.ripperoni.com | 0.1.33 |
+| ✅ ozone.ryanbonick.com | 0.1.33 |
 | ✅ ozone.shawnhoffman.dev | 0.1.11 |
 | ✅ ozone.shreyanjain.net | 0.1.33 |
 | ✅ ozone.suvpen.com | 0.1.33 |
@@ -355,6 +361,7 @@ part of mainnet.
 | ✅ phobial.mastod.one | 0.1.33 |
 | ✅ posters.rip | 0.1.33 |
 | ❌ precise-bass-actively.ngrok-free.app | ??? |
+| ✅ sonasky-ozone.bunnys.ky | 0.1.33 |
 | ✅ stopthegifs.haileyok.com | 0.1.33 |
 | ✅ warlabel.dattil.io | 0.1.33 |
 | ✅ xblock.aendra.dev | 0.1.33 |
