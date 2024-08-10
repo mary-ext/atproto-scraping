@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-09T01:07:24.936Z[^1]
+Last updated: 2024-08-10T01:07:14.039Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -21,7 +21,7 @@ part of mainnet.
 | ✅ aozora.yockow.jp | No | 0.4.47 |
 | ❌ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.47 |
-| ❌ at.dingdongdata.com | No | 0.4.38 |
+| ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.47 |
 | ✅ at.kizaing.ca | No | 0.4.47 |
 | ✅ at.yuntan.tech | No | 0.4.47 |
@@ -38,7 +38,7 @@ part of mainnet.
 | ✅ blueskeet.social | No | 0.4.47 |
 | ✅ bluesky.adriansmares.ro | No | 0.4.38 |
 | ❌ bluesky.akyoz.net | No | 0.4.38 |
-| ✅ bluesky.goober.cloud | No | 0.4.47 |
+| ❌ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
 | ✅ bluesky.lazzurs.net | No | 0.4.47 |
@@ -48,7 +48,6 @@ part of mainnet.
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
 | ✅ bluesky.sami.sk | No | 0.4.47 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.47 |
-| ❌ bluesky.xeronith.com | No | 0.4.38 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.47 |
 | ✅ boletus.us-west.host.bsky.network | No | git-8092715 |
@@ -59,10 +58,11 @@ part of mainnet.
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.47 |
-| ❌ bsky.air11.social | No | 0.4.38 |
+| ✅ bsky.air11.social | No | 0.4.47 |
+| ✅ bsky.baronvonpaddington.com | No | 0.4.47 |
 | ✅ bsky.bigboy.us | No | 0.4.47 |
 | ✅ bsky.bulles.social | No | 0.4.47 |
-| ❌ bsky.byoda.org | No | 0.4.47 |
+| ✅ bsky.byoda.org | No | 0.4.47 |
 | ✅ bsky.chagge.com | No | 0.4.47 |
 | ✅ bsky.day | No | 0.4.47 |
 | ✅ bsky.dead10ck.dev | No | 0.4.38 |
@@ -81,13 +81,14 @@ part of mainnet.
 | ✅ bsky.mcr.gb.net | No | 0.4.47 |
 | ✅ bsky.milkcocoa.info | No | 0.4.47 |
 | ✅ bsky.moellus.net | No | 0.4.47 |
-| ❌ bsky.mycapitolwatchdog.com | No | 0.4.38 |
+| ✅ bsky.mycapitolwatchdog.com | No | 0.4.47 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
 | ✅ bsky.nerdfest.dev | No | 0.4.47 |
 | ✅ bsky.ocelot.lol | No | 0.4.47 |
 | ✅ bsky.pavli.cc | No | 0.4.47 |
 | ✅ bsky.pink | Yes | 0.4.47 |
 | ✅ bsky.plasmatrap.com | No | 0.4.47 |
+| ✅ bsky.progaming.town | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.47 |
 | ✅ bsky.pupbrained.xyz | No | 0.4.47 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
@@ -112,7 +113,7 @@ part of mainnet.
 | ✅ conocybe.us-west.host.bsky.network | No | git-8092715 |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
 | ✅ corgi.dance | No | 0.4.47 |
-| ✅ daemons.work | No | 0.4.38 |
+| ❌ daemons.work | No | 0.4.38 |
 | ✅ danya.dev | No | 0.4.47 |
 | ✅ derpzilla.net | Yes | 0.4.38 |
 | ✅ disbursement.center | No | 0.4.47 |
@@ -153,6 +154,7 @@ part of mainnet.
 | ✅ lacunas.net | No | 0.4.47 |
 | ✅ lalasky.fun | No | 0.4.47 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
+| ✅ laprimicia.es | No | 0.4.47 |
 | ✅ lepista.us-west.host.bsky.network | No | git-8092715 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-8092715 |
 | ❌ machikadosora.online | No | 0.4.0-beta.7 |
@@ -168,7 +170,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.47 |
 | ✅ naomie.digital | No | 0.4.47 |
 | ✅ nekohana.blue | No | 0.4.47 |
-| ❌ nottyboi.me | No | 0.4.47 |
+| ✅ nottyboi.me | No | 0.4.47 |
 | ✅ nyago.zip | No | 0.4.47 |
 | ✅ okashi.social | No | 0.4.47 |
 | ✅ opp.minuspoint.com | No | 0.4.47 |
@@ -206,7 +208,7 @@ part of mainnet.
 | ✅ pds.jaronoff.com | No | 0.4.47 |
 | ✅ pds.jay.xyz | No | 0.4.47 |
 | ✅ pds.keiji0501.com | No | 0.4.47 |
-| ✅ pds.krasovs.ky | No | 0.4.47 |
+| ❌ pds.krasovs.ky | No | 0.4.47 |
 | ✅ pds.lotor.online | No | 0.4.47 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.47 |
 | ✅ pds.mattobs.com | No | 0.4.47 |
@@ -260,6 +262,7 @@ part of mainnet.
 | ✅ skyblue.cc | No | 0.4.47 |
 | ✅ sns.limelee.xyz | No | 0.4.47 |
 | ✅ social.barrybach.com | No | 0.4.47 |
+| ✅ social.benedetta.com.br | No | 0.4.47 |
 | ✅ social.owo.cl | No | 0.4.38 |
 | ✅ social.panache.so | No | 0.4.47 |
 | ✅ sowedu.net | No | 0.4.47 |
@@ -337,10 +340,10 @@ part of mainnet.
 | ✅ ozone.flicknow.xyz | 0.1.33 |
 | ✅ ozone.friend.town | 0.1.33 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ❌ ozone.hellthread.pro | 0.1.11 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.33 |
 | ❌ ozone.launchpadx.top | 0.1.1 |
-| ✅ ozone.lio.systems | 0.1.1 |
+| ✅ ozone.lio.systems | 0.1.33 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
 | ✅ ozone.mountainherder.xyz | 0.1.33 |
