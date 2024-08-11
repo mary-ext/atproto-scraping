@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-11T01:11:34.888Z[^1]
+Last updated: 2024-08-11T15:04:57.216Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**288** instances active  
-**260** online  
-**28** offline  
+**290** instances active  
+**263** online  
+**27** offline  
 **21** hosted by Bluesky  
-**267** hosted by third-parties
+**269** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -26,7 +26,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ amanita.us-east.host.bsky.network | No | git-8092715 |
 | ✅ angels.fan | No | 0.4.47 |
 | ✅ aozora.yockow.jp | No | 0.4.47 |
-| ❌ at-pds.tekat.my.id | No | 0.4.38 |
+| ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.47 |
 | ✅ at.dingdongdata.com | No | 0.4.38 |
 | ✅ at.hwsc.link | No | 0.4.47 |
@@ -34,7 +34,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at.yuntan.tech | No | 0.4.47 |
 | ✅ atp.retroheart.net | No | 0.4.47 |
 | ❌ atproto.brid.gy | No | ??? |
-| ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
+| ❌ b.yufushiro.dev | No | 0.4.0-beta.7 |
 | ❌ baconisyeserpik.com | No | 0.4.38 |
 | ✅ beta.thehippo.dev | No | 0.4.47 |
 | ✅ bevenhall.net | No | 0.4.47 |
@@ -128,6 +128,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.47 |
 | ❌ ds.povario.com | No | 0.4.12 |
+| ❌ ena-vocalp.com | No | ??? |
 | ✅ enoki.us-east.host.bsky.network | No | git-8092715 |
 | ✅ fastani.me | No | 0.4.47 |
 | ✅ filly.social | No | 0.4.47 |
@@ -138,7 +139,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ gesetz-bsky.world | Yes | 0.4.47 |
 | ❌ gibweb.com | No | ??? |
 | ✅ girl.technology | No | 0.4.47 |
-| ✅ giulia.social | No | N/A |
+| ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.47 |
 | ✅ habanero.f5.si | No | 0.4.47 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
@@ -178,7 +179,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mraow.party | No | 0.4.47 |
 | ✅ naomie.digital | No | 0.4.47 |
 | ✅ nekohana.blue | No | 0.4.47 |
-| ❌ nottyboi.me | No | 0.4.47 |
+| ✅ nottyboi.me | No | 0.4.47 |
 | ✅ nyago.zip | No | 0.4.47 |
 | ✅ okashi.social | No | 0.4.47 |
 | ✅ opp.minuspoint.com | No | 0.4.47 |
@@ -203,7 +204,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.dholms.xyz | No | 0.4.47 |
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.47 |
-| ❌ pds.draboros.net | No | 0.4.47 |
+| ✅ pds.draboros.net | No | 0.4.47 |
 | ✅ pds.elxx.net | No | 0.4.38 |
 | ✅ pds.erechorse.com | No | 0.4.47 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
@@ -265,6 +266,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.47 |
+| ✅ sky.skrw.me | No | 0.4.47 |
 | ✅ sky.tokimeki.blue | No | 0.4.47 |
 | ✅ sky01.ketto.ca | No | 0.4.47 |
 | ✅ skyblue.cc | No | 0.4.47 |
@@ -301,7 +303,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ wilford.industries | No | 0.4.47 |
 | ✅ wordsky.xyz | No | 0.4.47 |
 | ❌ wowpro-guides.com | No | ??? |
-| ❌ x.kty.lol | No | 0.4.47 |
+| ✅ x.kty.lol | No | 0.4.47 |
 | ✅ yoshiki.burnworks.com | No | 0.4.47 |
 | ✅ yumeka.cc | No | 0.4.47 |
 | ✅ zazen.social | No | 0.4.47 |
