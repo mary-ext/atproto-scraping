@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-10T01:07:14.039Z[^1]
+Last updated: 2024-08-11T01:11:34.888Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -12,7 +12,6 @@ part of mainnet.
 | --- | --- | --- |
 | ✅ 42d.fr | No | 0.4.47 |
 | ✅ 465789.xyz | No | 0.4.47 |
-| ❌ 48north.org | No | 0.4.38 |
 | ✅ afternooncurry.com | No | 0.4.47 |
 | ✅ agaric.us-west.host.bsky.network | No | git-8092715 |
 | ✅ aliciousintent.com | No | 0.4.27 |
@@ -38,7 +37,7 @@ part of mainnet.
 | ✅ blueskeet.social | No | 0.4.47 |
 | ✅ bluesky.adriansmares.ro | No | 0.4.38 |
 | ❌ bluesky.akyoz.net | No | 0.4.38 |
-| ❌ bluesky.goober.cloud | No | 0.4.47 |
+| ✅ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
 | ✅ bluesky.lazzurs.net | No | 0.4.47 |
@@ -88,7 +87,7 @@ part of mainnet.
 | ✅ bsky.pavli.cc | No | 0.4.47 |
 | ✅ bsky.pink | Yes | 0.4.47 |
 | ✅ bsky.plasmatrap.com | No | 0.4.47 |
-| ✅ bsky.progaming.town | No | 0.4.47 |
+| ❌ bsky.progaming.town | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.47 |
 | ✅ bsky.pupbrained.xyz | No | 0.4.47 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
@@ -113,7 +112,7 @@ part of mainnet.
 | ✅ conocybe.us-west.host.bsky.network | No | git-8092715 |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.38 |
 | ✅ corgi.dance | No | 0.4.47 |
-| ❌ daemons.work | No | 0.4.38 |
+| ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.47 |
 | ✅ derpzilla.net | Yes | 0.4.38 |
 | ✅ disbursement.center | No | 0.4.47 |
@@ -134,6 +133,7 @@ part of mainnet.
 | ✅ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.47 |
 | ✅ habanero.f5.si | No | 0.4.47 |
+| ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
 | ❌ harley.serveo.net | No | 0.4.38 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-8092715 |
 | ✅ hellthread.pro | No | 0.4.47 |
@@ -150,11 +150,11 @@ part of mainnet.
 | ✅ kiichigo.cloud | Yes | 0.4.47 |
 | ✅ knot.land | No | 0.4.47 |
 | ✅ lab.yuipcoders.com | No | 0.4.47 |
-| ✅ labcaffeinated.com | No | 0.4.47 |
+| ❌ labcaffeinated.com | No | 0.4.47 |
 | ✅ lacunas.net | No | 0.4.47 |
 | ✅ lalasky.fun | No | 0.4.47 |
 | ✅ lamp.wtf | No | 0.4.0-beta.7 |
-| ✅ laprimicia.es | No | 0.4.47 |
+| ❌ laprimicia.es | No | 0.4.47 |
 | ✅ lepista.us-west.host.bsky.network | No | git-8092715 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-8092715 |
 | ❌ machikadosora.online | No | 0.4.0-beta.7 |
@@ -170,7 +170,7 @@ part of mainnet.
 | ✅ mraow.party | No | 0.4.47 |
 | ✅ naomie.digital | No | 0.4.47 |
 | ✅ nekohana.blue | No | 0.4.47 |
-| ✅ nottyboi.me | No | 0.4.47 |
+| ❌ nottyboi.me | No | 0.4.47 |
 | ✅ nyago.zip | No | 0.4.47 |
 | ✅ okashi.social | No | 0.4.47 |
 | ✅ opp.minuspoint.com | No | 0.4.47 |
@@ -195,7 +195,7 @@ part of mainnet.
 | ✅ pds.dholms.xyz | No | 0.4.47 |
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.47 |
-| ✅ pds.draboros.net | No | 0.4.47 |
+| ❌ pds.draboros.net | No | 0.4.47 |
 | ✅ pds.elxx.net | No | 0.4.38 |
 | ✅ pds.erechorse.com | No | 0.4.47 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
@@ -208,12 +208,12 @@ part of mainnet.
 | ✅ pds.jaronoff.com | No | 0.4.47 |
 | ✅ pds.jay.xyz | No | 0.4.47 |
 | ✅ pds.keiji0501.com | No | 0.4.47 |
-| ❌ pds.krasovs.ky | No | 0.4.47 |
+| ✅ pds.krasovs.ky | No | 0.4.47 |
 | ✅ pds.lotor.online | No | 0.4.47 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.47 |
 | ✅ pds.mattobs.com | No | 0.4.47 |
 | ✅ pds.mbl.social | No | 0.4.38 |
-| ✅ pds.megantoots.com | No | 0.4.46 |
+| ✅ pds.megantoots.com | No | 0.4.47 |
 | ❌ pds.mevo.xyz | No | 0.4.38 |
 | ✅ pds.mnogu.net | No | 0.4.47 |
 | ✅ pds.mozzius.dev | No | 0.4.47 |
@@ -222,7 +222,7 @@ part of mainnet.
 | ✅ pds.pokete.com | No | 0.4.47 |
 | ✅ pds.quimian.com | No | 0.4.47 |
 | ✅ pds.robocracy.org | No | 0.4.47 |
-| ✅ pds.shigepon.net | No | 0.4.38 |
+| ✅ pds.shigepon.net | No | 0.4.47 |
 | ✅ pds.shreyanjain.net | No | 0.4.38 |
 | ✅ pds.simplespace.jp | No | 0.4.47 |
 | ✅ pds.skyfeed.dev | No | 0.4.0-beta.7 |
@@ -293,7 +293,7 @@ part of mainnet.
 | ✅ wilford.industries | No | 0.4.47 |
 | ✅ wordsky.xyz | No | 0.4.47 |
 | ❌ wowpro-guides.com | No | ??? |
-| ✅ x.kty.lol | No | 0.4.47 |
+| ❌ x.kty.lol | No | 0.4.47 |
 | ✅ yoshiki.burnworks.com | No | 0.4.47 |
 | ✅ yumeka.cc | No | 0.4.47 |
 | ✅ zazen.social | No | 0.4.47 |
@@ -331,7 +331,7 @@ part of mainnet.
 | ✅ ozone.adorable.mom | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.33 |
 | ✅ ozone.asukafield.xyz | 0.1.33 |
-| ✅ ozone.bka.li | 0.1.11 |
+| ✅ ozone.bka.li | 0.1.33 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.33 |
 | ✅ ozone.darkcarnival.gay | 0.1.33 |
