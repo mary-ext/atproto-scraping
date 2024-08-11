@@ -6,14 +6,14 @@
 		"fmt": "prettier --cache --write ."
 	},
 	"dependencies": {
-		"@badrap/valita": "^0.3.8",
-		"@mary/bluesky-client": "npm:@jsr/mary__bluesky-client@^0.5.14",
+		"@badrap/valita": "^0.3.9",
+		"@mary/bluesky-client": "npm:@jsr/mary__bluesky-client@^0.5.27",
 		"date-fns": "^3.6.0",
-		"tldts": "^6.1.20"
+		"tldts": "^6.1.39"
 	},
 	"devDependencies": {
-		"@types/bun": "^1.1.2",
-		"prettier": "^3.2.5",
-		"typescript": "~5.5.0-beta"
+		"@types/bun": "^1.1.6",
+		"prettier": "^3.3.3",
+		"typescript": "^5.6.0-beta"
 	}
 }
