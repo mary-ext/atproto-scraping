@@ -5,7 +5,15 @@ Last updated: 2024-08-11T01:11:34.888Z[^1]
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
 
+Instances that have not been active for more than 7 days gets dropped off from this list.
+
 ## Personal data servers
+
+**288** instances active  
+**260** online  
+**28** offline  
+**21** hosted by Bluesky  
+**267** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -301,6 +309,10 @@ part of mainnet.
 <!-- pds-end -->
 
 ## Labelers
+
+**64** instances active  
+**60** online  
+**4** offline
 
 <!-- labeler-start -->
 | Labeler | Version |

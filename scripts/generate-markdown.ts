@@ -1,13 +1,6 @@
-import { BskyXRPC } from '@mary/bluesky-client';
-import { XRPCError } from '@mary/bluesky-client/xrpc';
-
 import * as v from '@badrap/valita';
-import { differenceInDays } from 'date-fns/differenceInDays';
 
-import { MAX_FAILURE_DAYS } from '../src/constants';
-import { serializedState, type LabelerInfo, type PDSInfo, type SerializedState } from '../src/state';
-
-import { PromiseQueue } from '../src/utils/pqueue';
+import { serializedState, type SerializedState } from '../src/state';
 
 const now = Date.now();
 
@@ -30,138 +23,6 @@ let state: SerializedState | undefined;
 	}
 }
 
-// Some schema validations
-const pdsDescribeServerResponse = v.object({
-	availableUserDomains: v.array(v.string()),
-	did: v.string(),
-
-	contact: v.object({ email: v.string().optional() }).optional(),
-	inviteCodeRequired: v.boolean().optional(),
-	links: v.object({ privacyPolicy: v.string().optional(), termsOfService: v.string().optional() }).optional(),
-	phoneVerificationRequired: v.boolean().optional(),
-});
-
-const labelerQueryLabelsResponse = v.object({
-	cursor: v.string().optional(),
-	labels: v.array(
-		v.object({
-			src: v.string(),
-			uri: v.string(),
-			val: v.string(),
-			cts: v.string(),
-
-			cid: v.string().optional(),
-			exp: v.string().optional(),
-			neg: v.boolean().optional(),
-			sig: v.object({ $bytes: v.string() }).optional(),
-			ver: v.number().optional(),
-		}),
-	),
-});
-
-const offHealthResponse = v.object({
-	version: v.string(),
-});
-
-// Global states
-const pdses = new Map<string, PDSInfo>(state ? Object.entries(state.pdses) : []);
-const labelers = new Map<string, LabelerInfo>(state ? Object.entries(state.labelers) : []);
-
-const queue = new PromiseQueue();
-
-// Connect to PDSes
-console.log(`crawling known pdses`);
-
-const pdsResults = await Promise.all(
-	Array.from(pdses, ([href, obj]) => {
-		return queue.add(async () => {
-			const host = new URL(href).host;
-			const rpc = new BskyXRPC({ service: href });
-
-			const signal = AbortSignal.timeout(15_000);
-			const meta = await rpc
-				.get('com.atproto.server.describeServer', { signal })
-				.then(({ data: rawData }) => {
-					const data = pdsDescribeServerResponse.parse(rawData, { mode: 'passthrough' });
-
-					if (data.did !== `did:web:${host}`) {
-						throw new Error(`did mismatch`);
-					}
-
-					return data;
-				})
-				.catch(() => null);
-
-			if (meta === null) {
-				const errorAt = obj.errorAt;
-
-				if (errorAt === undefined) {
-					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) > MAX_FAILURE_DAYS) {
-					// It's been days without a response, stop tracking.
-
-					pdses.delete(href);
-					return;
-				}
-
-				console.log(`  ${host}: fail`);
-				return { host, info: obj };
-			}
-
-			const version = await getVersion(rpc, obj.version);
-
-			obj.version = version;
-			obj.inviteCodeRequired = meta.inviteCodeRequired;
-			obj.errorAt = undefined;
-
-			console.log(`  ${host}: pass`);
-			return { host, info: obj };
-		});
-	}),
-).then((results) => results.filter((r) => r !== undefined));
-
-// Connect to labelers
-console.log(`crawling known labelers`);
-
-const labelerResults = await Promise.all(
-	Array.from(labelers, async ([href, obj]) => {
-		return queue.add(async () => {
-			const host = new URL(href).host;
-			const rpc = new BskyXRPC({ service: href });
-
-			const signal = AbortSignal.timeout(15_000);
-			const meta = await rpc
-				.get('com.atproto.label.queryLabels', { signal: signal, params: { uriPatterns: ['*'], limit: 1 } })
-				.then(({ data: rawData }) => labelerQueryLabelsResponse.parse(rawData, { mode: 'passthrough' }))
-				.catch(() => null);
-
-			if (meta === null) {
-				const errorAt = obj.errorAt;
-
-				if (errorAt === undefined) {
-					obj.errorAt = now;
-				} else if (differenceInDays(now, errorAt) > MAX_FAILURE_DAYS) {
-					// It's been days without a response, stop tracking.
-
-					labelers.delete(href);
-					return;
-				}
-
-				console.log(`  ${host}: fail`);
-				return { host, info: obj };
-			}
-
-			const version = await getVersion(rpc, obj.version);
-
-			obj.version = version;
-			obj.errorAt = undefined;
-
-			console.log(`  ${host}: pass`);
-			return { host, info: obj };
-		});
-	}),
-).then((results) => results.filter((r) => r !== undefined));
-
 // Markdown stuff
 {
 	const PDS_RE = /(?<=<!-- pds-start -->)[^]*(?=<!-- pds-end -->)/;
@@ -174,11 +35,17 @@ Last updated: {{time}}[^1]
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
 
+Instances that have not been active for more than 7 days gets dropped off from this list.
+
 ## Personal data servers
+
+{{pdsSummary}}
 
 <!-- pds-start --><!-- pds-end -->
 
 ## Labelers
+
+{{labelerSummary}}
 
 <!-- labeler-start --><!-- labeler-end -->
 
@@ -195,8 +62,12 @@ part of mainnet.
 | --- | --- |
 `;
 
+	const pdses = Object.entries(state?.pdses ?? {});
+	const labelers = Object.entries(state?.labelers ?? {});
+
 	// Generate the PDS table
-	for (const { host, info } of pdsResults) {
+	for (const [href, info] of pdses) {
+		const host = new URL(href).host;
 		const { errorAt, inviteCodeRequired, version } = info;
 
 		const on = errorAt === undefined ? '✅' : '❌';
@@ -207,7 +78,8 @@ part of mainnet.
 	}
 
 	// Generate the labeler table
-	for (const { host, info } of labelerResults) {
+	for (const [href, info] of labelers) {
+		const host = new URL(href).host;
 		const { errorAt, version } = info;
 
 		const on = errorAt === undefined ? '✅' : '❌';
@@ -231,6 +103,8 @@ part of mainnet.
 	if (shouldWrite) {
 		const final = template
 			.replace('{{time}}', new Date().toISOString())
+			.replace('{{pdsSummary}}', getPdsSummary())
+			.replace('{{labelerSummary}}', getLabelerSummary())
 			.replace(PDS_RE, pdsTable)
 			.replace(LABELER_RE, labelerTable);
 
@@ -239,43 +113,69 @@ part of mainnet.
 	} else {
 		console.log(`writing skipped`);
 	}
-}
 
-// Persist the state
-{
-	const serialized: SerializedState = {
-		firehose: {
-			cursor: state?.firehose.cursor,
-			didWebs: state?.firehose.didWebs || {},
-		},
-		plc: {
-			cursor: state?.plc.cursor,
-		},
+	function getPdsSummary() {
+		let totalCount = 0;
+		let onlineCount = 0;
+		let offlineCount = 0;
+		let blueskyHostedCount = 0;
+		let nonBlueskyHostedCount = 0;
 
-		pdses: Object.fromEntries(Array.from(pdses)),
-		labelers: Object.fromEntries(Array.from(labelers)),
-	};
+		for (const [href, info] of pdses) {
+			const host = new URL(href).host;
+			const { errorAt } = info;
 
-	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
-}
+			// `bsky.social` mainly acts as an authorization server for PDSes hosted
+			// under *.host.bsky.network.
+			if (host === 'bsky.social') {
+				continue;
+			}
 
-async function getVersion(rpc: BskyXRPC, prev: string | null | undefined) {
-	// skip if the response previously returned null (not official distrib)
-	if (prev === null) {
-		return null;
-	}
+			totalCount++;
 
-	try {
-		// @ts-expect-error: undocumented endpoint
-		const { data: rawData } = await rpc.get('_health', {});
-		const { version } = offHealthResponse.parse(rawData, { mode: 'passthrough' });
+			if (errorAt === undefined) {
+				onlineCount++;
+			} else {
+				offlineCount++;
+			}
 
-		return /^[0-9a-f]{40}$/.test(version) ? `git-${version.slice(0, 7)}` : version;
-	} catch (err) {
-		if (err instanceof XRPCError && err.status !== 404) {
-			return undefined;
+			if (host.endsWith('.host.bsky.network')) {
+				blueskyHostedCount++;
+			} else {
+				nonBlueskyHostedCount++;
+			}
 		}
+
+		return (
+			`**${totalCount}** instances active  \n` +
+			`**${onlineCount}** online  \n` +
+			`**${offlineCount}** offline  \n` +
+			`**${blueskyHostedCount}** hosted by Bluesky  \n` +
+			`**${nonBlueskyHostedCount}** hosted by third-parties`
+		);
 	}
 
-	return null;
+	function getLabelerSummary() {
+		let totalCount = 0;
+		let onlineCount = 0;
+		let offlineCount = 0;
+
+		for (const [href, info] of labelers) {
+			const { errorAt } = info;
+
+			totalCount++;
+
+			if (errorAt === undefined) {
+				onlineCount++;
+			} else {
+				offlineCount++;
+			}
+		}
+
+		return (
+			`**${totalCount}** instances active  \n` +
+			`**${onlineCount}** online  \n` +
+			`**${offlineCount}** offline`
+		);
+	}
 }
