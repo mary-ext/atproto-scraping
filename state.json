@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6268273",
+		"cursor": "6270734",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-11T15:01:28.089Z"
+		"cursor": "2024-08-12T01:04:32.449Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -106,12 +106,11 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1723388524090
+			"errorAt": 1723424697324
 		},
 		"https://b.yufushiro.dev/": {
-			"version": "0.4.0-beta.7",
 			"inviteCodeRequired": true,
-			"errorAt": 1723388524090
+			"version": "0.4.0-beta.7"
 		},
 		"https://baconisyeserpik.com/": {
 			"inviteCodeRequired": true,
@@ -127,6 +126,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://bitemy.app/": {
+			"version": "0.4.47",
+			"inviteCodeRequired": true
+		},
+		"https://blacksky.app/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
@@ -169,7 +172,8 @@
 		},
 		"https://bluesky.lazzurs.net/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.47",
+			"errorAt": 1723424697324
 		},
 		"https://bluesky.nissesdomain.org/": {
 			"inviteCodeRequired": true,
@@ -189,7 +193,8 @@
 		},
 		"https://bluesky.sami.sk/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.47",
+			"errorAt": 1723424697324
 		},
 		"https://bluesky.therobbiedavis.com/": {
 			"inviteCodeRequired": true,
@@ -493,7 +498,8 @@
 			"errorAt": 1723165425805
 		},
 		"https://ena-vocalp.com/": {
-			"errorAt": 1723388524090
+			"version": "0.4.47",
+			"inviteCodeRequired": true
 		},
 		"https://enoki.us-east.host.bsky.network/": {
 			"version": "git-8092715",
@@ -548,7 +554,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://habitat-dev.tail07d32.ts.net/": {
-			"version": "0.4.13",
+			"version": "0.4.21",
 			"inviteCodeRequired": true
 		},
 		"https://harley.serveo.net/": {
@@ -701,7 +707,8 @@
 		},
 		"https://nottyboi.me/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.47",
+			"errorAt": 1723424697324
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.47",
@@ -709,7 +716,8 @@
 		},
 		"https://okashi.social/": {
 			"version": "0.4.47",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1723424697324
 		},
 		"https://opp.minuspoint.com/": {
 			"version": "0.4.47",

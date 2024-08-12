@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-11T15:04:57.216Z[^1]
+Last updated: 2024-08-12T01:07:57.233Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**290** instances active  
-**263** online  
-**27** offline  
+**291** instances active  
+**262** online  
+**29** offline  
 **21** hosted by Bluesky  
-**269** hosted by third-parties
+**270** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -34,11 +34,12 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at.yuntan.tech | No | 0.4.47 |
 | ✅ atp.retroheart.net | No | 0.4.47 |
 | ❌ atproto.brid.gy | No | ??? |
-| ❌ b.yufushiro.dev | No | 0.4.0-beta.7 |
+| ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
 | ❌ baconisyeserpik.com | No | 0.4.38 |
 | ✅ beta.thehippo.dev | No | 0.4.47 |
 | ✅ bevenhall.net | No | 0.4.47 |
 | ✅ bitemy.app | No | 0.4.47 |
+| ✅ blacksky.app | No | 0.4.47 |
 | ✅ blewit.us-west.host.bsky.network | No | git-8092715 |
 | ✅ blue-ocean.social | No | 0.4.47 |
 | ✅ blue.jbonomi.dev | No | 0.4.47 |
@@ -48,12 +49,12 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
-| ✅ bluesky.lazzurs.net | No | 0.4.47 |
+| ❌ bluesky.lazzurs.net | No | 0.4.47 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.47 |
 | ✅ bluesky.nk.ca | No | 0.4.47 |
 | ✅ bluesky.rosafamily.net | No | 0.4.47 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
-| ✅ bluesky.sami.sk | No | 0.4.47 |
+| ❌ bluesky.sami.sk | No | 0.4.47 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.47 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.47 |
@@ -128,7 +129,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.47 |
 | ❌ ds.povario.com | No | 0.4.12 |
-| ❌ ena-vocalp.com | No | ??? |
+| ✅ ena-vocalp.com | No | 0.4.47 |
 | ✅ enoki.us-east.host.bsky.network | No | git-8092715 |
 | ✅ fastani.me | No | 0.4.47 |
 | ✅ filly.social | No | 0.4.47 |
@@ -142,7 +143,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ giulia.social | No | N/A |
 | ✅ goeo.lol | No | 0.4.47 |
 | ✅ habanero.f5.si | No | 0.4.47 |
-| ✅ habitat-dev.tail07d32.ts.net | No | 0.4.13 |
+| ✅ habitat-dev.tail07d32.ts.net | No | 0.4.21 |
 | ❌ harley.serveo.net | No | 0.4.38 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-8092715 |
 | ✅ hellthread.pro | No | 0.4.47 |
@@ -179,9 +180,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mraow.party | No | 0.4.47 |
 | ✅ naomie.digital | No | 0.4.47 |
 | ✅ nekohana.blue | No | 0.4.47 |
-| ✅ nottyboi.me | No | 0.4.47 |
+| ❌ nottyboi.me | No | 0.4.47 |
 | ✅ nyago.zip | No | 0.4.47 |
-| ✅ okashi.social | No | 0.4.47 |
+| ❌ okashi.social | No | 0.4.47 |
 | ✅ opp.minuspoint.com | No | 0.4.47 |
 | ✅ otasora.blue | No | 0.4.47 |
 | ✅ oyster.us-east.host.bsky.network | No | git-8092715 |
