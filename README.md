@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-12T01:07:57.233Z[^1]
+Last updated: 2024-08-13T01:07:17.791Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**291** instances active  
-**262** online  
-**29** offline  
+**292** instances active  
+**266** online  
+**26** offline  
 **21** hosted by Bluesky  
-**270** hosted by third-parties
+**271** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -44,17 +44,17 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ blue-ocean.social | No | 0.4.47 |
 | ✅ blue.jbonomi.dev | No | 0.4.47 |
 | ✅ blueskeet.social | No | 0.4.47 |
-| ✅ bluesky.adriansmares.ro | No | 0.4.38 |
+| ✅ bluesky.adriansmares.ro | No | 0.4.47 |
 | ❌ bluesky.akyoz.net | No | 0.4.38 |
 | ✅ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
-| ❌ bluesky.lazzurs.net | No | 0.4.47 |
+| ✅ bluesky.lazzurs.net | No | 0.4.47 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.47 |
 | ✅ bluesky.nk.ca | No | 0.4.47 |
 | ✅ bluesky.rosafamily.net | No | 0.4.47 |
 | ✅ bluesky.rp-taki.com | No | 0.4.38 |
-| ❌ bluesky.sami.sk | No | 0.4.47 |
+| ✅ bluesky.sami.sk | No | 0.4.47 |
 | ✅ bluesky.therobbiedavis.com | No | 0.4.47 |
 | ✅ bluesky.zergy.net | No | 0.4.23 |
 | ✅ bluetony.com | No | 0.4.47 |
@@ -99,6 +99,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ bsky.progaming.town | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.47 |
 | ✅ bsky.pupbrained.xyz | No | 0.4.47 |
+| ✅ bsky.ranranhome.info | No | 0.4.47 |
 | ❌ bsky.rothlyn.online | No | 0.4.38 |
 | ✅ bsky.runhello.com | No | 0.4.38 |
 | ✅ bsky.samulireijula.net | No | 0.4.47 |
@@ -111,7 +112,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.wtr.app | No | 0.4.47 |
 | ✅ bsky.zoeyvid.de | No | 0.4.47 |
 | ✅ bsky.zoner.work | No | 0.4.47 |
-| ❌ bskytest.marginal.net | No | 0.4.7 |
 | ✅ bum.ninja | No | 0.4.47 |
 | ✅ chaga.us-west.host.bsky.network | No | git-8092715 |
 | ✅ chair.rocks | No | 0.4.47 |
@@ -129,7 +129,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.47 |
 | ❌ ds.povario.com | No | 0.4.12 |
-| ✅ ena-vocalp.com | No | 0.4.47 |
+| ❌ ena-vocalp.com | No | 0.4.47 |
 | ✅ enoki.us-east.host.bsky.network | No | git-8092715 |
 | ✅ fastani.me | No | 0.4.47 |
 | ✅ filly.social | No | 0.4.47 |
@@ -154,7 +154,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ iame.li | No | 0.4.23 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-8092715 |
 | ✅ internect.ing | No | 0.4.47 |
-| ❌ ionosphere.neontrix.xyz | No | 0.4.38 |
 | ✅ ishimmi.net | No | 0.4.47 |
 | ✅ jlailu.social | No | 0.4.47 |
 | ✅ kiichigo.cloud | Yes | 0.4.47 |
@@ -187,8 +186,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ otasora.blue | No | 0.4.47 |
 | ✅ oyster.us-east.host.bsky.network | No | git-8092715 |
 | ✅ p.kojira.io | No | 0.4.47 |
+| ✅ pajamas.monster | No | 0.4.47 |
 | ✅ pdeeznuts.amith.sbs | No | 0.4.47 |
-| ❌ pds.a2.rip | No | 0.4.32 |
+| ✅ pds.a2.rip | No | 0.4.47 |
 | ✅ pds.akigami.org | No | 0.4.47 |
 | ✅ pds.andreslucero.com | No | 0.4.47 |
 | ✅ pds.anymanystreams.cc | No | 0.4.47 |
@@ -231,6 +231,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.nixeneko.info | No | 0.4.47 |
 | ✅ pds.pokete.com | No | 0.4.47 |
 | ✅ pds.quimian.com | No | 0.4.47 |
+| ❌ pds.ranranhome.info | No | ??? |
 | ✅ pds.robocracy.org | No | 0.4.47 |
 | ✅ pds.shigepon.net | No | 0.4.47 |
 | ✅ pds.shreyanjain.net | No | 0.4.38 |
@@ -259,7 +260,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ rainbowgirl.moe | No | 0.4.47 |
 | ✅ randir.link | No | 0.4.47 |
 | ✅ redocean.one | No | 0.4.47 |
-| ✅ rows.io | No | 0.4.38 |
+| ✅ rows.io | No | 0.4.47 |
 | ✅ russula.us-west.host.bsky.network | No | git-8092715 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-8092715 |
 | ✅ shimeji.us-east.host.bsky.network | No | git-8092715 |
@@ -313,8 +314,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**64** instances active  
-**60** online  
+**65** instances active  
+**61** online  
 **4** offline
 
 <!-- labeler-start -->
@@ -382,6 +383,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ precise-bass-actively.ngrok-free.app | ??? |
 | ✅ sonasky-ozone.bunnys.ky | 0.1.33 |
 | ✅ stopthegifs.haileyok.com | 0.1.33 |
+| ✅ uspollabeler.blakeslabs.com | 0.1.33 |
 | ✅ warlabel.dattil.io | 0.1.33 |
 | ✅ xblock.aendra.dev | 0.1.33 |
 <!-- labeler-end -->
