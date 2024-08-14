@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6277000",
+		"cursor": "6287602",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-13T01:04:01.479Z"
+		"cursor": "2024-08-14T01:03:07.550Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -87,7 +87,7 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.47"
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.47",
@@ -106,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1723511057642
+			"errorAt": 1723597402295
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -141,6 +141,10 @@
 			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
+		"https://blue.eldritch.gift/": {
+			"version": "0.4.47",
+			"inviteCodeRequired": true
+		},
 		"https://blue.jbonomi.dev/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
@@ -172,7 +176,8 @@
 		},
 		"https://bluesky.lazzurs.net/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.47",
+			"errorAt": 1723597402295
 		},
 		"https://bluesky.nissesdomain.org/": {
 			"inviteCodeRequired": true,
@@ -180,7 +185,11 @@
 		},
 		"https://bluesky.nk.ca/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.47",
+			"errorAt": 1723597402295
+		},
+		"https://bluesky.q2r.net/": {
+			"errorAt": 1723597402295
 		},
 		"https://bluesky.rosafamily.net/": {
 			"version": "0.4.47",
@@ -219,6 +228,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://boymodelworld.com/": {
+			"version": "0.4.47",
+			"inviteCodeRequired": true
+		},
+		"https://bs.duidui.xyz/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
@@ -375,11 +388,6 @@
 			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
-		"https://bsky.rothlyn.online/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1722301327502
-		},
 		"https://bsky.runhello.com/": {
 			"version": "0.4.38",
 			"inviteCodeRequired": true
@@ -454,8 +462,7 @@
 		},
 		"https://cool-barnacle-equal.ngrok-free.app/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1722387115298
+			"version": "0.4.47"
 		},
 		"https://corgi.dance/": {
 			"inviteCodeRequired": true,
@@ -495,8 +502,8 @@
 			"errorAt": 1723165425805
 		},
 		"https://ena-vocalp.com/": {
-			"version": "0.4.47",
 			"inviteCodeRequired": true,
+			"version": "0.4.47",
 			"errorAt": 1723511057642
 		},
 		"https://enoki.us-east.host.bsky.network/": {
@@ -512,7 +519,7 @@
 			"version": "0.4.47"
 		},
 		"https://foxhole.lgbt/": {
-			"version": "0.4.38",
+			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
 		"https://friendlypds.cloud/": {
@@ -540,8 +547,7 @@
 		},
 		"https://giulia.social/": {
 			"inviteCodeRequired": true,
-			"version": null,
-			"errorAt": 1723388524090
+			"version": null
 		},
 		"https://goeo.lol/": {
 			"version": "0.4.47",
@@ -709,8 +715,7 @@
 		},
 		"https://okashi.social/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47",
-			"errorAt": 1723424697324
+			"version": "0.4.47"
 		},
 		"https://opp.minuspoint.com/": {
 			"version": "0.4.47",
@@ -948,7 +953,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.tentacle.expert/": {
-			"version": "0.4.38",
+			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
 		"https://pds.timburga.social/": {
@@ -1080,7 +1085,8 @@
 		},
 		"https://social.benedetta.com.br/": {
 			"version": "0.4.47",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1723597402295
 		},
 		"https://social.owo.cl/": {
 			"version": "0.4.38",
@@ -1314,11 +1320,6 @@
 		"https://mod.staging.bsky.dev/": {
 			"did": "did:plc:kfiaag3o66qk75mfgwebyyns",
 			"version": "git-e956ac0"
-		},
-		"https://mod.sunaba.network/": {
-			"did": "did:plc:hjhlwomi2kwyrss5w5i5l7xq",
-			"version": "0.1.11",
-			"errorAt": 1722301327502
 		},
 		"https://ozone.adorable.mom/": {
 			"did": "did:plc:wkoofae5uytcm7bjncmev6n6",
