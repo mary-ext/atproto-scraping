@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-14T01:06:20.168Z[^1]
+Last updated: 2024-08-15T01:03:30.540Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -10,8 +10,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 ## Personal data servers
 
 **294** instances active  
-**268** online  
-**26** offline  
+**267** online  
+**27** offline  
 **21** hosted by Bluesky  
 **273** hosted by third-parties
 
@@ -50,7 +50,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bluesky.goober.cloud | No | 0.4.47 |
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
-| ❌ bluesky.lazzurs.net | No | 0.4.47 |
+| ✅ bluesky.lazzurs.net | No | 0.4.47 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.47 |
 | ❌ bluesky.nk.ca | No | 0.4.47 |
 | ❌ bluesky.q2r.net | No | ??? |
@@ -90,7 +90,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.mabataki.moe | No | 0.4.39 |
 | ✅ bsky.mcphail.uk | No | 0.4.47 |
 | ✅ bsky.mcr.gb.net | No | 0.4.47 |
-| ✅ bsky.milkcocoa.info | No | 0.4.47 |
+| ❌ bsky.milkcocoa.info | No | 0.4.47 |
 | ✅ bsky.moellus.net | No | 0.4.47 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.47 |
 | ✅ bsky.mystech.ink | No | 0.4.0-beta.7 |
@@ -109,7 +109,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.taila5061.ts.net | No | 0.4.47 |
 | ✅ bsky.theatl.social | No | 0.4.38 |
 | ✅ bsky.tm2t.net | No | 0.4.47 |
-| ✅ bsky.tranvender.site | No | 0.4.38 |
+| ✅ bsky.tranvender.site | No | 0.4.47 |
 | ✅ bsky.vylion.com | No | 0.4.47 |
 | ✅ bsky.wtr.app | No | 0.4.47 |
 | ✅ bsky.zoeyvid.de | No | 0.4.47 |
@@ -121,7 +121,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ collantes.me | No | 0.4.38 |
 | ✅ comrades.social | No | 0.4.47 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-8092715 |
-| ✅ cool-barnacle-equal.ngrok-free.app | No | 0.4.47 |
+| ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.47 |
 | ✅ corgi.dance | No | 0.4.47 |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.47 |
@@ -160,7 +160,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ jlailu.social | No | 0.4.47 |
 | ✅ kiichigo.cloud | Yes | 0.4.47 |
 | ✅ knot.land | No | 0.4.47 |
-| ✅ lab.yuipcoders.com | No | 0.4.47 |
+| ❌ lab.yuipcoders.com | No | 0.4.47 |
 | ❌ labcaffeinated.com | No | 0.4.47 |
 | ✅ lacunas.net | No | 0.4.47 |
 | ✅ lalasky.fun | No | 0.4.47 |
@@ -197,7 +197,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.aparker.io | No | 0.4.47 |
 | ✅ pds.axtch.net | No | 0.4.47 |
 | ✅ pds.bernd.network | No | 0.4.47 |
-| ❌ pds.btxakita.com | No | ??? |
 | ✅ pds.c-stellar.net | No | 0.4.47 |
 | ✅ pds.cacheblasters.com | No | 0.4.47 |
 | ✅ pds.caruanafamily.net | No | 0.4.47 |
@@ -208,7 +207,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.dlun.ch | No | 0.4.7 |
 | ✅ pds.dolciss.net | No | 0.4.47 |
 | ✅ pds.draboros.net | No | 0.4.47 |
-| ✅ pds.elxx.net | No | 0.4.38 |
+| ✅ pds.elxx.net | No | 0.4.47 |
 | ✅ pds.erechorse.com | No | 0.4.47 |
 | ✅ pds.frncs.eu | No | 0.4.27 |
 | ✅ pds.furtenbach.social | No | 0.4.47 |
@@ -276,7 +275,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ skyblue.cc | No | 0.4.47 |
 | ✅ sns.limelee.xyz | No | 0.4.47 |
 | ✅ social.barrybach.com | No | 0.4.47 |
-| ❌ social.benedetta.com.br | No | 0.4.47 |
+| ✅ social.benedetta.com.br | No | 0.4.47 |
 | ✅ social.owo.cl | No | 0.4.38 |
 | ✅ social.panache.so | No | 0.4.47 |
 | ✅ sowedu.net | No | 0.4.47 |
@@ -286,9 +285,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ stupol.social | No | 0.4.47 |
 | ✅ sunaba.io | No | 0.4.47 |
 | ✅ tbsky-dev.vasco-shot.com | No | 0.4.47 |
-| ✅ tbsky.vasco-shot.com | No | 0.4.47 |
+| ❌ tbsky.vasco-shot.com | No | 0.4.47 |
+| ✅ tbsky2.vasco-shot.com | No | 0.4.47 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ❌ tksocial.eu.org | No | 0.4.38 |
 | ✅ trashcave.net | No | 0.4.47 |
 | ✅ trekologer.social | No | 0.4.47 |
 | ❌ tubyte.net | No | 0.4.38 |
@@ -304,6 +303,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ verpa.us-west.host.bsky.network | No | git-8092715 |
 | ✅ w7f.social | No | 0.4.47 |
 | ✅ warmsushi.com | No | 0.4.47 |
+| ❌ waverly.social | No | ??? |
 | ✅ wilford.industries | No | 0.4.47 |
 | ✅ wordsky.xyz | No | 0.4.47 |
 | ❌ wowpro-guides.com | No | ??? |
@@ -316,8 +316,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**64** instances active  
-**61** online  
+**63** instances active  
+**60** online  
 **3** offline
 
 <!-- labeler-start -->
@@ -351,7 +351,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.bka.li | 0.1.33 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.33 |
-| ✅ ozone.darkcarnival.gay | 0.1.33 |
+| ❌ ozone.darkcarnival.gay | 0.1.33 |
 | ✅ ozone.department7.org | 0.1.33 |
 | ✅ ozone.flatlander.social | 0.1.33 |
 | ✅ ozone.flicknow.xyz | 0.1.33 |
@@ -359,7 +359,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.greyfox.tech | 0.1.11 |
 | ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.33 |
-| ❌ ozone.launchpadx.top | 0.1.1 |
 | ✅ ozone.lio.systems | 0.1.33 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
