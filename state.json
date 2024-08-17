@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6309562",
+		"cursor": "6317894",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-16T01:02:45.895Z"
+		"cursor": "2024-08-17T01:00:43.837Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -106,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1723770170356
+			"errorAt": 1723856459830
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -178,6 +178,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
 		},
+		"https://bluesky.metalbanana.net/": {
+			"version": "0.4.47",
+			"inviteCodeRequired": true
+		},
 		"https://bluesky.nissesdomain.org/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
@@ -231,7 +235,8 @@
 		},
 		"https://bs.duidui.xyz/": {
 			"version": "0.4.47",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1723856459830
 		},
 		"https://bs.siren.jp/": {
 			"version": "0.4.47",
@@ -558,8 +563,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://habitat-dev.tail07d32.ts.net/": {
-			"version": "0.4.21",
 			"inviteCodeRequired": true,
+			"version": "0.4.21",
 			"errorAt": 1723770170356
 		},
 		"https://harley.serveo.net/": {
@@ -600,6 +605,10 @@
 			"inviteCodeRequired": true
 		},
 		"https://internect.ing/": {
+			"version": "0.4.47",
+			"inviteCodeRequired": true
+		},
+		"https://is-great.uk/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
@@ -654,11 +663,6 @@
 		"https://lionsmane.us-east.host.bsky.network/": {
 			"version": "git-8092715",
 			"inviteCodeRequired": true
-		},
-		"https://machikadosora.online/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.0-beta.7",
-			"errorAt": 1722474457717
 		},
 		"https://madeorsk.com/": {
 			"version": "0.4.0-beta.7",
@@ -990,8 +994,7 @@
 		},
 		"https://pds.y-force.info/": {
 			"inviteCodeRequired": false,
-			"version": "0.4.27",
-			"errorAt": 1723770170356
+			"version": "0.4.27"
 		},
 		"https://pds.zccx.net/": {
 			"version": "0.4.47",
@@ -1133,6 +1136,9 @@
 		"https://tbsky2.vasco-shot.com/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
+		},
+		"https://test.bluesky.metalbanana.net/": {
+			"errorAt": 1723856459830
 		},
 		"https://test.dholms.xyz/": {
 			"version": "0.4.0-beta",
@@ -1441,8 +1447,7 @@
 		},
 		"https://ozone.usounds.work/": {
 			"did": "did:plc:fcikraffwejtuqffifeykcml",
-			"version": "0.1.33",
-			"errorAt": 1723770170356
+			"version": "0.1.33"
 		},
 		"https://ozone.w3igg.com/": {
 			"did": "did:plc:smtbhjnwsvcxzvez2nbf7mar",

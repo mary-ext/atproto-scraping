@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-16T01:05:53.262Z[^1]
+Last updated: 2024-08-17T01:04:10.679Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**294** instances active  
-**264** online  
+**296** instances active  
+**266** online  
 **30** offline  
 **21** hosted by Bluesky  
-**273** hosted by third-parties
+**275** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -51,6 +51,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bluesky.kosti.dev | No | 0.4.47 |
 | ✅ bluesky.kumasotakeru.net | No | 0.4.47 |
 | ✅ bluesky.lazzurs.net | No | 0.4.47 |
+| ✅ bluesky.metalbanana.net | No | 0.4.47 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.47 |
 | ✅ bluesky.nk.ca | No | 0.4.47 |
 | ❌ bluesky.q2r.net | No | ??? |
@@ -64,7 +65,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bossett.social | No | 0.4.21 |
 | ✅ bousky.social | No | 0.4.47 |
 | ✅ boymodelworld.com | No | 0.4.47 |
-| ✅ bs.duidui.xyz | No | 0.4.47 |
+| ❌ bs.duidui.xyz | No | 0.4.47 |
 | ✅ bs.siren.jp | No | 0.4.47 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
@@ -156,6 +157,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ iame.li | No | 0.4.23 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-8092715 |
 | ✅ internect.ing | No | 0.4.47 |
+| ✅ is-great.uk | No | 0.4.47 |
 | ✅ ishimmi.net | No | 0.4.47 |
 | ✅ jlailu.social | No | 0.4.47 |
 | ❌ kiichigo.cloud | Yes | 0.4.47 |
@@ -168,7 +170,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ laprimicia.es | No | 0.4.47 |
 | ✅ lepista.us-west.host.bsky.network | No | git-8092715 |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-8092715 |
-| ❌ machikadosora.online | No | 0.4.0-beta.7 |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
 | ✅ madiator.cloud | No | 0.4.47 |
 | ✅ magrasea.com | No | 0.4.47 |
@@ -251,7 +252,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.unsocial.dev | No | 0.4.47 |
 | ✅ pds.vforge.social | No | 0.4.47 |
 | ✅ pds.wyvern.rip | No | 0.4.47 |
-| ❌ pds.y-force.info | Yes | 0.4.27 |
+| ✅ pds.y-force.info | Yes | 0.4.27 |
 | ✅ pds.zccx.net | No | 0.4.47 |
 | ✅ porcini.us-east.host.bsky.network | No | git-8092715 |
 | ✅ proto.sorcie.re | No | 0.4.47 |
@@ -287,6 +288,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ tbsky-dev.vasco-shot.com | No | 0.4.47 |
 | ❌ tbsky.vasco-shot.com | No | 0.4.47 |
 | ✅ tbsky2.vasco-shot.com | No | 0.4.47 |
+| ❌ test.bluesky.metalbanana.net | No | ??? |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ✅ trashcave.net | No | 0.4.47 |
 | ✅ trekologer.social | No | 0.4.47 |
@@ -317,8 +319,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 ## Labelers
 
 **63** instances active  
-**58** online  
-**5** offline
+**59** online  
+**4** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -373,7 +375,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.suvpen.com | 0.1.33 |
 | ✅ ozone.timrombouts.be | 0.1.33 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
-| ❌ ozone.usounds.work | 0.1.33 |
+| ✅ ozone.usounds.work | 0.1.33 |
 | ✅ ozone.w3igg.com | 0.1.33 |
 | ✅ ozone.wyvern.blue | 0.1.33 |
 | ✅ ozone.y-force.info | 0.1.33 |
