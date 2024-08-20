@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-19T01:06:53.809Z[^1]
+Last updated: 2024-08-20T01:05:44.374Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**298** instances active  
-**272** online  
-**26** offline  
+**295** instances active  
+**273** online  
+**22** offline  
 **21** hosted by Bluesky  
-**277** hosted by third-parties
+**274** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -34,8 +34,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at.yuntan.tech | No | 0.4.47 |
 | ✅ atp.retroheart.net | No | 0.4.47 |
 | ❌ atproto.brid.gy | No | ??? |
-| ✅ b.yufushiro.dev | No | 0.4.0-beta.7 |
-| ❌ baconisyeserpik.com | No | 0.4.38 |
+| ✅ b.yufushiro.dev | No | 0.4.47 |
 | ✅ beta.thehippo.dev | No | 0.4.47 |
 | ✅ bevenhall.net | No | 0.4.47 |
 | ✅ bitemy.app | No | 0.4.47 |
@@ -160,7 +159,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ is-great.uk | No | 0.4.47 |
 | ✅ ishimmi.net | No | 0.4.47 |
 | ✅ jlailu.social | No | 0.4.47 |
-| ❌ kiichigo.cloud | Yes | 0.4.47 |
+| ✅ kiichigo.cloud | Yes | 0.4.47 |
 | ✅ knot.land | No | 0.4.47 |
 | ❌ lab.yuipcoders.com | No | 0.4.47 |
 | ❌ labcaffeinated.com | No | 0.4.47 |
@@ -236,7 +235,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ pds.ranranhome.info | No | ??? |
 | ✅ pds.robocracy.org | No | 0.4.47 |
 | ✅ pds.shigepon.net | No | 0.4.47 |
-| ✅ pds.shreyanjain.net | No | 0.4.38 |
+| ✅ pds.shreyanjain.net | No | 0.4.47 |
 | ✅ pds.simplespace.jp | No | 0.4.47 |
 | ✅ pds.skyfeed.dev | No | 0.4.0-beta.7 |
 | ✅ pds.snek.dev | No | 0.4.47 |
@@ -295,7 +294,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ tiddings.com | No | ??? |
 | ✅ trashcave.net | No | 0.4.47 |
 | ✅ trekologer.social | No | 0.4.47 |
-| ❌ tubyte.net | No | 0.4.38 |
 | ✅ tweethive.net | No | 0.4.47 |
 | ✅ uabsky.org | No | 0.4.47 |
 | ✅ unbnd.net | No | 0.4.47 |
@@ -311,7 +309,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ waverly.social | No | ??? |
 | ✅ wilford.industries | No | 0.4.47 |
 | ✅ wordsky.xyz | No | 0.4.47 |
-| ❌ wowpro-guides.com | No | ??? |
 | ✅ x.kty.lol | No | 0.4.47 |
 | ✅ yoshiki.burnworks.com | No | 0.4.47 |
 | ✅ yumeka.cc | No | 0.4.47 |
@@ -348,7 +345,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mod.armifi.com | 0.1.33 |
 | ✅ mod.bsky.app | git-3227e42 |
 | ✅ mod.laelaps.fyi | 0.1.33 |
-| ✅ mod.staging.bsky.dev | git-e956ac0 |
+| ✅ mod.staging.bsky.dev | git-3227e42 |
 | ✅ ozone.adorable.mom | 0.1.11 |
 | ✅ ozone.anon5r.com | 0.1.33 |
 | ✅ ozone.asukafield.xyz | 0.1.33 |

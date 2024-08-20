@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6334564",
+		"cursor": "6341300",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-19T01:03:52.849Z"
+		"cursor": "2024-08-20T01:02:38.142Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -106,16 +106,11 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1724029436024
+			"errorAt": 1724115771514
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.0-beta.7"
-		},
-		"https://baconisyeserpik.com/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1722733619695
+			"version": "0.4.47"
 		},
 		"https://beta.thehippo.dev/": {
 			"version": "0.4.47",
@@ -487,7 +482,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://doesnm.cc/": {
-			"errorAt": 1723943219733
+			"errorAt": 1724115771514
 		},
 		"https://dollpost.ing/": {
 			"version": "0.4.12",
@@ -604,8 +599,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://is-great.uk/": {
-			"version": "0.4.47",
 			"inviteCodeRequired": true,
+			"version": "0.4.47",
 			"errorAt": 1724029436024
 		},
 		"https://ishimmi.net/": {
@@ -618,8 +613,7 @@
 		},
 		"https://kiichigo.cloud/": {
 			"inviteCodeRequired": false,
-			"version": "0.4.47",
-			"errorAt": 1723770170356
+			"version": "0.4.47"
 		},
 		"https://knot.land/": {
 			"version": "0.4.47",
@@ -923,7 +917,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.shreyanjain.net/": {
-			"version": "0.4.38",
+			"version": "0.4.47",
 			"inviteCodeRequired": true
 		},
 		"https://pds.simplespace.jp/": {
@@ -1155,11 +1149,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
 		},
-		"https://tubyte.net/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.38",
-			"errorAt": 1722733619695
-		},
 		"https://tweethive.net/": {
 			"version": "0.4.47",
 			"inviteCodeRequired": true
@@ -1219,9 +1208,6 @@
 		"https://wordsky.xyz/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
-		},
-		"https://wowpro-guides.com/": {
-			"errorAt": 1722733619695
 		},
 		"https://x.kty.lol/": {
 			"inviteCodeRequired": true,
@@ -1328,7 +1314,7 @@
 		},
 		"https://mod.staging.bsky.dev/": {
 			"did": "did:plc:kfiaag3o66qk75mfgwebyyns",
-			"version": "git-e956ac0"
+			"version": "git-3227e42"
 		},
 		"https://ozone.adorable.mom/": {
 			"did": "did:plc:wkoofae5uytcm7bjncmev6n6",
