@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-23T01:06:36.507Z[^1]
+Last updated: 2024-08-24T01:05:22.694Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**300** instances active  
-**271** online  
+**301** instances active  
+**272** online  
 **29** offline  
 **21** hosted by Bluesky  
-**279** hosted by third-parties
+**280** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -27,7 +27,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ angels.fan | No | 0.4.52 |
 | ✅ aozora.yockow.jp | No | 0.4.52 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
-| ✅ at.clavis.info | No | 0.4.47 |
+| ✅ at.clavis.info | No | 0.4.52 |
 | ❌ at.dingdongdata.com | No | 0.4.47 |
 | ✅ at.hwsc.link | No | 0.4.52 |
 | ✅ at.kizaing.ca | No | 0.4.52 |
@@ -131,6 +131,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ devsky.vasco-shot.com | No | 0.4.47 |
 | ✅ disbursement.center | No | 0.4.52 |
 | ✅ divy.zone | No | 0.4.52 |
+| ❌ do.bolson.org | No | ??? |
 | ❌ doesnm.cc | No | ??? |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.52 |
@@ -158,7 +159,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ iame.li | No | 0.4.47 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-45770bb |
 | ✅ insider3.io | Yes | 0.4.49 |
-| ✅ internect.ing | No | 0.4.51 |
+| ✅ internect.ing | No | 0.4.52 |
 | ❌ is-great.uk | No | 0.4.47 |
 | ✅ ishimmi.net | No | 0.4.52 |
 | ✅ jlailu.social | No | 0.4.52 |
@@ -169,7 +170,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ labcaffeinated.com | No | 0.4.47 |
 | ✅ lacunas.net | No | 0.4.52 |
 | ✅ lalasky.fun | No | 0.4.52 |
-| ✅ lamp.wtf | No | 0.4.0-beta.7 |
+| ✅ lamp.wtf | No | 0.4.52 |
 | ❌ laprimicia.es | No | 0.4.47 |
 | ✅ lepista.us-west.host.bsky.network | No | git-45770bb |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-45770bb |
@@ -184,7 +185,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mraow.party | No | 0.4.52 |
 | ✅ naomie.digital | No | 0.4.52 |
 | ✅ nekohana.blue | No | 0.4.52 |
-| ❌ nottyboi.me | No | 0.4.51 |
+| ✅ nottyboi.me | No | 0.4.52 |
 | ✅ nyago.zip | No | 0.4.52 |
 | ✅ okashi.social | No | 0.4.52 |
 | ✅ opp.minuspoint.com | No | 0.4.52 |
@@ -203,14 +204,14 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.bernd.network | No | 0.4.52 |
 | ✅ pds.c-stellar.net | No | 0.4.52 |
 | ✅ pds.cacheblasters.com | No | 0.4.52 |
-| ✅ pds.caruanafamily.net | No | 0.4.51 |
+| ✅ pds.caruanafamily.net | No | 0.4.52 |
 | ✅ pds.cauda.cloud | No | 0.4.52 |
 | ✅ pds.crys.uno | No | 0.4.52 |
 | ✅ pds.danni.id | No | 0.4.52 |
 | ✅ pds.dholms.xyz | No | 0.4.52 |
 | ✅ pds.dlun.ch | No | 0.4.47 |
 | ✅ pds.dolciss.net | No | 0.4.52 |
-| ✅ pds.draboros.net | No | 0.4.47 |
+| ✅ pds.draboros.net | No | 0.4.52 |
 | ✅ pds.elxx.net | No | 0.4.47 |
 | ✅ pds.erechorse.com | No | 0.4.52 |
 | ✅ pds.frncs.eu | No | 0.4.52 |
@@ -224,7 +225,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.jay.xyz | No | 0.4.52 |
 | ✅ pds.keiji0501.com | No | 0.4.52 |
 | ✅ pds.krasovs.ky | No | 0.4.52 |
-| ✅ pds.lotor.online | No | 0.4.51 |
+| ✅ pds.lotor.online | No | 0.4.52 |
 | ✅ pds.matsuuratomoya.com | No | 0.4.52 |
 | ✅ pds.mattobs.com | No | 0.4.52 |
 | ✅ pds.mbl.social | No | 0.4.47 |
@@ -336,7 +337,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ booker.patchesmel.one | 0.1.33 |
 | ✅ bsky-labeler.thenexus.today | 0.1.38 |
 | ✅ example.mastod.one | 0.1.38 |
-| ✅ hbms.hexandcube.eu.org | 0.1.38 |
+| ❌ hbms.hexandcube.eu.org | 0.1.38 |
 | ✅ howaboutyougeta.life | 0.1.38 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.38 |
 | ✅ kind-labeler.bryan.town | 0.1.38 |
@@ -356,7 +357,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.bka.li | 0.1.38 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.38 |
-| ❌ ozone.darkcarnival.gay | 0.1.38 |
+| ✅ ozone.darkcarnival.gay | 0.1.38 |
 | ✅ ozone.department7.org | 0.1.38 |
 | ✅ ozone.flatlander.social | 0.1.38 |
 | ✅ ozone.flicknow.xyz | 0.1.38 |
