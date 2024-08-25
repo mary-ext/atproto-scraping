@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-24T01:05:22.694Z[^1]
+Last updated: 2024-08-25T01:11:23.633Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**301** instances active  
-**272** online  
+**300** instances active  
+**271** online  
 **29** offline  
 **21** hosted by Bluesky  
-**280** hosted by third-parties
+**279** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -28,7 +28,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ aozora.yockow.jp | No | 0.4.52 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.clavis.info | No | 0.4.52 |
-| ❌ at.dingdongdata.com | No | 0.4.47 |
+| ✅ at.dingdongdata.com | No | 0.4.52 |
 | ✅ at.hwsc.link | No | 0.4.52 |
 | ✅ at.kizaing.ca | No | 0.4.52 |
 | ✅ at.yuntan.tech | No | 0.4.52 |
@@ -114,7 +114,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.vasco-shot.com | No | 0.4.47 |
 | ✅ bsky.vylion.com | No | 0.4.52 |
 | ✅ bsky.wtr.app | No | 0.4.52 |
-| ✅ bsky.zoeyvid.de | No | 0.4.51 |
+| ✅ bsky.zoeyvid.de | No | 0.4.52 |
 | ✅ bsky.zoner.work | No | 0.4.52 |
 | ❌ bum.ninja | No | 0.4.51 |
 | ✅ chaga.us-west.host.bsky.network | No | git-45770bb |
@@ -135,7 +135,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ doesnm.cc | No | ??? |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.52 |
-| ❌ ds.povario.com | No | 0.4.12 |
 | ❌ ena-vocalp.com | No | 0.4.47 |
 | ✅ enoki.us-east.host.bsky.network | No | git-45770bb |
 | ✅ fastani.me | No | 0.4.52 |
@@ -185,7 +184,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mraow.party | No | 0.4.52 |
 | ✅ naomie.digital | No | 0.4.52 |
 | ✅ nekohana.blue | No | 0.4.52 |
-| ✅ nottyboi.me | No | 0.4.52 |
+| ❌ nottyboi.me | No | 0.4.52 |
 | ✅ nyago.zip | No | 0.4.52 |
 | ✅ okashi.social | No | 0.4.52 |
 | ✅ opp.minuspoint.com | No | 0.4.52 |
@@ -273,7 +272,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ shiitake.us-east.host.bsky.network | No | git-45770bb |
 | ✅ shimeji.us-east.host.bsky.network | No | git-45770bb |
 | ✅ skeleton.rodeo | No | 0.4.52 |
-| ✅ sky.gami.zip | No | 0.4.0-beta.7 |
+| ❌ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.52 |
 | ✅ sky.skrw.me | No | 0.4.52 |

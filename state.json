@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6364697",
+		"cursor": "6369849",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"pds": "https://pds.tentacle.expert/",
@@ -42,7 +42,7 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-24T01:01:17.433Z"
+		"cursor": "2024-08-25T01:08:27.483Z"
 	},
 	"pdses": {
 		"https://42d.fr/": {
@@ -87,8 +87,7 @@
 		},
 		"https://at.dingdongdata.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47",
-			"errorAt": 1724375012121
+			"version": "0.4.52"
 		},
 		"https://at.hwsc.link/": {
 			"version": "0.4.52",
@@ -107,7 +106,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1724461333000
+			"errorAt": 1724548121669
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -431,7 +430,7 @@
 			"version": "0.4.52"
 		},
 		"https://bsky.zoeyvid.de/": {
-			"version": "0.4.51",
+			"version": "0.4.52",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.zoner.work/": {
@@ -515,11 +514,6 @@
 		"https://drakeno.de/": {
 			"version": "0.4.52",
 			"inviteCodeRequired": true
-		},
-		"https://ds.povario.com/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.12",
-			"errorAt": 1723165425805
 		},
 		"https://ena-vocalp.com/": {
 			"inviteCodeRequired": true,
@@ -724,7 +718,8 @@
 		},
 		"https://nottyboi.me/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.52"
+			"version": "0.4.52",
+			"errorAt": 1724548121669
 		},
 		"https://nyago.zip/": {
 			"version": "0.4.52",
@@ -940,7 +935,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.shrew-delta.ts.net/": {
-			"errorAt": 1724202167897
+			"errorAt": 1724548121669
 		},
 		"https://pds.shreyanjain.net/": {
 			"version": "0.4.47",
@@ -1075,7 +1070,8 @@
 		},
 		"https://sky.gami.zip/": {
 			"version": "0.4.0-beta.7",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": true,
+			"errorAt": 1724548121669
 		},
 		"https://sky.kghorvath.com/": {
 			"version": "0.4.7",
