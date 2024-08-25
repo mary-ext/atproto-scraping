@@ -2,8 +2,6 @@ import * as v from '@badrap/valita';
 
 import { serializedState, type SerializedState } from '../src/state';
 
-const now = Date.now();
-
 const env = v
 	.object({ STATE_FILE: v.string(), RESULT_FILE: v.string() })
 	.parse(process.env, { mode: 'passthrough' });

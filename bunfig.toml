@@ -1,5 +1,2 @@
 [install.lockfile]
 print = "yarn"
-
-[install.scopes]
-"@jsr" = "https://npm.jsr.io"

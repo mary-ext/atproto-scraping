@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-import { BskyXRPC } from '@mary/bluesky-client';
+import { XRPC } from '@atcute/client';
 
 import * as v from '@badrap/valita';
 import { differenceInDays } from 'date-fns/differenceInDays';
@@ -169,7 +169,7 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 
 // Iterate through firehose' known repositories
 {
-	const rpc = new BskyXRPC({ service: RELAY_URL });
+	const rpc = new XRPC({ service: RELAY_URL });
 
 	let cursor: string | undefined = firehoseCursor;
 
@@ -356,8 +356,7 @@ function getEndpoint(urlStr: string | undefined): string | undefined {
 		return undefined;
 	}
 
-	// @ts-expect-error
-	const url = URL.parse(urlStr) as URL | null;
+	const url = URL.parse(urlStr);
 
 	if (!url || !(url.protocol === 'http:' || url.protocol === 'https:')) {
 		return undefined;

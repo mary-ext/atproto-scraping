@@ -1,6 +1,5 @@
-import { BskyXRPC } from '@mary/bluesky-client';
-import type { At } from '@mary/bluesky-client/lexicons';
-import { XRPCError } from '@mary/bluesky-client/xrpc';
+import { XRPC, XRPCError } from '@atcute/client';
+import type { At } from '@atcute/client/lexicons';
 
 import * as v from '@badrap/valita';
 
@@ -30,7 +29,7 @@ const pdses = new Map(state ? Object.entries(state.pdses) : []);
 
 const queue = new PromiseQueue();
 
-const relay = new BskyXRPC({ service: RELAY_URL });
+const relay = new XRPC({ service: RELAY_URL });
 
 await Promise.all(
 	Array.from(pdses, ([href, obj]) => {
@@ -40,7 +39,7 @@ await Promise.all(
 
 		return queue.add(async () => {
 			const host = new URL(href).host;
-			const rpc = new BskyXRPC({ service: href });
+			const rpc = new XRPC({ service: href });
 
 			let dids: At.DID[];
 

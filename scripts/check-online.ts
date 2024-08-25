@@ -1,7 +1,6 @@
-import { BskyXRPC } from '@mary/bluesky-client';
-import { XRPCError } from '@mary/bluesky-client/xrpc';
-
+import { XRPC, XRPCError } from '@atcute/client';
 import * as v from '@badrap/valita';
+
 import { differenceInDays } from 'date-fns/differenceInDays';
 
 import { MAX_FAILURE_DAYS } from '../src/constants';
@@ -74,7 +73,7 @@ await Promise.all(
 	Array.from(pdses, ([href, obj]) => {
 		return queue.add(async () => {
 			const host = new URL(href).host;
-			const rpc = new BskyXRPC({ service: href });
+			const rpc = new XRPC({ service: href });
 
 			const signal = AbortSignal.timeout(15_000);
 			const meta = await rpc
@@ -125,7 +124,7 @@ await Promise.all(
 	Array.from(labelers, async ([href, obj]) => {
 		return queue.add(async () => {
 			const host = new URL(href).host;
-			const rpc = new BskyXRPC({ service: href });
+			const rpc = new XRPC({ service: href });
 
 			const signal = AbortSignal.timeout(15_000);
 			const meta = await rpc
@@ -178,7 +177,7 @@ await Promise.all(
 	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
 }
 
-async function getVersion(rpc: BskyXRPC, prev: string | null | undefined) {
+async function getVersion(rpc: XRPC, prev: string | null | undefined) {
 	// skip if the response previously returned null (not official distrib)
 	if (prev === null) {
 		return null;
