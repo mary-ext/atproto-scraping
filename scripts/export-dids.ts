@@ -293,16 +293,14 @@ let firehoseCursor: string | undefined = state?.firehose.cursor;
 	const serialized: SerializedState = {
 		firehose: {
 			cursor: firehoseCursor,
-			didWebs: Object.fromEntries(Array.from(didWebs).sort(([aDid], [bDid]) => compareString(aDid, bDid))),
+			didWebs: Object.fromEntries(Array.from(didWebs)),
 		},
 		plc: {
 			cursor: plcCursor,
 		},
 
-		pdses: Object.fromEntries(Array.from(pdses).sort(([aHref], [bHref]) => compareString(aHref, bHref))),
-		labelers: Object.fromEntries(
-			Array.from(labelers).sort(([aHref], [bHref]) => compareString(aHref, bHref)),
-		),
+		pdses: Object.fromEntries(Array.from(pdses)),
+		labelers: Object.fromEntries(Array.from(labelers)),
 	};
 
 	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));

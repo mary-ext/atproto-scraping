@@ -174,7 +174,33 @@ await Promise.all(
 		labelers: Object.fromEntries(Array.from(labelers)),
 	};
 
-	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, null, '\t'));
+	// Properly sort the JSON state for clarity
+	const isPlainObject = (o: any): boolean => {
+		if (typeof o !== 'object' || o === null) {
+			return false;
+		}
+
+		const proto = Object.getPrototypeOf(o);
+		return (proto === null || proto === Object.prototype) && Object.isExtensible(o);
+	};
+
+	const replacer = (_key: string, value: any): any => {
+		if (isPlainObject(value)) {
+			const keys = Object.keys(value).sort();
+			const obj: any = {};
+
+			for (let i = 0, ilen = keys.length; i < ilen; i++) {
+				const key = keys[i];
+				obj[key] = value[key];
+			}
+
+			return obj;
+		}
+
+		return value;
+	};
+
+	await Bun.write(env.STATE_FILE, JSON.stringify(serialized, replacer, '\t'));
 }
 
 async function getVersion(rpc: XRPC, prev: string | null | undefined) {
