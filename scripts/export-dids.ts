@@ -358,7 +358,16 @@ function getEndpoint(urlStr: string | undefined): string | undefined {
 
 	const url = URL.parse(urlStr);
 
-	if (!url || !(url.protocol === 'http:' || url.protocol === 'https:')) {
+	if (
+		!url ||
+		!(url.protocol === 'http:' || url.protocol === 'https:') ||
+		url.pathname !== '/' ||
+		url.search !== '' ||
+		url.hash !== '' ||
+		url.port !== '' ||
+		url.username !== '' ||
+		url.password !== ''
+	) {
 		return undefined;
 	}
 
