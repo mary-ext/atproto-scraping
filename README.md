@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-25T01:11:23.633Z[^1]
+Last updated: 2024-08-25T15:16:45.077Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**300** instances active  
-**271** online  
-**29** offline  
+**301** instances active  
+**270** online  
+**31** offline  
 **21** hosted by Bluesky  
-**279** hosted by third-parties
+**280** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -65,6 +65,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ boymodelworld.com | No | 0.4.52 |
 | ✅ bs.aiforward.jp | No | 0.4.52 |
 | ❌ bs.duidui.xyz | No | 0.4.47 |
+| ✅ bs.idiocy.org | No | 0.4.52 |
 | ✅ bs.siren.jp | No | 0.4.52 |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.31 |
@@ -124,7 +125,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ comrades.social | No | 0.4.52 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-45770bb |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.47 |
-| ✅ corgi.dance | No | 0.4.52 |
+| ❌ corgi.dance | No | 0.4.52 |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.52 |
 | ❌ derpzilla.net | Yes | 0.4.38 |
@@ -150,7 +151,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ habanero.f5.si | No | 0.4.52 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.21 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-45770bb |
-| ✅ hellthread.pro | No | 0.4.47 |
+| ❌ hellthread.pro | No | 0.4.47 |
 | ✅ hivetasks.com | No | 0.4.52 |
 | ✅ holofan.live | No | 0.4.52 |
 | ✅ hooray.social | No | 0.4.52 |
@@ -322,13 +323,14 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**62** instances active  
+**63** instances active  
 **59** online  
-**3** offline
+**4** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
+| ✅ 2.ripperoni.com | 0.1.38 |
 | ✅ aimod.social | 0.1.38 |
 | ✅ automo-ozone.bunnys.ky | 0.1.38 |
 | ✅ baatl.mastod.one | 0.1.38 |
@@ -362,7 +364,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.flicknow.xyz | 0.1.38 |
 | ✅ ozone.friend.town | 0.1.38 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ✅ ozone.hellthread.pro | 0.1.11 |
+| ❌ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.38 |
 | ✅ ozone.lio.systems | 0.1.33 |
 | ✅ ozone.lotor.online | 0.1.1 |
