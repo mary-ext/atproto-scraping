@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6372962",
+		"cursor": "6375046",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -158,6 +158,7 @@
 		},
 		"https://ozone.darkcarnival.gay/": {
 			"did": "did:plc:jwqm25l6zbkgmorz3k35hf32",
+			"errorAt": 1724634240179,
 			"version": "0.1.38"
 		},
 		"https://ozone.department7.org/": {
@@ -182,12 +183,15 @@
 		},
 		"https://ozone.hellthread.pro/": {
 			"did": "did:plc:z5b7do4yl7afp7mtida66nts",
-			"errorAt": 1724598843014,
 			"version": "0.1.11"
 		},
 		"https://ozone.iftas.dev/": {
 			"did": "did:plc:5bs7ob2txc2fub2ikvkjgkaf",
 			"version": "0.1.38"
+		},
+		"https://ozone.k512.studio/": {
+			"did": "did:plc:wi66yiihb7hcnmgkvtmfd3ht",
+			"errorAt": 1724634240179
 		},
 		"https://ozone.lio.systems/": {
 			"did": "did:plc:rprd6z2sgvsdokjsbadytyun",
@@ -247,6 +251,7 @@
 		},
 		"https://ozone.usounds.work/": {
 			"did": "did:plc:fcikraffwejtuqffifeykcml",
+			"errorAt": 1724634240179,
 			"version": "0.1.38"
 		},
 		"https://ozone.w3igg.com/": {
@@ -360,7 +365,7 @@
 			"version": "0.4.52"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1724598843014
+			"errorAt": 1724634240179
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -731,7 +736,6 @@
 			"version": "0.4.47"
 		},
 		"https://corgi.dance/": {
-			"errorAt": 1724598843014,
 			"inviteCodeRequired": true,
 			"version": "0.4.52"
 		},
@@ -834,10 +838,9 @@
 		},
 		"https://hedgehog.us-west.host.bsky.network/": {
 			"inviteCodeRequired": true,
-			"version": "git-45770bb"
+			"version": "git-b66269d"
 		},
 		"https://hellthread.pro/": {
-			"errorAt": 1724598843014,
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
 		},
@@ -1514,6 +1517,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-25T15:13:48.382Z"
+		"cursor": "2024-08-26T01:03:54.613Z"
 	}
 }

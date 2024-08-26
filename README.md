@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-25T15:16:45.077Z[^1]
+Last updated: 2024-08-26T01:06:50.503Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -10,8 +10,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 ## Personal data servers
 
 **301** instances active  
-**270** online  
-**31** offline  
+**272** online  
+**29** offline  
 **21** hosted by Bluesky  
 **280** hosted by third-parties
 
@@ -125,7 +125,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ comrades.social | No | 0.4.52 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-45770bb |
 | ❌ cool-barnacle-equal.ngrok-free.app | No | 0.4.47 |
-| ❌ corgi.dance | No | 0.4.52 |
+| ✅ corgi.dance | No | 0.4.52 |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.52 |
 | ❌ derpzilla.net | Yes | 0.4.38 |
@@ -150,8 +150,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ goeo.lol | No | 0.4.52 |
 | ✅ habanero.f5.si | No | 0.4.52 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.21 |
-| ✅ hedgehog.us-west.host.bsky.network | No | git-45770bb |
-| ❌ hellthread.pro | No | 0.4.47 |
+| ✅ hedgehog.us-west.host.bsky.network | No | git-b66269d |
+| ✅ hellthread.pro | No | 0.4.47 |
 | ✅ hivetasks.com | No | 0.4.52 |
 | ✅ holofan.live | No | 0.4.52 |
 | ✅ hooray.social | No | 0.4.52 |
@@ -323,9 +323,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**63** instances active  
-**59** online  
-**4** offline
+**64** instances active  
+**58** online  
+**6** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -358,14 +358,15 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.bka.li | 0.1.38 |
 | ✅ ozone.bossett.social | 0.1.11 |
 | ✅ ozone.bunnynabbit.com | 0.1.38 |
-| ✅ ozone.darkcarnival.gay | 0.1.38 |
+| ❌ ozone.darkcarnival.gay | 0.1.38 |
 | ✅ ozone.department7.org | 0.1.38 |
 | ✅ ozone.flatlander.social | 0.1.38 |
 | ✅ ozone.flicknow.xyz | 0.1.38 |
 | ✅ ozone.friend.town | 0.1.38 |
 | ✅ ozone.greyfox.tech | 0.1.11 |
-| ❌ ozone.hellthread.pro | 0.1.11 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.38 |
+| ❌ ozone.k512.studio | ??? |
 | ✅ ozone.lio.systems | 0.1.33 |
 | ✅ ozone.lotor.online | 0.1.1 |
 | ✅ ozone.moderation.moe | 0.1.11 |
@@ -380,7 +381,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.suvpen.com | 0.1.38 |
 | ✅ ozone.timrombouts.be | 0.1.38 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
-| ✅ ozone.usounds.work | 0.1.38 |
+| ❌ ozone.usounds.work | 0.1.38 |
 | ✅ ozone.w3igg.com | 0.1.38 |
 | ✅ ozone.wyvern.blue | 0.1.38 |
 | ✅ ozone.y-force.info | 0.1.38 |
