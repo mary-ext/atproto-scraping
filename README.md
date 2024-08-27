@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-08-26T01:06:50.503Z[^1]
+Last updated: 2024-08-27T01:09:11.163Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**301** instances active  
+**298** instances active  
 **272** online  
-**29** offline  
+**26** offline  
 **21** hosted by Bluesky  
-**280** hosted by third-parties
+**277** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -74,9 +74,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.baronvonpaddington.com | No | 0.4.52 |
 | ✅ bsky.bigboy.us | No | 0.4.52 |
 | ✅ bsky.bulles.social | No | 0.4.52 |
-| ✅ bsky.byoda.org | No | 0.4.47 |
+| ✅ bsky.byoda.org | No | 0.4.52 |
 | ✅ bsky.chagge.com | No | 0.4.52 |
-| ✅ bsky.day | No | 0.4.47 |
+| ✅ bsky.day | No | 0.4.52 |
 | ✅ bsky.dead10ck.dev | No | 0.4.47 |
 | ✅ bsky.gearlicious.one | No | 0.4.52 |
 | ✅ bsky.giurgiu.io | No | 0.4.38 |
@@ -101,7 +101,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.pavli.cc | No | 0.4.52 |
 | ✅ bsky.pink | Yes | 0.4.52 |
 | ✅ bsky.plasmatrap.com | No | 0.4.52 |
-| ❌ bsky.progaming.town | No | 0.4.47 |
 | ✅ bsky.psote.ing | No | 0.4.52 |
 | ✅ bsky.pupbrained.xyz | No | 0.4.47 |
 | ✅ bsky.ranranhome.info | No | 0.4.52 |
@@ -150,7 +149,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ goeo.lol | No | 0.4.52 |
 | ✅ habanero.f5.si | No | 0.4.52 |
 | ✅ habitat-dev.tail07d32.ts.net | No | 0.4.21 |
-| ✅ hedgehog.us-west.host.bsky.network | No | git-b66269d |
+| ✅ hedgehog.us-west.host.bsky.network | No | git-02e6885 |
 | ✅ hellthread.pro | No | 0.4.47 |
 | ✅ hivetasks.com | No | 0.4.52 |
 | ✅ holofan.live | No | 0.4.52 |
@@ -167,11 +166,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ kiichigo.cloud | Yes | 0.4.52 |
 | ✅ knot.land | No | 0.4.52 |
 | ❌ lab.yuipcoders.com | No | 0.4.47 |
-| ❌ labcaffeinated.com | No | 0.4.47 |
 | ✅ lacunas.net | No | 0.4.52 |
 | ✅ lalasky.fun | No | 0.4.52 |
 | ✅ lamp.wtf | No | 0.4.52 |
-| ❌ laprimicia.es | No | 0.4.47 |
 | ✅ lepista.us-west.host.bsky.network | No | git-45770bb |
 | ✅ lionsmane.us-east.host.bsky.network | No | git-45770bb |
 | ✅ madeorsk.com | No | 0.4.0-beta.7 |
@@ -323,9 +320,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**64** instances active  
+**65** instances active  
 **58** online  
-**6** offline
+**7** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -344,6 +341,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ kind-labeler.bryan.town | 0.1.38 |
 | ✅ labeler.dholms.xyz | 0.1.38 |
 | ✅ labeler.divy.zone | 0.1.38 |
+| ❌ labeler.test.futur.blue | ??? |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ labeling.newsdetective.org | 0.1.38 |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
@@ -353,7 +351,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mod.laelaps.fyi | 0.1.38 |
 | ✅ mod.staging.bsky.dev | git-3227e42 |
 | ✅ ozone.adorable.mom | 0.1.11 |
-| ✅ ozone.anon5r.com | 0.1.33 |
+| ✅ ozone.anon5r.com | 0.1.38 |
 | ✅ ozone.asukafield.xyz | 0.1.38 |
 | ✅ ozone.bka.li | 0.1.38 |
 | ✅ ozone.bossett.social | 0.1.11 |
@@ -373,7 +371,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.mountainherder.xyz | 0.1.38 |
 | ✅ ozone.perfect-bra.in | 0.1.38 |
 | ✅ ozone.procycling.social | 0.1.38 |
-| ✅ ozone.renahlee.com | 0.1.38 |
+| ❌ ozone.renahlee.com | 0.1.38 |
 | ✅ ozone.ripperoni.com | 0.1.38 |
 | ✅ ozone.ryanbonick.com | 0.1.38 |
 | ✅ ozone.shawnhoffman.dev | 0.1.11 |
@@ -381,7 +379,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.suvpen.com | 0.1.38 |
 | ✅ ozone.timrombouts.be | 0.1.38 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
-| ❌ ozone.usounds.work | 0.1.38 |
+| ✅ ozone.usounds.work | 0.1.38 |
 | ✅ ozone.w3igg.com | 0.1.38 |
 | ✅ ozone.wyvern.blue | 0.1.38 |
 | ✅ ozone.y-force.info | 0.1.38 |
