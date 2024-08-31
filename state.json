@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "6510065",
+		"cursor": "6806715",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -162,7 +162,7 @@
 		},
 		"https://ozone.bossett.social/": {
 			"did": "did:plc:i65enriuag7n5fgkopbqtkyk",
-			"version": "0.1.11"
+			"version": "0.1.38"
 		},
 		"https://ozone.bunnynabbit.com/": {
 			"did": "did:plc:bv3lcacietc6fkdokxfqtdkj",
@@ -182,6 +182,10 @@
 		},
 		"https://ozone.flicknow.xyz/": {
 			"did": "did:plc:3senheyfatcgrq5b2diwxlgs",
+			"version": "0.1.38"
+		},
+		"https://ozone.fran.pw/": {
+			"did": "did:plc:7m7xz5ekdmw3tephpgn72ooz",
 			"version": "0.1.38"
 		},
 		"https://ozone.friend.town/": {
@@ -363,9 +367,8 @@
 			"version": "0.4.52"
 		},
 		"https://at.dingdongdata.com/": {
-			"errorAt": 1724893541288,
 			"inviteCodeRequired": true,
-			"version": "0.4.52"
+			"version": "0.4.55"
 		},
 		"https://at.hwsc.link/": {
 			"inviteCodeRequired": true,
@@ -384,7 +387,7 @@
 			"version": "0.4.55"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1724979953501
+			"errorAt": 1725066424214
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -403,7 +406,7 @@
 			"version": "0.4.55"
 		},
 		"https://blacksky.app/": {
-			"errorAt": 1724979953501,
+			"errorAt": 1725066424214,
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
 		},
@@ -526,7 +529,7 @@
 		},
 		"https://bsky-pds.lamberti.io/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.52"
+			"version": "0.4.55"
 		},
 		"https://bsky.air11.social/": {
 			"inviteCodeRequired": true,
@@ -628,6 +631,7 @@
 			"errorAt": 1724979953501
 		},
 		"https://bsky.mycapitolwatchdog.com/": {
+			"errorAt": 1725066424214,
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
 		},
@@ -662,6 +666,10 @@
 		"https://bsky.pupbrained.xyz/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
+		},
+		"https://bsky.qilin.moe/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.55"
 		},
 		"https://bsky.ranranhome.info/": {
 			"inviteCodeRequired": true,
@@ -737,6 +745,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
 		},
+		"https://clacks.social/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.55"
+		},
 		"https://closedcircle.io/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
@@ -778,7 +790,10 @@
 		},
 		"https://devsky.vasco-shot.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.55"
+			"version": "0.4.47"
+		},
+		"https://dgrfs.com/": {
+			"errorAt": 1725066424214
 		},
 		"https://disbursement.center/": {
 			"inviteCodeRequired": true,
@@ -805,6 +820,10 @@
 		"https://enoki.us-east.host.bsky.network/": {
 			"inviteCodeRequired": true,
 			"version": "git-e49e05c"
+		},
+		"https://enrelyugi.com.br/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.55"
 		},
 		"https://fastani.me/": {
 			"inviteCodeRequired": true,
@@ -861,7 +880,7 @@
 		},
 		"https://hellthread.pro/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.55"
 		},
 		"https://hivetasks.com/": {
 			"inviteCodeRequired": true,
@@ -1212,7 +1231,7 @@
 			"version": "0.4.47"
 		},
 		"https://pds.shrew-delta.ts.net/": {
-			"errorAt": 1724548121669
+			"errorAt": 1725066424214
 		},
 		"https://pds.shreyanjain.net/": {
 			"inviteCodeRequired": true,
@@ -1320,11 +1339,11 @@
 		},
 		"https://rows.io/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.55"
 		},
 		"https://rulestheworld.co.uk/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.55"
 		},
 		"https://russula.us-west.host.bsky.network/": {
 			"inviteCodeRequired": true,
@@ -1451,6 +1470,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
 		},
+		"https://tunic.com.br/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.55"
+		},
 		"https://tweethive.net/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
@@ -1528,6 +1551,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-08-30T01:05:45.084Z"
+		"cursor": "2024-08-31T01:05:44.205Z"
 	}
 }
