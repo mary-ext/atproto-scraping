@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-07T01:12:31.345Z[^1]
+Last updated: 2024-09-08T01:19:07.259Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**372** instances active  
-**306** online  
-**66** offline  
+**373** instances active  
+**304** online  
+**69** offline  
 **21** hosted by Bluesky  
-**351** hosted by third-parties
+**352** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -35,7 +35,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ap.pds1.ca | No | 0.4.55 |
 | ✅ archb.tw | No | 0.4.55 |
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
-| ✅ at.clavis.info | No | 0.4.52 |
+| ✅ at.arles.us | No | 0.4.55 |
+| ✅ at.clavis.info | No | 0.4.55 |
 | ✅ at.dingdongdata.com | No | 0.4.55 |
 | ✅ at.hwsc.link | No | 0.4.55 |
 | ❌ at.iacillo.dev.br | No | ??? |
@@ -81,6 +82,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bousky.social | No | 0.4.55 |
 | ✅ boymodelworld.com | No | 0.4.55 |
 | ✅ bs.aiforward.jp | No | 0.4.55 |
+| ✅ bs.cmeu.us | No | 0.4.55 |
 | ✅ bs.fruteira.cloud | No | 0.4.55 |
 | ✅ bs.idiocy.org | No | 0.4.52 |
 | ✅ bs.siren.jp | No | 0.4.55 |
@@ -137,7 +139,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.theatl.social | No | 0.4.47 |
 | ✅ bsky.tm2t.net | No | 0.4.55 |
 | ✅ bsky.tranvender.site | No | 0.4.55 |
-| ✅ bsky.vagasprajr.com.br | No | 0.4.55 |
+| ❌ bsky.vagasprajr.com.br | No | 0.4.55 |
 | ❌ bsky.vasco-shot.com | No | 0.4.47 |
 | ✅ bsky.vylion.com | No | 0.4.55 |
 | ✅ bsky.wtr.app | No | 0.4.55 |
@@ -166,7 +168,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ dgrfs.com | No | ??? |
 | ✅ disbursement.center | No | 0.4.55 |
 | ✅ divy.zone | No | 0.4.55 |
-| ❌ do.bolson.org | No | ??? |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.55 |
 | ✅ edwz.com.br | No | 0.4.55 |
@@ -239,7 +240,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ oyster.us-east.host.bsky.network | No | git-8252c65 |
 | ✅ p.kojira.io | No | 0.4.55 |
 | ❌ packzinn.com.br | No | ??? |
-| ✅ pdeeznuts.amith.sbs | No | 0.4.55 |
+| ❌ pdeeznuts.amith.sbs | No | 0.4.55 |
 | ❌ pds-dev-u353.vm.elestio.app | No | ??? |
 | ❌ pds-nex-u353.vm.elestio.app | No | 0.4.55 |
 | ❌ pds-ops-u353.vm.elestio.app | No | ??? |
@@ -301,7 +302,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.taichibit.com | No | 0.4.55 |
 | ✅ pds.tentacle.expert | No | 0.4.55 |
 | ✅ pds.timburga.social | No | 0.4.55 |
-| ✅ pds.tom-sherman.com | No | 0.4.27 |
+| ❌ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.55 |
 | ✅ pds.tw | No | 0.4.55 |
 | ✅ pds.ubanis.mydns.jp | No | 0.4.55 |
@@ -334,7 +335,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.55 |
-| ✅ sky.secretbearsociety.org | No | 0.4.55 |
+| ❌ sky.secretbearsociety.org | No | 0.4.55 |
 | ❌ sky.skrw.me | No | 0.4.55 |
 | ✅ sky.tokimeki.blue | No | 0.4.55 |
 | ✅ sky01.ketto.ca | No | 0.4.55 |
@@ -394,9 +395,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**79** instances active  
-**61** online  
-**18** offline
+**84** instances active  
+**62** online  
+**22** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -409,10 +410,10 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ blue-cosmos.social | 0.1.38 |
 | ✅ bsky-labeler.thenexus.today | 0.1.38 |
 | ❌ bsky.social | ??? |
+| ❌ etiquetasdoorkut.notx.blue | ??? |
 | ✅ example.mastod.one | 0.1.38 |
 | ❌ felina.fish | ??? |
 | ❌ firefly.respawnroom.com | ??? |
-| ❌ hbms.hexandcube.eu.org | 0.1.38 |
 | ✅ howaboutyougeta.life | 0.1.38 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.38 |
 | ✅ kind-labeler.bryan.town | 0.1.38 |
@@ -422,6 +423,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ labeler.test.futur.blue | ??? |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ labeling.newsdetective.org | 0.1.38 |
+| ❌ labels.danielhe4rt.dev | ??? |
+| ❌ labels.danielreis.me | ??? |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ merke.maanebedotten.no | 0.1.38 |
 | ❌ meutime.jefwork.me | ??? |
@@ -463,6 +466,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.suvpen.com | 0.1.38 |
 | ✅ ozone.timrombouts.be | 0.1.38 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
+| ✅ ozone.triis.lol | 0.1.38 |
 | ✅ ozone.usounds.work | 0.1.38 |
 | ✅ ozone.w3igg.com | 0.1.38 |
 | ✅ ozone.wyvern.blue | 0.1.38 |
@@ -474,12 +478,14 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ pronome.adorable.mom | ??? |
 | ❌ pronomes.felina.fish | ??? |
 | ❌ skyware.darkcarnival.gay | ??? |
+| ❌ soft-pig-83.telebit.io | ??? |
 | ✅ sonasky-ozone.bunnys.ky | 0.1.38 |
 | ❌ sortinghat-backend.bsky.sh | ??? |
 | ✅ stopthegifs.haileyok.com | 0.1.38 |
 | ✅ uspollabeler.blakeslabs.com | 0.1.38 |
 | ✅ warlabel.dattil.io | 0.1.38 |
 | ✅ xblock.aendra.dev | 0.1.38 |
+| ❌ zodiacsigns-backend.bsky.sh | ??? |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run
