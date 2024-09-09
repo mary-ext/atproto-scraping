@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-08T01:19:07.259Z[^1]
+Last updated: 2024-09-09T01:15:54.210Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**373** instances active  
-**304** online  
+**376** instances active  
+**307** online  
 **69** offline  
 **21** hosted by Bluesky  
-**352** hosted by third-parties
+**355** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -157,7 +157,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ codeinloop.dev | No | 0.4.55 |
 | ✅ comrades.social | No | 0.4.55 |
 | ✅ conocybe.us-west.host.bsky.network | No | git-8252c65 |
-| ✅ corgi.dance | No | 0.4.55 |
+| ❌ corgi.dance | No | 0.4.55 |
 | ❌ ctrxl.id | No | ??? |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.55 |
@@ -240,7 +240,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ oyster.us-east.host.bsky.network | No | git-8252c65 |
 | ✅ p.kojira.io | No | 0.4.55 |
 | ❌ packzinn.com.br | No | ??? |
-| ❌ pdeeznuts.amith.sbs | No | 0.4.55 |
+| ✅ pdeeznuts.amith.sbs | No | 0.4.55 |
 | ❌ pds-dev-u353.vm.elestio.app | No | ??? |
 | ❌ pds-nex-u353.vm.elestio.app | No | 0.4.55 |
 | ❌ pds-ops-u353.vm.elestio.app | No | ??? |
@@ -267,6 +267,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.erechorse.com | No | 0.4.55 |
 | ✅ pds.frncs.eu | No | 0.4.55 |
 | ✅ pds.furtenbach.social | No | 0.4.55 |
+| ✅ pds.gaycatgirl.sex | No | 0.4.55 |
 | ✅ pds.golf1052.com | No | 0.4.55 |
 | ✅ pds.graefekiez.de | No | 0.4.55 |
 | ✅ pds.gza.jp | No | 0.4.55 |
@@ -313,10 +314,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.y-force.info | Yes | 0.4.55 |
 | ✅ pds.zccx.net | No | 0.4.55 |
 | ✅ philly.sh | No | 0.4.55 |
-| ✅ porcini.us-east.host.bsky.network | No | git-8252c65 |
+| ❌ porcini.us-east.host.bsky.network | No | git-8252c65 |
 | ✅ proto.sorcie.re | No | 0.4.55 |
 | ✅ puffball.us-east.host.bsky.network | No | git-8252c65 |
 | ✅ quilt.com.tw | No | 0.4.55 |
+| ✅ rafael.my | No | 0.4.55 |
 | ✅ rainbowgirl.moe | No | 0.4.55 |
 | ✅ randir.link | No | 0.4.55 |
 | ✅ redocean.one | No | 0.4.55 |
@@ -332,7 +334,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ shimeji.us-east.host.bsky.network | No | git-8252c65 |
 | ✅ skeleton.rodeo | No | 0.4.55 |
 | ❌ sky.dirty.pm | No | 0.4.55 |
-| ❌ sky.gami.zip | No | 0.4.0-beta.7 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.55 |
 | ❌ sky.secretbearsociety.org | No | 0.4.55 |
@@ -361,9 +362,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ tbsky.vasco-shot.com | No | 0.4.55 |
 | ✅ tbsky8.vasco-shot.com | No | 0.4.55 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
+| ✅ thelgbtq.org | No | 0.4.55 |
 | ❌ tlaster.at | No | ??? |
 | ✅ trashcave.net | No | 0.4.55 |
 | ✅ trekologer.social | No | 0.4.55 |
+| ✅ troll.im | No | 0.4.55 |
 | ✅ troll.social | No | 0.4.55 |
 | ❌ tunic.com.br | No | 0.4.55 |
 | ✅ tweethive.net | No | 0.4.55 |
@@ -395,9 +398,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**84** instances active  
+**86** instances active  
 **62** online  
-**22** offline
+**24** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -433,6 +436,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mod.bsky.app | git-71785d3 |
 | ✅ mod.laelaps.fyi | 0.1.38 |
 | ✅ mod.staging.bsky.dev | git-30b9faa |
+| ❌ mod.zio.blue | ??? |
+| ❌ orkut.joselito.pw | ??? |
 | ❌ ozone.adorable.mom | N/A |
 | ✅ ozone.anon5r.com | 0.1.38 |
 | ✅ ozone.asukafield.xyz | 0.1.38 |
