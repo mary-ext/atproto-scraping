@@ -1,5 +1,5 @@
 // https://github.com/oven-sh/bun/issues/5648#issuecomment-1824093837
-export class TextDecoderStream extends TransformStream<Uint8Array, string> {
+class TextDecoderStreamPolyfill extends TransformStream<Uint8Array, string> {
 	readonly encoding: string;
 	readonly fatal: boolean;
 	readonly ignoreBOM: boolean;
@@ -27,6 +27,10 @@ export class TextDecoderStream extends TransformStream<Uint8Array, string> {
 		this.ignoreBOM = decoder.ignoreBOM;
 	}
 }
+
+const TDS = typeof TextDecoderStream !== 'undefined' ? TextDecoderStream : TextDecoderStreamPolyfill;
+
+export { TDS as TextDecoderStream };
 
 export class LineBreakStream extends TransformStream<string, string> {
 	constructor() {
