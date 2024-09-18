@@ -1,4 +1,4 @@
-import { XRPC, XRPCError } from '@atcute/client';
+import { simpleFetchHandler, XRPC, XRPCError } from '@atcute/client';
 import * as v from '@badrap/valita';
 
 import { differenceInDays } from 'date-fns/differenceInDays';
@@ -73,7 +73,7 @@ await Promise.all(
 	Array.from(pdses, ([href, obj]) => {
 		return queue.add(async () => {
 			const host = new URL(href).host;
-			const rpc = new XRPC({ service: href });
+			const rpc = new XRPC({ handler: simpleFetchHandler({ service: href }) });
 
 			const signal = AbortSignal.timeout(15_000);
 			const meta = await rpc
