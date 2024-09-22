@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "10606500",
+		"cursor": "10639535",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -202,6 +202,10 @@
 		"https://nn.erbs.fun/": {
 			"did": "did:plc:iohl2upkd2anlxuzhyottpow",
 			"errorAt": 1726016807513
+		},
+		"https://novideo.bsky.mom/": {
+			"did": "did:plc:rimy2oscuyyiai27fmzrbyph",
+			"errorAt": 1726967678610
 		},
 		"https://novideo.frostie.dev/": {
 			"did": "did:plc:75xpdrj5i2dr45teqi7crhle",
@@ -410,6 +414,10 @@
 			"errorAt": 1726708095919,
 			"version": "0.1.38"
 		},
+		"https://phone.bl.uesky.cloud/": {
+			"did": "did:plc:r5zogjmxhhn6v23dv47li6pc",
+			"errorAt": 1726967678610
+		},
 		"https://poasting.online/": {
 			"did": "did:plc:jquys7tn6t2gw53iufa4uxa2",
 			"errorAt": 1726708095919,
@@ -432,10 +440,6 @@
 			"did": "did:plc:2qawvcwumvgxmed6iy6pmt6l",
 			"errorAt": 1726708095919,
 			"version": "0.1.38"
-		},
-		"https://sortinghat-backend.bsky.sh/": {
-			"did": "did:plc:yv4nuaj3jshcuh2d2ivykgiz",
-			"errorAt": 1725671123609
 		},
 		"https://stopthegifs.haileyok.com/": {
 			"did": "did:plc:mjyeurqmqjeexbgigk3yytvb",
@@ -550,15 +554,13 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
+			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://at.hwsc.link/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
-		},
-		"https://at.iacillo.dev.br/": {
-			"errorAt": 1725671123609
 		},
 		"https://at.joshr.work/": {
 			"errorAt": 1725930438210,
@@ -583,7 +585,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1726880815904
+			"errorAt": 1726967678610
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -638,9 +640,6 @@
 		"https://blueskeet.social/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
-		},
-		"https://bluesky-server.megacasa.xyz/": {
-			"errorAt": 1725671123609
 		},
 		"https://bluesky.adriansmares.ro/": {
 			"inviteCodeRequired": true,
@@ -858,7 +857,6 @@
 			"version": "0.4.59"
 		},
 		"https://bsky.juanlu.space/": {
-			"errorAt": 1726708095919,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -967,7 +965,7 @@
 		},
 		"https://bsky.sneezey.uk/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.55"
+			"version": "0.4.59"
 		},
 		"https://bsky.taila5061.ts.net/": {
 			"inviteCodeRequired": true,
@@ -1051,7 +1049,12 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://creaton.social/": {
+			"inviteCodeRequired": true,
+			"version": "0.5.3"
+		},
 		"https://dados.social/": {
+			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1246,8 +1249,9 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://jtoddp.com/": {
-			"errorAt": 1725671123609
+		"https://kape.xyz/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
 		},
 		"https://kiichigo.cloud/": {
 			"errorAt": 1726621619559,
@@ -1351,11 +1355,6 @@
 		"https://nekohana.blue/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
-		},
-		"https://nopueden.com/": {
-			"errorAt": 1725671123609,
-			"inviteCodeRequired": true,
-			"version": "0.4.55"
 		},
 		"https://nyago.zip/": {
 			"inviteCodeRequired": true,
@@ -1745,11 +1744,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://riviansociety.com/": {
-			"errorAt": 1725671123609,
-			"inviteCodeRequired": true,
-			"version": "0.4.55"
-		},
 		"https://rofl.im/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1782,11 +1776,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://sky.dirty.pm/": {
-			"errorAt": 1725671123609,
-			"inviteCodeRequired": true,
-			"version": "0.4.55"
-		},
 		"https://sky.kghorvath.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.7"
@@ -1805,6 +1794,7 @@
 			"version": "0.4.55"
 		},
 		"https://sky.tokimeki.blue/": {
+			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -2001,6 +1991,7 @@
 			"version": "0.4.59"
 		},
 		"https://wallera.computer/": {
+			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -2064,6 +2055,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-09-21T01:06:46.244Z"
+		"cursor": "2024-09-22T01:14:31.846Z"
 	}
 }
