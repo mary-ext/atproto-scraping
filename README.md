@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-22T01:19:23.644Z[^1]
+Last updated: 2024-09-23T01:14:58.493Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**387** instances active  
-**324** online  
-**63** offline  
+**389** instances active  
+**327** online  
+**62** offline  
 **25** hosted by Bluesky  
-**362** hosted by third-parties
+**364** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -36,7 +36,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.arles.us | No | 0.4.59 |
 | ✅ at.clavis.info | No | 0.4.59 |
-| ❌ at.dingdongdata.com | No | 0.4.59 |
+| ✅ at.dingdongdata.com | No | 0.4.59 |
 | ✅ at.hwsc.link | No | 0.4.59 |
 | ❌ at.joshr.work | No | 0.4.55 |
 | ✅ at.kizaing.ca | No | 0.4.59 |
@@ -93,6 +93,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.aglesia.space | No | 0.4.59 |
 | ✅ bsky.air11.social | No | 0.4.59 |
 | ✅ bsky.alyx.pink | No | 0.4.59 |
+| ❌ bsky.baratilvara.com | No | ??? |
 | ✅ bsky.baronvonpaddington.com | No | 0.4.59 |
 | ✅ bsky.bigboy.us | No | 0.4.59 |
 | ✅ bsky.buldy.eu | No | 0.4.59 |
@@ -112,6 +113,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.jltml.me | No | 0.4.59 |
 | ✅ bsky.juanlu.space | No | 0.4.59 |
 | ✅ bsky.k512.studio | No | 0.4.59 |
+| ✅ bsky.karebu.gay | No | 0.4.59 |
 | ✅ bsky.kevoun.com | No | 0.4.59 |
 | ✅ bsky.kit-a.net | No | 0.4.59 |
 | ✅ bsky.kretschmann.social | No | 0.4.55 |
@@ -189,7 +191,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ gonta.net | No | 0.4.59 |
 | ❌ guaxinim.me | No | 0.4.55 |
 | ✅ habanero.f5.si | No | 0.4.59 |
-| ❌ habitat-dev.tail07d32.ts.net | No | 0.4.53 |
+| ✅ habitat-dev.tail07d32.ts.net | No | 0.4.53 |
 | ✅ hedgehog.us-west.host.bsky.network | No | git-fefb0da |
 | ✅ hellthread.pro | No | 0.4.55 |
 | ✅ hellz.online | No | 0.4.59 |
@@ -201,7 +203,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ iame.li | No | 0.4.47 |
 | ✅ imadeitthefuckup.org | No | 0.4.59 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-bcefbdb |
-| ✅ internect.ing | No | 0.4.55 |
+| ✅ internect.ing | No | 0.4.59 |
 | ✅ ishimmi.net | No | 0.4.59 |
 | ❌ issilly.fr | No | ??? |
 | ✅ ixcat.ovh | No | 0.4.59 |
@@ -333,7 +335,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ rows.io | No | 0.4.59 |
 | ✅ rulestheworld.co.uk | No | 0.4.55 |
 | ✅ russula.us-west.host.bsky.network | No | git-bcefbdb |
-| ✅ selfagency.net | No | 0.4.59 |
+| ❌ selfagency.net | No | 0.4.59 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-bcefbdb |
 | ✅ shimeji.us-east.host.bsky.network | No | git-bcefbdb |
 | ✅ skeleton.rodeo | No | 0.4.59 |
@@ -389,7 +391,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ vengeful.eu | No | 0.4.59 |
 | ✅ verpa.us-west.host.bsky.network | No | git-bcefbdb |
 | ✅ w7f.social | No | 0.4.59 |
-| ❌ wallera.computer | No | 0.4.59 |
+| ✅ wallera.computer | No | 0.4.59 |
 | ✅ warmsushi.com | No | 0.4.59 |
 | ❌ watt.systems | No | 0.4.59 |
 | ❌ wave.stg.waverly.app | No | ??? |
@@ -409,9 +411,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**91** instances active  
+**92** instances active  
 **0** online  
-**91** offline
+**92** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -500,6 +502,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ soft-pig-83.telebit.io | ??? |
 | ❌ sonasky-ozone.bunnys.ky | 0.1.38 |
 | ❌ stopthegifs.haileyok.com | 0.1.38 |
+| ❌ testgif.bsky.mom | ??? |
 | ❌ thisisjustatest.bsky.mom | ??? |
 | ❌ time.bsky.my | ??? |
 | ❌ tm.silencebrand.xyz | 0.1.38 |

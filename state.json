@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "10639535",
+		"cursor": "10677642",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -446,6 +446,10 @@
 			"errorAt": 1726016807513,
 			"version": "0.1.38"
 		},
+		"https://testgif.bsky.mom/": {
+			"did": "did:plc:b3pn34agqqchkaf75v7h43dk",
+			"errorAt": 1727053811156
+		},
 		"https://thisisjustatest.bsky.mom/": {
 			"did": "did:plc:b3pn34agqqchkaf75v7h43dk",
 			"errorAt": 1726534565044
@@ -554,7 +558,6 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
-			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -585,7 +588,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1726967678610
+			"errorAt": 1727053811156
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -787,6 +790,9 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://bsky.baratilvara.com/": {
+			"errorAt": 1727053811156
+		},
 		"https://bsky.baronvonpaddington.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -861,6 +867,10 @@
 			"version": "0.4.59"
 		},
 		"https://bsky.k512.studio/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
+		"https://bsky.karebu.gay/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1182,7 +1192,6 @@
 			"version": "0.4.59"
 		},
 		"https://habitat-dev.tail07d32.ts.net/": {
-			"errorAt": 1726449094306,
 			"inviteCodeRequired": true,
 			"version": "0.4.53"
 		},
@@ -1232,7 +1241,7 @@
 		},
 		"https://internect.ing/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.55"
+			"version": "0.4.59"
 		},
 		"https://ishimmi.net/": {
 			"inviteCodeRequired": true,
@@ -1299,7 +1308,7 @@
 			"version": "git-bcefbdb"
 		},
 		"https://localho.st/": {
-			"errorAt": 1726794487970
+			"errorAt": 1727053811156
 		},
 		"https://madiator.cloud/": {
 			"inviteCodeRequired": true,
@@ -1761,6 +1770,7 @@
 			"version": "git-bcefbdb"
 		},
 		"https://selfagency.net/": {
+			"errorAt": 1727053811156,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1991,7 +2001,6 @@
 			"version": "0.4.59"
 		},
 		"https://wallera.computer/": {
-			"errorAt": 1726967678610,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -2055,6 +2064,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-09-22T01:14:31.846Z"
+		"cursor": "2024-09-23T01:10:05.987Z"
 	}
 }
