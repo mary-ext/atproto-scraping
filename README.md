@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-23T01:14:58.493Z[^1]
+Last updated: 2024-09-24T03:19:08.419Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -10,8 +10,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 ## Personal data servers
 
 **389** instances active  
-**327** online  
-**62** offline  
+**328** online  
+**61** offline  
 **25** hosted by Bluesky  
 **364** hosted by third-parties
 
@@ -42,7 +42,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
 | ✅ atp.retroheart.net | No | 0.4.59 |
-| ❌ atproto-labs.meerkat-hake.ts.net | No | 0.4.59 |
+| ✅ atproto-labs.meerkat-hake.ts.net | No | 0.4.59 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.47 |
 | ❌ behnam.cn | No | 0.4.59 |
@@ -68,6 +68,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bluesky.metalbanana.net | No | 0.4.59 |
 | ✅ bluesky.nissesdomain.org | No | 0.4.59 |
 | ✅ bluesky.nk.ca | No | 0.4.59 |
+| ✅ bluesky.reclaim.rocks | No | 0.4.59 |
 | ✅ bluesky.ropoko.net | No | 0.4.55 |
 | ✅ bluesky.rosafamily.net | No | 0.4.59 |
 | ✅ bluesky.rp-taki.com | No | 0.4.55 |
@@ -80,7 +81,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bousky.social | No | 0.4.59 |
 | ✅ boymodelworld.com | No | 0.4.59 |
 | ❌ brandylion.com | No | 0.4.55 |
-| ✅ bringyou.cc | No | 0.4.59 |
+| ❌ bringyou.cc | No | 0.4.59 |
 | ✅ bs.aiforward.jp | No | 0.4.59 |
 | ✅ bs.cmeu.us | No | 0.4.59 |
 | ❌ bs.fruteira.cloud | No | 0.4.59 |
@@ -98,7 +99,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.bigboy.us | No | 0.4.59 |
 | ✅ bsky.buldy.eu | No | 0.4.59 |
 | ✅ bsky.bulles.social | No | 0.4.59 |
-| ✅ bsky.byoda.org | No | 0.4.55 |
+| ❌ bsky.byoda.org | No | 0.4.55 |
 | ❌ bsky.cadusilva.com | No | 0.4.59 |
 | ✅ bsky.chagge.com | No | 0.4.59 |
 | ✅ bsky.day | No | 0.4.59 |
@@ -143,7 +144,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.theatl.social | No | 0.4.47 |
 | ✅ bsky.tm2t.net | No | 0.4.59 |
 | ✅ bsky.tranvender.site | No | 0.4.59 |
-| ❌ bsky.vagasprajr.com.br | No | 0.4.55 |
 | ❌ bsky.vasco-shot.com | No | 0.4.47 |
 | ✅ bsky.vylion.com | No | 0.4.59 |
 | ✅ bsky.wtr.app | No | 0.4.59 |
@@ -240,6 +240,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ ollemg.com | No | 0.4.55 |
 | ❌ omeyverse.com | No | 0.4.55 |
 | ✅ opp.minuspoint.com | No | 0.4.59 |
+| ✅ origin.social | No | 0.4.59 |
 | ✅ otasora.blue | No | 0.4.59 |
 | ✅ oyster.us-east.host.bsky.network | No | git-bcefbdb |
 | ✅ p.kojira.io | No | 0.4.59 |
@@ -308,7 +309,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.taichibit.com | No | 0.4.59 |
 | ✅ pds.tentacle.expert | No | 0.4.55 |
 | ✅ pds.timburga.social | No | 0.4.59 |
-| ❌ pds.tom-sherman.com | No | 0.4.27 |
 | ✅ pds.tosiiu.com | No | 0.4.59 |
 | ✅ pds.tw | No | 0.4.59 |
 | ✅ pds.ubanis.mydns.jp | No | 0.4.59 |
@@ -342,7 +342,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.59 |
 | ✅ sky.mattstrapp.net | No | 0.4.59 |
-| ❌ sky.secretbearsociety.org | No | 0.4.55 |
 | ❌ sky.tokimeki.blue | No | 0.4.59 |
 | ❌ sky01.ketto.ca | No | 0.4.59 |
 | ✅ skyblue.cc | No | 0.4.59 |
@@ -374,6 +373,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ test-bsky.xsns.jp | No | 0.4.59 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ❌ testbsky.xsns.jp | No | ??? |
+| ❌ tf2movies.org | No | ??? |
 | ❌ thelgbtq.org | No | 0.4.59 |
 | ✅ tokimeki.red | No | 0.4.59 |
 | ✅ trashcave.net | No | 0.4.59 |
@@ -411,105 +411,97 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**92** instances active  
-**0** online  
-**92** offline
+**84** instances active  
+**65** online  
+**19** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
-| ❌ 2.ripperoni.com | 0.1.38 |
-| ❌ aimod.social | 0.1.38 |
-| ❌ automo-ozone.bunnys.ky | 0.1.38 |
-| ❌ baatl.mastod.one | 0.1.38 |
-| ❌ blue-cosmos.social | 0.1.38 |
-| ❌ bsky-labeler.thenexus.today | 0.1.38 |
+| ✅ 2.ripperoni.com | 0.1.38 |
+| ✅ aimod.social | 0.1.38 |
+| ✅ automo-ozone.bunnys.ky | 0.1.38 |
+| ✅ baatl.mastod.one | 0.1.38 |
+| ✅ blue-cosmos.social | 0.1.38 |
+| ✅ bsky-labeler.thenexus.today | 0.1.38 |
 | ❌ corinthians-bsky-labeler-x79g.vercel.app | ??? |
 | ❌ cr-labeler.render.com | ??? |
-| ❌ etiquetasdoorkut.notx.blue | ??? |
-| ❌ example.mastod.one | 0.1.38 |
+| ✅ example.mastod.one | 0.1.38 |
 | ❌ fg-labeler.selfawaresoup.com | ??? |
-| ❌ howaboutyougeta.life | 0.1.38 |
-| ❌ kiki-bouba.mozzius.dev | 0.1.38 |
-| ❌ kind-labeler.bryan.town | 0.1.38 |
-| ❌ labeler.dholms.xyz | 0.1.38 |
-| ❌ labeler.divy.zone | 0.1.38 |
+| ✅ howaboutyougeta.life | 0.1.38 |
+| ✅ kiki-bouba.mozzius.dev | 0.1.38 |
+| ✅ kind-labeler.bryan.town | 0.1.38 |
+| ✅ labeler.dholms.xyz | 0.1.38 |
+| ✅ labeler.divy.zone | 0.1.38 |
 | ❌ labeler.erbs.fun | ??? |
 | ❌ labeler.nicashow.fun | ??? |
-| ❌ labeler.test.futur.blue | ??? |
-| ❌ labeler.tokimeki.blue | 0.0.17-next.1 |
-| ❌ labeling.newsdetective.org | 0.1.38 |
+| ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
+| ✅ labeling.newsdetective.org | 0.1.38 |
 | ❌ labels.bsky.bloucos.art | ??? |
-| ❌ labels.danielhe4rt.dev | ??? |
 | ❌ labels.danielreis.me | ??? |
-| ❌ lavka.zalupa.in.ua | 0.1.1 |
-| ❌ merke.maanebedotten.no | 0.1.38 |
-| ❌ meutime.jefwork.me | ??? |
-| ❌ mod-br.bsky.app | git-85c8535 |
-| ❌ mod.armifi.com | 0.1.38 |
-| ❌ mod.bsky.app | git-85c8535 |
-| ❌ mod.laelaps.fyi | 0.1.38 |
-| ❌ mod.staging.bsky.dev | git-85c8535 |
-| ❌ mod.zio.blue | ??? |
+| ✅ lavka.zalupa.in.ua | 0.1.1 |
+| ✅ merke.maanebedotten.no | 0.1.38 |
+| ✅ mod-br.bsky.app | git-85c8535 |
+| ✅ mod.armifi.com | 0.1.38 |
+| ✅ mod.bsky.app | git-85c8535 |
+| ✅ mod.laelaps.fyi | 0.1.38 |
+| ✅ mod.staging.bsky.dev | git-85c8535 |
 | ❌ nn.erbs.fun | ??? |
 | ❌ novideo.bsky.mom | ??? |
 | ❌ novideo.frostie.dev | ??? |
-| ❌ orkut.joselito.pw | ??? |
-| ❌ ozone.anon5r.com | 0.1.42 |
-| ❌ ozone.asukafield.xyz | 0.1.38 |
-| ❌ ozone.birb.house | 0.1.38 |
-| ❌ ozone.bka.li | 0.1.38 |
-| ❌ ozone.bossett.social | 0.1.38 |
-| ❌ ozone.bunnynabbit.com | 0.1.38 |
-| ❌ ozone.clacks.social | 0.1.38 |
-| ❌ ozone.darkcarnival.gay | 0.1.38 |
-| ❌ ozone.department7.org | 0.1.38 |
-| ❌ ozone.flatlander.social | 0.1.38 |
-| ❌ ozone.fran.pw | 0.1.38 |
-| ❌ ozone.friend.town | 0.1.38 |
-| ❌ ozone.hellthread.pro | 0.1.11 |
-| ❌ ozone.iftas.dev | 0.1.38 |
-| ❌ ozone.lio.systems | 0.1.33 |
+| ✅ ozone.anon5r.com | 0.1.42 |
+| ✅ ozone.asukafield.xyz | 0.1.38 |
+| ✅ ozone.birb.house | 0.1.38 |
+| ✅ ozone.bka.li | 0.1.38 |
+| ✅ ozone.bossett.social | 0.1.38 |
+| ✅ ozone.bunnynabbit.com | 0.1.38 |
+| ✅ ozone.clacks.social | 0.1.38 |
+| ✅ ozone.darkcarnival.gay | 0.1.38 |
+| ✅ ozone.department7.org | 0.1.38 |
+| ✅ ozone.flatlander.social | 0.1.38 |
+| ✅ ozone.fran.pw | 0.1.38 |
+| ✅ ozone.friend.town | 0.1.38 |
+| ✅ ozone.hellthread.pro | 0.1.11 |
+| ✅ ozone.iftas.dev | 0.1.38 |
+| ✅ ozone.lio.systems | 0.1.33 |
 | ❌ ozone.lotor.online | 0.1.1 |
-| ❌ ozone.moderation.moe | 0.1.33 |
-| ❌ ozone.mountainherder.xyz | 0.1.38 |
-| ❌ ozone.mp0.jp | ??? |
-| ❌ ozone.perfect-bra.in | 0.1.38 |
-| ❌ ozone.procycling.social | 0.1.38 |
-| ❌ ozone.renahlee.com | 0.1.38 |
-| ❌ ozone.ripperoni.com | 0.1.38 |
-| ❌ ozone.ryanbonick.com | 0.1.38 |
-| ❌ ozone.shawnhoffman.dev | 0.1.11 |
-| ❌ ozone.shreyanjain.net | 0.1.38 |
-| ❌ ozone.sickos.club | 0.1.38 |
-| ❌ ozone.skiddle.id | 0.1.38 |
-| ❌ ozone.skyfeed.dev | 0.1.38 |
-| ❌ ozone.suvpen.com | 0.1.38 |
+| ✅ ozone.moderation.moe | 0.1.33 |
+| ✅ ozone.mountainherder.xyz | 0.1.38 |
+| ✅ ozone.mp0.jp | 0.1.38 |
+| ✅ ozone.perfect-bra.in | 0.1.38 |
+| ✅ ozone.procycling.social | 0.1.38 |
+| ✅ ozone.renahlee.com | 0.1.38 |
+| ✅ ozone.ripperoni.com | 0.1.38 |
+| ✅ ozone.ryanbonick.com | 0.1.38 |
+| ✅ ozone.shawnhoffman.dev | 0.1.11 |
+| ✅ ozone.shreyanjain.net | 0.1.38 |
+| ✅ ozone.sickos.club | 0.1.38 |
+| ✅ ozone.skiddle.id | 0.1.38 |
+| ✅ ozone.skyfeed.dev | 0.1.38 |
+| ✅ ozone.suvpen.com | 0.1.38 |
 | ❌ ozone.thelgbtq.org | 0.1.38 |
-| ❌ ozone.timrombouts.be | 0.1.38 |
-| ❌ ozone.topicalsource.com | 0.1.3 |
-| ❌ ozone.triis.lol | 0.1.38 |
-| ❌ ozone.usounds.work | 0.1.38 |
-| ❌ ozone.w3igg.com | 0.1.38 |
-| ❌ ozone.wyvern.blue | 0.1.38 |
+| ✅ ozone.timrombouts.be | 0.1.38 |
+| ✅ ozone.topicalsource.com | 0.1.3 |
+| ✅ ozone.triis.lol | 0.1.38 |
+| ✅ ozone.usounds.work | 0.1.38 |
+| ✅ ozone.w3igg.com | 0.1.38 |
+| ✅ ozone.wyvern.blue | 0.1.38 |
 | ❌ ozone.y-force.info | 0.1.38 |
-| ❌ ozone.yardcrow.com | 0.1.38 |
-| ❌ phobial.mastod.one | 0.1.38 |
+| ✅ ozone.yardcrow.com | 0.1.38 |
+| ✅ phobial.mastod.one | 0.1.38 |
 | ❌ phone.bl.uesky.cloud | ??? |
-| ❌ poasting.online | 0.1.38 |
-| ❌ posters.rip | 0.1.38 |
+| ✅ poasting.online | 0.1.38 |
+| ✅ posters.rip | 0.1.38 |
 | ❌ pronomes.felina.fish | ??? |
-| ❌ soft-pig-83.telebit.io | ??? |
-| ❌ sonasky-ozone.bunnys.ky | 0.1.38 |
+| ✅ sonasky-ozone.bunnys.ky | 0.1.38 |
 | ❌ stopthegifs.haileyok.com | 0.1.38 |
 | ❌ testgif.bsky.mom | ??? |
 | ❌ thisisjustatest.bsky.mom | ??? |
 | ❌ time.bsky.my | ??? |
-| ❌ tm.silencebrand.xyz | 0.1.38 |
-| ❌ uspollabeler.blakeslabs.com | 0.1.38 |
-| ❌ warlabel.dattil.io | 0.1.38 |
-| ❌ xblock.aendra.dev | 0.1.38 |
-| ❌ zodiacsigns-backend.bsky.sh | ??? |
+| ✅ tm.silencebrand.xyz | 0.1.38 |
+| ✅ uspollabeler.blakeslabs.com | 0.1.38 |
+| ✅ warlabel.dattil.io | 0.1.38 |
+| ✅ xblock.aendra.dev | 0.1.38 |
 <!-- labeler-end -->
 
 [^1]: Reflecting actual changes, not when the scraper was last run
