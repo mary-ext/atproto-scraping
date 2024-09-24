@@ -124,7 +124,7 @@ await Promise.all(
 	Array.from(labelers, async ([href, obj]) => {
 		return queue.add(async () => {
 			const host = new URL(href).host;
-			const rpc = new XRPC({ service: href });
+			const rpc = new XRPC({ handler: simpleFetchHandler({ service: href }) });
 
 			const signal = AbortSignal.timeout(15_000);
 			const meta = await rpc
