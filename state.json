@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "10817597",
+		"cursor": "10854656",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -80,7 +80,7 @@
 		},
 		"https://fg-labeler.aesthr.com/": {
 			"did": "did:plc:vwuwoq5owjqrm7ryidlihe3o",
-			"errorAt": 1727312988027
+			"errorAt": 1727399417742
 		},
 		"https://fg-labeler.selfawaresoup.com/": {
 			"did": "did:plc:mkcccydjiiaukejfogdhrikv",
@@ -113,6 +113,10 @@
 		"https://labeler.tokimeki.blue/": {
 			"did": "did:plc:7fkqmr7dfu6vanyxvjtloos3",
 			"version": "0.0.17-next.1"
+		},
+		"https://labeler.williancima.com/": {
+			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
+			"errorAt": 1727399417742
 		},
 		"https://labeling.newsdetective.org/": {
 			"did": "did:plc:qezlipqc4yfk2lebu7533zyr",
@@ -359,6 +363,10 @@
 			"did": "did:plc:6dla7xy2kvakqvhj566tmwbe",
 			"errorAt": 1726275968103
 		},
+		"https://times-brasileiros-bluesky-labeler.onrender.com/": {
+			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
+			"errorAt": 1727399417742
+		},
 		"https://tm.silencebrand.xyz/": {
 			"did": "did:plc:657bbv43hgcuypiqbkuuiz4s",
 			"version": "0.1.38"
@@ -366,6 +374,10 @@
 		"https://uspollabeler.blakeslabs.com/": {
 			"did": "did:plc:bxnuth7kms5l57v2milp5gb3",
 			"version": "0.1.38"
+		},
+		"https://valid-oralla-wcima-9ee5c3b2.koyeb.app/": {
+			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
+			"errorAt": 1727399417742
 		},
 		"https://warlabel.dattil.io/": {
 			"did": "did:plc:mpogduvvraozdcbp6w2lafqg",
@@ -466,11 +478,12 @@
 			"version": "0.4.59"
 		},
 		"https://atproto-labs.meerkat-hake.ts.net/": {
+			"errorAt": 1727399417742,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1727312988027
+			"errorAt": 1727399417742
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -674,6 +687,7 @@
 			"version": "0.4.59"
 		},
 		"https://bsky.air11.social/": {
+			"errorAt": 1727399417742,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -685,7 +699,6 @@
 			"errorAt": 1727053811156
 		},
 		"https://bsky.baronvonpaddington.com/": {
-			"errorAt": 1727312988027,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1040,7 +1053,6 @@
 			"version": "0.4.59"
 		},
 		"https://fttp.cc/": {
-			"errorAt": 1727312988027,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1161,6 +1173,10 @@
 			"inviteCodeRequired": false,
 			"version": "0.4.59"
 		},
+		"https://kingdom.1randomprince.life/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://knot.land/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1220,9 +1236,6 @@
 			"inviteCodeRequired": true,
 			"version": "git-b298bfd"
 		},
-		"https://mattstrapp.net/": {
-			"errorAt": 1726103208945
-		},
 		"https://meety.me/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1267,16 +1280,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://ollemg.com/": {
-			"errorAt": 1726103208945,
-			"inviteCodeRequired": true,
-			"version": "0.4.55"
-		},
-		"https://omeyverse.com/": {
-			"errorAt": 1726103208945,
-			"inviteCodeRequired": true,
-			"version": "0.4.55"
-		},
 		"https://opp.minuspoint.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1300,6 +1303,12 @@
 		"https://pdeeznuts.amith.sbs/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
+		},
+		"https://pds-final-u353.vm.elestio.app/": {
+			"errorAt": 1727399417742
+		},
+		"https://pds-ops-u353.vm.elestio.app/": {
+			"errorAt": 1727399417742
 		},
 		"https://pds.4f9e1738.ignorelist.com/": {
 			"errorAt": 1727312988027,
@@ -1615,6 +1624,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://polarfox.app/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://porcini.us-east.host.bsky.network/": {
 			"inviteCodeRequired": true,
 			"version": "git-b298bfd"
@@ -1796,6 +1809,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://tebbutt.nz/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://techbrazucas.com.br/": {
 			"errorAt": 1726534565044,
 			"inviteCodeRequired": true,
@@ -1951,6 +1968,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-09-26T01:09:41.290Z"
+		"cursor": "2024-09-27T01:10:14.159Z"
 	}
 }
