@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-28T01:14:36.168Z[^1]
+Last updated: 2024-09-29T01:20:48.010Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -40,7 +40,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
 | ✅ atp.retroheart.net | No | 0.4.59 |
-| ✅ atproto-labs.meerkat-hake.ts.net | No | 0.4.59 |
+| ❌ atproto-labs.meerkat-hake.ts.net | No | 0.4.59 |
 | ❌ atproto.brid.gy | No | ??? |
 | ✅ b.yufushiro.dev | No | 0.4.47 |
 | ❌ behnam.cn | No | 0.4.59 |
@@ -173,17 +173,16 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ fastani.me | No | 0.4.59 |
 | ✅ felipe.in | No | 0.4.59 |
 | ✅ filly.social | No | 0.4.59 |
-| ❌ foo.bar.com | No | ??? |
 | ✅ foxhole.lgbt | No | 0.4.59 |
 | ✅ friendlypds.cloud | No | 0.4.59 |
 | ✅ ftgub.com | No | 0.4.59 |
-| ❌ fttp.cc | No | 0.4.59 |
+| ✅ fttp.cc | Yes | 0.4.59 |
 | ✅ furry.rest | No | 0.4.59 |
 | ✅ galliumyttrium.ca | No | 0.4.59 |
 | ✅ gear.blue | No | 0.4.55 |
 | ✅ genx.xsns.jp | No | 0.4.59 |
 | ✅ gesetz-bsky.world | Yes | 0.4.59 |
-| ✅ gfnc.ddns.net | No | 0.4.59 |
+| ❌ gfnc.ddns.net | No | 0.4.59 |
 | ✅ girl.technology | No | 0.4.47 |
 | ✅ goeo.lol | No | 0.4.59 |
 | ✅ gonta.net | No | 0.4.59 |
@@ -195,7 +194,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ hivetasks.com | No | 0.4.59 |
 | ✅ hodwald1024.one | No | 0.4.59 |
 | ✅ holofan.live | No | 0.4.59 |
-| ✅ hooray.social | No | 0.4.59 |
+| ❌ hooray.social | No | 0.4.59 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-b298bfd |
 | ✅ iame.li | No | 0.4.47 |
 | ✅ imadeitthefuckup.org | No | 0.4.59 |
@@ -287,6 +286,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.mbl.social | No | 0.4.59 |
 | ✅ pds.megantoots.com | No | 0.4.59 |
 | ✅ pds.merklehost.xyz | No | 0.4.59 |
+| ✅ pds.mikemerritt.xyz | No | 0.4.59 |
 | ✅ pds.mnogu.net | No | 0.4.59 |
 | ✅ pds.mozzius.dev | No | 0.4.59 |
 | ✅ pds.nebu.land | No | 0.4.59 |
@@ -298,7 +298,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.rjbasitali.com | No | 0.4.59 |
 | ✅ pds.robocracy.org | No | 0.4.59 |
 | ✅ pds.shigepon.net | No | 0.4.59 |
-| ❌ pds.shreyanjain.net | No | 0.4.47 |
+| ✅ pds.shreyanjain.net | No | 0.4.47 |
 | ✅ pds.simplespace.jp | No | 0.4.59 |
 | ✅ pds.skiddle.id | No | 0.4.59 |
 | ✅ pds.skyfeed.dev | No | 0.4.59 |
@@ -315,7 +315,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.vforge.social | No | 0.4.59 |
 | ❌ pds.viniciusantonioli.com.br | No | 0.4.59 |
 | ✅ pds.wyvern.rip | No | 0.4.59 |
-| ❌ pds.y-force.info | Yes | 0.4.55 |
 | ✅ pds.zccx.net | No | 0.4.59 |
 | ✅ peepo.social | No | 0.4.59 |
 | ✅ philly.sh | No | 0.4.59 |
@@ -367,6 +366,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ techbrazucas.com.br | No | 0.4.59 |
 | ✅ test-bsky.xsns.jp | No | 0.4.59 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
+| ❌ test.shigepon.net | No | ??? |
 | ❌ tf2movies.org | No | ??? |
 | ❌ thelgbtq.org | No | 0.4.59 |
 | ✅ tildeclub.blue | No | 0.4.59 |
@@ -406,8 +406,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**87** instances active  
-**66** online  
+**88** instances active  
+**67** online  
 **21** offline
 
 <!-- labeler-start -->
@@ -443,6 +443,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ mod.bsky.app | git-85c8535 |
 | ✅ mod.laelaps.fyi | 0.1.38 |
 | ✅ mod.staging.bsky.dev | git-85c8535 |
+| ❌ nfl-labeler.sickos.club | ??? |
 | ❌ novideo.bsky.mom | ??? |
 | ❌ novideo.frostie.dev | ??? |
 | ✅ ozone.anon5r.com | 0.1.42 |
@@ -452,6 +453,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.bossett.social | 0.1.38 |
 | ✅ ozone.bunnynabbit.com | 0.1.38 |
 | ✅ ozone.clacks.social | 0.1.38 |
+| ✅ ozone.coolify.nsbx.dev | 0.1.38 |
 | ✅ ozone.darkcarnival.gay | 0.1.38 |
 | ✅ ozone.department7.org | 0.1.38 |
 | ✅ ozone.flatlander.social | 0.1.38 |
@@ -493,7 +495,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ sports.labelers.hooray.social | ??? |
 | ❌ testgif.bsky.mom | ??? |
 | ❌ thisisjustatest.bsky.mom | ??? |
-| ❌ time.bsky.my | ??? |
 | ❌ times-brasileiros-bluesky-labeler.onrender.com | ??? |
 | ✅ tm.silencebrand.xyz | 0.1.38 |
 | ✅ uspollabeler.blakeslabs.com | 0.1.38 |
