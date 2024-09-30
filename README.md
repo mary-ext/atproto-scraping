@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-09-29T01:20:48.010Z[^1]
+Last updated: 2024-09-30T01:17:38.886Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**384** instances active  
-**334** online  
-**50** offline  
+**387** instances active  
+**335** online  
+**52** offline  
 **25** hosted by Bluesky  
-**359** hosted by third-parties
+**362** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -21,6 +21,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ 1998.social | No | 0.4.59 |
 | ✅ 42d.fr | No | 0.4.59 |
 | ✅ 465789.xyz | No | 0.4.59 |
+| ❌ 48north.org | No | ??? |
 | ✅ 666.fail | No | 0.4.59 |
 | ✅ acpr.dev | No | 0.4.59 |
 | ✅ afternooncurry.com | No | 0.4.59 |
@@ -28,6 +29,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ akiba.tokyo.jp | No | 0.4.59 |
 | ✅ aliciousintent.com | No | 0.4.27 |
 | ✅ amanita.us-east.host.bsky.network | No | git-b298bfd |
+| ✅ amethyst.name | No | 0.4.59 |
 | ✅ angels.fan | No | 0.4.59 |
 | ✅ anna.lgbt | No | 0.4.59 |
 | ✅ aozora.yockow.jp | No | 0.4.59 |
@@ -35,7 +37,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.arles.us | No | 0.4.59 |
 | ✅ at.clavis.info | No | 0.4.59 |
-| ✅ at.dingdongdata.com | No | 0.4.59 |
+| ❌ at.dingdongdata.com | No | 0.4.59 |
 | ✅ at.hwsc.link | No | 0.4.59 |
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
@@ -159,6 +161,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ coral.us-east.host.bsky.network | No | git-bcefbdb |
 | ✅ corgi.dance | No | 0.4.59 |
 | ✅ creaton.social | No | 0.5.3 |
+| ✅ cybernetica.cc | No | 0.4.59 |
 | ❌ dados.social | No | 0.4.59 |
 | ❌ dados.tec.br | No | 0.4.59 |
 | ✅ daemons.work | No | 0.4.47 |
@@ -194,7 +197,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ hivetasks.com | No | 0.4.59 |
 | ✅ hodwald1024.one | No | 0.4.59 |
 | ✅ holofan.live | No | 0.4.59 |
-| ❌ hooray.social | No | 0.4.59 |
+| ✅ hooray.social | No | 0.4.59 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-b298bfd |
 | ✅ iame.li | No | 0.4.47 |
 | ✅ imadeitthefuckup.org | No | 0.4.59 |
@@ -303,7 +306,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.skiddle.id | No | 0.4.59 |
 | ✅ pds.skyfeed.dev | No | 0.4.59 |
 | ✅ pds.soap.systems | No | 0.4.59 |
-| ✅ pds.stupid.fish | No | 0.4.59 |
+| ❌ pds.stupid.fish | No | 0.4.59 |
 | ✅ pds.taichibit.com | No | 0.4.59 |
 | ✅ pds.tentacle.expert | No | 0.4.59 |
 | ✅ pds.timburga.social | No | 0.4.59 |
@@ -406,8 +409,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**88** instances active  
-**67** online  
+**89** instances active  
+**68** online  
 **21** offline
 
 <!-- labeler-start -->
@@ -484,7 +487,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.usounds.work | 0.1.38 |
 | ✅ ozone.w3igg.com | 0.1.38 |
 | ✅ ozone.wyvern.blue | 0.1.38 |
-| ❌ ozone.y-force.info | 0.1.38 |
+| ✅ ozone.y-force.info | 0.1.38 |
 | ✅ ozone.yardcrow.com | 0.1.38 |
 | ✅ phobial.mastod.one | 0.1.38 |
 | ❌ phone.bl.uesky.cloud | ??? |
@@ -495,6 +498,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ sports.labelers.hooray.social | ??? |
 | ❌ testgif.bsky.mom | ??? |
 | ❌ thisisjustatest.bsky.mom | ??? |
+| ❌ time.khronos.world | ??? |
 | ❌ times-brasileiros-bluesky-labeler.onrender.com | ??? |
 | ✅ tm.silencebrand.xyz | 0.1.38 |
 | ✅ uspollabeler.blakeslabs.com | 0.1.38 |
