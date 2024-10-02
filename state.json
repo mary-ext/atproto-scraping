@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "10980559",
+		"cursor": "11008394",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -372,10 +372,6 @@
 			"did": "did:plc:b3pn34agqqchkaf75v7h43dk",
 			"errorAt": 1727053811156
 		},
-		"https://thisisjustatest.bsky.mom/": {
-			"did": "did:plc:b3pn34agqqchkaf75v7h43dk",
-			"errorAt": 1726534565044
-		},
 		"https://time.khronos.world/": {
 			"did": "did:plc:pbmxe3tfpkts72wi74weijpo",
 			"errorAt": 1727658746347
@@ -482,7 +478,6 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
-			"errorAt": 1727658746347,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -503,12 +498,11 @@
 			"version": "0.4.59"
 		},
 		"https://atproto-labs.meerkat-hake.ts.net/": {
-			"errorAt": 1727572536485,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1727745407811
+			"errorAt": 1727831411532
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -547,6 +541,10 @@
 			"version": "0.4.47"
 		},
 		"https://blue.jbonomi.dev/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
+		"https://blueball.fraudulent.link/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -711,7 +709,6 @@
 			"errorAt": 1727053811156
 		},
 		"https://bsky.baronvonpaddington.com/": {
-			"errorAt": 1727745407811,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -723,6 +720,9 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://bsky.bubblesxenial.it/": {
+			"errorAt": 1727831411532
+		},
 		"https://bsky.buldy.eu/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -732,11 +732,6 @@
 			"version": "0.4.59"
 		},
 		"https://bsky.byoda.org/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
-		"https://bsky.cadusilva.com/": {
-			"errorAt": 1726534565044,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -752,16 +747,13 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
 		},
-		"https://bsky.fedi.town/": {
-			"errorAt": 1726534565044
-		},
 		"https://bsky.gearlicious.one/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://bsky.giurgiu.io/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.38"
+			"version": "0.4.59"
 		},
 		"https://bsky.gsheps.net/": {
 			"inviteCodeRequired": true,
@@ -1084,7 +1076,7 @@
 		},
 		"https://girl.technology/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.59"
 		},
 		"https://goeo.lol/": {
 			"inviteCodeRequired": true,
@@ -1127,6 +1119,7 @@
 			"version": "0.4.59"
 		},
 		"https://hooray.social/": {
+			"errorAt": 1727831411532,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1214,6 +1207,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://liurnia.rishav.io/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://lobster.us-east.host.bsky.network/": {
 			"inviteCodeRequired": true,
 			"version": "git-bcefbdb"
@@ -1250,7 +1247,6 @@
 			"version": "0.4.59"
 		},
 		"https://moogleyacht.club/": {
-			"errorAt": 1727745407811,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1494,6 +1490,9 @@
 		"https://pds.mikemerritt.xyz/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
+		},
+		"https://pds.mlkmahmud.com/": {
+			"errorAt": 1727831411532
 		},
 		"https://pds.mnogu.net/": {
 			"inviteCodeRequired": true,
@@ -1764,11 +1763,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://splitpush.lol/": {
-			"errorAt": 1726534565044,
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
 		"https://stack.party/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.0-beta.7"
@@ -1798,11 +1792,6 @@
 			"version": "0.4.59"
 		},
 		"https://tebbutt.nz/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
-		"https://techbrazucas.com.br/": {
-			"errorAt": 1726534565044,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1903,11 +1892,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://watt.systems/": {
-			"errorAt": 1726534565044,
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
 		"https://wave.stg.waverly.app/": {
 			"errorAt": 1727312988027
 		},
@@ -1960,6 +1944,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-01T01:16:40.245Z"
+		"cursor": "2024-10-02T01:10:05.152Z"
 	}
 }
