@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "11008394",
+		"cursor": "11034182",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -70,6 +70,10 @@
 			"did": "did:plc:j2zujaxuq33c7nbcqyvgvyvk",
 			"version": "0.1.38"
 		},
+		"https://demo-labeler.bsky.sh/": {
+			"did": "did:plc:m2gxxmtdgygsrommldrsggtw",
+			"errorAt": 1727917823022
+		},
 		"https://envious-marcie-wcima-5a08e5e3.koyeb.app/": {
 			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
 			"errorAt": 1727485777936
@@ -106,10 +110,6 @@
 			"did": "did:plc:oz5zavafp7szpd2yyko57ccz",
 			"version": "0.1.38"
 		},
-		"https://labeler.nicashow.fun/": {
-			"did": "did:plc:iohl2upkd2anlxuzhyottpow",
-			"errorAt": 1726621619559
-		},
 		"https://labeler.tokimeki.blue/": {
 			"did": "did:plc:7fkqmr7dfu6vanyxvjtloos3",
 			"version": "0.0.17-next.1"
@@ -133,6 +133,10 @@
 		"https://lzone.girlfailure.zone/": {
 			"did": "did:plc:qcar2pfq4qms4knijyal5xak",
 			"version": "0.1.38"
+		},
+		"https://marklabeler2.flicknow.xyz/": {
+			"did": "did:plc:ooo6s2wvv26zmpdzift5row3",
+			"errorAt": 1727917823022
 		},
 		"https://merke.maanebedotten.no/": {
 			"did": "did:plc:f2fnichooda36b4csfxgavn6",
@@ -236,6 +240,7 @@
 		},
 		"https://ozone.lio.systems/": {
 			"did": "did:plc:rprd6z2sgvsdokjsbadytyun",
+			"errorAt": 1727917823022,
 			"version": "0.1.33"
 		},
 		"https://ozone.lotor.online/": {
@@ -478,6 +483,7 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
+			"errorAt": 1727917823022,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -498,11 +504,12 @@
 			"version": "0.4.59"
 		},
 		"https://atproto-labs.meerkat-hake.ts.net/": {
+			"errorAt": 1727917823022,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1727831411532
+			"errorAt": 1727917823022
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -559,19 +566,11 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://bluesky.aglesia.space/": {
-			"errorAt": 1726621619559
-		},
 		"https://bluesky.fitzsky.com/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://bluesky.flinty.moe/": {
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
-		"https://bluesky.goober.cloud/": {
-			"errorAt": 1726621619559,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -621,6 +620,10 @@
 			"version": "0.4.59"
 		},
 		"https://bluesky.therobbiedavis.com/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
+		"https://bluesky.toonstorytime.me/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1057,6 +1060,9 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://gamegank.net/": {
+			"errorAt": 1727917823022
+		},
 		"https://gear.blue/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
@@ -1070,7 +1076,6 @@
 			"version": "0.4.59"
 		},
 		"https://gfnc.ddns.net/": {
-			"errorAt": 1727572536485,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1119,7 +1124,6 @@
 			"version": "0.4.59"
 		},
 		"https://hooray.social/": {
-			"errorAt": 1727831411532,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1154,17 +1158,16 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://jaysky.de/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://jlailu.social/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
 		"https://kape.xyz/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
-		"https://kiichigo.cloud/": {
-			"errorAt": 1726621619559,
-			"inviteCodeRequired": false,
 			"version": "0.4.59"
 		},
 		"https://kingdom.1randomprince.life/": {
@@ -1753,7 +1756,7 @@
 		},
 		"https://social.owo.cl/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": "0.4.59"
 		},
 		"https://sowedu.net/": {
 			"inviteCodeRequired": true,
@@ -1944,6 +1947,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-02T01:10:05.152Z"
+		"cursor": "2024-10-03T01:10:17.746Z"
 	}
 }
