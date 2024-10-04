@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-10-03T01:17:02.723Z[^1]
+Last updated: 2024-10-04T01:15:44.625Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**385** instances active  
-**341** online  
-**44** offline  
+**379** instances active  
+**344** online  
+**35** offline  
 **25** hosted by Bluesky  
-**360** hosted by third-parties
+**354** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -37,7 +37,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.arles.us | No | 0.4.59 |
 | ✅ at.clavis.info | No | 0.4.59 |
-| ❌ at.dingdongdata.com | No | 0.4.59 |
+| ✅ at.dingdongdata.com | No | 0.4.59 |
 | ✅ at.hwsc.link | No | 0.4.59 |
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
@@ -88,7 +88,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bs.siren.jp | No | 0.4.59 |
 | ❌ bs.tilde.club | No | ??? |
 | ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
-| ✅ bsky-pds.h3z.jp | No | 0.4.31 |
+| ❌ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.59 |
 | ✅ bsky.aglesia.space | No | 0.4.59 |
 | ✅ bsky.air11.social | No | 0.4.59 |
@@ -123,13 +123,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.milkcocoa.info | No | 0.4.59 |
 | ✅ bsky.moe.tips | No | 0.4.59 |
 | ✅ bsky.moellus.net | No | 0.4.59 |
-| ❌ bsky.moll.dev | No | 0.4.59 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.59 |
 | ✅ bsky.nerdfest.dev | No | 0.4.59 |
 | ✅ bsky.ocelot.lol | No | 0.4.59 |
 | ✅ bsky.pavli.cc | No | 0.4.59 |
 | ✅ bsky.pink | Yes | 0.4.59 |
-| ❌ bsky.plasmatrap.com | No | 0.4.59 |
 | ✅ bsky.pmj.rocks | No | 0.4.55 |
 | ✅ bsky.projecttyco.net | No | 0.4.59 |
 | ✅ bsky.psote.ing | No | 0.4.59 |
@@ -144,7 +142,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.theatl.social | No | 0.4.47 |
 | ✅ bsky.tm2t.net | No | 0.4.59 |
 | ✅ bsky.tranvender.site | No | 0.4.59 |
-| ❌ bsky.vasco-shot.com | No | 0.4.47 |
 | ✅ bsky.vylion.com | No | 0.4.59 |
 | ✅ bsky.wtr.app | No | 0.4.59 |
 | ✅ bsky.zoeyvid.de | No | 0.4.55 |
@@ -164,13 +161,13 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ dados.social | No | 0.4.59 |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.59 |
-| ❌ devsky.vasco-shot.com | No | 0.4.55 |
 | ✅ disbursement.center | No | 0.4.59 |
 | ✅ divy.zone | No | 0.4.59 |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.59 |
 | ✅ edwz.com.br | No | 0.4.59 |
 | ✅ enoki.us-east.host.bsky.network | No | git-b298bfd |
+| ✅ factorio.com.br | No | 0.4.59 |
 | ✅ fastani.me | No | 0.4.59 |
 | ✅ felipe.in | No | 0.4.59 |
 | ✅ filly.social | No | 0.4.59 |
@@ -211,6 +208,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ kingdom.1randomprince.life | No | 0.4.59 |
 | ✅ knot.land | No | 0.4.59 |
 | ✅ koyu.space | No | 0.4.59 |
+| ❌ labs.ocbwoy3.dev | No | ??? |
 | ✅ lacunas.net | No | 0.4.59 |
 | ✅ lalasky.fun | No | 0.4.59 |
 | ✅ lamp.wtf | No | 0.4.52 |
@@ -339,12 +337,12 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ selfagency.net | No | 0.4.59 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-b298bfd |
 | ✅ shimeji.us-east.host.bsky.network | No | git-b298bfd |
+| ✅ simulant.online | No | 0.4.59 |
 | ✅ skeleton.rodeo | No | 0.4.59 |
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.59 |
 | ✅ sky.mattstrapp.net | No | 0.4.59 |
 | ❌ sky.tokimeki.blue | No | 0.4.59 |
-| ❌ sky01.ketto.ca | No | 0.4.59 |
 | ✅ skyblue.cc | No | 0.4.59 |
 | ✅ sns.limelee.xyz | No | 0.4.59 |
 | ✅ social.barrybach.com | No | 0.4.59 |
@@ -352,7 +350,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ social.benedetta.com.br | No | 0.4.59 |
 | ❌ social.blackhole.earth | No | 0.4.59 |
 | ✅ social.dnix.de | No | 0.4.59 |
-| ❌ social.furry.rest | No | ??? |
 | ✅ social.geoffreyconley.xyz | No | 0.4.59 |
 | ✅ social.michael-lloyd-lee.me.uk | No | 0.4.59 |
 | ✅ social.owo.cl | No | 0.4.59 |
@@ -364,18 +361,15 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ sunaba.io | No | 0.4.59 |
 | ✅ sxi.dk | No | 0.4.59 |
 | ✅ tbsky-dev.vasco-shot.com | No | 0.4.55 |
-| ❌ tbsky8.vasco-shot.com | No | 0.4.59 |
 | ✅ tebbutt.nz | No | 0.4.59 |
 | ✅ test-bsky.xsns.jp | No | 0.4.59 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ❌ test.shigepon.net | No | ??? |
 | ❌ tf2movies.org | No | ??? |
-| ❌ thelgbtq.org | No | 0.4.59 |
 | ✅ tildeclub.blue | No | 0.4.59 |
 | ✅ tokimeki.red | No | 0.4.59 |
 | ✅ trashcave.net | No | 0.4.59 |
 | ✅ trekologer.social | No | 0.4.59 |
-| ❌ troll.im | No | 0.4.59 |
 | ✅ troll.social | No | 0.4.59 |
 | ✅ tweethive.net | No | 0.4.59 |
 | ✅ uabsky.org | No | 0.4.59 |
@@ -391,7 +385,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ wallera.computer | No | 0.4.59 |
 | ✅ warmsushi.com | No | 0.4.59 |
 | ❌ wave.stg.waverly.app | No | ??? |
-| ❌ waverly.social | No | ??? |
 | ✅ wilford.industries | No | 0.4.59 |
 | ✅ woodear.us-west.host.bsky.network | No | git-bcefbdb |
 | ✅ wordsky.xyz | No | 0.4.59 |
@@ -399,6 +392,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ y-force.info | No | ??? |
 | ✅ yoshiki.burnworks.com | No | 0.4.59 |
 | ✅ yumeka.cc | No | 0.4.59 |
+| ✅ zaluka.xyz | No | 0.4.59 |
 | ✅ zazen.social | No | 0.4.59 |
 | ✅ zeah.online | No | 0.4.59 |
 | ✅ zio.blue | No | 0.4.59 |
@@ -407,9 +401,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**89** instances active  
+**88** instances active  
 **68** online  
-**21** offline
+**20** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -441,7 +435,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ mlb.blueskysportslabeler.xyz | ??? |
 | ✅ mod-br.bsky.app | git-85c8535 |
 | ✅ mod.armifi.com | 0.1.38 |
-| ✅ mod.bsky.app | git-85c8535 |
+| ✅ mod.bsky.app | git-600fea6 |
 | ✅ mod.laelaps.fyi | 0.1.38 |
 | ✅ mod.staging.bsky.dev | git-85c8535 |
 | ❌ nfl-labeler.sickos.club | ??? |
@@ -478,7 +472,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.skiddle.id | 0.1.38 |
 | ✅ ozone.skyfeed.dev | 0.1.38 |
 | ✅ ozone.suvpen.com | 0.1.38 |
-| ❌ ozone.thelgbtq.org | 0.1.38 |
 | ✅ ozone.timrombouts.be | 0.1.38 |
 | ✅ ozone.topicalsource.com | 0.1.3 |
 | ❌ ozone.triis.lol | 0.1.38 |
