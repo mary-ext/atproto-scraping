@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "11082612",
+		"cursor": "11105328",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -64,6 +64,7 @@
 		},
 		"https://blue-cosmos.social/": {
 			"did": "did:plc:olmiw2wkm3qoxinal7w5fbnl",
+			"errorAt": 1728177308747,
 			"version": "0.1.38"
 		},
 		"https://bsky-labeler.thenexus.today/": {
@@ -72,7 +73,7 @@
 		},
 		"https://demo-labeler.bsky.sh/": {
 			"did": "did:plc:m2gxxmtdgygsrommldrsggtw",
-			"errorAt": 1727917823022
+			"errorAt": 1728177308747
 		},
 		"https://envious-marcie-wcima-5a08e5e3.koyeb.app/": {
 			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
@@ -85,10 +86,6 @@
 		"https://fg-labeler.aesthr.com/": {
 			"did": "did:plc:vwuwoq5owjqrm7ryidlihe3o",
 			"errorAt": 1727399417742
-		},
-		"https://fg-labeler.selfawaresoup.com/": {
-			"did": "did:plc:mkcccydjiiaukejfogdhrikv",
-			"errorAt": 1726880815904
 		},
 		"https://howaboutyougeta.life/": {
 			"did": "did:plc:skibpmllbhxvbvwgtjxl3uao",
@@ -511,7 +508,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1728090557946
+			"errorAt": 1728177308747
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -764,11 +761,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://bsky.infocyb.org/": {
-			"errorAt": 1726880815904,
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
 		"https://bsky.j0.lol/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -979,7 +971,6 @@
 			"version": "0.4.59"
 		},
 		"https://disbursement.center/": {
-			"errorAt": 1728090557946,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1624,9 +1615,6 @@
 			"inviteCodeRequired": true,
 			"version": "git-b298bfd"
 		},
-		"https://purr.mrrp.lol/": {
-			"errorAt": 1726880815904
-		},
 		"https://quilt.com.tw/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1701,6 +1689,10 @@
 			"version": "0.4.59"
 		},
 		"https://skyblue.cc/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
+		"https://small.patatas.ca/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1911,6 +1903,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-05T01:09:14.513Z"
+		"cursor": "2024-10-06T01:15:05.059Z"
 	}
 }

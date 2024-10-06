@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-10-05T01:15:00.053Z[^1]
+Last updated: 2024-10-06T01:20:28.752Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**378** instances active  
-**346** online  
-**32** offline  
+**377** instances active  
+**348** online  
+**29** offline  
 **25** hosted by Bluesky  
-**353** hosted by third-parties
+**352** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -108,7 +108,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.giurgiu.io | No | 0.4.59 |
 | ✅ bsky.gsheps.net | No | 0.4.59 |
 | ✅ bsky.huimao.xyz | No | 0.4.59 |
-| ❌ bsky.infocyb.org | No | 0.4.59 |
 | ✅ bsky.j0.lol | No | 0.4.59 |
 | ✅ bsky.jltml.me | No | 0.4.59 |
 | ✅ bsky.juanlu.space | No | 0.4.59 |
@@ -161,7 +160,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ dados.social | No | 0.4.59 |
 | ✅ daemons.work | No | 0.4.47 |
 | ✅ danya.dev | No | 0.4.59 |
-| ❌ disbursement.center | No | 0.4.59 |
+| ✅ disbursement.center | No | 0.4.59 |
 | ✅ divy.zone | No | 0.4.59 |
 | ✅ dollpost.ing | No | 0.4.12 |
 | ✅ drakeno.de | No | 0.4.59 |
@@ -324,7 +323,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ porcini.us-east.host.bsky.network | No | git-b298bfd |
 | ✅ proto.sorcie.re | No | 0.4.59 |
 | ✅ puffball.us-east.host.bsky.network | No | git-b298bfd |
-| ❌ purr.mrrp.lol | No | ??? |
 | ✅ quilt.com.tw | No | 0.4.59 |
 | ✅ rainbowgirl.moe | No | 0.4.59 |
 | ✅ randir.link | No | 0.4.59 |
@@ -344,6 +342,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ sky.mattstrapp.net | No | 0.4.59 |
 | ❌ sky.tokimeki.blue | No | 0.4.59 |
 | ✅ skyblue.cc | No | 0.4.59 |
+| ✅ small.patatas.ca | No | 0.4.59 |
 | ✅ sns.limelee.xyz | No | 0.4.59 |
 | ✅ social.barrybach.com | No | 0.4.59 |
 | ✅ social.behnam.cn | No | 0.4.59 |
@@ -400,8 +399,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**89** instances active  
-**68** online  
+**88** instances active  
+**67** online  
 **21** offline
 
 <!-- labeler-start -->
@@ -411,13 +410,12 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ aimod.social | 0.1.38 |
 | ✅ automo-ozone.bunnys.ky | 0.1.38 |
 | ✅ baatl.mastod.one | 0.1.38 |
-| ✅ blue-cosmos.social | 0.1.38 |
+| ❌ blue-cosmos.social | 0.1.38 |
 | ✅ bsky-labeler.thenexus.today | 0.1.38 |
 | ❌ demo-labeler.bsky.sh | ??? |
 | ❌ envious-marcie-wcima-5a08e5e3.koyeb.app | ??? |
 | ✅ example.mastod.one | 0.1.38 |
 | ❌ fg-labeler.aesthr.com | ??? |
-| ❌ fg-labeler.selfawaresoup.com | ??? |
 | ✅ howaboutyougeta.life | 0.1.38 |
 | ✅ kiki-bouba.mozzius.dev | 0.1.38 |
 | ✅ kind-labeler.bryan.town | 0.1.38 |
