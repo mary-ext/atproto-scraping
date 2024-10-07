@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "11105328",
+		"cursor": "11129049",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -64,7 +64,6 @@
 		},
 		"https://blue-cosmos.social/": {
 			"did": "did:plc:olmiw2wkm3qoxinal7w5fbnl",
-			"errorAt": 1728177308747,
 			"version": "0.1.38"
 		},
 		"https://bsky-labeler.thenexus.today/": {
@@ -209,6 +208,7 @@
 		},
 		"https://ozone.coolvirus.download/": {
 			"did": "did:plc:hsen5ydbqy6fe7f6f3gdgmbc",
+			"errorAt": 1728263534691,
 			"version": "0.1.38"
 		},
 		"https://ozone.darkcarnival.gay/": {
@@ -262,6 +262,7 @@
 		},
 		"https://ozone.perfect-bra.in/": {
 			"did": "did:plc:chk262mwftsprs3dgzpijywo",
+			"errorAt": 1728263534691,
 			"version": "0.1.38"
 		},
 		"https://ozone.procycling.social/": {
@@ -294,6 +295,7 @@
 		},
 		"https://ozone.skiddle.id/": {
 			"did": "did:plc:d4qkzogjiqnn4uekdxh3pzda",
+			"errorAt": 1728263534691,
 			"version": "0.1.38"
 		},
 		"https://ozone.skyfeed.dev/": {
@@ -479,6 +481,7 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
+			"errorAt": 1728263534691,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -508,7 +511,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1728177308747
+			"errorAt": 1728263534691
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -551,6 +554,7 @@
 			"version": "0.4.59"
 		},
 		"https://blueball.fraudulent.link/": {
+			"errorAt": 1728263534691,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -641,6 +645,10 @@
 		"https://boletus.us-west.host.bsky.network/": {
 			"inviteCodeRequired": true,
 			"version": "git-b298bfd"
+		},
+		"https://botspopuli.at/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
 		},
 		"https://bousky.social/": {
 			"inviteCodeRequired": true,
@@ -1038,6 +1046,7 @@
 			"errorAt": 1727917823022
 		},
 		"https://gear.blue/": {
+			"errorAt": 1728263534691,
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
 		},
@@ -1070,6 +1079,7 @@
 			"version": "0.4.59"
 		},
 		"https://habitat-dev.tail07d32.ts.net/": {
+			"errorAt": 1728263534691,
 			"inviteCodeRequired": true,
 			"version": "0.4.53"
 		},
@@ -1128,6 +1138,9 @@
 		"https://ixcat.ovh/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
+		},
+		"https://japanwi.de/": {
+			"errorAt": 1728263534691
 		},
 		"https://jaysky.de/": {
 			"inviteCodeRequired": true,
@@ -1632,6 +1645,7 @@
 			"version": "0.4.59"
 		},
 		"https://rem.ocbwoy3.dev/": {
+			"errorAt": 1728263534691,
 			"inviteCodeRequired": true
 		},
 		"https://rofl.im/": {
@@ -1903,6 +1917,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-06T01:15:05.059Z"
+		"cursor": "2024-10-07T01:12:11.685Z"
 	}
 }
