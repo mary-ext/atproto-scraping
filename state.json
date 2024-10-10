@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "11176668",
+		"cursor": "11200307",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -49,6 +49,10 @@
 		"https://2.ripperoni.com/": {
 			"did": "did:plc:vs6psq72k2t6hdcxrpqj5p4p",
 			"version": "0.1.38"
+		},
+		"https://aeon.netwatch.dev/": {
+			"did": "did:plc:pagzrgpjlsfhxljg5rchn6ow",
+			"errorAt": 1728522584599
 		},
 		"https://aimod.social/": {
 			"did": "did:plc:bpkpvmwpd3nr2ry4btt55ack",
@@ -122,6 +126,10 @@
 			"did": "did:plc:l5xuejrcvyyqkusj4t5sqrpr",
 			"errorAt": 1727485777936
 		},
+		"https://labels.medsky.social/": {
+			"did": "did:plc:fmug4zegnl7lf6ljp7aokpeh",
+			"errorAt": 1728522584599
+		},
 		"https://lavka.zalupa.in.ua/": {
 			"did": "did:plc:z2i5ah5elywxdcr64i7xai3z",
 			"version": "0.1.1"
@@ -133,6 +141,10 @@
 		"https://marklabeler2.flicknow.xyz/": {
 			"did": "did:plc:ooo6s2wvv26zmpdzift5row3",
 			"errorAt": 1727917823022
+		},
+		"https://medsky.williancima.dev/": {
+			"did": "did:plc:fmug4zegnl7lf6ljp7aokpeh",
+			"errorAt": 1728522584599
 		},
 		"https://merke.maanebedotten.no/": {
 			"did": "did:plc:f2fnichooda36b4csfxgavn6",
@@ -208,6 +220,7 @@
 		},
 		"https://ozone.coolvirus.download/": {
 			"did": "did:plc:hsen5ydbqy6fe7f6f3gdgmbc",
+			"errorAt": 1728522584599,
 			"version": "0.1.38"
 		},
 		"https://ozone.darkcarnival.gay/": {
@@ -505,7 +518,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1728436183112
+			"errorAt": 1728522584599
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -548,6 +561,7 @@
 			"version": "0.4.59"
 		},
 		"https://blueball.fraudulent.link/": {
+			"errorAt": 1728522584599,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -651,11 +665,6 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
-		"https://bringyou.cc/": {
-			"errorAt": 1727147653353,
-			"inviteCodeRequired": true,
-			"version": "0.4.59"
-		},
 		"https://bs.aiforward.jp/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -743,6 +752,9 @@
 		"https://bsky.dead10ck.dev/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
+		},
+		"https://bsky.ejl.st/": {
+			"errorAt": 1728522584599
 		},
 		"https://bsky.gearlicious.one/": {
 			"inviteCodeRequired": true,
@@ -866,7 +878,7 @@
 		},
 		"https://bsky.runhello.com/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.47"
+			"version": null
 		},
 		"https://bsky.samulireijula.net/": {
 			"inviteCodeRequired": true,
@@ -988,6 +1000,10 @@
 			"inviteCodeRequired": true,
 			"version": "git-b298bfd"
 		},
+		"https://estyl.io/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://factorio.com.br/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1025,6 +1041,7 @@
 			"version": "0.4.59"
 		},
 		"https://galliumyttrium.ca/": {
+			"errorAt": 1728522584599,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1103,6 +1120,12 @@
 		"https://iame.li/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.47"
+		},
+		"https://id.estyl.io/": {
+			"errorAt": 1728522584599
+		},
+		"https://id.estylhq.com/": {
+			"errorAt": 1728522584599
 		},
 		"https://imadeitthefuckup.org/": {
 			"inviteCodeRequired": true,
@@ -1295,7 +1318,7 @@
 			"errorAt": 1727399417742
 		},
 		"https://pds-test.rjbasitali.com/": {
-			"errorAt": 1728349808294
+			"errorAt": 1728522584599
 		},
 		"https://pds-u131.vm.appdrag.net/": {
 			"errorAt": 1727745407811
@@ -1645,7 +1668,6 @@
 			"version": "0.4.59"
 		},
 		"https://rem.ocbwoy3.dev/": {
-			"errorAt": 1728436183112,
 			"inviteCodeRequired": true
 		},
 		"https://rofl.im/": {
@@ -1717,7 +1739,6 @@
 			"version": "0.4.59"
 		},
 		"https://social.blackhole.earth/": {
-			"errorAt": 1727312988027,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1783,9 +1804,6 @@
 		},
 		"https://test.shigepon.net/": {
 			"errorAt": 1727572536485
-		},
-		"https://tf2movies.org/": {
-			"errorAt": 1727147653353
 		},
 		"https://tildeclub.blue/": {
 			"inviteCodeRequired": true,
@@ -1908,6 +1926,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-09T01:09:37.099Z"
+		"cursor": "2024-10-10T01:09:37.144Z"
 	}
 }

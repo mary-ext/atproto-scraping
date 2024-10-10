@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-10-09T01:15:21.359Z[^1]
+Last updated: 2024-10-10T01:15:10.500Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**380** instances active  
-**343** online  
-**37** offline  
+**382** instances active  
+**344** online  
+**38** offline  
 **25** hosted by Bluesky  
-**355** hosted by third-parties
+**357** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -56,7 +56,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ blue-ocean.social | No | 0.4.59 |
 | ✅ blue.eldritch.gift | No | 0.4.47 |
 | ✅ blue.jbonomi.dev | No | 0.4.59 |
-| ✅ blueball.fraudulent.link | No | 0.4.59 |
+| ❌ blueball.fraudulent.link | No | 0.4.59 |
 | ✅ blueskeet.social | No | 0.4.59 |
 | ❌ bluesky-u131.vm.appdrag.net | No | ??? |
 | ✅ bluesky.adriansmares.ro | No | 0.4.59 |
@@ -82,7 +82,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ botspopuli.at | No | 0.4.59 |
 | ✅ bousky.social | No | 0.4.59 |
 | ✅ boymodelworld.com | No | 0.4.59 |
-| ❌ bringyou.cc | No | 0.4.59 |
 | ✅ bs.aiforward.jp | No | 0.4.59 |
 | ✅ bs.cmeu.us | No | 0.4.59 |
 | ✅ bs.idiocy.org | No | 0.4.59 |
@@ -105,6 +104,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.chagge.com | No | 0.4.59 |
 | ✅ bsky.day | No | 0.4.59 |
 | ✅ bsky.dead10ck.dev | No | 0.4.59 |
+| ❌ bsky.ejl.st | No | ??? |
 | ✅ bsky.gearlicious.one | No | 0.4.59 |
 | ✅ bsky.giurgiu.io | No | 0.4.59 |
 | ✅ bsky.gsheps.net | No | 0.4.59 |
@@ -135,7 +135,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.qilin.moe | No | 0.4.59 |
 | ✅ bsky.quicstream.com | No | 0.4.55 |
 | ✅ bsky.ranranhome.info | No | 0.4.59 |
-| ✅ bsky.runhello.com | No | 0.4.47 |
+| ✅ bsky.runhello.com | No | N/A |
 | ✅ bsky.samulireijula.net | No | 0.4.59 |
 | ✅ bsky.sneezey.uk | No | 0.4.59 |
 | ✅ bsky.taila5061.ts.net | No | 0.4.59 |
@@ -166,6 +166,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ drakeno.de | No | 0.4.59 |
 | ✅ edwz.com.br | No | 0.4.59 |
 | ✅ enoki.us-east.host.bsky.network | No | git-b298bfd |
+| ✅ estyl.io | No | 0.4.59 |
 | ✅ factorio.com.br | No | 0.4.59 |
 | ✅ fastani.me | No | 0.4.59 |
 | ✅ felipe.in | No | 0.4.59 |
@@ -175,7 +176,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ftgub.com | No | 0.4.59 |
 | ✅ fttp.cc | Yes | 0.4.59 |
 | ✅ furry.rest | No | 0.4.59 |
-| ✅ galliumyttrium.ca | No | 0.4.59 |
+| ❌ galliumyttrium.ca | No | 0.4.59 |
 | ❌ gamegank.net | No | ??? |
 | ❌ gear.blue | No | 0.4.55 |
 | ✅ genx.xsns.jp | No | 0.4.59 |
@@ -195,6 +196,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ hooray.social | No | 0.4.59 |
 | ✅ hydnum.us-west.host.bsky.network | No | git-b298bfd |
 | ✅ iame.li | No | 0.4.47 |
+| ❌ id.estyl.io | No | ??? |
+| ❌ id.estylhq.com | No | ??? |
 | ✅ imadeitthefuckup.org | No | 0.4.59 |
 | ✅ inkcap.us-east.host.bsky.network | No | git-b298bfd |
 | ✅ internect.ing | No | 0.4.59 |
@@ -332,7 +335,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ rainbowgirl.moe | No | 0.4.59 |
 | ✅ randir.link | No | 0.4.59 |
 | ✅ redocean.one | No | 0.4.59 |
-| ❌ rem.ocbwoy3.dev | No | ??? |
+| ✅ rem.ocbwoy3.dev | No | ??? |
 | ✅ rofl.im | No | 0.4.59 |
 | ✅ rows.io | No | 0.4.59 |
 | ✅ rulestheworld.co.uk | No | 0.4.55 |
@@ -350,7 +353,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ social.barrybach.com | No | 0.4.59 |
 | ✅ social.behnam.cn | No | 0.4.59 |
 | ✅ social.benedetta.com.br | No | 0.4.59 |
-| ❌ social.blackhole.earth | No | 0.4.59 |
+| ✅ social.blackhole.earth | No | 0.4.59 |
 | ✅ social.dnix.de | No | 0.4.59 |
 | ✅ social.geoffreyconley.xyz | No | 0.4.59 |
 | ✅ social.michael-lloyd-lee.me.uk | No | 0.4.59 |
@@ -367,7 +370,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ test-bsky.xsns.jp | No | 0.4.59 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
 | ❌ test.shigepon.net | No | ??? |
-| ❌ tf2movies.org | No | ??? |
 | ✅ tildeclub.blue | No | 0.4.59 |
 | ✅ tokimeki.red | No | 0.4.59 |
 | ✅ trashcave.net | No | 0.4.59 |
@@ -402,14 +404,15 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**86** instances active  
-**66** online  
-**20** offline
+**89** instances active  
+**65** online  
+**24** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
 | --- | --- |
 | ✅ 2.ripperoni.com | 0.1.38 |
+| ❌ aeon.netwatch.dev | ??? |
 | ✅ aimod.social | 0.1.38 |
 | ✅ automo-ozone.bunnys.ky | 0.1.38 |
 | ✅ baatl.mastod.one | 0.1.38 |
@@ -428,9 +431,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ labeler.williancima.com | ??? |
 | ✅ labeling.newsdetective.org | 0.1.38 |
 | ❌ labels.institucionalsites.com.br | ??? |
+| ❌ labels.medsky.social | ??? |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ lzone.girlfailure.zone | 0.1.38 |
 | ❌ marklabeler2.flicknow.xyz | ??? |
+| ❌ medsky.williancima.dev | ??? |
 | ✅ merke.maanebedotten.no | 0.1.38 |
 | ❌ mimonelu.net | ??? |
 | ❌ mlb.blueskysportslabeler.xyz | ??? |
@@ -449,7 +454,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.bunnynabbit.com | 0.1.38 |
 | ✅ ozone.clacks.social | 0.1.38 |
 | ✅ ozone.coolify.nsbx.dev | 0.1.38 |
-| ✅ ozone.coolvirus.download | 0.1.38 |
+| ❌ ozone.coolvirus.download | 0.1.38 |
 | ✅ ozone.darkcarnival.gay | 0.1.38 |
 | ✅ ozone.department7.org | 0.1.38 |
 | ✅ ozone.flatlander.social | 0.1.38 |
