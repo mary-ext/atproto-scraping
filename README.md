@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-10-13T01:20:26.161Z[^1]
+Last updated: 2024-10-14T01:17:29.616Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Personal data servers
 
-**381** instances active  
+**383** instances active  
 **347** online  
-**34** offline  
+**36** offline  
 **25** hosted by Bluesky  
-**356** hosted by third-parties
+**358** hosted by third-parties
 
 <!-- pds-start -->
 | PDS | Open? | Version |
@@ -38,7 +38,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.arles.us | No | 0.4.59 |
 | ✅ at.clavis.info | No | 0.4.59 |
-| ✅ at.dingdongdata.com | No | 0.4.59 |
+| ❌ at.dingdongdata.com | No | 0.4.59 |
 | ✅ at.hwsc.link | No | 0.4.59 |
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
@@ -93,7 +93,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.air11.social | No | 0.4.59 |
 | ✅ bsky.alyx.pink | No | 0.4.59 |
 | ✅ bsky.baronvonpaddington.com | No | 0.4.59 |
-| ✅ bsky.basil.quest | No | 0.4.59 |
+| ❌ bsky.basil.quest | No | 0.4.59 |
 | ✅ bsky.bigboy.us | No | 0.4.59 |
 | ❌ bsky.bubblesxenial.it | No | ??? |
 | ✅ bsky.buldy.eu | No | 0.4.59 |
@@ -116,6 +116,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ bsky.kevoun.com | No | 0.4.59 |
 | ✅ bsky.kit-a.net | No | 0.4.59 |
 | ✅ bsky.kretschmann.social | No | 0.4.55 |
+| ❌ bsky.lugiaxetomxv.net | No | ??? |
 | ✅ bsky.mabataki.moe | No | 0.4.52 |
 | ✅ bsky.mcphail.uk | No | 0.4.59 |
 | ✅ bsky.mcr.gb.net | No | 0.4.59 |
@@ -183,7 +184,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ gear.blue | No | 0.4.55 |
 | ✅ genx.xsns.jp | No | 0.4.59 |
 | ✅ gesetz-bsky.world | Yes | 0.4.59 |
-| ❌ gfnc.ddns.net | No | 0.4.59 |
+| ✅ gfnc.ddns.net | No | 0.4.59 |
 | ✅ girl.technology | No | 0.4.59 |
 | ✅ goeo.lol | No | 0.4.59 |
 | ✅ gonta.net | No | 0.4.59 |
@@ -260,7 +261,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ pds.c-stellar.net | No | 0.4.59 |
 | ✅ pds.cacheblasters.com | No | 0.4.59 |
 | ✅ pds.caruanafamily.net | No | 0.4.59 |
-| ✅ pds.cauda.cloud | No | 0.4.55 |
+| ✅ pds.cauda.cloud | No | 0.4.59 |
 | ✅ pds.crys.uno | No | 0.4.59 |
 | ✅ pds.danni.id | No | 0.4.59 |
 | ✅ pds.dholms.xyz | No | 0.4.59 |
@@ -374,6 +375,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ test.shigepon.net | No | ??? |
 | ✅ tildeclub.blue | No | 0.4.59 |
 | ✅ tokimeki.red | No | 0.4.59 |
+| ✅ tpj-blue.xyz | No | 0.4.59 |
 | ✅ trashcave.net | No | 0.4.59 |
 | ✅ trekologer.social | No | 0.4.59 |
 | ✅ troll.social | No | 0.4.59 |
@@ -403,9 +405,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**84** instances active  
+**85** instances active  
 **67** online  
-**17** offline
+**18** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -447,7 +449,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.anon5r.com | 0.1.42 |
 | ✅ ozone.asukafield.xyz | 0.1.38 |
 | ✅ ozone.birb.house | 0.1.38 |
-| ✅ ozone.bka.li | 0.1.38 |
+| ❌ ozone.bka.li | 0.1.38 |
 | ✅ ozone.bossett.social | 0.1.38 |
 | ✅ ozone.bunnynabbit.com | 0.1.38 |
 | ✅ ozone.clacks.social | 0.1.38 |
@@ -458,6 +460,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ ozone.flatlander.social | 0.1.38 |
 | ✅ ozone.fran.pw | 0.1.38 |
 | ✅ ozone.friend.town | 0.1.38 |
+| ✅ ozone.heartade.dev | 0.1.38 |
 | ❌ ozone.hellthread.pro | 0.1.11 |
 | ✅ ozone.iftas.dev | 0.1.38 |
 | ❌ ozone.lio.systems | 0.1.33 |

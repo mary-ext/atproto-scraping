@@ -1,6 +1,6 @@
 {
 	"firehose": {
-		"cursor": "11262095",
+		"cursor": "11274937",
 		"didWebs": {
 			"did:web:blockenheimer.click": {
 				"hash": "gQPNFy0wcH5nbNb4sY--OizNE10dCpjD4mKrZjFeUiI",
@@ -196,6 +196,7 @@
 		},
 		"https://ozone.bka.li/": {
 			"did": "did:plc:bqcfe3frnfpte7udjaojhddt",
+			"errorAt": 1728868330602,
 			"version": "0.1.38"
 		},
 		"https://ozone.bossett.social/": {
@@ -236,6 +237,10 @@
 		},
 		"https://ozone.friend.town/": {
 			"did": "did:plc:e2pq4mw6ivyle3lavxptuh56",
+			"version": "0.1.38"
+		},
+		"https://ozone.heartade.dev/": {
+			"did": "did:plc:npns6hnu6v47oatctk4ruxv2",
 			"version": "0.1.38"
 		},
 		"https://ozone.hellthread.pro/": {
@@ -466,6 +471,7 @@
 			"version": "0.4.59"
 		},
 		"https://at.dingdongdata.com/": {
+			"errorAt": 1728868330602,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -495,7 +501,7 @@
 			"version": "0.4.59"
 		},
 		"https://atproto.brid.gy/": {
-			"errorAt": 1728782092826
+			"errorAt": 1728868330602
 		},
 		"https://b.yufushiro.dev/": {
 			"inviteCodeRequired": true,
@@ -686,6 +692,7 @@
 			"version": "0.4.59"
 		},
 		"https://bsky.basil.quest/": {
+			"errorAt": 1728868330602,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -775,6 +782,9 @@
 		"https://bsky.kretschmann.social/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.55"
+		},
+		"https://bsky.lugiaxetomxv.net/": {
+			"errorAt": 1728868330602
 		},
 		"https://bsky.mabataki.moe/": {
 			"inviteCodeRequired": true,
@@ -1048,7 +1058,6 @@
 			"version": "0.4.59"
 		},
 		"https://gfnc.ddns.net/": {
-			"errorAt": 1728782092826,
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
@@ -1352,7 +1361,7 @@
 		},
 		"https://pds.cauda.cloud/": {
 			"inviteCodeRequired": true,
-			"version": "0.4.55"
+			"version": "0.4.59"
 		},
 		"https://pds.crys.uno/": {
 			"inviteCodeRequired": true,
@@ -1805,6 +1814,10 @@
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
 		},
+		"https://tpj-blue.xyz/": {
+			"inviteCodeRequired": true,
+			"version": "0.4.59"
+		},
 		"https://trashcave.net/": {
 			"inviteCodeRequired": true,
 			"version": "0.4.59"
@@ -1908,6 +1921,6 @@
 		}
 	},
 	"plc": {
-		"cursor": "2024-10-13T01:14:46.538Z"
+		"cursor": "2024-10-14T01:12:07.565Z"
 	}
 }
