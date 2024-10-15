@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2024-10-14T01:17:29.616Z[^1]
+Last updated: 2024-10-15T01:16:29.537Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -10,8 +10,8 @@ Instances that have not been active for more than 7 days gets dropped off from t
 ## Personal data servers
 
 **383** instances active  
-**347** online  
-**36** offline  
+**346** online  
+**37** offline  
 **25** hosted by Bluesky  
 **358** hosted by third-parties
 
@@ -38,7 +38,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ at-pds.tekat.my.id | No | 0.4.38 |
 | ✅ at.arles.us | No | 0.4.59 |
 | ✅ at.clavis.info | No | 0.4.59 |
-| ❌ at.dingdongdata.com | No | 0.4.59 |
+| ✅ at.dingdongdata.com | No | 0.4.59 |
 | ✅ at.hwsc.link | No | 0.4.59 |
 | ✅ at.kizaing.ca | No | 0.4.59 |
 | ✅ at.yuntan.tech | No | 0.4.59 |
@@ -83,13 +83,13 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ boymodelworld.com | No | 0.4.59 |
 | ✅ bs.aiforward.jp | No | 0.4.59 |
 | ✅ bs.cmeu.us | No | 0.4.59 |
-| ✅ bs.idiocy.org | No | 0.4.59 |
+| ❌ bs.idiocy.org | No | 0.4.59 |
 | ✅ bs.kelbie.scot | No | 0.4.59 |
 | ✅ bs.siren.jp | No | 0.4.59 |
-| ✅ bsk.ryuka-lucas.net | No | 0.4.32 |
+| ✅ bsk.ryuka-lucas.net | No | 0.4.59 |
 | ❌ bsky-pds.h3z.jp | No | 0.4.31 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.59 |
-| ✅ bsky.aglesia.space | No | 0.4.59 |
+| ❌ bsky.aglesia.space | No | 0.4.59 |
 | ✅ bsky.air11.social | No | 0.4.59 |
 | ✅ bsky.alyx.pink | No | 0.4.59 |
 | ✅ bsky.baronvonpaddington.com | No | 0.4.59 |
@@ -105,6 +105,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ❌ bsky.ejl.st | No | ??? |
 | ✅ bsky.gearlicious.one | No | 0.4.59 |
 | ❌ bsky.giurgiu.io | No | 0.4.59 |
+| ✅ bsky.gravitaz.co.uk | No | 0.4.59 |
 | ✅ bsky.gsheps.net | No | 0.4.59 |
 | ✅ bsky.huimao.xyz | No | 0.4.59 |
 | ✅ bsky.j0.lol | No | 0.4.59 |
@@ -339,7 +340,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ rem.ocbwoy3.dev | No | ??? |
 | ✅ rofl.im | No | 0.4.59 |
 | ✅ rows.io | No | 0.4.59 |
-| ✅ rulestheworld.co.uk | No | 0.4.59 |
+| ❌ rulestheworld.co.uk | No | 0.4.59 |
 | ✅ russula.us-west.host.bsky.network | No | git-b298bfd |
 | ✅ salty.house | No | 0.4.59 |
 | ✅ shiitake.us-east.host.bsky.network | No | git-b298bfd |
@@ -351,7 +352,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ sky.kghorvath.com | No | 0.4.7 |
 | ✅ sky.lalafell.org | No | 0.4.59 |
 | ✅ sky.mattstrapp.net | No | 0.4.59 |
-| ❌ skyblue.cc | No | 0.4.59 |
+| ✅ skyblue.cc | No | 0.4.59 |
 | ✅ small.patatas.ca | No | 0.4.59 |
 | ✅ sns.limelee.xyz | No | 0.4.59 |
 | ✅ social.barrybach.com | No | 0.4.59 |
@@ -372,7 +373,6 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ tebbutt.nz | No | 0.4.59 |
 | ❌ test-bsky.xsns.jp | No | 0.4.59 |
 | ✅ test.dholms.xyz | No | 0.4.0-beta |
-| ❌ test.shigepon.net | No | ??? |
 | ✅ tildeclub.blue | No | 0.4.59 |
 | ✅ tokimeki.red | No | 0.4.59 |
 | ✅ tpj-blue.xyz | No | 0.4.59 |
@@ -380,7 +380,7 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ trekologer.social | No | 0.4.59 |
 | ✅ troll.social | No | 0.4.59 |
 | ✅ tweethive.net | No | 0.4.59 |
-| ✅ uabsky.org | No | 0.4.59 |
+| ❌ uabsky.org | No | 0.4.59 |
 | ❌ unconsensus.com | No | 0.4.59 |
 | ✅ userdir.de | No | 0.4.59 |
 | ✅ v-laboratory.com | No | 0.4.59 |
@@ -405,9 +405,9 @@ Instances that have not been active for more than 7 days gets dropped off from t
 
 ## Labelers
 
-**85** instances active  
-**67** online  
-**18** offline
+**88** instances active  
+**68** online  
+**20** offline
 
 <!-- labeler-start -->
 | Labeler | Version |
@@ -429,21 +429,24 @@ Instances that have not been active for more than 7 days gets dropped off from t
 | ✅ kind-labeler.bryan.town | 0.1.38 |
 | ✅ labeler.dholms.xyz | 0.1.38 |
 | ✅ labeler.divy.zone | 0.1.38 |
+| ❌ labeler.ocbwoy3.dev | ??? |
 | ✅ labeler.tokimeki.blue | 0.0.17-next.1 |
 | ✅ labeling.newsdetective.org | 0.1.38 |
 | ❌ labels.medsky.social | ??? |
+| ❌ labels.williancima.dev | ??? |
 | ✅ lavka.zalupa.in.ua | 0.1.1 |
 | ✅ lzone.girlfailure.zone | 0.1.38 |
 | ❌ marklabeler2.flicknow.xyz | ??? |
 | ❌ medsky.williancima.dev | ??? |
 | ✅ merke.maanebedotten.no | 0.1.38 |
 | ❌ mimonelu.net | ??? |
-| ✅ mod-br.bsky.app | git-85c8535 |
-| ✅ mod-de.bsky.app | git-85c8535 |
+| ✅ mod-br.bsky.app | git-60df3fc |
+| ✅ mod-de.bsky.app | git-60df3fc |
 | ✅ mod.armifi.com | 0.1.38 |
-| ✅ mod.bsky.app | git-600fea6 |
+| ✅ mod.blackskyweb.xyz | 0.1.38 |
+| ✅ mod.bsky.app | git-60df3fc |
 | ✅ mod.laelaps.fyi | 0.1.38 |
-| ✅ mod.staging.bsky.dev | git-85c8535 |
+| ✅ mod.staging.bsky.dev | git-60df3fc |
 | ❌ mod.zio.blue | ??? |
 | ❌ nfl-labeler.sickos.club | ??? |
 | ✅ ozone.anon5r.com | 0.1.42 |
