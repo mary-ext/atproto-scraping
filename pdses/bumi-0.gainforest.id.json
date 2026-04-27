@@ -1,8 +1,8 @@
 {
 	"url": "https://bumi-0.gainforest.id/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1774571350018,
-	"errorAt": 1776472931074
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://biru.chrs.to/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776990996363,
-	"errorAt": null
+	"errorAt": 1777250875376
 }

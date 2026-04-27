@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.courtx.ai/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776299762045,
-	"errorAt": null
+	"errorAt": 1777250875376
 }

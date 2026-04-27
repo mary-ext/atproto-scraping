@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.rnmeow.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776040409244,
-	"errorAt": 1777077798560
+	"errorAt": null
 }
