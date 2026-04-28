@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.pawsec.net/",
 	"status": "online",
-	"version": "tranquil 0.4.7",
+	"version": "tranquil 0.5.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775780996000,
 	"errorAt": null

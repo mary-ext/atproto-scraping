@@ -1,9 +1,9 @@
 {
 	"did": "did:web:futureverse.futureverse.top",
-	"status": "online",
+	"status": "offline",
 	"hash": "7MCZmvOLa2ofVN1VbCvA38eaikRqTYHnF2dHjdNGrKM",
 	"pds": "https://futureverse.top/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777336761419
 }

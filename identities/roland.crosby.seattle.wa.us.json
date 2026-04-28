@@ -1,9 +1,9 @@
 {
 	"did": "did:web:roland.crosby.seattle.wa.us",
-	"status": "online",
+	"status": "offline",
 	"hash": "729E1Vy0ROZ-hT4rEBvtgkQYQgthq2kpWcCX2FcygVA",
 	"pds": "https://pds.rolandcrosby.net/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777336761419
 }

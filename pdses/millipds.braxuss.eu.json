@@ -1,7 +1,7 @@
 {
 	"url": "https://millipds.braxuss.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": "millipds v0.0.5.dev17+g8f89a01e7",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777337426771
 }

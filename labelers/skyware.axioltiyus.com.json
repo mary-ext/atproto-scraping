@@ -1,8 +1,8 @@
 {
 	"url": "https://skyware.axioltiyus.com/",
 	"did": "did:plc:zqd356xnvxea3v4wmrg7emwa",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.109",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777337426771
 }
