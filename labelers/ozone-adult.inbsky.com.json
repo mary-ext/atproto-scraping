@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone-adult.inbsky.com/",
 	"did": "did:plc:btyteraqypld3yjd2yu5eiyt",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777423871288
 }

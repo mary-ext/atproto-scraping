@@ -1,7 +1,8 @@
 {
 	"url": "https://tools.mozzius.dev/",
 	"did": "did:plc:6ebfnuunfngxfw3rth3ewojw",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.2.0",
 	"firstSeenAt": 1776472263391,
-	"errorAt": 1776472931074
+	"errorAt": null
 }

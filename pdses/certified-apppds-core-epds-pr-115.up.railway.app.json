@@ -1,8 +1,8 @@
 {
 	"url": "https://certified-apppds-core-epds-pr-115.up.railway.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.211",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1777336761419,
-	"errorAt": null
+	"errorAt": 1777423871288
 }
