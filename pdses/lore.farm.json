@@ -1,7 +1,7 @@
 {
 	"url": "https://lore.farm/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777423871288
+	"errorAt": null
 }

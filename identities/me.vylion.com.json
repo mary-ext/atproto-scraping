@@ -1,0 +1,9 @@
+{
+	"did": "did:web:me.vylion.com",
+	"status": "online",
+	"firstSeenAt": 1777509625268,
+	"errorAt": null,
+	"hash": "VjhnP1xx6mC9sgoigH-ZBEQFml80oJm1zikyNmSon60",
+	"pds": "https://pds.vylion.com/",
+	"labeler": null
+}

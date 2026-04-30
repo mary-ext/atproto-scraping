@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hugeblank.dev",
-	"status": "online",
+	"status": "offline",
 	"hash": "ohLfPdEwSglI27Yj1QInFwMdiI3SHAqmhEecDeEk3b0",
 	"pds": "https://pds.atproto.hugeblank.dev/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777509625268
 }

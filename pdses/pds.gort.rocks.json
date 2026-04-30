@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.gort.rocks/",
-	"status": "offline",
+	"status": "online",
 	"version": "pegasus f5dd05e",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775694335991,
-	"errorAt": 1777423871288
+	"errorAt": null
 }

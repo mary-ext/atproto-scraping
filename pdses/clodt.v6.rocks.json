@@ -1,8 +1,8 @@
 {
 	"url": "https://clodt.v6.rocks/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1776905313576
+	"errorAt": null
 }

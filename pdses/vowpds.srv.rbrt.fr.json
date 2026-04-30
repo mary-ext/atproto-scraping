@@ -1,8 +1,8 @@
 {
 	"url": "https://vowpds.srv.rbrt.fr/",
-	"status": "offline",
+	"status": "online",
 	"version": "vow v0.9.1-0.20260409072121-50509c110120+dirty",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777077798560
+	"errorAt": null
 }

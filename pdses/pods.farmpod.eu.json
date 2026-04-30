@@ -1,8 +1,8 @@
 {
 	"url": "https://pods.farmpod.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": "custorium v0.5.0-rev-a73b461",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777510273600
 }
