@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.polyfaustia.com/",
 	"did": "did:plc:okggkjy46yor2utxfys5vbny",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777337426771
+	"errorAt": null
 }
