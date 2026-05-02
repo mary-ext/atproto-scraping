@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tei.su",
-	"status": "online",
+	"status": "offline",
 	"hash": "NCqLGvGLYiLIZOggoK8A7r9Xmt04uRDVi3Pj9IkUOa0",
 	"pds": "https://pds.stupid.fish/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777682344800
 }

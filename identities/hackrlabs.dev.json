@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hackrlabs.dev",
 	"status": "online",
-	"firstSeenAt": 1777596151162,
-	"errorAt": null,
 	"hash": "hLjvO8aLK2lknZKllWxY6GHnQLEDOqMDB8VI7XaiwUc",
 	"pds": "https://hackrlabs.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1777596151162,
+	"errorAt": null
 }

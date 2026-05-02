@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.plural.host/",
 	"did": "did:plc:g6c6zaif2tjvdlmkkibj2avz",
-	"status": "offline",
+	"status": "online",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777596809294
+	"errorAt": null
 }
