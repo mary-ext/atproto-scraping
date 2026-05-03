@@ -1,7 +1,7 @@
 {
 	"url": "https://auth.stai.cool/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1776040409244,
-	"errorAt": 1777682976452
+	"errorAt": null
 }

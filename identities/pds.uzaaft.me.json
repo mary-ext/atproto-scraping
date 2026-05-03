@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds.uzaaft.me",
 	"status": "online",
-	"firstSeenAt": 1777682344800,
-	"errorAt": null,
 	"hash": "2Yy4t5_VlqVeNQStrKwfn_TYXdhhaA79-MHWn4xEWFI",
 	"pds": "https://pds.uzaaft.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1777682344800,
+	"errorAt": null
 }

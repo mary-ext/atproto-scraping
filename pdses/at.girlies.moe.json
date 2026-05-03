@@ -1,8 +1,8 @@
 {
 	"url": "https://at.girlies.moe/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.4.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774139250670,
-	"errorAt": null
+	"errorAt": 1777769435518
 }

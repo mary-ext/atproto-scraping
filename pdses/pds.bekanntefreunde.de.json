@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bekanntefreunde.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.4.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776645240481,
-	"errorAt": null
+	"errorAt": 1777769435518
 }

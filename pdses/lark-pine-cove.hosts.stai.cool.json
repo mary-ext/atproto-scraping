@@ -1,8 +1,8 @@
 {
 	"url": "https://lark-pine-cove.hosts.stai.cool/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.4.7",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775349077192,
-	"errorAt": 1777682976452
+	"errorAt": null
 }

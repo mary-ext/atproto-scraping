@@ -1,8 +1,8 @@
 {
 	"url": "https://fern-oak-harbor.hosts.stai.cool/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.4.7",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1774830636487,
-	"errorAt": 1777682976452
+	"errorAt": null
 }

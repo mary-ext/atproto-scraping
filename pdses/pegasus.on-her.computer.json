@@ -1,8 +1,8 @@
 {
 	"url": "https://pegasus.on-her.computer/",
-	"status": "online",
+	"status": "offline",
 	"version": "pegasus e1813c2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1777769435518
 }
