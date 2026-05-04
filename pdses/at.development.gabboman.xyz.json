@@ -1,8 +1,8 @@
 {
 	"url": "https://at.development.gabboman.xyz/",
-	"status": "offline",
-	"version": "0.4.208",
+	"status": "online",
+	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775262455079,
-	"errorAt": 1776645894842
+	"errorAt": null
 }
