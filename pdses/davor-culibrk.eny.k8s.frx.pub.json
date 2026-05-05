@@ -1,8 +1,8 @@
 {
 	"url": "https://davor-culibrk.eny.k8s.frx.pub/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773966389422,
-	"errorAt": null
+	"errorAt": 1777942109027
 }

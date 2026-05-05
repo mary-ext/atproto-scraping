@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sup.passwor.de",
+	"status": "online",
+	"firstSeenAt": 1777941470851,
+	"errorAt": null,
+	"hash": "XtNz0c1tWMwhdvjkGrPM6k7ELavS9izDKJLSxQypung",
+	"pds": "https://blue.passwor.de/",
+	"labeler": null
+}

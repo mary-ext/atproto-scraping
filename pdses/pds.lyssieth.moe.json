@@ -2,7 +2,7 @@
 	"url": "https://pds.lyssieth.moe/",
 	"status": "online",
 	"version": "tranquil 0.6.0",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1777855213099,
 	"errorAt": null
 }

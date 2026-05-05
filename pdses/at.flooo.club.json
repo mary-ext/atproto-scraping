@@ -1,8 +1,8 @@
 {
 	"url": "https://at.flooo.club/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.138",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773914454970,
-	"errorAt": 1777855815920
+	"errorAt": null
 }

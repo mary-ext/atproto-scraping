@@ -2,7 +2,7 @@
 	"url": "https://gems.xyz/",
 	"status": "online",
 	"version": "0.4.219",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

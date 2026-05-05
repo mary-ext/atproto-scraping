@@ -1,6 +1,7 @@
 {
 	"url": "https://pds.latha.org/",
 	"status": "online",
+	"version": "cirrus 0.14.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1777509625268,
 	"errorAt": null
