@@ -1,7 +1,7 @@
 {
 	"url": "https://sad.ovh/",
-	"status": "offline",
+	"status": "online",
 	"version": "millipds v0.0.6.dev24+gfaf0c36ba",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777855815920
+	"errorAt": null
 }

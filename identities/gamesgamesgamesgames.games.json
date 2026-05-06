@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gamesgamesgamesgames.games",
 	"status": "online",
-	"firstSeenAt": 1777941470851,
-	"errorAt": null,
 	"hash": "rYLT3KfFt1iRQk-DsFFiKN4g0Vj1nr5rT4A5j7JbfJE",
 	"pds": "https://pds.gamesgamesgamesgames.games/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1777941470851,
+	"errorAt": null
 }

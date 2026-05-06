@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.hummird.online/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1777942109027
+	"errorAt": null
 }

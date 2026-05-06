@@ -1,8 +1,8 @@
 {
 	"url": "https://gracious-receipt-h7qei232jkru5w5ofxrt.wbeforenext.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.221",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778028492383
 }

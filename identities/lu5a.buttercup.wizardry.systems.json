@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lu5a.buttercup.wizardry.systems",
-	"status": "online",
+	"status": "offline",
 	"hash": "K0EDEm0AtQ0aIDiEgCGZtmGP4ctqyl0_uEEGxh4EEtA",
 	"pds": "https://buttercup.wizardry.systems/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778027826382
 }

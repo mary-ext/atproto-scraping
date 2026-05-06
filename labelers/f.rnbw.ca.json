@@ -1,8 +1,8 @@
 {
 	"url": "https://f.rnbw.ca/",
 	"did": "did:plc:pavhkxlxvwdr22ucmwof2zyj",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778028492383
 }
