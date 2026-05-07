@@ -1,8 +1,8 @@
 {
 	"url": "https://clubs.danto.rocks/",
 	"did": "did:plc:mke2awigzwxblidtkjvg5l6d",
-	"status": "offline",
+	"status": "online",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1778028492383
+	"errorAt": null
 }

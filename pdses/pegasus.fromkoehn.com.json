@@ -1,8 +1,8 @@
 {
 	"url": "https://pegasus.fromkoehn.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "pegasus 8ec718a",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777855213099,
-	"errorAt": null
+	"errorAt": 1778115057637
 }

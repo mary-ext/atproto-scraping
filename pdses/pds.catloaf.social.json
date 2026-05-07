@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.catloaf.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.4.7",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775176168703,
-	"errorAt": null
+	"errorAt": 1778115057637
 }

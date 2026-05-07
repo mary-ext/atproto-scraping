@@ -1,8 +1,8 @@
 {
 	"url": "https://dataprolet.de/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776558847387,
-	"errorAt": 1778028492383
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://iris.oyster.cafe/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1776126924470,
-	"errorAt": 1778028492383
+	"errorAt": null
 }
