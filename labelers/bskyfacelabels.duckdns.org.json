@@ -1,8 +1,8 @@
 {
 	"url": "https://bskyfacelabels.duckdns.org/",
 	"did": "did:plc:adzprud3ccqhgldhortugwar",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778201461226
 }

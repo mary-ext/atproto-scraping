@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.5jiji.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778027826382,
-	"errorAt": null
+	"errorAt": 1778201461226
 }
