@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.xero.systems/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.3.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778287884311
 }

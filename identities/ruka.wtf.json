@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ruka.wtf",
-	"status": "online",
+	"status": "offline",
 	"hash": "INnLhVuiZijXgjPi0gRcOV4eApFqo0ugGGH1v1DBCYA",
 	"pds": "https://pds.xyz/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778287240363
 }

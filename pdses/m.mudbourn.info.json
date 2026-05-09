@@ -1,8 +1,8 @@
 {
 	"url": "https://m.mudbourn.info/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.182",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778200803872,
-	"errorAt": null
+	"errorAt": 1778287884311
 }
