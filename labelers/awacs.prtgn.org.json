@@ -1,8 +1,8 @@
 {
 	"url": "https://awacs.prtgn.org/",
 	"did": "did:plc:k2zhsrxcku6bdsppymu2gmmo",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778374347582
 }

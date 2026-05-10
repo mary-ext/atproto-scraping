@@ -1,7 +1,7 @@
 {
 	"url": "https://try.kyu.re/",
 	"status": "online",
-	"version": "tranquil 0.4.7",
+	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775521855696,
 	"errorAt": null
