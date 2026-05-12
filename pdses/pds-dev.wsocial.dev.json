@@ -2,7 +2,7 @@
 	"url": "https://pds-dev.wsocial.dev/",
 	"status": "online",
 	"version": "0.4.206",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }
