@@ -1,8 +1,8 @@
 {
 	"url": "https://built.blue/",
 	"did": "did:plc:dsjk7d74slgc2xyrhehf2sxk",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778633640278
 }

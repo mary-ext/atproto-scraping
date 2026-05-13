@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.kevinsiraki.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1776817899805,
-	"errorAt": 1778546961304
+	"errorAt": null
 }
