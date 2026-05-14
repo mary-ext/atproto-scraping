@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold.flkn.dev",
-	"status": "online",
+	"status": "offline",
 	"hash": "tmSjrfDj8G90-0xSZFGhnZvEHlMbj4adYVyfeB6CUHY",
 	"pds": "https://hold.flkn.dev/",
 	"labeler": null,
 	"firstSeenAt": 1778546337161,
-	"errorAt": null
+	"errorAt": 1778719485853
 }

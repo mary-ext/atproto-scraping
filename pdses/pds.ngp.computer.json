@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ngp.computer/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777682344800,
-	"errorAt": null
+	"errorAt": 1778720125537
 }

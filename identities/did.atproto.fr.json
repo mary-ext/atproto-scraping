@@ -1,8 +1,8 @@
 {
 	"did": "did:web:did.atproto.fr",
 	"status": "online",
-	"hash": "DS9o0HdI3_Zv07O9BUL2SVuRTOb05y2bS1Dr2w4PnAI",
-	"pds": "https://pds.edouard.paris/",
+	"hash": "TCk1BcYgyqBVlvzvPDBs-oGZWpu4W93QFxcUGgFdglQ",
+	"pds": "https://pds.atproto.fr/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

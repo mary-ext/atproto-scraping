@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.anuvakas.space/",
 	"did": "did:plc:7v6wfbez4ygzlyncg5266xl3",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1778720125537
 }

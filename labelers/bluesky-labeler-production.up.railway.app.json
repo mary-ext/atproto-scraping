@@ -2,7 +2,7 @@
 	"url": "https://bluesky-labeler-production.up.railway.app/",
 	"did": "did:plc:qhed3m2uw3mqcv5lgtvlyog5",
 	"status": "online",
-	"version": "0.1.159",
+	"version": "0.1.174",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }
