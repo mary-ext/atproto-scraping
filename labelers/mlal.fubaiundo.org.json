@@ -1,8 +1,8 @@
 {
 	"url": "https://mlal.fubaiundo.org/",
 	"did": "did:plc:glu5zy2vxbuqwh76tjuwfqbm",
-	"status": "offline",
+	"status": "online",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1778720125537
+	"errorAt": null
 }

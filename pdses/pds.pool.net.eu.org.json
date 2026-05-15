@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.pool.net.eu.org/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776126924470,
-	"errorAt": 1778720125537
+	"errorAt": null
 }
