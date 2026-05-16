@@ -1,8 +1,8 @@
 {
 	"url": "https://attoolbox.app/",
-	"status": "offline",
+	"status": "online",
 	"version": "cocoon 0756641",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1778028492383
+	"errorAt": null
 }

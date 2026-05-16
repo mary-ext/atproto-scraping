@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.flkn.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778027826382,
-	"errorAt": 1778720125537
+	"errorAt": null
 }

@@ -1,6 +1,8 @@
 {
 	"url": "https://bsky.catboy.twink.men/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.219",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1778805740891,
-	"errorAt": 1778806373022
+	"errorAt": null
 }

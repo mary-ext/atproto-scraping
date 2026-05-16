@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ccc.pds4.lasd.site",
-	"status": "online",
+	"status": "offline",
 	"hash": "40aCjNUTJVmdQCcMAK-BNvnEyiUKlkUw_fz78wkymSI",
 	"pds": "https://pds4.lasd.site/",
 	"labeler": null,
 	"firstSeenAt": 1778632998106,
-	"errorAt": null
+	"errorAt": 1778891980688
 }
