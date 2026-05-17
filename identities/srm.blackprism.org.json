@@ -1,9 +1,9 @@
 {
 	"did": "did:web:srm.blackprism.org",
 	"status": "online",
-	"firstSeenAt": 1778891980688,
-	"errorAt": null,
 	"hash": "HpnF4zqJGCJNOdvzUSqvQqxjQCqJqkdxTKYIvmDV2cs",
 	"pds": "https://pds.blackprism.org/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1778891980688,
+	"errorAt": null
 }
