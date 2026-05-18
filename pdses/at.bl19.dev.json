@@ -1,8 +1,8 @@
 {
 	"url": "https://at.bl19.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1778892582310
+	"errorAt": null
 }

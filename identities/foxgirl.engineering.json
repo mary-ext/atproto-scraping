@@ -1,9 +1,9 @@
 {
 	"did": "did:web:foxgirl.engineering",
-	"status": "online",
+	"status": "offline",
 	"hash": "dtWVi6dJ-01ctLamXTaeTpIlgCyVqHkEvdWaNDGI0io",
 	"pds": "https://atproto.isincredibly.gay/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779065074214
 }
