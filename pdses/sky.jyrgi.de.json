@@ -1,8 +1,8 @@
 {
 	"url": "https://sky.jyrgi.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779065074214,
-	"errorAt": null
+	"errorAt": 1779152148281
 }
