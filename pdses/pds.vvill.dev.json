@@ -1,6 +1,7 @@
 {
 	"url": "https://pds.vvill.dev/",
 	"status": "online",
+	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

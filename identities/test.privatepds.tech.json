@@ -1,9 +1,9 @@
 {
 	"did": "did:web:test.privatepds.tech",
-	"status": "online",
+	"status": "offline",
 	"hash": "5tgzzwnkJaFkBf_KZ1sfCKXWsj6t9xiSzxhldV0RMTg",
 	"pds": "https://test.privatepds.tech/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779238077725
 }

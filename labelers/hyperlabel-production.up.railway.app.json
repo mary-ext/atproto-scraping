@@ -1,8 +1,8 @@
 {
 	"url": "https://hyperlabel-production.up.railway.app/",
 	"did": "did:plc:5rw6of6lry7ihmyhm323ycwn",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779238755792
 }

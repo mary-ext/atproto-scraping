@@ -1,8 +1,8 @@
 {
 	"url": "https://wafer.baby/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775435460452,
-	"errorAt": null
+	"errorAt": 1779238755792
 }

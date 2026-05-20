@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alt.science",
-	"status": "online",
+	"status": "offline",
 	"hash": "saKR1wNkkhHCS67S-8Is2g92l7TGIzXubJ5NmY4NIv8",
 	"pds": "https://pds.alt.science/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779238077725
 }

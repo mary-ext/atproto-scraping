@@ -1,7 +1,7 @@
 {
 	"url": "https://shimmerapi.luxray.app/",
 	"did": "did:plc:hs2chefhgwat2q5jjy6svkmj",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779238755792
 }

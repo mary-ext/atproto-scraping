@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.jackofarttrades.com/",
 	"did": "did:plc:jpssm6kyizcgngwxat5yescv",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779238755792
 }
