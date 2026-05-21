@@ -1,0 +1,9 @@
+{
+	"did": "did:web:rrr.via.lasd.site",
+	"status": "online",
+	"firstSeenAt": 1779324444498,
+	"errorAt": null,
+	"hash": "OrDaGXvsEFM7IMSLvbf2sDKIwTN-o5G10eUmjVfOtng",
+	"pds": "https://via.lasd.site/",
+	"labeler": null
+}

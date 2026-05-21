@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.shawnhoffman.dev/",
 	"did": "did:plc:3eivfiql4memqxkryeu4tqnk",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.42",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779238755792
+	"errorAt": null
 }

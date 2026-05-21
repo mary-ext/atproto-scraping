@@ -1,7 +1,7 @@
 {
 	"url": "https://labeler-production-2f01.up.railway.app/",
 	"did": "did:plc:q5jv5fi3jmeapisvort63qxe",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779238755792
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.necrokote.dedyn.io/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.182",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779325114297
 }

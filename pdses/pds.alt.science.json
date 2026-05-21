@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.alt.science/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779238755792
+	"errorAt": null
 }

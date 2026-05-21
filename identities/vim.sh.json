@@ -1,9 +1,9 @@
 {
 	"did": "did:web:vim.sh",
-	"status": "online",
+	"status": "offline",
 	"hash": "aLnL8Me4Uuwg8wwoj0yLV4HyRIYiJ3WJog4Lm_7W0Vc",
 	"pds": "https://pds.waffle.casa/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779324444498
 }

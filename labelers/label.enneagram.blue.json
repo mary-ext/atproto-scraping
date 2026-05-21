@@ -1,7 +1,7 @@
 {
 	"url": "https://label.enneagram.blue/",
 	"did": "did:plc:6k2b2myab3zpqivzvyym4cp5",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779238755792
+	"errorAt": null
 }

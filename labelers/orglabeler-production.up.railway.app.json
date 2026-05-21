@@ -1,7 +1,7 @@
 {
 	"url": "https://orglabeler-production.up.railway.app/",
 	"did": "did:plc:pswneepkd5lesumj7ejmkbal",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1776731696011,
-	"errorAt": 1779238755792
+	"errorAt": null
 }

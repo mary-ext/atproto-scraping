@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lean-tonight-walt-potter.trycloudflare.com",
-	"status": "online",
-	"firstSeenAt": 1779238077725,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "FzvbvlQ9sfrTHt9jYHFNeuoOTjrVIxS48NdVoIX53QY",
 	"pds": "https://via.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1779238077725,
+	"errorAt": 1779324444498
 }

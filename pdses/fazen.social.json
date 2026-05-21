@@ -1,8 +1,8 @@
 {
 	"url": "https://fazen.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1774571350018,
-	"errorAt": 1779238755792
+	"errorAt": null
 }
