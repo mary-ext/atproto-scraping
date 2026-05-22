@@ -1,0 +1,9 @@
+{
+	"did": "did:web:v32.dev",
+	"status": "online",
+	"firstSeenAt": 1779410737512,
+	"errorAt": null,
+	"hash": "bLKQJEbnSJiJT0QQbTg4RG6Trg8UPpr4WCn9XtWRn3M",
+	"pds": "https://pds.scsi.dev/",
+	"labeler": null
+}

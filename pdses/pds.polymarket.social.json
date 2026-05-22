@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.polymarket.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.191",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1774571350018,
-	"errorAt": 1779325114297
+	"errorAt": null
 }

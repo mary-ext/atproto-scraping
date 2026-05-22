@@ -1,0 +1,9 @@
+{
+	"did": "did:web:shadownet.v32.dev",
+	"status": "online",
+	"firstSeenAt": 1779410737512,
+	"errorAt": null,
+	"hash": "x5b5pNf_RQ0U8Cqv7alWqyc63V3ccobXCIbH1G_wf7c",
+	"pds": "https://pds.scsi.dev/",
+	"labeler": null
+}

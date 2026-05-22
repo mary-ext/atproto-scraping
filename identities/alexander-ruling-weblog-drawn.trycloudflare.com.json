@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alexander-ruling-weblog-drawn.trycloudflare.com",
 	"status": "online",
-	"firstSeenAt": 1779324444498,
-	"errorAt": null,
-	"hash": "prNx7x8QPS1Z84XAOc4xWaj5d0AsYhspIDzSo6guesc",
+	"hash": "hx5eajJELM1ce5CeiG91a1x4ue7xPwmyhQMsTM8bUdY",
 	"pds": "https://via.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1779324444498,
+	"errorAt": null
 }

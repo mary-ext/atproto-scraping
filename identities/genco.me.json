@@ -1,9 +1,9 @@
 {
 	"did": "did:web:genco.me",
-	"status": "online",
+	"status": "offline",
 	"hash": "IoPejDLA5L3pPwXMaGZ1_HtxoKDnYVpWBVqytBpPJJQ",
 	"pds": "https://goeo.lol/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779410737512
 }
