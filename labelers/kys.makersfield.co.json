@@ -1,7 +1,8 @@
 {
 	"url": "https://kys.makersfield.co/",
 	"did": "did:plc:kwrnsjs7shplkwzpentb7yqv",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.2.0",
 	"firstSeenAt": 1779410737512,
-	"errorAt": 1779411408390
+	"errorAt": null
 }
