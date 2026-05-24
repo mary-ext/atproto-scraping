@@ -1,8 +1,8 @@
 {
 	"url": "https://demo.beardednudist.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779497069755,
-	"errorAt": null
+	"errorAt": 1779584163944
 }

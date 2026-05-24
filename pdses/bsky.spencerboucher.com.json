@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.spencerboucher.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774056469302,
-	"errorAt": null
+	"errorAt": 1779584163944
 }

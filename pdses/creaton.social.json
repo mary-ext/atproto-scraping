@@ -1,8 +1,8 @@
 {
 	"url": "https://creaton.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "10.4.121",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779584163944
 }

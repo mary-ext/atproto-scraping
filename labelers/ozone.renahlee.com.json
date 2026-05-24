@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.renahlee.com/",
 	"did": "did:plc:ubt73xes4uesthuuhbqwf37d",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779584163944
 }
