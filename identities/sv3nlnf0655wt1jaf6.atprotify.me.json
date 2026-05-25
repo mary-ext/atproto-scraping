@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sv3nlnf0655wt1jaf6.atprotify.me",
-	"status": "online",
+	"status": "offline",
 	"hash": "n1uaUwhW9jiZCLgJDLHOPYF7nkbHt3YEH-OWhluRY4g",
 	"pds": "https://atprotify.me/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779670034628
 }

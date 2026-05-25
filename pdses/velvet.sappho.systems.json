@@ -1,8 +1,8 @@
 {
 	"url": "https://velvet.sappho.systems/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.5.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779670683485
 }

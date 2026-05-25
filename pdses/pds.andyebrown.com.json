@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.andyebrown.com/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779497740712
+	"errorAt": null
 }

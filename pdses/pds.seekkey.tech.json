@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.seekkey.tech/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.219",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1779583557144,
-	"errorAt": 1779584163944
+	"errorAt": null
 }
