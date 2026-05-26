@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cirrus.knotbin.net",
+	"status": "online",
+	"firstSeenAt": 1779756314417,
+	"errorAt": null,
+	"hash": "hWB18U8rAkzqtczml0F9za7aScbQtT-GOfjK2ljIvlc",
+	"pds": "https://cirrus.knotbin.net/",
+	"labeler": null
+}

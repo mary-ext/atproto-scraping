@@ -2,7 +2,7 @@
 	"url": "https://pds.zat.dev/",
 	"status": "online",
 	"version": "0.0.1",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1779410737512,
 	"errorAt": null
 }

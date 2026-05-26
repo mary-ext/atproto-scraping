@@ -1,7 +1,7 @@
 {
 	"url": "https://test.labeler.xlz.ca/",
 	"did": "did:plc:mepis3w4mbalyt6kwsadpuf3",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1779238077725,
-	"errorAt": null
+	"errorAt": 1779756941576
 }

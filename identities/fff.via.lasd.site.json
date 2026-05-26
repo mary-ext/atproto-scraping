@@ -1,0 +1,9 @@
+{
+	"did": "did:web:fff.via.lasd.site",
+	"status": "online",
+	"firstSeenAt": 1779756314417,
+	"errorAt": null,
+	"hash": "ivNbNFyUfoQFujEBlsWG18MAIRAk3gPEY1zIPSqybhQ",
+	"pds": "https://via.lasd.site/",
+	"labeler": null
+}
