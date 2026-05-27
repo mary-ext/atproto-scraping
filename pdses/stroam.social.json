@@ -1,8 +1,8 @@
 {
 	"url": "https://stroam.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.138",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779843446526
 }

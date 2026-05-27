@@ -1,8 +1,8 @@
 {
 	"url": "https://prsk-bsky-labeler.idsmile.xyz/",
 	"did": "did:plc:y2kfhyrys2svm3i2nunanyam",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779756941576
+	"errorAt": null
 }

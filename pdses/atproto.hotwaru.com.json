@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.hotwaru.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "alpha",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1779756941576
+	"errorAt": null
 }
