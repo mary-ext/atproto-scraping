@@ -1,8 +1,8 @@
 {
 	"url": "https://blewit.us-west.host.bsky.network/",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1779929590970
 }
