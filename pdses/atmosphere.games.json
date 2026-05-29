@@ -1,8 +1,8 @@
 {
 	"url": "https://atmosphere.games/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776731696011,
-	"errorAt": null
+	"errorAt": 1780016434339
 }

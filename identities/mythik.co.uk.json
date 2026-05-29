@@ -1,9 +1,9 @@
 {
 	"did": "did:web:mythik.co.uk",
-	"status": "online",
+	"status": "offline",
 	"hash": "HPzm88Aenwoq0npZfCZsK55ApJ36XqTGj0JdAQqQOSg",
 	"pds": "https://pds.mythik.co.uk/",
 	"labeler": null,
 	"firstSeenAt": 1776558847387,
-	"errorAt": null
+	"errorAt": 1780015776519
 }
