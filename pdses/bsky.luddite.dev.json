@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.luddite.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778287240363,
-	"errorAt": 1779238755792
+	"errorAt": null
 }
