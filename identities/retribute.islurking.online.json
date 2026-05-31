@@ -1,9 +1,9 @@
 {
 	"did": "did:web:retribute.islurking.online",
 	"status": "online",
-	"firstSeenAt": 1780101906821,
-	"errorAt": null,
 	"hash": "atoISuoJnj_crNnAXgOEux66vv-eynicGmrV_x_bKG4",
 	"pds": "https://chrysalis.onely.space/",
-	"labeler": "https://mod.islurking.online/"
+	"labeler": "https://mod.islurking.online/",
+	"firstSeenAt": 1780101906821,
+	"errorAt": null
 }

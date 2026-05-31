@@ -1,8 +1,8 @@
 {
 	"url": "https://tin.gilla.one/",
-	"status": "online",
+	"status": "offline",
 	"version": "pegasus 8ec718a",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777423235287,
-	"errorAt": null
+	"errorAt": 1780189136899
 }

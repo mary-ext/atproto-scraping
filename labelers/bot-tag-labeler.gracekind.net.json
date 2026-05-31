@@ -1,8 +1,8 @@
 {
 	"url": "https://bot-tag-labeler.gracekind.net/",
 	"did": "did:plc:cdkysjo2taj2jpy3qoostthu",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1780189136899
 }
