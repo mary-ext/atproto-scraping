@@ -1,8 +1,8 @@
 {
 	"url": "https://liquid.bluesky.page/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon dev-591609743",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1780275699728
 }

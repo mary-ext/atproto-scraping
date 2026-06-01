@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.laugh.town/",
-	"status": "offline",
-	"version": "0.4.219",
+	"status": "online",
+	"version": "tranquil 0.6.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779928950298,
-	"errorAt": 1780016434339
+	"errorAt": null
 }
