@@ -1,8 +1,8 @@
 {
 	"url": "https://kjubybot.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775262455079,
-	"errorAt": null
+	"errorAt": 1780362200278
 }

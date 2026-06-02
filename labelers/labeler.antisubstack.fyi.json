@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.antisubstack.fyi/",
 	"did": "did:plc:uxjwly6emtgik7juvxxdpl3c",
-	"status": "offline",
+	"status": "online",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1780189136899
+	"errorAt": null
 }

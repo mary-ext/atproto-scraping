@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.fabricio.gay/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon 0.9.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778287240363,
-	"errorAt": null
+	"errorAt": 1780362200278
 }
