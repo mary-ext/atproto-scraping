@@ -1,6 +1,7 @@
 {
 	"url": "https://dev.chill.town/",
-	"status": "unreachable",
+	"status": "online",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1780015776519,
-	"errorAt": 1780016434339
+	"errorAt": null
 }

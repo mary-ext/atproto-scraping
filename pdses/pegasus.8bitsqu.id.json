@@ -1,8 +1,8 @@
 {
 	"url": "https://pegasus.8bitsqu.id/",
-	"status": "offline",
+	"status": "online",
 	"version": "pegasus 8ec718a",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1780362200278
+	"errorAt": null
 }

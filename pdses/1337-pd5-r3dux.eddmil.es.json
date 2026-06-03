@@ -1,8 +1,8 @@
 {
 	"url": "https://1337-pd5-r3dux.eddmil.es/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780015776519,
-	"errorAt": 1780362200278
+	"errorAt": null
 }
