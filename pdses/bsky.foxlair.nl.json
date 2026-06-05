@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.foxlair.nl/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775867322879,
-	"errorAt": null
+	"errorAt": 1780621237945
 }

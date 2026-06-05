@@ -1,8 +1,8 @@
 {
 	"url": "https://estyl.io/",
-	"status": "online",
+	"status": "offline",
 	"version": "Development",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1780621237945
 }
