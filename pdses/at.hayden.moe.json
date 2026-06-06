@@ -1,8 +1,8 @@
 {
 	"url": "https://at.hayden.moe/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775867322879,
-	"errorAt": 1780621237945
+	"errorAt": null
 }

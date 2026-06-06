@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.dsx.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777682344800,
-	"errorAt": null
+	"errorAt": 1780707474945
 }

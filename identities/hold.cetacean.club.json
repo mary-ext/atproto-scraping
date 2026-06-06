@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold.cetacean.club",
-	"status": "online",
+	"status": "offline",
 	"hash": "DSD9dsOVYdXRgzZNxC9FYYHEU6hNycHMiSYvRo7Ox-E",
 	"pds": "https://hold.cetacean.club/",
 	"labeler": null,
 	"firstSeenAt": 1778287240363,
-	"errorAt": null
+	"errorAt": 1780706830140
 }
