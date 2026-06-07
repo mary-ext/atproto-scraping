@@ -1,8 +1,8 @@
 {
 	"url": "https://repo.works/",
-	"status": "online",
+	"status": "offline",
 	"version": "v0.1.4-22542f29*",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1780794071522
 }

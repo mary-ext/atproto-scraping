@@ -1,8 +1,8 @@
 {
 	"url": "https://mod.islurking.online/",
 	"did": "did:web:retribute.islurking.online",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1780101906821,
-	"errorAt": null
+	"errorAt": 1780794071522
 }

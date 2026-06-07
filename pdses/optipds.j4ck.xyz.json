@@ -1,8 +1,8 @@
 {
 	"url": "https://optipds.j4ck.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775521855696,
-	"errorAt": null
+	"errorAt": 1780794071522
 }
