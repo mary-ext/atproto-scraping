@@ -1,8 +1,8 @@
 {
 	"url": "https://zuercher-pds.tech/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780620599850,
-	"errorAt": null
+	"errorAt": 1780880565710
 }

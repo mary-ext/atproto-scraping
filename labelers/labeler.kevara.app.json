@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.kevara.app/",
 	"did": "did:plc:upeagalqts3yutsgc6vo5tn3",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1778632998106,
-	"errorAt": null
+	"errorAt": 1780880565710
 }
