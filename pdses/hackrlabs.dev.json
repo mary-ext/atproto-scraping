@@ -1,8 +1,8 @@
 {
 	"url": "https://hackrlabs.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "cirrus 0.14.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1777596151162,
-	"errorAt": null
+	"errorAt": 1780966601973
 }

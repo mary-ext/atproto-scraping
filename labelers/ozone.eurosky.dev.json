@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.eurosky.dev/",
 	"did": "did:plc:jb7qkrugys26yy7svo4s4s2f",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1780793461882,
-	"errorAt": null
+	"errorAt": 1780966601973
 }

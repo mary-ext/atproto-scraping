@@ -1,8 +1,8 @@
 {
 	"url": "https://at.meowing.zip/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.5.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776299762045,
-	"errorAt": null
+	"errorAt": 1780966601973
 }
