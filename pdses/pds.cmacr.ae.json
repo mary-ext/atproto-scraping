@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.cmacr.ae/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779670034628,
-	"errorAt": 1780966601973
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.raptight.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1780879933258,
-	"errorAt": 1780966601973
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:offbeatwit.ch",
-	"status": "online",
+	"status": "offline",
 	"hash": "fdWcq_wIUFeBPXelubvDJYEO60JgD8FJXK8vQFQd-RE",
 	"pds": "https://bsky.j0.lol/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1781052695768
 }

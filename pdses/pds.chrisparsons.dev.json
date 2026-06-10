@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.chrisparsons.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.182",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780101906821,
-	"errorAt": 1780966601973
+	"errorAt": null
 }
