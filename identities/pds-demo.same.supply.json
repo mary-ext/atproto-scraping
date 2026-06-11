@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds-demo.same.supply",
 	"status": "online",
-	"firstSeenAt": 1781052695768,
-	"errorAt": null,
 	"hash": "Ajh2lUS4fngZ26x-5NUhwEhdM0SAvSlgIyTDySS0LXU",
 	"pds": "https://pds-demo.same.supply/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1781052695768,
+	"errorAt": null
 }

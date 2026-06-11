@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-message-demo.nate-8fe.workers.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1781139714784
 }

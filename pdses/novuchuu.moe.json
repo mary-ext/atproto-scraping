@@ -1,8 +1,8 @@
 {
 	"url": "https://novuchuu.moe/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775608267966,
-	"errorAt": 1780794071522
+	"errorAt": null
 }
