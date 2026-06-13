@@ -1,8 +1,8 @@
 {
 	"url": "https://wegif.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1781226301499
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.draboros.net/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1781139714784
+	"errorAt": null
 }

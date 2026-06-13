@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.lavate.ch/",
 	"status": "online",
-	"version": "tranquil 0.6.4",
+	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780534635775,
 	"errorAt": null

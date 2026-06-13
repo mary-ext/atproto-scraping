@@ -1,8 +1,8 @@
 {
 	"url": "https://tyrannus.endlessgate.io/",
 	"did": "did:plc:ylj4b37hd2zt62lxshirlrtk",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1781312649238
 }
