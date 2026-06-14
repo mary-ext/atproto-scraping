@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.flurry.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776126924470,
-	"errorAt": null
+	"errorAt": 1781399033075
 }

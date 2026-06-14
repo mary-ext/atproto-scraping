@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.tophhie.cloud/",
 	"did": "did:plc:dtvn3ttc5bwjqebzyzjh5rdh",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1781312649238
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:flurry.sh",
-	"status": "online",
+	"status": "offline",
 	"hash": "XLPAJRWkP6zXHvb7pYh5rIfDIboUL0MGaGNBpt07w-A",
 	"pds": "https://pds.flurry.sh/",
 	"labeler": null,
 	"firstSeenAt": 1776126924470,
-	"errorAt": null
+	"errorAt": 1781398383059
 }
