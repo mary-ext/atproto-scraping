@@ -1,8 +1,8 @@
 {
 	"url": "https://cocoon.hailey.at/",
-	"status": "offline",
-	"version": "cocoon dev-50a1fdff4",
+	"status": "online",
+	"version": "cocoon dev-19d2f044d",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1780794071522
+	"errorAt": null
 }
