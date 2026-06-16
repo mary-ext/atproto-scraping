@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky.aporter.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1781139714784
+	"errorAt": null
 }
