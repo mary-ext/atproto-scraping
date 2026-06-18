@@ -1,8 +1,8 @@
 {
 	"url": "https://puppy.town/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779583557144,
-	"errorAt": null
+	"errorAt": 1781744702273
 }
