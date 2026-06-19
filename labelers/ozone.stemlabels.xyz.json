@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.stemlabels.xyz/",
 	"did": "did:plc:3gghjh7wuif2v3ykx5ttmm6c",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1776817899805,
-	"errorAt": 1781744702273
+	"errorAt": null
 }

@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.folw.me/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.221",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1781744035026,
-	"errorAt": 1781744702273
+	"errorAt": null
 }
