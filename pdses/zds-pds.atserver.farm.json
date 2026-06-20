@@ -1,8 +1,8 @@
 {
 	"url": "https://zds-pds.atserver.farm/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.0.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781139050507,
-	"errorAt": null
+	"errorAt": 1781917212341
 }
