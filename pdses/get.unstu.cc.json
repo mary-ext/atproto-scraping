@@ -1,8 +1,8 @@
 {
 	"url": "https://get.unstu.cc/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775867322879,
-	"errorAt": 1781917212341
+	"errorAt": null
 }

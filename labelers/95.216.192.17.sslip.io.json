@@ -1,8 +1,8 @@
 {
 	"url": "https://95.216.192.17.sslip.io/",
 	"did": "did:plc:rh3vjqs4npfpmnkkmx4u4bzj",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782003898173
 }

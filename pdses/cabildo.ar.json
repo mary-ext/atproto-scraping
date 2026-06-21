@@ -1,8 +1,8 @@
 {
 	"url": "https://cabildo.ar/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782003898173
 }

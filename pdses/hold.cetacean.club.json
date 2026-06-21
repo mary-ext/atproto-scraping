@@ -1,8 +1,8 @@
 {
 	"url": "https://hold.cetacean.club/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.999",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778287240363,
-	"errorAt": 1780707474945
+	"errorAt": null
 }
