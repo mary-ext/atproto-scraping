@@ -1,8 +1,8 @@
 {
 	"url": "https://boomerland.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781916554623,
-	"errorAt": null
+	"errorAt": 1782090277131
 }

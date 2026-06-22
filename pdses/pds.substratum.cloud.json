@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.substratum.cloud/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1781484874772,
-	"errorAt": null
+	"errorAt": 1782090277131
 }
