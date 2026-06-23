@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.tabularelf.com/",
 	"did": "did:plc:2mznnszr3npzjkwum4vmrqoz",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1782090277131
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://lzone.girlfailure.zone/",
 	"did": "did:plc:l624mewisyr6hymexmrjkprc",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782176359336
 }

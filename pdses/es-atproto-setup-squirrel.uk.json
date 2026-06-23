@@ -1,8 +1,8 @@
 {
 	"url": "https://es-atproto-setup-squirrel.uk/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1778891980688,
-	"errorAt": null
+	"errorAt": 1782176359336
 }

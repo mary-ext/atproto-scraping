@@ -1,9 +1,9 @@
 {
 	"did": "did:web:devarno.com",
 	"status": "online",
-	"firstSeenAt": 1782089636367,
-	"errorAt": null,
 	"hash": "CMRa8A78PmSgWdXkI67YQiiojgjkfMk6HgAytTWQmNI",
 	"pds": "https://pds.devarno.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782089636367,
+	"errorAt": null
 }
