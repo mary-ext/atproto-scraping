@@ -1,7 +1,7 @@
 {
 	"url": "https://moderation-dev.currents.is/",
 	"did": "did:plc:mve7im5l2gn4bfbqblv64cuu",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1779324444498,
-	"errorAt": 1782176359336
+	"errorAt": null
 }

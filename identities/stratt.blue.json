@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stratt.blue",
 	"status": "online",
-	"firstSeenAt": 1782175656469,
-	"errorAt": null,
 	"hash": "VlbieC4xF5hKzX4TS3X1vr1-Lzw8CD_Zy1iEWQiuuPQ",
 	"pds": "https://pds.devarno.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782175656469,
+	"errorAt": null
 }

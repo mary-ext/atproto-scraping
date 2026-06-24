@@ -1,9 +1,9 @@
 {
 	"did": "did:web:patyk.is.waff.ing",
 	"status": "online",
-	"firstSeenAt": 1782175656469,
-	"errorAt": null,
 	"hash": "_J0a-WG6NjzzkfsKbL2xTrhy9uKBoZDzoB65slKXgy0",
 	"pds": "https://pds.tokyonight.city/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782175656469,
+	"errorAt": null
 }

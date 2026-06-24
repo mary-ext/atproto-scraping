@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.yugoslavia.best/",
 	"did": "did:plc:kgpqgx33bhqf4sn7lb7thnzw",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.143",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782262462707
 }
