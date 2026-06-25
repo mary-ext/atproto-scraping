@@ -1,8 +1,8 @@
 {
 	"url": "https://cupcap.org/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5006",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778114370224,
-	"errorAt": null
+	"errorAt": 1782349187874
 }

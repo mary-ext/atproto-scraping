@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.riddims.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "git-a9a13d2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776990996363,
-	"errorAt": null
+	"errorAt": 1782349187874
 }

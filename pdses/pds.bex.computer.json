@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bex.computer/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.169",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778719485853,
-	"errorAt": null
+	"errorAt": 1782349187874
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://vs.air2.earth/",
 	"did": "did:plc:eivabf3dhre6rtqs2tkyj6f2",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1782262462707
+	"errorAt": null
 }

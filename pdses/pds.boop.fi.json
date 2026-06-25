@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.boop.fi/",
 	"status": "online",
-	"version": "tranquil 0.6.5",
+	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781657641650,
 	"errorAt": null
