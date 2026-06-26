@@ -1,8 +1,8 @@
 {
 	"url": "https://tempest.desertthunder.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "v0.1.0.dev0+g0000000",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1781398383059,
-	"errorAt": null
+	"errorAt": 1782435660573
 }

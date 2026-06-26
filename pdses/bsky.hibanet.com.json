@@ -1,7 +1,7 @@
 {
 	"url": "https://bsky.hibanet.com/",
 	"status": "online",
-	"version": "0.4.5006",
+	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781916554623,
 	"errorAt": null

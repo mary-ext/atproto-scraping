@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky-labeler-p02p.onrender.com/",
 	"did": "did:plc:4p3ilpfcl77fqgoofjmghznc",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782435660573
 }
