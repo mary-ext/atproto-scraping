@@ -2,7 +2,7 @@
 	"url": "https://iiinova.com/",
 	"status": "online",
 	"version": "0.4.5009",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://chai.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774139250670,
-	"errorAt": null
+	"errorAt": 1782521888072
 }

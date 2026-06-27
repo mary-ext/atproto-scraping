@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.sqrl.systems/",
 	"status": "online",
-	"version": "tranquil 0.6.4",
+	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782089636367,
 	"errorAt": null
