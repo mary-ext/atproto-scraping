@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.naco.li/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1782521888072
+	"errorAt": null
 }

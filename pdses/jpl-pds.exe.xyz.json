@@ -1,8 +1,8 @@
 {
 	"url": "https://jpl-pds.exe.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1782261801772,
-	"errorAt": null
+	"errorAt": 1782608350213
 }

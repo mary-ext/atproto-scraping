@@ -1,0 +1,9 @@
+{
+	"did": "did:web:andrewsouthard.com",
+	"status": "online",
+	"firstSeenAt": 1782607729398,
+	"errorAt": null,
+	"hash": "0_63A0fdvXCV6x0aubrLBfiwIE_FK5S1_QqhuqcJgWQ",
+	"pds": "https://pds.andrewsouthard.com/",
+	"labeler": null
+}
