@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold.styx.mrijke.nl",
 	"status": "online",
-	"firstSeenAt": 1782607729398,
-	"errorAt": null,
-	"hash": "SoXrQ0PS1vnMe4dkAHjcNxuuLiRtlxpTgThyiFP88tI",
+	"hash": "4dfGJxoh7_3UnLuFeutLL4_9unUKOBCJj5GiyjWKcw8",
 	"pds": "https://hold.styx.mrijke.nl/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782607729398,
+	"errorAt": null
 }
