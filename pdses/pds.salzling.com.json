@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.salzling.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1776299762045,
-	"errorAt": null
+	"errorAt": 1782781150161
 }
