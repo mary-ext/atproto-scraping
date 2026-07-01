@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.uwuu.moe/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1782780472125,
-	"errorAt": null
+	"errorAt": 1782867688438
 }

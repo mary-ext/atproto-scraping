@@ -1,7 +1,7 @@
 {
 	"url": "https://atpcraft.at/",
 	"did": "did:plc:6y74tzb6iqeuzuqqxgkizrek",
-	"status": "unreachable",
+	"status": "online",
 	"firstSeenAt": 1782261801772,
-	"errorAt": 1782262462707
+	"errorAt": null
 }

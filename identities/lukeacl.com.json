@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lukeacl.com",
 	"status": "online",
-	"firstSeenAt": 1782780472125,
-	"errorAt": null,
 	"hash": "Gdhf4cXrPi6Fr4FvKlpS_kZU1VWms6ezIUPas6K-PK4",
 	"pds": "https://kod.ac/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782780472125,
+	"errorAt": null
 }

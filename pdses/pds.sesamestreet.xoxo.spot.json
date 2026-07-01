@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sesamestreet.xoxo.spot/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.178",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1782434973261,
-	"errorAt": null
+	"errorAt": 1782867688438
 }

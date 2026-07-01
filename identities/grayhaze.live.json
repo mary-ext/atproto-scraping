@@ -1,9 +1,9 @@
 {
 	"did": "did:web:grayhaze.live",
-	"status": "online",
+	"status": "offline",
 	"hash": "FWz37Vy3_TuKAfXTC7lJVgDL5HrcmZ38rsL4E6YzA6w",
 	"pds": "https://pds.atproto.hugeblank.dev/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1782867018853
 }
