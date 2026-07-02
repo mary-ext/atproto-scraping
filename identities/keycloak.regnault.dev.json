@@ -1,0 +1,9 @@
+{
+	"did": "did:web:keycloak.regnault.dev",
+	"status": "online",
+	"firstSeenAt": 1782953236069,
+	"errorAt": null,
+	"hash": "vxoHEacntNGkCArDSZrtQ5SZhKrPaLfNjvd5Lndaz-c",
+	"pds": "https://pds.dreamteam.boo/",
+	"labeler": null
+}

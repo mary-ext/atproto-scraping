@@ -1,6 +1,8 @@
 {
 	"url": "https://at.dispark.org/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5009",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1782607729398,
-	"errorAt": 1782608350213
+	"errorAt": null
 }
