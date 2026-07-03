@@ -1,7 +1,7 @@
 {
 	"url": "https://beta.seiran.org/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1782780472125,
-	"errorAt": 1782953918035
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds.weslleyrocha.dev",
 	"status": "online",
-	"firstSeenAt": 1782953236069,
-	"errorAt": null,
 	"hash": "AGlSQDSV7gDFoi4MYj94oNaKhLk1FJl0iCO1WkUS2cs",
 	"pds": "https://pds.weslleyrocha.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1782953236069,
+	"errorAt": null
 }

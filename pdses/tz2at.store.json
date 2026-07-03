@@ -1,8 +1,8 @@
 {
 	"url": "https://tz2at.store/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1779842807296,
-	"errorAt": 1781658336868
+	"errorAt": null
 }

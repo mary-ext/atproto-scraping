@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.20kdc.dedyn.io/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1783047420120
 }
