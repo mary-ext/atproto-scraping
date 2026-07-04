@@ -1,8 +1,8 @@
 {
 	"url": "https://ulfilion.ca/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780706830140,
-	"errorAt": 1783047420120
+	"errorAt": null
 }

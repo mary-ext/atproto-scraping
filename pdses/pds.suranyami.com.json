@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.suranyami.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782521196354,
-	"errorAt": 1783047420120
+	"errorAt": null
 }

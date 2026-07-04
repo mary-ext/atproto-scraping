@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.rustlog.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777941470851,
-	"errorAt": null
+	"errorAt": 1783133471140
 }

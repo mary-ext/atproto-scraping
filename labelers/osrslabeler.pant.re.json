@@ -1,8 +1,8 @@
 {
 	"url": "https://osrslabeler.pant.re/",
 	"did": "did:plc:itsszxwp2d45yztcsnvseteh",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1783133471140
 }
