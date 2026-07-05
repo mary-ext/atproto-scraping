@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.walljm.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775867322879,
-	"errorAt": 1783133471140
+	"errorAt": null
 }
