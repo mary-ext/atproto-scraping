@@ -1,7 +1,7 @@
 {
 	"url": "https://labeler.blueorbit.app/",
 	"did": "did:plc:3257sjkxzxymlgv72e6zcpay",
-	"status": "unreachable",
+	"status": "online",
 	"firstSeenAt": 1782953236069,
-	"errorAt": 1782953918035
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tameemz.via.lasd.site",
 	"status": "online",
-	"firstSeenAt": 1783219891887,
-	"errorAt": null,
 	"hash": "CTr_KxDX6tFZTGupoiypntBPjCG315uIuzRDARAxxMk",
 	"pds": "https://via.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1783219891887,
+	"errorAt": null
 }

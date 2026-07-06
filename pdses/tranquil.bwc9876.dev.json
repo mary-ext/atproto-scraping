@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil.bwc9876.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774916948798,
-	"errorAt": 1783220539014
+	"errorAt": null
 }
