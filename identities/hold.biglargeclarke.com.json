@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hold.biglargeclarke.com",
+	"status": "online",
+	"firstSeenAt": 1783392736285,
+	"errorAt": null,
+	"hash": "PCYm3Pu6xdlIVhsM8LT1_2SHZbqMExwc-cbaG8ddCBk",
+	"pds": "https://hold.biglargeclarke.com/",
+	"labeler": null
+}

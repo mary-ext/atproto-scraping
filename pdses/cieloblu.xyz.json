@@ -1,8 +1,8 @@
 {
 	"url": "https://cieloblu.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1780965935130,
-	"errorAt": null
+	"errorAt": 1783393457606
 }

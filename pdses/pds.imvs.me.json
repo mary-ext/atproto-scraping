@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.imvs.me/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774056469302,
-	"errorAt": null
+	"errorAt": 1783393457606
 }

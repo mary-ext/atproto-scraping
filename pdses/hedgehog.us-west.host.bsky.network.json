@@ -1,8 +1,8 @@
 {
 	"url": "https://hedgehog.us-west.host.bsky.network/",
-	"status": "online",
+	"status": "offline",
 	"version": "git-b6e608e",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1783393457606
 }
