@@ -1,8 +1,8 @@
 {
 	"url": "https://starpalace.us/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783046694041,
-	"errorAt": 1783393457606
+	"errorAt": null
 }

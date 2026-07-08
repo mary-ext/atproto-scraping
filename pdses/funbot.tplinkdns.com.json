@@ -1,8 +1,8 @@
 {
 	"url": "https://funbot.tplinkdns.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781744035026,
-	"errorAt": 1783393457606
+	"errorAt": null
 }
