@@ -1,8 +1,8 @@
 {
 	"url": "https://whatno.fyi/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782261801772,
-	"errorAt": 1783478429350
+	"errorAt": null
 }

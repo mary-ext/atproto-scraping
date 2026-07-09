@@ -1,8 +1,8 @@
 {
 	"url": "https://zverev.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1783478429350
+	"errorAt": null
 }

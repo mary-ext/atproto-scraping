@@ -1,8 +1,8 @@
 {
 	"url": "https://t4tkiss.ing/",
-	"status": "offline",
-	"version": "tranquil 0.6.2",
-	"inviteCodeRequired": true,
+	"status": "online",
+	"version": "tranquil 0.6.5",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1783478429350
+	"errorAt": null
 }

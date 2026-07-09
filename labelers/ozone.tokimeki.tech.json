@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.tokimeki.tech/",
 	"did": "did:plc:45scnhbnhc6zm4vn4br4q3wp",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1774484957326,
-	"errorAt": 1783478429350
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://fastani.me/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779670034628,
-	"errorAt": 1783393457606
+	"errorAt": null
 }
