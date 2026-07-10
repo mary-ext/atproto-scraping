@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.noirot.nyc/",
 	"did": "did:plc:byfitnu3kaxcjtdwx7g3wgob",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1783565137684,
-	"errorAt": null
+	"errorAt": 1783652402890
 }

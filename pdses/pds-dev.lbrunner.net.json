@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-dev.lbrunner.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782607729398,
-	"errorAt": 1782694852111
+	"errorAt": null
 }

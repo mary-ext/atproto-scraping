@@ -1,8 +1,8 @@
 {
 	"url": "https://pronounpickerozone.ripperoni.com/",
 	"did": "did:plc:l3nbhdfelt5d26btksecetxu",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1783652402890
 }

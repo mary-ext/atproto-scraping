@@ -1,8 +1,8 @@
 {
 	"url": "https://raghuram-bskypds1.bluesky-social-pds.auto.prod-se.osaas.io/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783565137684,
-	"errorAt": null
+	"errorAt": 1783652402890
 }
