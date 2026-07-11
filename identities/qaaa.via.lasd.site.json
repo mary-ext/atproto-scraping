@@ -1,9 +1,9 @@
 {
 	"did": "did:web:qaaa.via.lasd.site",
-	"status": "online",
-	"firstSeenAt": 1783651728603,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "RvtO1Z0lU58UqomqimMCRebfzldR88cqRRQ868q5YIY",
 	"pds": "https://via.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1783651728603,
+	"errorAt": 1783736822669
 }

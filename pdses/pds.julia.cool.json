@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.julia.cool/",
-	"status": "offline",
+	"status": "online",
 	"version": "cocoon dev",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1783565816341
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://at.crlf.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777509625268,
-	"errorAt": null
+	"errorAt": 1783737440406
 }
