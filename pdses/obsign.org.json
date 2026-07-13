@@ -1,7 +1,7 @@
 {
 	"url": "https://obsign.org/",
 	"status": "online",
-	"version": "0.4.3",
+	"version": "0.4.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782780472125,
 	"errorAt": null

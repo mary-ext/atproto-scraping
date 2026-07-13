@@ -1,0 +1,9 @@
+{
+	"did": "did:web:test-polilabel.simnaut.app",
+	"status": "online",
+	"firstSeenAt": 1783910035353,
+	"errorAt": null,
+	"hash": "UwzsotHMo_6tG2FMmA9zNZGqkYiReMqPNB4XfIZAyuo",
+	"pds": "https://test-polilabel.simnaut.app/",
+	"labeler": "https://test-polilabel.simnaut.app/"
+}

@@ -1,8 +1,8 @@
 {
 	"url": "https://fairway.iameli.link/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.12",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781225637400,
-	"errorAt": null
+	"errorAt": 1783910684569
 }

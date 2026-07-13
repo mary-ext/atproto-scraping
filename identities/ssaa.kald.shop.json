@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ssaa.kald.shop",
 	"status": "online",
-	"firstSeenAt": 1783823538884,
-	"errorAt": null,
 	"hash": "1Or3w4Pj-IeODv8sOOD_EiagOCc5sSLiQ51U-hGTzfY",
 	"pds": "https://as.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1783823538884,
+	"errorAt": null
 }

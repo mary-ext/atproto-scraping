@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.theroguedungeon.org/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781744035026,
-	"errorAt": null
+	"errorAt": 1783910684569
 }

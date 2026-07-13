@@ -1,8 +1,8 @@
 {
 	"url": "https://hereticsasylum.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782348487260,
-	"errorAt": null
+	"errorAt": 1783910684569
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lizthegrey.com",
 	"status": "online",
-	"firstSeenAt": 1783823538884,
-	"errorAt": null,
 	"hash": "2Pj62a1vPI7-urWwIlsOzOc4jyz0zjoTB0B7yudJGJM",
 	"pds": "https://pds.lizthegrey.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1783823538884,
+	"errorAt": null
 }
