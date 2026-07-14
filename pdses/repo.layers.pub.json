@@ -1,8 +1,8 @@
 {
 	"url": "https://repo.layers.pub/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782521196354,
-	"errorAt": null
+	"errorAt": 1783995787777
 }

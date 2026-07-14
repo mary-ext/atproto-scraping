@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.pink/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778200803872,
-	"errorAt": 1783910684569
+	"errorAt": null
 }
