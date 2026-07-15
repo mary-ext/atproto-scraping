@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sprinkles.cloud/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780361534104,
-	"errorAt": 1783995787777
+	"errorAt": null
 }
