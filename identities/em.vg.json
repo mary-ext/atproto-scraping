@@ -1,8 +1,8 @@
 {
 	"did": "did:web:em.vg",
 	"status": "online",
-	"hash": "fVwzK8oLvhVTJFnD_cqNwOOcZHwHE-I1hJETHFCDSdc",
-	"pds": "https://void.2dot.at/",
+	"hash": "gchKjFrjupIhAPOqDi3R0aFNUZtHcmj73ZgEwBPWmyU",
+	"pds": "https://selfhosted.social/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

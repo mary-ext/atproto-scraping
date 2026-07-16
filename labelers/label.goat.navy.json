@@ -1,7 +1,7 @@
 {
 	"url": "https://label.goat.navy/",
 	"did": "did:plc:lrppyahcavm3fdrqhifgeom5",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1784081464014,
-	"errorAt": null
+	"errorAt": 1784169360286
 }

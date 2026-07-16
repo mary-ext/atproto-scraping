@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.negatethis.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776299762045,
-	"errorAt": 1784082113425
+	"errorAt": null
 }
