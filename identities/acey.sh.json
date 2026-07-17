@@ -1,9 +1,9 @@
 {
 	"did": "did:web:acey.sh",
 	"status": "online",
-	"firstSeenAt": 1784168643232,
-	"errorAt": null,
 	"hash": "6XJ_pIWE5hdLJr1zsNc45a-g7aBj-fFswW6Jj15jx3g",
 	"pds": "https://pds.acey.sh/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1784168643232,
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.arknet.media/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1784255861132
 }
