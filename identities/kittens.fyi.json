@@ -1,9 +1,9 @@
 {
 	"did": "did:web:kittens.fyi",
-	"status": "online",
+	"status": "offline",
 	"hash": "vmqqFMtI7U-mzpRPW6CYKvD4zoynncdiOoVQ-qA2ZRI",
 	"pds": "https://pds.kittens.fyi/",
 	"labeler": null,
 	"firstSeenAt": 1777336761419,
-	"errorAt": null
+	"errorAt": 1784340715391
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://staging-pds.familiar.at/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784255861132
+	"errorAt": null
 }
