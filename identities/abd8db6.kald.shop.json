@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abd8db6.kald.shop",
 	"status": "online",
-	"firstSeenAt": 1784340715391,
-	"errorAt": null,
 	"hash": "lwI7qcd7BJC90h4C9vnuu5kZzgbWuiOungl_ygmt--o",
 	"pds": "https://asd.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1784340715391,
+	"errorAt": null
 }
