@@ -1,8 +1,8 @@
 {
 	"url": "https://asd.lasd.site/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1784255210476,
-	"errorAt": null
+	"errorAt": 1784516121908
 }

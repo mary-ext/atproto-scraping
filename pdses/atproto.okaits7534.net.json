@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.okaits7534.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782434973261,
-	"errorAt": null
+	"errorAt": 1784516121908
 }

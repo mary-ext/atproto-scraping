@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.latha.org/",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1777509625268,
-	"errorAt": null
+	"errorAt": 1784516121908
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.twonum.org/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779065074214,
-	"errorAt": 1784341349708
+	"errorAt": null
 }
