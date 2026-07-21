@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.tomasantonelli.ar/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780275089858,
-	"errorAt": 1784516121908
+	"errorAt": null
 }

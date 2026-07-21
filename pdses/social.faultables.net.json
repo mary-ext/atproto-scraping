@@ -1,8 +1,8 @@
 {
 	"url": "https://social.faultables.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.138",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784255861132
+	"errorAt": null
 }
