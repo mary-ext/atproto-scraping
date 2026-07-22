@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abd377b.kald.shop",
-	"status": "online",
+	"status": "offline",
 	"hash": "-TgAyskq-NsLPFMnmH1bMNRvCfN77MN7FFhZS3Y4gGA",
 	"pds": "https://az.lasd.site/",
 	"labeler": null,
 	"firstSeenAt": 1784515455306,
-	"errorAt": null
+	"errorAt": 1784687173853
 }

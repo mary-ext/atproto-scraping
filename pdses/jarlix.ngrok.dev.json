@@ -1,8 +1,8 @@
 {
 	"url": "https://jarlix.ngrok.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.18",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784168643232,
-	"errorAt": null
+	"errorAt": 1784687845021
 }

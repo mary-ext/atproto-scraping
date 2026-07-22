@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abdebbe.kald.shop",
-	"status": "online",
+	"status": "offline",
 	"hash": "6vBIuiWkq_WUmjy8Clus5_llx_GVjDaJKU6RInWDE5U",
 	"pds": "https://az.lasd.site/",
 	"labeler": null,
 	"firstSeenAt": 1784515455306,
-	"errorAt": null
+	"errorAt": 1784687173853
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.ripperoni.com/",
 	"did": "did:plc:hysbs7znfgxyb4tsvetzo4sk",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784516121908
+	"errorAt": null
 }

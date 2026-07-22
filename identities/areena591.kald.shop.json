@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areena591.kald.shop",
-	"status": "online",
-	"firstSeenAt": 1784600860531,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "EziGx3ZXJ-GOsrj4MBXpcrnrBYT4sMGsZA46hCjku0I",
 	"pds": "https://az.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1784600860531,
+	"errorAt": 1784687173853
 }

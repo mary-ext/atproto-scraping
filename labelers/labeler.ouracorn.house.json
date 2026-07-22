@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.ouracorn.house/",
 	"did": "did:plc:dkv6mbtinydemx62wvaottxw",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1783995155094,
-	"errorAt": null
+	"errorAt": 1784687845021
 }
