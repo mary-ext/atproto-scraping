@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bas.sh/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774830636487,
-	"errorAt": 1784687845021
+	"errorAt": null
 }

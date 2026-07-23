@@ -1,7 +1,7 @@
 {
 	"url": "https://bsky.aenead.net/",
 	"status": "online",
-	"version": "0.4.208",
+	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
