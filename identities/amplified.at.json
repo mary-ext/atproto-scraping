@@ -1,9 +1,9 @@
 {
 	"did": "did:web:amplified.at",
 	"status": "online",
-	"firstSeenAt": 1784773885207,
-	"errorAt": null,
 	"hash": "GUCR9uW7z6zzW7bO_fYOV6fvZVZjiN5PFlqC8KClErI",
 	"pds": "https://repo.works/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1784773885207,
+	"errorAt": null
 }

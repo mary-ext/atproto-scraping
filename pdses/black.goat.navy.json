@@ -1,8 +1,8 @@
 {
 	"url": "https://black.goat.navy/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.3.0-beta.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784773885207,
-	"errorAt": null
+	"errorAt": 1784860733930
 }

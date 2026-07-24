@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.largemike.tech/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782607729398,
-	"errorAt": 1784774548023
+	"errorAt": null
 }
