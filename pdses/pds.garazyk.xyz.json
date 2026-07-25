@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.garazyk.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784255861132
+	"errorAt": null
 }

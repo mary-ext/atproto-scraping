@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-demo.same.supply/",
-	"status": "online",
+	"status": "offline",
 	"version": "cirrus 0.18.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1781052695768,
-	"errorAt": null
+	"errorAt": 1784947051839
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bluesky.thispilot.ru/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.19",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784860733930
+	"errorAt": null
 }

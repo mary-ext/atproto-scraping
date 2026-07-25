@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.goat.navy/",
 	"status": "online",
-	"version": "cocoon v0.10-6-g0a7746b",
+	"version": "cocoon dev-56d920a81",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784687173853,
 	"errorAt": null
