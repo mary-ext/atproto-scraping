@@ -1,7 +1,7 @@
 {
 	"url": "https://ezpds-staging.up.railway.app/",
 	"status": "online",
-	"version": "custos v0.8.1",
+	"version": "custos v0.8.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782175656469,
 	"errorAt": null

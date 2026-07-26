@@ -1,9 +1,9 @@
 {
 	"did": "did:web:malpercio.dev",
 	"status": "online",
-	"firstSeenAt": 1784946385136,
-	"errorAt": null,
 	"hash": "dK8WXHRS7XXGXDZKrTpELXGOLBYC-i0E_3bOeArDDO0",
 	"pds": "https://pds.obsign.org/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1784946385136,
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://csw.im/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782780472125,
-	"errorAt": 1784947051839
+	"errorAt": null
 }

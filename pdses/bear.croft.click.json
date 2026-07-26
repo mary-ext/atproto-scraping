@@ -1,8 +1,8 @@
 {
 	"url": "https://bear.croft.click/",
-	"status": "offline",
-	"version": "0.2.7",
+	"status": "online",
+	"version": "0.3.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1784860073638,
-	"errorAt": 1784947051839
+	"errorAt": null
 }
