@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds.atproto.la",
-	"status": "online",
+	"status": "offline",
 	"hash": "-EBOtwzpBqrZj4z1r4UQ2r5uSmV5udQ5Hd3vcUK5Xgw",
 	"pds": "https://airlock.ltd/",
 	"labeler": null,
 	"firstSeenAt": 1777336761419,
-	"errorAt": null
+	"errorAt": 1785120066926
 }

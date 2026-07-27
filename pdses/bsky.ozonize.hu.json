@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.ozonize.hu/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1785033801360
+	"errorAt": null
 }
