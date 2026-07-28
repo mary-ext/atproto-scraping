@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil.mosphere.at/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.3.1",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1784601529733
+	"errorAt": null
 }

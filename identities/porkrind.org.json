@@ -1,9 +1,9 @@
 {
 	"did": "did:web:porkrind.org",
 	"status": "online",
-	"firstSeenAt": 1785120066926,
-	"errorAt": null,
-	"hash": "IAKVqh3dtdJ-89Hz-fT_3pnYKivzgEvTQpBch45csas",
+	"hash": "MNTEdDDjnOVQ5H2ND-oQ7WoJl1cfunaM1ObvbX-bBrA",
 	"pds": "https://at.squawk.zone/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1785120066926,
+	"errorAt": null
 }

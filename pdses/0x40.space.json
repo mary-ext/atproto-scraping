@@ -1,8 +1,8 @@
 {
 	"url": "https://0x40.space/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783736822669,
-	"errorAt": 1784947051839
+	"errorAt": null
 }
