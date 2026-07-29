@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.klochwork.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779324444498,
-	"errorAt": null
+	"errorAt": 1785292612615
 }

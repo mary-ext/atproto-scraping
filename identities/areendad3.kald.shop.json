@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areendad3.kald.shop",
 	"status": "online",
-	"firstSeenAt": 1785205272583,
-	"errorAt": null,
 	"hash": "wtoMmUfuHjRvR8uLMRFfcCu5QXUKGjv1tAM19Lx-aV0",
 	"pds": "https://ana.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1785205272583,
+	"errorAt": null
 }

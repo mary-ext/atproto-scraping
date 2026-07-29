@@ -1,8 +1,8 @@
 {
 	"url": "https://r2tn-ozone.us-east-1.gay/",
 	"did": "did:plc:r67kluzdheusnbkbim32sb2k",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1785292612615
 }
