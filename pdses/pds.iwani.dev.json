@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.iwani.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1785292612615
+	"errorAt": null
 }

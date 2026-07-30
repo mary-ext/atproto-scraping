@@ -1,0 +1,9 @@
+{
+	"did": "did:web:catbus.run",
+	"status": "online",
+	"firstSeenAt": 1785377252406,
+	"errorAt": null,
+	"hash": "zTg9VGJYBHn1WM5whe0vorrqydC99xD89kN-UtPsOUQ",
+	"pds": "https://at.ricci.social/",
+	"labeler": null
+}

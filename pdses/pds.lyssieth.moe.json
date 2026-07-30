@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.lyssieth.moe/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777855213099,
-	"errorAt": null
+	"errorAt": 1785377913603
 }
