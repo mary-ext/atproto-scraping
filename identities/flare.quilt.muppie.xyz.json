@@ -1,9 +1,9 @@
 {
 	"did": "did:web:flare.quilt.muppie.xyz",
-	"status": "online",
+	"status": "offline",
 	"hash": "9BcRx29UzRI2EyyyeDjw5xx_8UyGQ0CHUtgTzJx_zQ0",
 	"pds": "https://quilt.muppie.xyz/",
 	"labeler": null,
 	"firstSeenAt": 1783046694041,
-	"errorAt": null
+	"errorAt": 1785465325585
 }

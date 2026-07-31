@@ -1,9 +1,9 @@
 {
 	"did": "did:web:frantzfanon.id.worklyn.social",
 	"status": "online",
-	"firstSeenAt": 1785377252406,
-	"errorAt": null,
 	"hash": "RNpp4--Ew-HrIlHDJ6nDBrtMUYcbP4Kc1N1LW1V_6aU",
 	"pds": "https://pds.worklyn.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1785377252406,
+	"errorAt": null
 }

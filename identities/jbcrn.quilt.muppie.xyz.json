@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jbcrn.quilt.muppie.xyz",
-	"status": "online",
+	"status": "offline",
 	"hash": "fjgLnaVkzDVq74olre91ApgO4aq4C1hmGnaB_XOaqXw",
 	"pds": "https://quilt.muppie.xyz/",
 	"labeler": null,
 	"firstSeenAt": 1781830715691,
-	"errorAt": null
+	"errorAt": 1785465325585
 }
