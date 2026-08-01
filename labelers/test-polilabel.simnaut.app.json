@@ -1,7 +1,7 @@
 {
 	"url": "https://test-polilabel.simnaut.app/",
 	"did": "did:web:test-polilabel.simnaut.app",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1783910035353,
-	"errorAt": 1785377913603
+	"errorAt": null
 }

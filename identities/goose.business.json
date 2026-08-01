@@ -1,9 +1,9 @@
 {
 	"did": "did:web:goose.business",
 	"status": "online",
-	"firstSeenAt": 1785465325585,
-	"errorAt": null,
 	"hash": "tzK5Z8bKg3BTYLgqzocKp6Mm2-jg8PonspPyAIX1x_k",
 	"pds": "https://cheeky.town/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1785465325585,
+	"errorAt": null
 }
