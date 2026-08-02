@@ -1,7 +1,7 @@
 {
 	"url": "https://bb.bsky.natalie.ee/",
 	"did": "did:plc:myxjzrdb27gkjpkcqjazpiod",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1785033190799,
-	"errorAt": 1785552374929
+	"errorAt": null
 }

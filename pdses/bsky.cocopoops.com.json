@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.cocopoops.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.59",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1785552374929
+	"errorAt": null
 }

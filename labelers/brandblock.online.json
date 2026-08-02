@@ -1,8 +1,8 @@
 {
 	"url": "https://brandblock.online/",
 	"did": "did:plc:q7hoo5a3ayahlkfhmclitzel",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.84",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1785638628314
 }

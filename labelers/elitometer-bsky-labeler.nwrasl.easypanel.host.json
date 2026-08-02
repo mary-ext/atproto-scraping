@@ -1,7 +1,7 @@
 {
 	"url": "https://elitometer-bsky-labeler.nwrasl.easypanel.host/",
 	"did": "did:plc:5zzaepmo6oq57ifawzth2idz",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1785638628314
 }
