@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.vrypan.net/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "robby/0.1.0",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1785033190799,
-	"errorAt": 1785033801360
+	"errorAt": null
 }

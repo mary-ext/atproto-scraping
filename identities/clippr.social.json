@@ -1,9 +1,9 @@
 {
 	"did": "did:web:clippr.social",
-	"status": "online",
+	"status": "offline",
 	"hash": "3QFOIYy9SEC3-LLyZ3iEs8npySIxhNT1NCVv3VpjErI",
 	"pds": "https://pds.popbob.wtf/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1785724480444
 }

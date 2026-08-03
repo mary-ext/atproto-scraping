@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.subcult.tv/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784515455306,
-	"errorAt": null
+	"errorAt": 1785725128597
 }
