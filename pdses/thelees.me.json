@@ -1,8 +1,8 @@
 {
 	"url": "https://thelees.me/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1785725128597
+	"errorAt": null
 }
