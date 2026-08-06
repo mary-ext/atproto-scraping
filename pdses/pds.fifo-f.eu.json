@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.fifo-f.eu/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783565137684,
-	"errorAt": 1785725128597
+	"errorAt": null
 }

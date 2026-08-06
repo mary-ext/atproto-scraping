@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.moddy.app/",
 	"did": "did:plc:roiub6lpsvidb6eb62t6unao",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1775608267966,
-	"errorAt": 1785810508456
+	"errorAt": null
 }
