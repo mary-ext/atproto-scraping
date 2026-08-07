@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.chickadeelookout.one/",
-	"status": "offline",
-	"version": "tranquil 0.6.5",
+	"status": "online",
+	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781225637400,
-	"errorAt": 1785983570186
+	"errorAt": null
 }

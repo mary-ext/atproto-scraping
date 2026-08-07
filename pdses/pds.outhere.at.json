@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.outhere.at/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779065074214,
-	"errorAt": null
+	"errorAt": 1786070563802
 }
