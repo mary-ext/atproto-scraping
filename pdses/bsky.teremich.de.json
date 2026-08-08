@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.teremich.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775089652546,
-	"errorAt": null
+	"errorAt": 1786152733202
 }

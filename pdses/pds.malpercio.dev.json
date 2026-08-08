@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.malpercio.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784340715391,
-	"errorAt": 1786070563802
+	"errorAt": null
 }
