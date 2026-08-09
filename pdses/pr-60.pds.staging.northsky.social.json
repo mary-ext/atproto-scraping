@@ -1,8 +1,8 @@
 {
 	"url": "https://pr-60.pds.staging.northsky.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786069900823,
-	"errorAt": null
+	"errorAt": 1786239399606
 }

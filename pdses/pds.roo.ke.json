@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.roo.ke/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5001",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1786152733202
+	"errorAt": null
 }

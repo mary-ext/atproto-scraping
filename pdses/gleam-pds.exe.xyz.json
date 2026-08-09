@@ -1,6 +1,8 @@
 {
 	"url": "https://gleam-pds.exe.xyz/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.1.0",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1785205272583,
-	"errorAt": 1785205907353
+	"errorAt": null
 }

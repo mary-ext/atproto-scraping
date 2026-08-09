@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.bluesky.docker.house/",
 	"status": "online",
-	"version": "0.5.24",
+	"version": "0.5.26",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

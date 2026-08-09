@@ -1,9 +1,9 @@
 {
 	"did": "did:web:corviform.gay",
-	"status": "online",
+	"status": "offline",
 	"hash": "a0gwJBuzaIV3KY8sjivdSQ01P8eh6XdSeBBd8bUBK2g",
 	"pds": "https://social.corviform.gay/",
 	"labeler": null,
 	"firstSeenAt": 1781139050507,
-	"errorAt": null
+	"errorAt": 1786238779920
 }
