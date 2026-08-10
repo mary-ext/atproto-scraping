@@ -1,8 +1,8 @@
 {
 	"url": "https://pixelzx.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5026",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785982902417,
-	"errorAt": 1786239399606
+	"errorAt": null
 }

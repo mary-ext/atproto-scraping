@@ -1,9 +1,9 @@
 {
 	"did": "did:web:murrax.dev",
-	"status": "online",
+	"status": "offline",
 	"hash": "_mu9EjYqGEKCBXY02INzD9LS1jtEO_USZGk15fAlAhg",
 	"pds": "https://murrax.dev/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1786325298483
 }

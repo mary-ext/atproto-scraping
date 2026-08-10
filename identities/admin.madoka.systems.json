@@ -1,9 +1,9 @@
 {
 	"did": "did:web:admin.madoka.systems",
-	"status": "online",
+	"status": "offline",
 	"hash": "nBp5E95muHf2-QWOFBGgY66mQjxcDAyQZ_0ro2aO1QE",
 	"pds": "https://pds.pckt.cafe/",
 	"labeler": null,
 	"firstSeenAt": 1774139250670,
-	"errorAt": null
+	"errorAt": 1786325298483
 }
