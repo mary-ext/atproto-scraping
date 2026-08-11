@@ -1,8 +1,8 @@
 {
 	"url": "https://tism.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784687173853,
-	"errorAt": null
+	"errorAt": 1786412221584
 }

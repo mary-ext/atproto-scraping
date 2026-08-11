@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil.cerulea.blue/",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774225746283,
-	"errorAt": null
+	"errorAt": 1786412221584
 }
