@@ -1,8 +1,8 @@
 {
 	"url": "https://at.rysieko.pl/",
-	"status": "offline",
-	"version": "tranquil 0.6.4",
+	"status": "online",
+	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783995155094,
-	"errorAt": 1786412221584
+	"errorAt": null
 }
