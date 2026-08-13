@@ -1,7 +1,7 @@
 {
 	"url": "https://swan.place/",
 	"status": "online",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1786499006861,
 	"errorAt": null
 }

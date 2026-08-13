@@ -1,8 +1,8 @@
 {
 	"url": "https://demo-labeler.bsky.sh/",
 	"did": "did:plc:m2gxxmtdgygsrommldrsggtw",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1786586277054
 }

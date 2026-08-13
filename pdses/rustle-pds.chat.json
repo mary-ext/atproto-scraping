@@ -1,8 +1,8 @@
 {
 	"url": "https://rustle-pds.chat/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780879933258,
-	"errorAt": null
+	"errorAt": 1786586277054
 }

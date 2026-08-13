@@ -1,8 +1,8 @@
 {
 	"url": "https://testpds.hiina.space/",
-	"status": "offline",
-	"version": "0.4.5026",
+	"status": "online",
+	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778114370224,
-	"errorAt": 1786499683258
+	"errorAt": null
 }

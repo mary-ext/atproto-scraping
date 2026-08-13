@@ -1,8 +1,8 @@
 {
 	"url": "https://filmstar.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1783392736285,
-	"errorAt": null
+	"errorAt": 1786586277054
 }

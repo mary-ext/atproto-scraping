@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.cafearound.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782607729398,
-	"errorAt": null
+	"errorAt": 1786586277054
 }
