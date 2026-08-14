@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sathani.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5026",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773914454970,
-	"errorAt": 1786586277054
+	"errorAt": null
 }

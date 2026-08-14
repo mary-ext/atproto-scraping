@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ah-web.org/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777509625268,
-	"errorAt": 1786586277054
+	"errorAt": null
 }

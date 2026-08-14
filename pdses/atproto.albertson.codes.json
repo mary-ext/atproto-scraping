@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.albertson.codes/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785551634815,
-	"errorAt": null
+	"errorAt": 1786672479716
 }
