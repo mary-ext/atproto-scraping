@@ -1,8 +1,8 @@
 {
 	"did": "did:web:iam.ruuuuu.de",
 	"status": "online",
-	"hash": "TFnhCblbQ-amii2gC-aLfU2PkmHw125ceYLY_bqCbyk",
-	"pds": "https://blacksky.app/",
+	"hash": "YfSPpd7VmagVjDW72hSqxVtIV6R9vYKIMUwl4D6dKMw",
+	"pds": "https://dev.pds.blackstar.quest/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

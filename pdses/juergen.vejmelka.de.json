@@ -1,8 +1,8 @@
 {
 	"url": "https://juergen.vejmelka.de/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.107",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782003253067,
-	"errorAt": 1786672479716
+	"errorAt": null
 }
