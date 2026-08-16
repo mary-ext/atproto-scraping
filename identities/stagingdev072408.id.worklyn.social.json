@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stagingdev072408.id.worklyn.social",
-	"status": "online",
+	"status": "offline",
 	"hash": "fE0-NyYu32oWLSovs8zlQLgRioBd0ZaoDbE2lWjgC7I",
 	"pds": "https://pds.worklyn.me/",
 	"labeler": null,
 	"firstSeenAt": 1785377252406,
-	"errorAt": null
+	"errorAt": 1786842484663
 }

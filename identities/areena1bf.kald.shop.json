@@ -1,6 +1,9 @@
 {
 	"did": "did:web:areena1bf.kald.shop",
-	"status": "unreachable",
+	"status": "online",
+	"hash": "X9I1ze0Ja1bPZqLLCoGsw1_eaA194laQ2AsFsamylNk",
+	"pds": "https://anas.lasd.site/",
+	"labeler": null,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1786671804529
+	"errorAt": null
 }

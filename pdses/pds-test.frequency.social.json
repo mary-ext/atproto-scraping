@@ -1,7 +1,7 @@
 {
 	"url": "https://pds-test.frequency.social/",
 	"status": "online",
-	"version": "0.15.0-rc.4+ts1786646842",
+	"version": "0.15.0-rc.4+ts1786820978",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786671804529,
 	"errorAt": null

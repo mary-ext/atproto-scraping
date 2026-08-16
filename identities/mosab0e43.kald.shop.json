@@ -1,6 +1,9 @@
 {
 	"did": "did:web:mosab0e43.kald.shop",
-	"status": "unreachable",
+	"status": "online",
+	"hash": "KXOs9e4vNRuidJbiXxlVUg_r8rBYzoWsdgpAKXMjd4g",
+	"pds": "https://anas.lasd.site/",
+	"labeler": null,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1786671804529
+	"errorAt": null
 }

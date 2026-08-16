@@ -1,8 +1,8 @@
 {
 	"url": "https://mod.yunya.pet/",
 	"did": "did:plc:gsyd3gta5usbdwtcnlmh7mou",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.159",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1786843131909
 }
