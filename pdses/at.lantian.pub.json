@@ -1,8 +1,8 @@
 {
 	"url": "https://at.lantian.pub/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785896019924,
-	"errorAt": null
+	"errorAt": 1786929276090
 }
