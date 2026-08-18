@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.petalcat.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1778891980688,
-	"errorAt": 1786929276090
+	"errorAt": null
 }

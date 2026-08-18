@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ebil.club/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774657648880,
-	"errorAt": null
+	"errorAt": 1787015715486
 }
