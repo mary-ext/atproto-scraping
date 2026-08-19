@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-staging.dsaslate.us/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1783736822669,
-	"errorAt": null
+	"errorAt": 1787102163057
 }

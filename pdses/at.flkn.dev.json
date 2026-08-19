@@ -1,8 +1,8 @@
 {
 	"url": "https://at.flkn.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781744035026,
-	"errorAt": 1787015715486
+	"errorAt": null
 }

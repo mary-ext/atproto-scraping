@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky-labeler-production.up.railway.app/",
 	"did": "did:plc:qhed3m2uw3mqcv5lgtvlyog5",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.174",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787015715486
+	"errorAt": null
 }

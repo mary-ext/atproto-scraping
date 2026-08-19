@@ -1,8 +1,8 @@
 {
 	"url": "https://id.mytinygiraffe.com/",
-	"status": "offline",
-	"version": "0.4.5009",
+	"status": "online",
+	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786238779920,
-	"errorAt": 1787015715486
+	"errorAt": null
 }
