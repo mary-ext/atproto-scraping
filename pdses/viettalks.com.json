@@ -1,8 +1,8 @@
 {
 	"url": "https://viettalks.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1787015025689,
-	"errorAt": null
+	"errorAt": 1787188544265
 }

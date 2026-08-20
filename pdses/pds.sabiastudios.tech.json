@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sabiastudios.tech/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785982902417,
-	"errorAt": 1787102163057
+	"errorAt": null
 }

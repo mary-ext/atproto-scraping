@@ -1,8 +1,8 @@
 {
 	"url": "https://ashy.at/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786069900823,
-	"errorAt": 1787102163057
+	"errorAt": null
 }

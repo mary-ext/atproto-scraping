@@ -1,7 +1,8 @@
 {
 	"url": "https://labels.fairfate.com/",
 	"did": "did:plc:yehb6js3fd3w7gprvkl4cd4j",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.2.0",
 	"firstSeenAt": 1787101476020,
-	"errorAt": 1787102163057
+	"errorAt": null
 }

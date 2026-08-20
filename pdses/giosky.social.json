@@ -1,8 +1,8 @@
 {
 	"url": "https://giosky.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787102163057
+	"errorAt": null
 }
