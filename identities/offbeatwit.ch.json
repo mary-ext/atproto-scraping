@@ -1,8 +1,8 @@
 {
 	"did": "did:web:offbeatwit.ch",
 	"status": "offline",
-	"hash": "fdWcq_wIUFeBPXelubvDJYEO60JgD8FJXK8vQFQd-RE",
-	"pds": "https://bsky.j0.lol/",
+	"hash": "9bmNwniQzQhYHRa3-npMHRSxhb6GDanOy2HuhUW_IWI",
+	"pds": "https://pds.offbeatwit.ch/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

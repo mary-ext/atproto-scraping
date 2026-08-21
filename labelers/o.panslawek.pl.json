@@ -1,8 +1,8 @@
 {
 	"url": "https://o.panslawek.pl/",
 	"did": "did:plc:iwgztlbtspo6bjy25qgcllqi",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787102163057
+	"errorAt": null
 }

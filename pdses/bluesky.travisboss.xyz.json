@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky.travisboss.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787188544265
+	"errorAt": null
 }

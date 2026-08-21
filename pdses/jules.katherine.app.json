@@ -1,8 +1,8 @@
 {
 	"url": "https://jules.katherine.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon 60d86b7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777509625268,
-	"errorAt": null
+	"errorAt": 1787275103216
 }

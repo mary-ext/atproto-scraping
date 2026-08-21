@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.feldbach.haus/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778460152353,
-	"errorAt": 1787188544265
+	"errorAt": null
 }
