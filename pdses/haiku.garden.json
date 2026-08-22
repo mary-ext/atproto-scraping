@@ -1,8 +1,8 @@
 {
 	"url": "https://haiku.garden/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781830715691,
-	"errorAt": 1787275103216
+	"errorAt": null
 }

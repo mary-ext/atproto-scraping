@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.justzvan.xyz/",
-	"status": "offline",
-	"version": "cocoon d3a57d1",
+	"status": "online",
+	"version": "cocoon 0.10.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783477742007,
-	"errorAt": 1787275103216
+	"errorAt": null
 }
