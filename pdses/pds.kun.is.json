@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.kun.is/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "tranquil 0.6.6",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1787015025689,
-	"errorAt": 1787015715486
+	"errorAt": null
 }

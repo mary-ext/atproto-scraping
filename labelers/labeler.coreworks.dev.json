@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.coreworks.dev/",
 	"did": "did:plc:756uwa72xp4hthse7njk7dl7",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1785291916073,
-	"errorAt": null
+	"errorAt": 1787447962210
 }
