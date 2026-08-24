@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sims.computer/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.26",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787101476020,
-	"errorAt": 1787447962210
+	"errorAt": null
 }

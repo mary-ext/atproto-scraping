@@ -1,7 +1,7 @@
 {
 	"url": "https://persona.spirallex.com/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1781052695768,
-	"errorAt": 1787447962210
+	"errorAt": null
 }

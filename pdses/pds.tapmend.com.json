@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.tapmend.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.27",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1787274445808,
-	"errorAt": null
+	"errorAt": 1787534241652
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:id.maclong.dev",
-	"status": "online",
+	"status": "offline",
 	"hash": "pPktFrj4tbMYVoVsqm3GJdmfc7-M7Ts4LgWzK-xh9tE",
 	"pds": "https://id.maclong.dev/",
 	"labeler": null,
 	"firstSeenAt": 1785724480444,
-	"errorAt": null
+	"errorAt": 1787533613154
 }

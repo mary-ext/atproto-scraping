@@ -1,9 +1,9 @@
 {
 	"did": "did:web:daroche.me",
 	"status": "online",
-	"firstSeenAt": 1787447347760,
-	"errorAt": null,
 	"hash": "27uhS4psP2RZESlBPMkenrfVOM5keEvI9wDlsx5PZQ0",
 	"pds": "https://pds.daroche.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1787447347760,
+	"errorAt": null
 }
