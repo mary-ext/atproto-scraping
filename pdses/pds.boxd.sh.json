@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.boxd.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1785809857866,
-	"errorAt": null
+	"errorAt": 1787620642086
 }

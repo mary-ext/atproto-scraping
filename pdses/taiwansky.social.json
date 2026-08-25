@@ -1,7 +1,7 @@
 {
 	"url": "https://taiwansky.social/",
 	"status": "online",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1787360630711,
 	"errorAt": null
 }

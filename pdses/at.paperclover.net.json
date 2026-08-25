@@ -1,8 +1,8 @@
 {
 	"url": "https://at.paperclover.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1778719485853,
-	"errorAt": 1787534241652
+	"errorAt": null
 }
