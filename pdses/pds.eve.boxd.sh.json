@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.eve.boxd.sh/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1784773885207,
-	"errorAt": 1787620642086
+	"errorAt": null
 }

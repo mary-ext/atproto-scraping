@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.blinky.social/",
 	"did": "did:plc:rzpimgjeftg4omaqhijxpuad",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1785120066926,
-	"errorAt": null
+	"errorAt": 1787707172935
 }

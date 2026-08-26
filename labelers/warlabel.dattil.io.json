@@ -1,8 +1,8 @@
 {
 	"url": "https://warlabel.dattil.io/",
 	"did": "did:plc:mpogduvvraozdcbp6w2lafqg",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1787707172935
 }

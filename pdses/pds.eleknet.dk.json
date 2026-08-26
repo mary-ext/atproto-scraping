@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.eleknet.dk/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.67",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787620642086
+	"errorAt": null
 }

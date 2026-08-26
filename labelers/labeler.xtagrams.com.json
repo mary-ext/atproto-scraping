@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.xtagrams.com/",
 	"did": "did:plc:2shaxgri6iymni5btu6q6gxz",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1787533613154,
-	"errorAt": null
+	"errorAt": 1787707172935
 }

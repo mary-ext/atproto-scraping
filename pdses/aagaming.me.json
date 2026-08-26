@@ -1,8 +1,8 @@
 {
 	"url": "https://aagaming.me/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5006",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787620642086
+	"errorAt": null
 }
