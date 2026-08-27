@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.crimes0n.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783306696221,
-	"errorAt": null
+	"errorAt": 1787815842888
 }
