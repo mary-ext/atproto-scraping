@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.ekamdor.social/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775867322879,
-	"errorAt": 1787815842888
+	"errorAt": null
 }
