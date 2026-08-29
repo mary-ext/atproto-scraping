@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.ee/",
-	"status": "offline",
+	"status": "online",
 	"version": ":trollface:",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787910123258
+	"errorAt": null
 }

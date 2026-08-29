@@ -1,8 +1,8 @@
 {
 	"url": "https://lichen-pds.gtest.commoninternet.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787274445808,
-	"errorAt": null
+	"errorAt": 1787982397266
 }

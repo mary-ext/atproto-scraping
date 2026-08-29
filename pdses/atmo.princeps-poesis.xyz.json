@@ -1,8 +1,8 @@
 {
 	"url": "https://atmo.princeps-poesis.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784600860531,
-	"errorAt": null
+	"errorAt": 1787982397266
 }

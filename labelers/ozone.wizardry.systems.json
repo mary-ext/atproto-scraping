@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.wizardry.systems/",
 	"did": "did:plc:yfklixyvt4y3irrkdb4mtvqn",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.159",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1787982397266
 }

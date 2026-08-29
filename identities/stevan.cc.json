@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stevan.cc",
 	"status": "online",
-	"firstSeenAt": 1787909412523,
-	"errorAt": null,
 	"hash": "eIzW76ltQ6T7_0fFBjpV5sNi9I9u5cSNfvN9GMaj9lI",
 	"pds": "https://pds.freeborn.cloud/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1787909412523,
+	"errorAt": null
 }
