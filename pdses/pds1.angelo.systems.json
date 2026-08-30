@@ -1,8 +1,8 @@
 {
 	"url": "https://pds1.angelo.systems/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1787982397266
+	"errorAt": null
 }

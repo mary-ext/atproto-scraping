@@ -1,8 +1,8 @@
 {
 	"url": "https://lebel.ebil.club/",
 	"did": "did:plc:nwrcwcrhpkgrqqvkg3lmaqky",
-	"status": "offline",
+	"status": "online",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787707172935
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.gamefan.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774398402743,
-	"errorAt": 1787982397266
+	"errorAt": null
 }

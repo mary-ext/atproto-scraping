@@ -1,8 +1,8 @@
 {
 	"url": "https://kod.ac/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782780472125,
-	"errorAt": null
+	"errorAt": 1788061546125
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.xtagrams.com/",
 	"did": "did:plc:to3stypztmjoyqomymler32b",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1787814983193,
-	"errorAt": null
+	"errorAt": 1788061546125
 }
