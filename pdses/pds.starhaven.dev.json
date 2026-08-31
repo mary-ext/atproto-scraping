@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.starhaven.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.4.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1787910123258
+	"errorAt": null
 }

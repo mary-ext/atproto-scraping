@@ -1,8 +1,8 @@
 {
 	"url": "https://oauth-oauth-test.edriffles.us/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.29",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1787981799706,
-	"errorAt": 1788061546125
+	"errorAt": null
 }

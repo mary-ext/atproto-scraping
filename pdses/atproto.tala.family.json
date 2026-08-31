@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.tala.family/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785896019924,
-	"errorAt": null
+	"errorAt": 1788147996891
 }
