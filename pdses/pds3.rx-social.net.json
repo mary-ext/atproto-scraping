@@ -1,8 +1,8 @@
 {
 	"url": "https://pds3.rx-social.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786585549452,
-	"errorAt": 1788061546125
+	"errorAt": null
 }

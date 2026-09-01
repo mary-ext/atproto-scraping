@@ -1,8 +1,8 @@
 {
 	"url": "https://spaces-alpha.zamsmarkey.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.29",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787814983193,
-	"errorAt": null
+	"errorAt": 1788234215492
 }

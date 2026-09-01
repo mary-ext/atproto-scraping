@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nohandle.wisp.place",
-	"status": "online",
+	"status": "offline",
 	"hash": "e2GDfZlZ7hPfXAdS7NDagahsd3SA6f1O5tOFEjmkx0w",
 	"pds": "https://iameli.com/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1788233551312
 }

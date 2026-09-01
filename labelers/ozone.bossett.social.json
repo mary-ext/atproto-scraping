@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.bossett.social/",
 	"did": "did:plc:i65enriuag7n5fgkopbqtkyk",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788147996891
+	"errorAt": null
 }

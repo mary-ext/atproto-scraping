@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.floscodes.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780448260688,
-	"errorAt": 1788147996891
+	"errorAt": null
 }

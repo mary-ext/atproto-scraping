@@ -1,9 +1,9 @@
 {
 	"did": "did:web:didweb.scumb.ag",
-	"status": "online",
+	"status": "offline",
 	"hash": "BxHol-T6mteNXNSkDd-CV5w_fk4WWfwGIWIqInUY1t8",
 	"pds": "https://iameli.com/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1788233551312
 }

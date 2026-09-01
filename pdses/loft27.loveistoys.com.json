@@ -1,8 +1,8 @@
 {
 	"url": "https://loft27.loveistoys.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.29",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788147354245,
-	"errorAt": null
+	"errorAt": 1788234215492
 }

@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.woodstar.app/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787101476020,
-	"errorAt": 1787982397266
+	"errorAt": null
 }
