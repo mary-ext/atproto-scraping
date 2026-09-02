@@ -1,8 +1,8 @@
 {
 	"url": "https://pds1-us-west-host.solidar.network/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.218",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788234215492
+	"errorAt": null
 }

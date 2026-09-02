@@ -1,8 +1,8 @@
 {
 	"url": "https://trustcon-labeler.fly.dev/",
 	"did": "did:plc:5jv4bzk2pitgnypnqjdcgpom",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1783995155094,
-	"errorAt": null
+	"errorAt": 1788318049802
 }

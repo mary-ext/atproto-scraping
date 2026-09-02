@@ -1,8 +1,8 @@
 {
 	"url": "https://ao.oyster.cafe/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779670034628,
-	"errorAt": 1788234215492
+	"errorAt": null
 }

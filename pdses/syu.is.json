@@ -1,8 +1,8 @@
 {
 	"url": "https://syu.is/",
-	"status": "offline",
-	"version": "0.5.29",
+	"status": "online",
+	"version": "0.5.31",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788234215492
+	"errorAt": null
 }
