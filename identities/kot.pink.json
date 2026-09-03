@@ -1,9 +1,9 @@
 {
 	"did": "did:web:kot.pink",
-	"status": "online",
+	"status": "offline",
 	"hash": "jG7E6jBYCfga9MiM4yW_0XDp9gUv7eNcmVYETcnLiLs",
 	"pds": "https://meowgirls.net/",
 	"labeler": null,
 	"firstSeenAt": 1775176168703,
-	"errorAt": null
+	"errorAt": 1788404077006
 }

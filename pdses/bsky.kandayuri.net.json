@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.kandayuri.net/",
-	"status": "offline",
-	"version": "0.4.5027",
+	"status": "online",
+	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787447347760,
-	"errorAt": 1788318049802
+	"errorAt": null
 }

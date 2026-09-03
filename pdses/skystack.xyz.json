@@ -1,8 +1,8 @@
 {
 	"url": "https://skystack.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.0.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788318049802
+	"errorAt": null
 }

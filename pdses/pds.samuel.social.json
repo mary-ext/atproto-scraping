@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.samuel.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786069900823,
-	"errorAt": 1788318049802
+	"errorAt": null
 }

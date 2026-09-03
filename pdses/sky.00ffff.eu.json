@@ -1,8 +1,8 @@
 {
 	"url": "https://sky.00ffff.eu/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1788234215492
+	"errorAt": null
 }

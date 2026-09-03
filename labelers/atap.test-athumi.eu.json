@@ -1,7 +1,7 @@
 {
 	"url": "https://atap.test-athumi.eu/",
 	"did": "did:plc:rxm3vyv47lskp72vhv4m77k6",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1787706480239,
-	"errorAt": 1787982397266
+	"errorAt": null
 }

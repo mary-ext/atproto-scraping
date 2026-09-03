@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.feets.co.nz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783651728603,
-	"errorAt": 1788318049802
+	"errorAt": null
 }

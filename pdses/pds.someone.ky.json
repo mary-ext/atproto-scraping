@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.someone.ky/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777077162909,
-	"errorAt": 1788318049802
+	"errorAt": null
 }

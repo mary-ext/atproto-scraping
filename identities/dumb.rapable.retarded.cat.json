@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dumb.rapable.retarded.cat",
-	"status": "online",
+	"status": "offline",
 	"hash": "dMDZCfQ_7-A1unNDnJgqZxcHpVXazC9vUR6OH8sc2k8",
 	"pds": "https://sharkgirl.pet/",
 	"labeler": null,
 	"firstSeenAt": 1780793461882,
-	"errorAt": null
+	"errorAt": 1788404077006
 }
