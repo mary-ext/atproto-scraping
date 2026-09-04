@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.frm.ink/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1784428135598,
-	"errorAt": null
+	"errorAt": 1788491062715
 }

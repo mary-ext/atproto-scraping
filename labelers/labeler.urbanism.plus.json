@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.urbanism.plus/",
 	"did": "did:plc:c5d5thu6uwhb5odxgk7ejvni",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1788491062715
 }

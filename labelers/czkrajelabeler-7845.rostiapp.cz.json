@@ -1,8 +1,8 @@
 {
 	"url": "https://czkrajelabeler-7845.rostiapp.cz/",
 	"did": "did:plc:yxuxzi4hpnovvszinzn33dp3",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788404722719
+	"errorAt": null
 }
