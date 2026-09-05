@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ppcol.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.208",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774398402743,
-	"errorAt": null
+	"errorAt": 1788577595680
 }

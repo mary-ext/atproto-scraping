@@ -2,7 +2,7 @@
 	"url": "https://tolerance.group/",
 	"status": "online",
 	"version": "0.4.208",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1776040409244,
 	"errorAt": null
 }

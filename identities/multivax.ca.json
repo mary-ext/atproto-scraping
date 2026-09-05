@@ -1,0 +1,9 @@
+{
+	"did": "did:web:multivax.ca",
+	"status": "online",
+	"firstSeenAt": 1788576952712,
+	"errorAt": null,
+	"hash": "ti_1BTn55X-rEOC5pfTpSLTzugg6vV-xVUPuy_b1_uo",
+	"pds": "https://pds.multivax.ca/",
+	"labeler": null
+}
