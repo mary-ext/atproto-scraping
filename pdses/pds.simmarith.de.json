@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.simmarith.de/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781830715691,
-	"errorAt": 1788577595680
+	"errorAt": null
 }

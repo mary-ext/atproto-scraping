@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.pollen.place/",
-	"status": "offline",
-	"version": "tranquil 0.6.0",
+	"status": "online",
+	"version": "tranquil 0.6.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774916948798,
-	"errorAt": 1788577595680
+	"errorAt": null
 }

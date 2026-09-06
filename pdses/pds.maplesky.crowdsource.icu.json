@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.maplesky.crowdsource.icu/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787909412523,
-	"errorAt": null
+	"errorAt": 1788663894795
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:id.karlbrig.ht",
+	"status": "online",
+	"firstSeenAt": 1788663288554,
+	"errorAt": null,
+	"hash": "mZPhwe-6vD-EvO6FUbMH9vgWIYHyErM8cgUGIVLhIvw",
+	"pds": "https://id.karlbrig.ht/",
+	"labeler": null
+}
