@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areenae48.kald.shop",
 	"status": "online",
-	"firstSeenAt": 1788663288554,
-	"errorAt": null,
 	"hash": "4Xm59IkHdynMHQ7NS3ALGvAjpUGFTrfMj0wz-A7ad70",
 	"pds": "https://anas.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1788663288554,
+	"errorAt": null
 }

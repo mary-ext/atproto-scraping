@@ -1,8 +1,8 @@
 {
 	"url": "https://decaquad.ddns.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1781744035026,
-	"errorAt": null
+	"errorAt": 1788750126346
 }

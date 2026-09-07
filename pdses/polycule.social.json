@@ -1,7 +1,7 @@
 {
 	"url": "https://polycule.social/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783392736285,
-	"errorAt": 1788577595680
+	"errorAt": null
 }

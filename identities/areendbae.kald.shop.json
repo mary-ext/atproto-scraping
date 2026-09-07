@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areendbae.kald.shop",
 	"status": "online",
-	"firstSeenAt": 1788663288554,
-	"errorAt": null,
 	"hash": "Wzxdb7uHW8YN6_UUwi1vIU_0W7uTpzcDFhWEYUAwya4",
 	"pds": "https://anas.lasd.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1788663288554,
+	"errorAt": null
 }
