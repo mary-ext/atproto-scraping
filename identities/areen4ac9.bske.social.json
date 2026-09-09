@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areen4ac9.bske.social",
-	"status": "online",
-	"firstSeenAt": 1788836507982,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "_-0gWC-OrM28M_jJ4cyWZzySiDblpgVhlhlEBS2-QSw",
 	"pds": "https://ai.aidgaza.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1788836507982,
+	"errorAt": 1788922976720
 }
