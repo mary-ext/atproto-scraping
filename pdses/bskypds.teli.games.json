@@ -1,8 +1,8 @@
 {
 	"url": "https://bskypds.teli.games/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.182",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787274445808,
-	"errorAt": 1788491062715
+	"errorAt": null
 }

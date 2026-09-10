@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.skywatch.blue/",
 	"did": "did:plc:e4elbtctnfqocyfcml6h2lf7",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1789010123018
 }
