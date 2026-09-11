@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areend580.bske.social",
 	"status": "online",
-	"firstSeenAt": 1789009412454,
-	"errorAt": null,
 	"hash": "bLNQzG9_fqdHKlTNx0XHHJVWo9evkIgnjf-io9QZ5vM",
 	"pds": "https://ai0.aidgaza.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789009412454,
+	"errorAt": null
 }

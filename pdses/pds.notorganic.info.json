@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.notorganic.info/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.219",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1788749518435,
-	"errorAt": 1788750126346
+	"errorAt": null
 }

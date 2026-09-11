@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.rat.beauty/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788147354245,
-	"errorAt": null
+	"errorAt": 1789096219241
 }
