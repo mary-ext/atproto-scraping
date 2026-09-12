@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky.kiefer.dk/",
-	"status": "offline",
-	"version": "0.4.5027",
+	"status": "online",
+	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1789096219241
+	"errorAt": null
 }

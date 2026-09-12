@@ -1,7 +1,8 @@
 {
 	"url": "https://moderation.atmosphere.money/",
 	"did": "did:plc:67jyxopfoa7min5tlsdhhe7a",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.1.104",
 	"firstSeenAt": 1789095540985,
-	"errorAt": 1789096219241
+	"errorAt": null
 }

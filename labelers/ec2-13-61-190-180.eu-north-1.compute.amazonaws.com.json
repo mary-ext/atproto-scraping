@@ -2,7 +2,7 @@
 	"url": "https://ec2-13-61-190-180.eu-north-1.compute.amazonaws.com/",
 	"did": "did:plc:7c7tx56n64jhzezlwox5dja6",
 	"status": "online",
-	"version": "0.1.167",
+	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.meowing.de/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.29 ᓚᘏᗢ",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1789096219241
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.unlabeled.fyi/",
 	"did": "did:plc:4wll7wiqvamwv2p52ywlrtub",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1786755866101,
-	"errorAt": 1788837205563
+	"errorAt": null
 }

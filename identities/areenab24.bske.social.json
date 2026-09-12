@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areenab24.bske.social",
-	"status": "online",
-	"firstSeenAt": 1789095540985,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "jVocrf27WoBfYDtTMWjMgrumVlJlOVRD9YaI0yLt5Ac",
 	"pds": "https://ai0.aidgaza.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789095540985,
+	"errorAt": 1789182348097
 }

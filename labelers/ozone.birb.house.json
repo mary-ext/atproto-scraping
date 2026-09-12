@@ -2,7 +2,7 @@
 	"url": "https://ozone.birb.house/",
 	"did": "did:plc:dsae6lz5garrdkbicuor4chs",
 	"status": "online",
-	"version": "0.1.167",
+	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

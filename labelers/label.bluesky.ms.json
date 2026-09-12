@@ -2,7 +2,7 @@
 	"url": "https://label.bluesky.ms/",
 	"did": "did:plc:xss2sw5p4bfhjqjorl7gk6z4",
 	"status": "online",
-	"version": "0.1.167",
+	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }
