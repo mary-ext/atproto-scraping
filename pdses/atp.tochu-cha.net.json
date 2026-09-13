@@ -1,6 +1,8 @@
 {
 	"url": "https://atp.tochu-cha.net/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "mypds v0.1.dev380+g5395b136c",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1788404077006,
-	"errorAt": 1788750126346
+	"errorAt": null
 }

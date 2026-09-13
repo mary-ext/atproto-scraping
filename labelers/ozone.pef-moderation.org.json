@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.pef-moderation.org/",
 	"did": "did:plc:uac6er53o2pvr5y2qmvaf7hw",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1789269514167
 }

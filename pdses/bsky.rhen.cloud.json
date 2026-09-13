@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.rhen.cloud/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788060979455,
-	"errorAt": 1789183037339
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://paws.nya.pub/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1789183037339
+	"errorAt": null
 }

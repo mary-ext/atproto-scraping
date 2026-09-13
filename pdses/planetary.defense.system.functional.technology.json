@@ -1,8 +1,8 @@
 {
 	"url": "https://planetary.defense.system.functional.technology/",
-	"status": "offline",
-	"version": "0.4.5027",
+	"status": "online",
+	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1788404722719
+	"errorAt": null
 }

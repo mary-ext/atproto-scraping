@@ -2,7 +2,7 @@
 	"url": "https://discourse.manos.tech/",
 	"did": "did:plc:iqnugdr4iua6r5psdmx2ufas",
 	"status": "online",
-	"version": "0.1.167",
+	"version": "0.4.2",
 	"firstSeenAt": 1779756314417,
 	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.lmblsk.cloud/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1789183037339
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.k8s.badc0de.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.204",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789182348097,
-	"errorAt": null
+	"errorAt": 1789269514167
 }
