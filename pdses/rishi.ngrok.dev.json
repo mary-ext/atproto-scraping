@@ -1,8 +1,8 @@
 {
 	"url": "https://rishi.ngrok.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.3.0-beta.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789268854801,
-	"errorAt": null
+	"errorAt": 1789356724836
 }

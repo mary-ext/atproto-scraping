@@ -1,9 +1,9 @@
 {
 	"did": "did:web:arraf10.bske.social",
-	"status": "online",
-	"firstSeenAt": 1789268854801,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "_sPJflWzJCyWUvEBSL2hRYUsY4UcFOOZIFCuxUumids",
 	"pds": "https://as.aidgaza.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789268854801,
+	"errorAt": 1789356055434
 }

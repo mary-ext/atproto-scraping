@@ -1,8 +1,8 @@
 {
 	"url": "https://as.aidgaza.site/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1789268854801,
-	"errorAt": null
+	"errorAt": 1789356724836
 }
