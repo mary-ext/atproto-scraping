@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky.network.phazed.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.182",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787814983193,
-	"errorAt": 1789356724836
+	"errorAt": null
 }

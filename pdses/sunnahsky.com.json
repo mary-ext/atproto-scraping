@@ -1,8 +1,8 @@
 {
 	"url": "https://sunnahsky.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.28",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786755866101,
-	"errorAt": null
+	"errorAt": 1789443210806
 }

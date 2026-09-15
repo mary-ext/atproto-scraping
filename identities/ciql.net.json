@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ciql.net",
-	"status": "online",
+	"status": "offline",
 	"hash": "wibkk6gq-PrhD1EPPbXwT1iH9zr_vgkx1oVO5ymHamg",
 	"pds": "https://blue.ciql.net/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1789442549150
 }
