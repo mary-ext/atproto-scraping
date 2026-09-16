@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.babalk.net/",
-	"status": "offline",
-	"version": "0.4.5027",
+	"status": "online",
+	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784081464014,
-	"errorAt": 1789443210806
+	"errorAt": null
 }

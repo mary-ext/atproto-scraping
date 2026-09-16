@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isnot.at",
 	"status": "online",
-	"firstSeenAt": 1789442549150,
-	"errorAt": null,
 	"hash": "CBRfimbf3iGYZW6-QqC8LooczgO2b1BtRsIjL2di4bc",
 	"pds": "https://eurosky.social/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789442549150,
+	"errorAt": null
 }

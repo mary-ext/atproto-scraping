@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.faeranne.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779238077725,
-	"errorAt": null
+	"errorAt": 1789529409034
 }
