@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.zem.fi/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5034",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1789528713786,
-	"errorAt": 1789529409034
+	"errorAt": null
 }

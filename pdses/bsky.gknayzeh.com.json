@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.gknayzeh.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775349077192,
-	"errorAt": 1789529409034
+	"errorAt": null
 }

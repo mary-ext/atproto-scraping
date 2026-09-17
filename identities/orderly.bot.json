@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orderly.bot",
 	"status": "online",
-	"firstSeenAt": 1789528713786,
-	"errorAt": null,
 	"hash": "pwLxfaPplO3eYLUzTN-Lz_f4mbKIbAyxoLacJ5YIBrk",
 	"pds": "https://eurosky.social/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789528713786,
+	"errorAt": null
 }
