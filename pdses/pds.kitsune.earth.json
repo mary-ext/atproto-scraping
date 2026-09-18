@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.kitsune.earth/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783823538884,
-	"errorAt": 1789183037339
+	"errorAt": null
 }

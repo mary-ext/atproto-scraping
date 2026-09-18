@@ -1,8 +1,8 @@
 {
 	"url": "https://ds.raceef.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1789529409034
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:arr5723.bske.social",
-	"status": "online",
+	"status": "offline",
 	"hash": "X8mUhRAuK1JwY4QjYB08ur1h6bPZG7DJ8KL7DBlc6A8",
 	"pds": "https://z.aidgaza.site/",
 	"labeler": null,
 	"firstSeenAt": 1789356055434,
-	"errorAt": null
+	"errorAt": 1789701025089
 }
