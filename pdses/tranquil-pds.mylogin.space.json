@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil-pds.mylogin.space/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789701025089,
-	"errorAt": null
+	"errorAt": 1789787855622
 }

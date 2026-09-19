@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.paolobietolini.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5026",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784428135598,
-	"errorAt": null
+	"errorAt": 1789787855622
 }
