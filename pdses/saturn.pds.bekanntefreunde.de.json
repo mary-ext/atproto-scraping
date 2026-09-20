@@ -1,8 +1,8 @@
 {
 	"url": "https://saturn.pds.bekanntefreunde.de/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783477742007,
-	"errorAt": 1789787855622
+	"errorAt": null
 }
