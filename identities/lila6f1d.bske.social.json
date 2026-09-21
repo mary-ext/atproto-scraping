@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lila6f1d.bske.social",
-	"status": "online",
-	"firstSeenAt": 1789874581868,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "mCy7c4P2A4Ny1pYdJhnv9vG9QhllMeIuPC8WAWTxTkY",
 	"pds": "https://ai.bske.social/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789874581868,
+	"errorAt": 1789960676825
 }

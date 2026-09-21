@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.freeroam.cc/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789009412454,
-	"errorAt": 1789356724836
+	"errorAt": null
 }

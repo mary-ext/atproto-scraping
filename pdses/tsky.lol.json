@@ -1,8 +1,8 @@
 {
 	"url": "https://tsky.lol/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785205272583,
-	"errorAt": 1789875240337
+	"errorAt": null
 }
