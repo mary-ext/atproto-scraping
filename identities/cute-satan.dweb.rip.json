@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cute-satan.dweb.rip",
 	"status": "online",
-	"firstSeenAt": 1789960676825,
-	"errorAt": null,
 	"hash": "OPTukfoxe-1oYdPcUG3bR_NaL4GpLTk0min4vJIk1d0",
 	"pds": "https://pds.rip/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789960676825,
+	"errorAt": null
 }

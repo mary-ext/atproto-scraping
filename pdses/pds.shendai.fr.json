@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.shendai.fr/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788060979455,
-	"errorAt": 1789875240337
+	"errorAt": null
 }

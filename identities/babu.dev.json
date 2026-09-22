@@ -1,9 +1,9 @@
 {
 	"did": "did:web:babu.dev",
 	"status": "online",
-	"firstSeenAt": 1789960676825,
-	"errorAt": null,
 	"hash": "tsf7QMg9Op5svqKdOORFV6qOAb5bQyfKDQUN7n6OYGs",
 	"pds": "https://babu.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1789960676825,
+	"errorAt": null
 }
