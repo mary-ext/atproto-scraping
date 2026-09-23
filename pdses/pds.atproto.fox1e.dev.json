@@ -2,7 +2,7 @@
 	"url": "https://pds.atproto.fox1e.dev/",
 	"status": "online",
 	"version": "tranquil 0.6.6",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1790047047211,
 	"errorAt": null
 }

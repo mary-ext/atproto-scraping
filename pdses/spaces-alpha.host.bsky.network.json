@@ -1,7 +1,7 @@
 {
 	"url": "https://spaces-alpha.host.bsky.network/",
 	"status": "online",
-	"version": "permissioned-data",
+	"version": "spaces-alpha",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787187852054,
 	"errorAt": null
