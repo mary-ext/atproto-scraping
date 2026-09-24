@@ -2,7 +2,7 @@
 	"url": "https://moderation.atchan.net/",
 	"did": "did:plc:4xebwpr6xrrxaygeza7bdbwd",
 	"status": "online",
-	"version": "0.1.167",
+	"version": "0.4.2",
 	"firstSeenAt": 1783651728603,
 	"errorAt": null
 }

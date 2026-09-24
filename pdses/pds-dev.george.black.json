@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-dev.george.black/",
-	"status": "online",
+	"status": "offline",
 	"version": "cirrus 0.13.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775349077192,
-	"errorAt": null
+	"errorAt": 1790220947931
 }

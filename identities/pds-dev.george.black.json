@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds-dev.george.black",
-	"status": "online",
+	"status": "offline",
 	"hash": "5rW-w-e92cfJ27bkj-boCUJmIgb5Zw-g-_GemQbPo3s",
 	"pds": "https://pds-dev.george.black/",
 	"labeler": null,
 	"firstSeenAt": 1775349077192,
-	"errorAt": null
+	"errorAt": 1790219258374
 }
