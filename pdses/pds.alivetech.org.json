@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.alivetech.org/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787015025689,
-	"errorAt": 1790135195304
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://vas.kald.shop/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1790219258374,
-	"errorAt": null
+	"errorAt": 1790307360775
 }

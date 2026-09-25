@@ -1,7 +1,7 @@
 {
 	"url": "https://pds-dev.lenooby09.tech/",
 	"status": "online",
-	"version": "PDS1.0-ACCT.6-ID.3-INV.2-ADM.2-MOD.1-REPO.6-BLOB.2-SYNC.6-OAUTH.15-SP.6-UI.8-MFA.3-PROXY.4",
+	"version": "PDS1.0-ACCT.9-ID.3-INV.2-ADM.3-MOD.1-REPO.8-BLOB.3-SYNC.7-OAUTH.18-SP.12-UI.9-MFA.3-PROXY.5",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789960676825,
 	"errorAt": null

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:maryamcb.kald.shop",
-	"status": "online",
-	"firstSeenAt": 1790219258374,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "QuGeiClnkKGwQd2t8znV-bEek2MSe3FAQ1GR6sFup50",
 	"pds": "https://vas.kald.shop/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790219258374,
+	"errorAt": 1790306667317
 }

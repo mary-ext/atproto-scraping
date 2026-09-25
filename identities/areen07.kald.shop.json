@@ -1,9 +1,9 @@
 {
 	"did": "did:web:areen07.kald.shop",
-	"status": "online",
-	"firstSeenAt": 1790219258374,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "GkkDn7fprm_79UO7_tm9KKXheeYFUINZioUyvXp8oZE",
 	"pds": "https://vas.kald.shop/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790219258374,
+	"errorAt": 1790306667317
 }
