@@ -2,7 +2,7 @@
 	"url": "https://goodmkt.id/",
 	"status": "online",
 	"version": "0.4.5034",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1790306667317,
 	"errorAt": null
 }

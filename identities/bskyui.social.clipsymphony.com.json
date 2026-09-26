@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bskyui.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1790306667317,
-	"errorAt": null,
 	"hash": "z3RiV43gKeOjuPRfpZJ6nhBtg11cCCCbRA3Duw0Nw-o",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790306667317,
+	"errorAt": null
 }

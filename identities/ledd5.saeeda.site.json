@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ledd5.saeeda.site",
-	"status": "online",
-	"firstSeenAt": 1790306667317,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "YZ9OTwdPrFN3anm4yDjk4Khhl9NsRYCrOQ4n8IB6drc",
 	"pds": "https://ai.saeeda.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790306667317,
+	"errorAt": 1790393403113
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://atproto.spacepandas.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776817899805,
-	"errorAt": null
+	"errorAt": 1790394068474
 }

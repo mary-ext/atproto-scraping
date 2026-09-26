@@ -1,9 +1,9 @@
 {
 	"did": "did:web:mythik.co.uk",
 	"status": "offline",
-	"hash": "EmO5XK4j6WIMaLFXaTOj6QDGj6ErPDMv9F4lyVpXE8M",
+	"hash": "88hjspOjIFyQL_bCxfLeDvSuvs48bn-JJ_uQ9ehL5iI",
 	"pds": "https://pds.mythik.co.uk/",
 	"labeler": null,
 	"firstSeenAt": 1776558847387,
-	"errorAt": 1790306667317
+	"errorAt": null
 }
