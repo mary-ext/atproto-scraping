@@ -1,7 +1,7 @@
 {
 	"url": "https://continuer.net/",
-	"status": "online",
+	"status": "offline",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790219258374,
-	"errorAt": null
+	"errorAt": 1790481028425
 }

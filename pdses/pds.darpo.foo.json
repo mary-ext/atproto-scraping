@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.darpo.foo/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789268854801,
-	"errorAt": 1790394068474
+	"errorAt": null
 }

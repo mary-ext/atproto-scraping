@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold.zezura.xyz",
-	"status": "online",
+	"status": "offline",
 	"hash": "FfrSBAMoc5Pad3DUOXS5mJIpGqvbccfgUlW3mW_iVAo",
 	"pds": "https://hold.zezura.xyz/",
 	"labeler": null,
 	"firstSeenAt": 1786842484663,
-	"errorAt": null
+	"errorAt": 1790480331267
 }
