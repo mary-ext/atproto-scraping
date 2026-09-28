@@ -1,9 +1,9 @@
 {
 	"did": "did:web:web.mmatt.net",
-	"status": "online",
+	"status": "offline",
 	"hash": "EdRXfXUSi89b8e3sIRD5bVdadRMgUfIRA5pnbkNvZnM",
 	"pds": "https://evil.gay/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1790566638876
 }
