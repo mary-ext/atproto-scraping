@@ -1,9 +1,9 @@
 {
 	"did": "did:web:le8aed.bske.social",
-	"status": "online",
+	"status": "offline",
 	"hash": "jem0ahgvpG5MwingxDDaeZYCrHOwwU0kBiyH4EuRCvk",
 	"pds": "https://aix.saeeda.site/",
 	"labeler": null,
 	"firstSeenAt": 1790393403113,
-	"errorAt": null
+	"errorAt": 1790655140612
 }

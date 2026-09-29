@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky-umbraco-labeler.untitled2.xyz/",
 	"did": "did:plc:cseeitm726srf7cg2kx2jwvh",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1790567357155
+	"errorAt": null
 }

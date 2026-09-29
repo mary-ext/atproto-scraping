@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.kazetsuki.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788749518435,
-	"errorAt": 1790567357155
+	"errorAt": null
 }
