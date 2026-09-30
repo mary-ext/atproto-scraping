@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jlkll.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1790655140612,
-	"errorAt": null,
 	"hash": "UwG2E96ZIHmXZaleHSyxnasdtGdXnltcs2YdkS6Gqbg",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790655140612,
+	"errorAt": null
 }

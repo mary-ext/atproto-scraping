@@ -1,0 +1,9 @@
+{
+	"did": "did:web:mononom.se",
+	"status": "online",
+	"firstSeenAt": 1790740650576,
+	"errorAt": null,
+	"hash": "AdYHMGFgIHOgaJAu1z8Zf4YKErrPbdqtStmI_a6jcyY",
+	"pds": "https://pds.mononom.se/",
+	"labeler": null
+}
