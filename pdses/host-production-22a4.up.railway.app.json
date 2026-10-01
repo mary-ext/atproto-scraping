@@ -1,8 +1,8 @@
 {
 	"url": "https://host-production-22a4.up.railway.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.34",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790393403113,
-	"errorAt": null
+	"errorAt": 1790828377898
 }

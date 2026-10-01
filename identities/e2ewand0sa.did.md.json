@@ -1,9 +1,9 @@
 {
 	"did": "did:web:e2ewand0sa.did.md",
-	"status": "online",
+	"status": "offline",
 	"hash": "8X5U8ex4d4GmxdzGfuCyB5GTsHkCDpvtLfhMwA08UDw",
 	"pds": "https://pds.did.md/",
 	"labeler": null,
 	"firstSeenAt": 1790047047211,
-	"errorAt": null
+	"errorAt": 1790827665128
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:le9ca7.lnan.site",
-	"status": "online",
-	"firstSeenAt": 1790740650576,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "qzyuwzG46uxKmX4e0YBP1wh6pgyUC6Qh63lJFZKj8qk",
 	"pds": "https://lnan.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790740650576,
+	"errorAt": 1790827665128
 }
