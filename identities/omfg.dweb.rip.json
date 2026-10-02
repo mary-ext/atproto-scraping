@@ -1,9 +1,9 @@
 {
 	"did": "did:web:omfg.dweb.rip",
-	"status": "online",
+	"status": "offline",
 	"hash": "2W9sSsmJZd1O5GrZjAlzvOAm-CAhUbVfTMJ7JCqSNqY",
 	"pds": "https://pds.rip/",
 	"labeler": null,
 	"firstSeenAt": 1790306667317,
-	"errorAt": null
+	"errorAt": 1790913723283
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lalala-lalaal.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1790827665128,
-	"errorAt": null,
 	"hash": "LZ4EIDlohcNXez55sgJwtgYOmm8M_chqBFLlaMDJOLU",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790827665128,
+	"errorAt": null
 }

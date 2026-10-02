@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.rgst.io/",
-	"status": "offline",
-	"version": "0.4.5034",
+	"status": "online",
+	"version": "0.4.5036",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1790828377898
+	"errorAt": null
 }

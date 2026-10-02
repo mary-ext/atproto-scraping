@@ -1,0 +1,9 @@
+{
+	"did": "did:web:meow.meowing.zip",
+	"status": "online",
+	"firstSeenAt": 1790913723283,
+	"errorAt": null,
+	"hash": "n_zPx6PldftBi_hHTALFl_qjjMLcJu3G4-48hyK0X6A",
+	"pds": "https://at.meowing.zip/",
+	"labeler": null
+}
