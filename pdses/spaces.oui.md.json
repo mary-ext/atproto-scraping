@@ -1,8 +1,8 @@
 {
 	"url": "https://spaces.oui.md/",
-	"status": "offline",
-	"version": "0.5.29",
+	"status": "online",
+	"version": "0.5.32",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787447347760,
-	"errorAt": 1789787855622
+	"errorAt": null
 }

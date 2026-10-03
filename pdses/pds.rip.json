@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.rip/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.32",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1790914574105
+	"errorAt": null
 }

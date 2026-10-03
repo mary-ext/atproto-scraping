@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.adamsapple.org/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5036",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784168643232,
-	"errorAt": null
+	"errorAt": 1790999908306
 }

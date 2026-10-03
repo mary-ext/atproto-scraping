@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gcgh.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1790913723283,
-	"errorAt": null,
 	"hash": "24YpTQntcgqeQi9sYOHLhgPvwFoUfljXUCKNFI2btqI",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790913723283,
+	"errorAt": null
 }

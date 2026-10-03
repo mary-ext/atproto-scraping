@@ -1,9 +1,9 @@
 {
 	"did": "did:web:le96cd.lnan.site",
-	"status": "online",
-	"firstSeenAt": 1790913723283,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "JlE31Az-NUXkO37vT31itiIJVXkmN0u_GF31D4Idnv4",
 	"pds": "https://ai.lnan.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790913723283,
+	"errorAt": 1790999217650
 }

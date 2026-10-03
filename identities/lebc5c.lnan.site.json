@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lebc5c.lnan.site",
-	"status": "online",
-	"firstSeenAt": 1790913723283,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "t7uBwVLwS_PCT6zpXWapfCF2WqUnzdZLndvwYT1ekZA",
 	"pds": "https://ai.lnan.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1790913723283,
+	"errorAt": 1790999217650
 }
