@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.thomasprojects.net/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5034",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1790740650576,
-	"errorAt": 1790741310455
+	"errorAt": null
 }

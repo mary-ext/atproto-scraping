@@ -1,8 +1,8 @@
 {
 	"url": "https://good-example.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1789701025089,
-	"errorAt": null
+	"errorAt": 1791088176368
 }
