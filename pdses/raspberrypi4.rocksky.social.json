@@ -1,8 +1,8 @@
 {
 	"url": "https://raspberrypi4.rocksky.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "scala-pds 0.1.0-SNAPSHOT",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1790740650576,
-	"errorAt": 1791088176368
+	"errorAt": null
 }

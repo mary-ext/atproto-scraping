@@ -1,9 +1,9 @@
 {
 	"did": "did:web:usounds-test.dweb.rip",
-	"status": "online",
+	"status": "offline",
 	"hash": "PFksGRk-L_cagDCzsRjxquPQ-hlReHzocHj5D3LgPAs",
 	"pds": "https://pds.rip/",
 	"labeler": null,
 	"firstSeenAt": 1790566638876,
-	"errorAt": null
+	"errorAt": 1791172902793
 }

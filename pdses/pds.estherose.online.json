@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.estherose.online/",
-	"status": "offline",
-	"version": "0.4.5036",
+	"status": "online",
+	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789787194807,
-	"errorAt": 1790914574105
+	"errorAt": null
 }

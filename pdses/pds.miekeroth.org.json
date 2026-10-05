@@ -2,7 +2,7 @@
 	"url": "https://pds.miekeroth.org/",
 	"status": "online",
 	"version": "0.4.5037",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1791087483434,
 	"errorAt": null
 }
