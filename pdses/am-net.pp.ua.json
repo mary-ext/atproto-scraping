@@ -1,8 +1,8 @@
 {
 	"url": "https://am-net.pp.ua/",
-	"status": "offline",
-	"version": "0.4.219",
+	"status": "online",
+	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777596151162,
-	"errorAt": 1791173570434
+	"errorAt": null
 }

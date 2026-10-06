@@ -1,8 +1,8 @@
 {
 	"url": "https://nebu.land/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775349077192,
-	"errorAt": 1791173570434
+	"errorAt": null
 }

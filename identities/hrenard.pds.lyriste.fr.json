@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hrenard.pds.lyriste.fr",
-	"status": "online",
+	"status": "offline",
 	"hash": "YPdx8IBlgbTtbabzC9DEiR5Ut5ZcxnVPTAq_jRtrM7Q",
 	"pds": "https://pds.lyriste.fr/",
 	"labeler": null,
 	"firstSeenAt": 1786928731884,
-	"errorAt": null
+	"errorAt": 1791262250476
 }

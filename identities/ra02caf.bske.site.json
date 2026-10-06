@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ra02caf.bske.site",
 	"status": "online",
-	"firstSeenAt": 1791172902793,
-	"errorAt": null,
 	"hash": "ECdf0IFi-lYaAwzkdaZXASzO_7DmynKSc1b7XaLvJ5I",
 	"pds": "https://bske.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791172902793,
+	"errorAt": null
 }

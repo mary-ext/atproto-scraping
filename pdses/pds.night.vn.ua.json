@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.night.vn.ua/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785291916073,
-	"errorAt": 1791173570434
+	"errorAt": null
 }

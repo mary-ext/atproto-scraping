@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tranquil.tranquil.farm",
-	"status": "online",
+	"status": "offline",
 	"hash": "DxyZSLmoLC0K1KwL38aDBYDaW4SGq7UdgkveEVKXBHU",
 	"pds": "https://tranquil.farm/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1791262250476
 }
