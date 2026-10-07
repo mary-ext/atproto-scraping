@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tristanjodsalz.bekanntefreunde.de",
-	"status": "online",
+	"status": "offline",
 	"hash": "GgcLXcIuRBzFelOFYssnI_uXthb3nKaocugGsx55F-o",
 	"pds": "https://saturn.pds.bekanntefreunde.de/",
 	"labeler": null,
 	"firstSeenAt": 1776645240481,
-	"errorAt": null
+	"errorAt": 1791346621701
 }

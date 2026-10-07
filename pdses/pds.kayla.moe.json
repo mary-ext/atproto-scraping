@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.kayla.moe/",
-	"status": "offline",
-	"version": "0.4.5034",
+	"status": "online",
+	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788749518435,
-	"errorAt": 1791262965882
+	"errorAt": null
 }
