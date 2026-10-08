@@ -1,8 +1,8 @@
 {
 	"url": "https://at.laslie.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785291916073,
-	"errorAt": null
+	"errorAt": 1791434427050
 }
