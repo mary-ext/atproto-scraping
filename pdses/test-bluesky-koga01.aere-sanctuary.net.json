@@ -1,8 +1,8 @@
 {
 	"url": "https://test-bluesky-koga01.aere-sanctuary.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5034",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791346621701,
-	"errorAt": null
+	"errorAt": 1791521057238
 }

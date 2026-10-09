@@ -1,9 +1,9 @@
 {
 	"did": "did:web:arabtick.social.clipsymphony.com",
-	"status": "online",
-	"firstSeenAt": 1791433750932,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "LBHPenQ5H2W_w276jn29rGVLtZ4OD7Lzxi1lx_lYl3o",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791433750932,
+	"errorAt": 1791520367608
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://spaces.abnormal.zip/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.32",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787533613154,
-	"errorAt": 1791434427050
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://napa-node-01.watershed-agent.dev/",
-	"status": "offline",
-	"version": "0.4.5009",
+	"status": "online",
+	"version": "0.4.5037",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1783046694041,
-	"errorAt": 1790220947931
+	"errorAt": null
 }
