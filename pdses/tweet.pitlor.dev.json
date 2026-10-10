@@ -1,8 +1,8 @@
 {
 	"url": "https://tweet.pitlor.dev/",
-	"status": "offline",
-	"version": "0.4.182",
+	"status": "online",
+	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786755866101,
-	"errorAt": 1791521057238
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chazsky.dweb.rip",
 	"status": "online",
-	"firstSeenAt": 1791520367608,
-	"errorAt": null,
 	"hash": "w9Ni7zdqavGzpt3bQtXuNN5330xBJCHEFEP_NeugOYw",
 	"pds": "https://pds.rip/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791520367608,
+	"errorAt": null
 }

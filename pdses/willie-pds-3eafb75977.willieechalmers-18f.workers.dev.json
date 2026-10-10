@@ -1,8 +1,8 @@
 {
 	"url": "https://willie-pds-3eafb75977.willieechalmers-18f.workers.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791520367608,
-	"errorAt": null
+	"errorAt": 1791606581522
 }

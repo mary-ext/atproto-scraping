@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ra0c225.bske.site",
 	"status": "online",
-	"firstSeenAt": 1791520367608,
-	"errorAt": null,
 	"hash": "1cUo_6541zxpfUOdcaixlK4MVcPtXx7F6j57rdsvGYA",
 	"pds": "https://bske.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791520367608,
+	"errorAt": null
 }
