@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.daze.lol/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785809857866,
-	"errorAt": 1791606581522
+	"errorAt": null
 }

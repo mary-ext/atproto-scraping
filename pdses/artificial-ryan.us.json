@@ -1,8 +1,8 @@
 {
 	"url": "https://artificial-ryan.us/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5037",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1788060979455,
-	"errorAt": 1791606581522
+	"errorAt": null
 }
