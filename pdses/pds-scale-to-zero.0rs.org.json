@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-scale-to-zero.0rs.org/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon dev-local",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782348487260,
-	"errorAt": null
+	"errorAt": 1791779408239
 }

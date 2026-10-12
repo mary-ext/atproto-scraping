@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.aidanlavis.dev/",
 	"status": "online",
-	"version": "cirrus 0.17.1",
+	"version": "cirrus 0.19.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1775953986804,
 	"errorAt": null
