@@ -1,0 +1,9 @@
+{
+	"did": "did:web:schist-shrew.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1791869242107,
+	"errorAt": null,
+	"hash": "eNmSCwhRX0PcsDfyPeb5NP9hgv-U-VktCmN0DecPwl4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

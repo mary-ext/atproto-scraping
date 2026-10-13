@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noelle.pds.tokyonight.city",
-	"status": "online",
+	"status": "offline",
 	"hash": "UsRhnNuiPhtzebWTY6bAMEIv9iiJ1BA6NSXUjxPA9-k",
 	"pds": "https://pds.tokyonight.city/",
 	"labeler": null,
 	"firstSeenAt": 1781657641650,
-	"errorAt": null
+	"errorAt": 1791869242107
 }
