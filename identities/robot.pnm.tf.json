@@ -1,0 +1,9 @@
+{
+	"did": "did:web:robot.pnm.tf",
+	"status": "online",
+	"firstSeenAt": 1791948648583,
+	"errorAt": null,
+	"hash": "RXdV140TZz064U48XDf4OsdcqANXfh84_WtV_86BeEc",
+	"pds": "https://atproto.pnm.tf/",
+	"labeler": null
+}

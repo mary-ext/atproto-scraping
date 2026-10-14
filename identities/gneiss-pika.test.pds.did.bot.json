@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gneiss-pika.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "coZvthL-YNfcuUn267Jw3kQxQjg30Ibru3oBynDO6RE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

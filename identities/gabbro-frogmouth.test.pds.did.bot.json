@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gabbro-frogmouth.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "_ROoK2-vUwcMA1fFIOfozQSqvMcS8f_6pctpmkYqyAI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

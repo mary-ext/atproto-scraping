@@ -1,9 +1,9 @@
 {
 	"did": "did:web:kimberlite-chipmunk.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "eZzJA1P6qeWFPiBJbD0_b-N2TZde0O2m8HJ9ZvarutM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

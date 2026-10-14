@@ -1,9 +1,9 @@
 {
 	"did": "did:web:citrine-stonechat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "ON3kSm21a6aw30w-L1EwRNkBoCmjw6RnRYIOuEDoBlQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

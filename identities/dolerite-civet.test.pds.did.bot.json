@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolerite-civet.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "6Ee5hrAiGAVnPWt9HT357zO5ZA7ISPHBqXj9MHWDtp8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

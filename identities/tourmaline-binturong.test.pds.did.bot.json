@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tourmaline-binturong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "v_r_vnPlMZm87TAI98oZ5YFZZQZeeFmLfDGVUzrajN8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

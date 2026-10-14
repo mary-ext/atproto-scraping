@@ -1,9 +1,9 @@
 {
 	"did": "did:web:feldspar-caracal.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1791869242107,
-	"errorAt": null,
 	"hash": "zNh02KsnxkVkiK0Jx-EJoozRrmR3vLhOvGzcltTnFno",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1791869242107,
+	"errorAt": null
 }

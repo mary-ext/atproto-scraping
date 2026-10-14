@@ -1,9 +1,9 @@
 {
 	"did": "did:web:neon.moe",
-	"status": "online",
+	"status": "offline",
 	"hash": "VaGhnf0k2WRJ4gqWrIhrOWnasg84MJ28OxSCDFW5H90",
 	"pds": "https://planetary.defense.system.functional.technology/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1791948648583
 }
