@@ -1,0 +1,9 @@
+{
+	"did": "did:web:aragonite-genet.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "QSD8P57SA4r9EVymwGFs13ktlW0clKzNggSggQEiKpw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

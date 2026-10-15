@@ -1,0 +1,9 @@
+{
+	"did": "did:web:soapstone-mara.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "d5eImwlUB9Z26eHMd4574R8QNyraDKqr2owNI6jlgy0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

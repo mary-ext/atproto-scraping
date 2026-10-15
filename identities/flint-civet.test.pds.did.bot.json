@@ -1,0 +1,9 @@
+{
+	"did": "did:web:flint-civet.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "5rl2a26hKdjDT9NaDyByO1DdK10qjuDaKXPHp2sodY0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:gypsum-civet.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "kKrlvIrMnJf3S6kFHA3Qxew8Idz25z1dxFaLg5G4xds",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

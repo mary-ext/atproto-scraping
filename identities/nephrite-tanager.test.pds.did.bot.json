@@ -1,0 +1,9 @@
+{
+	"did": "did:web:nephrite-tanager.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "c1BeJXcFYYjnFXQjgr20pmHoySb2TtahNPYmRWcJdw4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

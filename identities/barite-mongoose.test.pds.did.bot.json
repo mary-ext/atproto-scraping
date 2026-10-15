@@ -1,0 +1,9 @@
+{
+	"did": "did:web:barite-mongoose.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "gLw1RMKfnHaDu0-76nwOojaqWkf8HdgqABPQDu4qU7U",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:grossular-junco.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "bqhUzZ84V11YoMXQTRYOvxncfbyuBWI84G0PViQs0Hs",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

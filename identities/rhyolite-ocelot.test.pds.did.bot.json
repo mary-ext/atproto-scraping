@@ -1,0 +1,9 @@
+{
+	"did": "did:web:rhyolite-ocelot.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "MnSjNEh3K50srhOG8gjEKJ6nzt1lcgCE6plzB3mmppo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

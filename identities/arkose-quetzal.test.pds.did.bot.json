@@ -1,0 +1,9 @@
+{
+	"did": "did:web:arkose-quetzal.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "0QYmXwCd-2XvTfp1r1JDyLibkN87wDMKj90W7E3JVp4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

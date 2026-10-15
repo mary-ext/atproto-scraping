@@ -1,8 +1,8 @@
 {
 	"url": "https://cuddling.kralsei.stream/",
 	"did": "did:plc:nsl2x6tgtkcasyhwrj4k24sm",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.2",
 	"firstSeenAt": 1790740650576,
-	"errorAt": 1791949322603
+	"errorAt": null
 }

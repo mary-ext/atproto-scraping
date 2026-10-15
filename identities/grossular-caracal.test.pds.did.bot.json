@@ -1,0 +1,9 @@
+{
+	"did": "did:web:grossular-caracal.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "QSeeOHmVw_kqRgMuVQY7SI4jEDvGpi1vLRg5O_txcx4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

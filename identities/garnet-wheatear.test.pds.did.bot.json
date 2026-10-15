@@ -1,0 +1,9 @@
+{
+	"did": "did:web:garnet-wheatear.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "VJ68hvSlHkVONKtZ0pstbR1aPnBY11xYpM9rZdOb7m0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:azurite-chipmunk.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "PMjzxXAZA71Komd2mklY4zZTiJc5Pp1mhqGtFGjov3s",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

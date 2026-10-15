@@ -1,0 +1,9 @@
+{
+	"did": "did:web:quartz-grebe.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792033811407,
+	"errorAt": null,
+	"hash": "azxuhMsGefU0WznbtcHcAT78kUuNNPPFsMN8G8ugYTk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}
