@@ -1,0 +1,9 @@
+{
+	"did": "did:web:gneiss-meerkat.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792119983106,
+	"errorAt": null,
+	"hash": "8cBygTAw7hrqJ5qsSkxPKzv7KMaYqas2FjKqBHtWtNA",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

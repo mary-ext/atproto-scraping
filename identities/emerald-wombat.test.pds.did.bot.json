@@ -1,9 +1,9 @@
 {
 	"did": "did:web:emerald-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "BrWNUlvAxgu7fwJFtYh7qWkxBCMwg7eTyg0Vitw4rhs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

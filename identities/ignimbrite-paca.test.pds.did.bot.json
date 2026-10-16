@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ignimbrite-paca.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "-4M_Mp70SL2jjSOV_nw6PUQ2VwJQgphWHeAcZRM9vZw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:emerald-trogon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "mhdWCGhJLK3hpV65DQYnTTULJJaFNFLAv9q0E9DgZFo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

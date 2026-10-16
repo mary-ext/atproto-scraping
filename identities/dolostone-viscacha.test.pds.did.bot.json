@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolostone-viscacha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "vr_0pzxGr7cDGrp20KdNoyfzXIrgYpJMrsUrLLNdrxA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

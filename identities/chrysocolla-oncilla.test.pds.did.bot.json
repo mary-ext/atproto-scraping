@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chrysocolla-oncilla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "3j6iKzYkC5l5qIlVF4LUKT8ob3DwHiT2xLpE1L-kf_s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

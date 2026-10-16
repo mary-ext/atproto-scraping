@@ -1,9 +1,9 @@
 {
 	"did": "did:web:diorite-aardvark.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "7JMvYe9Uf6hrsJePv14MKaaKdrO_nq813ttU10n-xK4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sere.dweb.rip",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "ROCoiHklKY5I6uS3HcIb1vt9-Z66IhJvbXJo6d8u_i8",
 	"pds": "https://pds.rip/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

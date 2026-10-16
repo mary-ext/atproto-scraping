@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jasper-chinchilla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "4msr6MXvf-2tufDwP9zMOxBPe90V61Me_q09eMKf8iU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

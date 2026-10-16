@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-tarsier-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "_HOfn5VQvfJ653EGQFxEWqDDLe2Sft8G58pn9o_PTG4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

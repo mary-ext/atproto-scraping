@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quartz-vole-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "na65eRogVB56cgYIPE3q9MShVLOCNEjnk2cwNHQH8_4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

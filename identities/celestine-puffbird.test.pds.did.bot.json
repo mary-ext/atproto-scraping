@@ -1,9 +1,9 @@
 {
 	"did": "did:web:celestine-puffbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "HiDX6d7BHS8wS3bCL4Ljtp3br1es9cqD60EFmwaodn8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

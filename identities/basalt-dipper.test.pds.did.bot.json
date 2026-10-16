@@ -1,0 +1,9 @@
+{
+	"did": "did:web:basalt-dipper.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792119983106,
+	"errorAt": null,
+	"hash": "eO2A13Mwv0AJ9wnqiICwvAkB6fXpWw-m24lDH2zvwMs",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

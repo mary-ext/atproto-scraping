@@ -1,9 +1,9 @@
 {
 	"did": "did:web:flint-fossa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "73jYIKZcE33JeKDwSBHlxCWt4THQOYaeGdvbDoa_JmE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

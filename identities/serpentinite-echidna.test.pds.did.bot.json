@@ -1,9 +1,9 @@
 {
 	"did": "did:web:serpentinite-echidna.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "S2sHCNmSa561LD_QkgCMCkmWA1eOK-ya10dfzmu4BL0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

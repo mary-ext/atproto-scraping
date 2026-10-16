@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quartzite-gundi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "I2nRvMcU7S7mQ8lOCKMmFWRdNiZvtGQ7RxGbgRZqnJo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

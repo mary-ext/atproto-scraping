@@ -1,9 +1,9 @@
 {
 	"did": "did:web:greywacke-cavy.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "6uxCUGAlJOfghBDlT9zKf_wLth1l-yunHlah8ot0Ves",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

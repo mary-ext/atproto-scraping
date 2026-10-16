@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gneiss-zorilla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "xG8xVQFjek9L9OzGrskWElLj1_7Tqjh0UtclE21T5f8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

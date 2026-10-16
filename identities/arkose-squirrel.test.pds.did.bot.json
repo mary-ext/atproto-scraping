@@ -1,0 +1,9 @@
+{
+	"did": "did:web:arkose-squirrel.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792119983106,
+	"errorAt": null,
+	"hash": "3heVm5vMsrRU9geX396mkGX2W4u1z-X4nDmHw_NDosQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

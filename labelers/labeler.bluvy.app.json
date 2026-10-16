@@ -1,7 +1,7 @@
 {
 	"url": "https://labeler.bluvy.app/",
 	"did": "did:plc:6r6udkaxlbq57hogqqgodiwo",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1791172902793,
-	"errorAt": 1791262965882
+	"errorAt": null
 }

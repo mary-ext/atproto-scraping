@@ -1,9 +1,9 @@
 {
 	"did": "did:web:andradite-capybara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "jZYIu67m4MQ4e0-ogPZ7mbnUuIdzHBJZccK02atBDFc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-whistler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "QKQqx5ITDPrrJkPjXeImYDCky1p6vExIGmgykFoZZi8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

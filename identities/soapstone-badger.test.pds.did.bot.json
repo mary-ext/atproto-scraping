@@ -1,0 +1,9 @@
+{
+	"did": "did:web:soapstone-badger.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792119983106,
+	"errorAt": null,
+	"hash": "hqyq255OvNFIZuXbqnHeNEmH9i4Q1FnCpNJV2QtQ09g",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

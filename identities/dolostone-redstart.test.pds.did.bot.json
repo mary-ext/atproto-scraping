@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolostone-redstart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "O_c2qMJJiGQzCrMrZT-ooYTndhbd-S7LV-kJwn_xX34",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

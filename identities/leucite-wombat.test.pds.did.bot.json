@@ -1,9 +1,9 @@
 {
 	"did": "did:web:leucite-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "443HnbUUCj2Nl78G26L9BrgWr4-lWfSW4UGXlh2_vmk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

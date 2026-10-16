@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sapphire-kodkod.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "HryHq2e3S_B5wdoEkH_T_nXNGts833Fq4dRe7-rtBCA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

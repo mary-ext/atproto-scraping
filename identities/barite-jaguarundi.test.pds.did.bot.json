@@ -1,9 +1,9 @@
 {
 	"did": "did:web:barite-jaguarundi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "O1QhGpJsstGqqM0AYiA4TDsuFhFrUGsyHv3IUZsaFeA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sphalerite-viscacha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "MDNr5lFeze-iQbB6u34yyV_2N-EPxQfCnfrjopcQ2c4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }

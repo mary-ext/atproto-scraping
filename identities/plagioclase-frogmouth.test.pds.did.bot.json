@@ -1,9 +1,9 @@
 {
 	"did": "did:web:plagioclase-frogmouth.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792033811407,
-	"errorAt": null,
 	"hash": "NB4-tEAirx-wYvze5S0xz5o4RBohs_5DB6yopqvd6yY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792033811407,
+	"errorAt": null
 }
