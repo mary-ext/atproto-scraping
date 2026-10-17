@@ -1,9 +1,9 @@
 {
 	"did": "did:web:agate-sunbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "wp414XurdM7hf9tegly8GqMX_cZWMidWMOwfqvgwO5k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

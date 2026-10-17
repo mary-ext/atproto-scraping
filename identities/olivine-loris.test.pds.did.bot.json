@@ -1,9 +1,9 @@
 {
 	"did": "did:web:olivine-loris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "9DaxkvDmHF4foCWD4LkfhBsUtCz0LBXOMMS4Zw3o1kY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

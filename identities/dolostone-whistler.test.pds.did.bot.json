@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolostone-whistler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "LHJuKEninsAR6lKW0rWTJkO6eL1AB6z7bFC_ZeGwfPU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

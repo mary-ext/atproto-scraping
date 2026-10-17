@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolerite-vole.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "PrYAejnNzYzJZ5SHuWRdCR2a5Jd4zVRcj6AOSaw0UNg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

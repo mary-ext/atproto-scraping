@@ -1,9 +1,9 @@
 {
 	"did": "did:web:calcite-badger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "qecqO4UzUPXLQiIltxGQbtL-NrwD4Wc_ot3jbc53vl4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

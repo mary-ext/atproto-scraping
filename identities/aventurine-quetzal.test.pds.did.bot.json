@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aventurine-quetzal.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "J6w5MqobtjYrBLxCTEYtoJlRTY2_sG1IIjibuBb7YyU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quartzite-jaguarundi.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "BKL-RvKzMh1ovUDwMfGgbYWMTD-_Cbsj_9FFnsXDjNo",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792033811407,
-	"errorAt": null
+	"errorAt": 1792205909018
 }

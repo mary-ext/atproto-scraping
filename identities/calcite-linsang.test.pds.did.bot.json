@@ -1,9 +1,9 @@
 {
 	"did": "did:web:calcite-linsang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "6EuxRjNxw9NfN36hnY8UeOzxP03hDDlsuDH8C4YBBoQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

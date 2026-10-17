@@ -1,0 +1,9 @@
+{
+	"did": "did:web:jasper-newt.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792205909018,
+	"errorAt": null,
+	"hash": "sm2VAFvpvdldm4FxCogoSDNa-12PKJUfz6tr-FO6tI0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

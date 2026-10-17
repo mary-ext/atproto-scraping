@@ -1,9 +1,9 @@
 {
 	"did": "did:web:schist-puffin.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "FtvIEeyEoYOKPPAUAM2Gb7fqymByV0VODqdEzEpZxgc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

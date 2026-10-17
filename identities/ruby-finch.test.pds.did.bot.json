@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ruby-finch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "2jDkq1gjKtg7p4BHxsd0QB02RzTiubFVxz6ZEXVMwN0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

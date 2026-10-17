@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sardonyx-hutia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "USMu5fnpOTj-ZxrA7mLe-R6y1aOnQ-5ho3-yQdy0cuY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

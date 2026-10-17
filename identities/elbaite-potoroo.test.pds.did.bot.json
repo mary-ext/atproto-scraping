@@ -1,9 +1,9 @@
 {
 	"did": "did:web:elbaite-potoroo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "T19jEt6bfMz4N-WDzg_j7ADDqPBZseDGDKjJDOdwc9o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

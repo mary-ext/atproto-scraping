@@ -1,9 +1,9 @@
 {
 	"did": "did:web:billkezos.gonnakms.lol",
-	"status": "online",
+	"status": "offline",
 	"hash": "4BJekN9uC7wBIkep2rD0_ATE_FEPl_s-BKEZzcNCobo",
 	"pds": "https://gonnakms.lol/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792205909018
 }

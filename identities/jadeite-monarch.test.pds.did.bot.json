@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jadeite-monarch.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "d6HQX2qGFDCHncI2-knseETvOgOJiSUfzLk9glCpf3Q",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792033811407,
-	"errorAt": null
+	"errorAt": 1792205909018
 }

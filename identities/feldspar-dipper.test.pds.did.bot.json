@@ -1,9 +1,9 @@
 {
 	"did": "did:web:feldspar-dipper.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "TwVgag5pPpEGkrsuxNVZqeHOfOxUBzRhJaQcnFtWp80",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

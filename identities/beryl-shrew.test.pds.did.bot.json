@@ -1,9 +1,9 @@
 {
 	"did": "did:web:beryl-shrew.test.pds.did.bot",
-	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "8d3QnDqvCK-WXiRNEGTLZdTSqGO5o_Iz79R7Q_Kwppc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": 1792205909018
 }

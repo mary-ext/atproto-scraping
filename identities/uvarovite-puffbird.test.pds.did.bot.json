@@ -1,9 +1,9 @@
 {
 	"did": "did:web:uvarovite-puffbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "oFFuDI9oaGOm0pO7fJCQ6SnliZ3lKjIOjImYQyuCy-4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

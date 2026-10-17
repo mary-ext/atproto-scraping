@@ -1,9 +1,9 @@
 {
 	"did": "did:web:augite-agouti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "7LY9GFKTN7yLLaSgPi73saGHq_85iU8hJcoQIgEoMGs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

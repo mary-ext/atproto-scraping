@@ -1,9 +1,9 @@
 {
 	"did": "did:web:rageous.gonnakms.lol",
-	"status": "online",
+	"status": "offline",
 	"hash": "mmz6qk7TSEwIgSE63KPX-FMtgeWGLXnbWq4Xl2QIGzs",
 	"pds": "https://gonnakms.lol/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792205909018
 }

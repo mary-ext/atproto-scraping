@@ -1,9 +1,9 @@
 {
 	"did": "did:web:marble-acouchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "Jtj1YsTAGDYdOkhr6T-b0JLpg5sYhhPjOFx42X05YcE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

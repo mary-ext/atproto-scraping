@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aint.gonnakms.lol",
-	"status": "online",
+	"status": "offline",
 	"hash": "JluPnT-FSywAt960a48d6I4KcEHXvl0uoFzLmJz3Lyg",
 	"pds": "https://gonnakms.lol/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792205909018
 }

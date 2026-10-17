@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chalcopyrite-olingo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "8eaSG19uPwRTQe0ZdqF5oVTti42wYE909s_gJzzPC3Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }

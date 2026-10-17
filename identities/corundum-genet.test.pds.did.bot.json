@@ -1,0 +1,9 @@
+{
+	"did": "did:web:corundum-genet.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792205909018,
+	"errorAt": null,
+	"hash": "N2DZ4B3ADYUERcXzNbAFQ81K-Twsa3MR_tut9VkLrtU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

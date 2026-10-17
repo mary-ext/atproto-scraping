@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.keirn.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791948648583,
-	"errorAt": null
+	"errorAt": 1792206632356
 }

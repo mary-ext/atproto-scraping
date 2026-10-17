@@ -1,0 +1,9 @@
+{
+	"did": "did:web:dolerite-aardvark.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792205909018,
+	"errorAt": null,
+	"hash": "CwETuUCLUSkWZ2sfKDI5iJO5Drso9KphTNBwabWjYgk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

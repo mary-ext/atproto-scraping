@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lazurite-echidna.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792205909018,
+	"errorAt": null,
+	"hash": "vrn8CHNTXH16w2laCpdZxzXI5dITr1QPDWUKSfqp-SQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

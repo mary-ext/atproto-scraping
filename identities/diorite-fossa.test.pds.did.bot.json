@@ -1,9 +1,9 @@
 {
 	"did": "did:web:diorite-fossa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792119983106,
-	"errorAt": null,
 	"hash": "2e5yt5pm6DJOTlM46eOVOquUY_cyLU6WaDXyN5KmVnY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792119983106,
+	"errorAt": null
 }
