@@ -1,9 +1,9 @@
 {
 	"did": "did:web:latestdemo.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "2GrFJSlmx4sGjLOEj8QBGa4TPbDy66Bx7ei1-gCLg5c",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

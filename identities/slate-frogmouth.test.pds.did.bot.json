@@ -1,9 +1,9 @@
 {
 	"did": "did:web:slate-frogmouth.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "U4qo-_bLJLEqwFIGtPCx3JglyzemGOaXEhxXFa-2C-Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

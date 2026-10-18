@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alt.lukeacl.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "iIlBA67JZciafFswMwX7M_DWL5GlPc3HqCHZrfsaoJw",
 	"pds": "https://pds.lukeacl.com/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792292407300
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:newee.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "tQUqM9jZNZOPRjbZUo_dt6ywI2BYY8HnzfNMB2y0nAg",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

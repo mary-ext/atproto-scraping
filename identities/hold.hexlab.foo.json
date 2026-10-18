@@ -1,7 +1,7 @@
 {
 	"did": "did:web:hold.hexlab.foo",
 	"status": "online",
-	"hash": "ebUlHsGeKFGIgedbZwUFsZkNvJHAw5cKYuw35YjIB40",
+	"hash": "16Ljz07M36VPKVVQQe-eWl4XNJhzk0zU2fQ2ojIpuWY",
 	"pds": "https://hold.hexlab.foo/",
 	"labeler": null,
 	"firstSeenAt": 1792033811407,

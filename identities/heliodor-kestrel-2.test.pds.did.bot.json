@@ -1,9 +1,9 @@
 {
 	"did": "did:web:heliodor-kestrel-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "IJEnzr0re1LLQLCIabiYIMEWjQo-Zsa5Zlrr5_JK5Oc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

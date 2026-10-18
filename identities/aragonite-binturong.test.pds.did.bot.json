@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aragonite-binturong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "TnSRelqf6dV1A6ZL2bLzi_WPAKnNztC62vwwHmp8HZM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

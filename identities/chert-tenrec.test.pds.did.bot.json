@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chert-tenrec.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "Ba3l11qEi0hM8HIf3yX7xRdFQ4goIXJ_at5UbVDxg40",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

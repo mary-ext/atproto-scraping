@@ -1,0 +1,9 @@
+{
+	"did": "did:web:arkose-kinkajou.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792292407300,
+	"errorAt": null,
+	"hash": "cKj0iVKdOSaPj0Th4TxS7oE52Kr0rfqUE0n4GU1T1CE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

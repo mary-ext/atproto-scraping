@@ -1,8 +1,8 @@
 {
 	"url": "https://raspberrypi3.rocksky.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "clojure-pds v0.1.0-dev",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1792205909018,
-	"errorAt": null
+	"errorAt": 1792293108126
 }

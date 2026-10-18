@@ -1,6 +1,8 @@
 {
 	"url": "https://atp.mobula.moe/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "tranquil 0.6.7",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1791778716341,
-	"errorAt": 1791779408239
+	"errorAt": null
 }

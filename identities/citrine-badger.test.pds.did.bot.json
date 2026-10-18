@@ -1,9 +1,9 @@
 {
 	"did": "did:web:citrine-badger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "xs--J4IdY86ovMlpHXDno30kaH8C7kw4GJ0HzRTEM7g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

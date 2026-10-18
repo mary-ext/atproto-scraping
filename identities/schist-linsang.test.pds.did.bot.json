@@ -1,9 +1,9 @@
 {
 	"did": "did:web:schist-linsang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "3AnvBKnqVZkG0qsDWUsi_Xz2pWLaInhs4OmNz_glGbg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

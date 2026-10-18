@@ -1,0 +1,9 @@
+{
+	"did": "did:web:granite-coati.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792292407300,
+	"errorAt": null,
+	"hash": "7Dmu_eMQyStJQAVA7WYRAAQ3agZ9ARFxRA2eTth5pMk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

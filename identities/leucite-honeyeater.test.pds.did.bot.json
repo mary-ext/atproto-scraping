@@ -1,9 +1,9 @@
 {
 	"did": "did:web:leucite-honeyeater.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "hpThnNgK0PqsnnGOK9eBFFHWl8kb_4mQ9f_CiciFFnE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

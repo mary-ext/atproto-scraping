@@ -1,9 +1,9 @@
 {
 	"did": "did:web:safety.lukeacl.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "22T23K0b31Hne2CnexmNQEWQkv0GCFCI2-pPhR7o5CQ",
 	"pds": "https://pds.lukeacl.com/",
 	"labeler": "https://lukeacl.ngrok.io/",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792292407300
 }

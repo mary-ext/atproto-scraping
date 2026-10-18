@@ -1,9 +1,9 @@
 {
 	"did": "did:web:garnet-olingo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "vabuxxX0dXuQI0hQ4UuS9sMTdYXs55P9h-MqvssYKFQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }

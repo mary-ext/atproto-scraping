@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pyrope-hedgehog.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792205909018,
-	"errorAt": null,
 	"hash": "fiuv5QkY4RvpXeTHYN3jfRa947LOKxLkfljKymlALkE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792205909018,
+	"errorAt": null
 }
