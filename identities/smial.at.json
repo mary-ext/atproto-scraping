@@ -1,0 +1,9 @@
+{
+	"did": "did:web:smial.at",
+	"status": "online",
+	"firstSeenAt": 1792379636938,
+	"errorAt": null,
+	"hash": "m_qpTZkGai_eVE5ZdciqBdhZYFZ330Cwbw8QuqIxHAQ",
+	"pds": "https://smial.at/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:magnetite-junco.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "r8irMf47aZH_oM9U4OGacf2DX2lKGvcvw2Apzpp3yfg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

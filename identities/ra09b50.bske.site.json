@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ra09b50.bske.site",
-	"status": "online",
+	"status": "offline",
 	"hash": "8IaZNppvg67dhMFk2CD7bnKAFpz67XzEoffrh34Sbng",
 	"pds": "https://aid.bske.site/",
 	"labeler": null,
 	"firstSeenAt": 1791778716341,
-	"errorAt": null
+	"errorAt": 1792379636938
 }

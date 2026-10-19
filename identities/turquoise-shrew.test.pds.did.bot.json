@@ -1,9 +1,9 @@
 {
 	"did": "did:web:turquoise-shrew.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "fkgbFwgoqVAfzfe7M1lwqaUjC05BuhWp7S7ZKhzrIzE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

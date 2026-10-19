@@ -1,7 +1,7 @@
 {
 	"url": "https://moderation.refrakt.app/",
 	"did": "did:plc:aydey7xm4jo2qkc2mi37g43w",
-	"status": "unreachable",
+	"status": "online",
 	"firstSeenAt": 1791778716341,
-	"errorAt": 1791779408239
+	"errorAt": null
 }

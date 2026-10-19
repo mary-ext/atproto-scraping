@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil-pds.g4v.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.5.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776126924470,
-	"errorAt": null
+	"errorAt": 1792380339575
 }

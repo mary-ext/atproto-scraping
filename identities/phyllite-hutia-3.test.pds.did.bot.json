@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-hutia-3.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "Vn2wehppOq-7ysfDOEkNFlWBU3W-TMGEd9lU84Gvd20",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:carnelian-chinchilla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "hG2gaqBEuBki91ApgU2WPT9PZVHLLZYX4bzB3HlwFyc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:soapstone-bilby.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "jRLyn7I3WIJ4HqlPTEtQ9-nuWx7KaRqmLcwBmdSWcZQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:endorsed.at",
+	"status": "online",
+	"firstSeenAt": 1792379636938,
+	"errorAt": null,
+	"hash": "5u0Ne8nxiIi9wgGyn02tyBkcZL9ODS4ABaOBRkBaR0c",
+	"pds": "https://endorsed.at/",
+	"labeler": null
+}

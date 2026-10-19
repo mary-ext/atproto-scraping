@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sandstone-ocelot.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "m_J8WOiItR1D2NUcgL6FkPr6JgBnLS52--wj1abHyRE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }

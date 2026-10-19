@@ -1,8 +1,8 @@
 {
 	"url": "https://pds1.bsea.social/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.218",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792380339575
 }

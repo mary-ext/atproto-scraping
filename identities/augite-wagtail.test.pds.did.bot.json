@@ -1,9 +1,9 @@
 {
 	"did": "did:web:augite-wagtail.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792292407300,
-	"errorAt": null,
 	"hash": "vkmVGiD-ZA0D85rcRSgJN8DVHbczy6iRIQXeJGVRjyk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792292407300,
+	"errorAt": null
 }
