@@ -1,0 +1,9 @@
+{
+	"did": "did:web:pyrope-dormouse.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "E2DQauHNJX0w0QW713QTU9Yfq2g9jjkC1r9kQkpBupI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

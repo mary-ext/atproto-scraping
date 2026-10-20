@@ -1,0 +1,9 @@
+{
+	"did": "did:web:nepheline-bilby.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "NKs1Kmglx5rfoFLSHo1-HgCG2frQ-2IFKzoY4gMTpd8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

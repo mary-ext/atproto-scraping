@@ -1,0 +1,9 @@
+{
+	"did": "did:web:galena-quokka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "JBS6uv9HOdbfBvDWazDWVYoibQeeTECd2PrzLX7xZIc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

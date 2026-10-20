@@ -1,0 +1,9 @@
+{
+	"did": "did:web:conglomerate-finch.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "7h7lYxLHWi3qzEyALTZg5XD5AOB2PepxANg6kzihD6s",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

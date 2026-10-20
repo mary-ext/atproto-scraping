@@ -1,0 +1,9 @@
+{
+	"did": "did:web:schist-gundi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "5tRikZ27ILNeZejJhS5Bsl3G9SAhCYhQj5tlSgTGAeY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

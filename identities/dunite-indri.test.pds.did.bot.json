@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dunite-indri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792379636938,
-	"errorAt": null,
 	"hash": "-1riuCvC3NqthzBB2nnS7icnJSGrdyvjkMBZSYt_IG4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792379636938,
+	"errorAt": null
 }

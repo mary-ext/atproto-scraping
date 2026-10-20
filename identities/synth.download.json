@@ -1,0 +1,9 @@
+{
+	"did": "did:web:synth.download",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "q0gjQ6LycuO4jqc2W676MOgaCGMKXf6uWbx6mldaAOk",
+	"pds": "https://pds.synth.download/",
+	"labeler": null
+}

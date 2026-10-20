@@ -1,9 +1,9 @@
 {
 	"did": "did:web:amazonite-viscacha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792379636938,
-	"errorAt": null,
 	"hash": "vZjWKE6EXfeHV_R2zwUBPboeIljHfImz7ybZV15Cb0c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792379636938,
+	"errorAt": null
 }

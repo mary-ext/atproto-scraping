@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.peoni.es/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791433750932,
-	"errorAt": 1791691721672
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:variscite-dormouse.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792379636938,
-	"errorAt": null,
 	"hash": "mIcNc3M2xTcYxeWUCt_JAiagTvuORpCEz1L6CY-DD0c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792379636938,
+	"errorAt": null
 }

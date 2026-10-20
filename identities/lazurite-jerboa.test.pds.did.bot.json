@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lazurite-jerboa.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "Q7dRPCg-cx44vu0VJJv8uBoLetGYpc9OmLdYPvIAqPM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

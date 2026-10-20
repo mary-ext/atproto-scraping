@@ -1,0 +1,9 @@
+{
+	"did": "did:web:phyllite-squirrel.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "TEqBhrnIaQ3Hu1OIBn92kNIIStt4UxLFyPrc7Vm-IYc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:migmatite-wren.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "XHGirBOhA12ZPPahG7QSnP4WEF4i8kloBOJNhZxMJYg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

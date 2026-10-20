@@ -1,9 +1,9 @@
 {
 	"did": "did:web:obsidian-lemming.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792379636938,
-	"errorAt": null,
 	"hash": "CXBmhOB300j81xC_tYyoEkh7ZC1yi8C4fqQdkE22z0Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792379636938,
+	"errorAt": null
 }

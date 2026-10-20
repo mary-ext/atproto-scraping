@@ -1,8 +1,8 @@
 {
 	"url": "https://endorsed.at/",
-	"status": "online",
+	"status": "offline",
 	"version": "v0.1.15-02bebbc4*",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792379636938,
-	"errorAt": null
+	"errorAt": 1792467322874
 }

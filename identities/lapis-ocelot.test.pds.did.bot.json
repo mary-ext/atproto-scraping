@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lapis-ocelot.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "bWN_Zhn1gwHd3SxdZTLB_wXp5N3Lp7zv3QjWc2OPFKw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

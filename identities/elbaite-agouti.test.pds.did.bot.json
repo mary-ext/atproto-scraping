@@ -1,0 +1,9 @@
+{
+	"did": "did:web:elbaite-agouti.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792466565146,
+	"errorAt": null,
+	"hash": "ipwIzlDLzJnkYw92BKli6lxJQjh1jGMTGuGBpoFjymI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}
