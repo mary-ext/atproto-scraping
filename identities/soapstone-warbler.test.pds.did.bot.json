@@ -1,9 +1,9 @@
 {
 	"did": "did:web:soapstone-warbler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "qWISfVabt8LobeOd_fZG48w_8FqV-rOXd92i9_5lscU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

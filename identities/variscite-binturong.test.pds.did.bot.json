@@ -1,9 +1,9 @@
 {
 	"did": "did:web:variscite-binturong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "BdxS82p1HjVhad5ryAtdTbjN1BkmGZpj51DPLyeVXjY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

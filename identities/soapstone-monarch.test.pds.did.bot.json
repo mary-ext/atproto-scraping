@@ -1,9 +1,9 @@
 {
 	"did": "did:web:soapstone-monarch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "e7cPWiYspx7pfuOPOrBksYtYhMQ-yz9f65EyWQZytyA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bornite-bilby.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "i0aK7wSwShXBP1ELqcsSgek_YQKyG8oKwd4PpLA4LhI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

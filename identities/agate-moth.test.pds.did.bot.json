@@ -1,0 +1,9 @@
+{
+	"did": "did:web:agate-moth.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "4KdTnzQB3Agx2EYglSPXJ8EAEw4FNZUfAv5ol1SnZUY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

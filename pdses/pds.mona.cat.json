@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.mona.cat/",
 	"status": "online",
-	"version": "tranquil 0.7.0",
+	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782953236069,
 	"errorAt": null

@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.sensorthings.dev/",
 	"status": "online",
-	"version": "1.0.0+02b7e76",
+	"version": "1.2.0+40611bc",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
 	"errorAt": null

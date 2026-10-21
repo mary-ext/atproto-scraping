@@ -1,0 +1,9 @@
+{
+	"did": "did:web:marl-galago.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "9WYAGxkGUmHxnENWnkHOK2ehHYAk77PqR3mg704XyPI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

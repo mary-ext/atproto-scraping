@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sodalite-civet.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "PP16vLLuJAfFy5JyLJL23b6nq8bBmOSutBsCGZ9M9AE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:elbaite-grebe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "J2kDDiVwiqm9QIE04OZy6EwoKcO1BmmoOMVKhWLAjuc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:peridot-mara.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "fZwlRVejc4_wv_ewNMatBWdVIWOF28Y3HPkEowVNjCY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

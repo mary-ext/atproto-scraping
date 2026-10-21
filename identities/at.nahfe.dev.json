@@ -1,9 +1,9 @@
 {
 	"did": "did:web:at.nahfe.dev",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "SYsSRReMB4lD1Unh0s2RumpMta3oM8PrKWwF_zN1wwM",
 	"pds": "https://pds.nahfe.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

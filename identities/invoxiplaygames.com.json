@@ -1,9 +1,9 @@
 {
 	"did": "did:web:invoxiplaygames.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "bShKVSYMHthsEn0enKYRYEcxEe_URP3MB9j_pL7_gec",
 	"pds": "https://pds.invoxiplaygames.com/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792552644079
 }

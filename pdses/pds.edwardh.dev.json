@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.edwardh.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791778716341,
-	"errorAt": 1792467322874
+	"errorAt": null
 }

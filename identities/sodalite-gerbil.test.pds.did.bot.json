@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sodalite-gerbil.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "UksAHz4ZAh5G2O_Vkl8ALutLLPz9KiyFfmnCxB2xmmA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

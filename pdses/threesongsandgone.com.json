@@ -1,6 +1,8 @@
 {
 	"url": "https://threesongsandgone.com/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5037",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1792466565146,
-	"errorAt": 1792467322874
+	"errorAt": null
 }

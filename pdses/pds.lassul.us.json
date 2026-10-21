@@ -2,7 +2,7 @@
 	"url": "https://pds.lassul.us/",
 	"status": "online",
 	"version": "tranquil 0.7.0",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1792466565146,
 	"errorAt": null
 }

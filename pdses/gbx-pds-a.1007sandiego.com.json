@@ -1,8 +1,8 @@
 {
 	"url": "https://gbx-pds-a.1007sandiego.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.37",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792205909018,
-	"errorAt": null
+	"errorAt": 1792553368262
 }

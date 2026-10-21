@@ -1,8 +1,8 @@
 {
 	"url": "https://at.fur.onl/",
-	"status": "offline",
+	"status": "online",
 	"version": "pegasus e02c44f",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788233551312,
-	"errorAt": 1792467322874
+	"errorAt": null
 }

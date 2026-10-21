@@ -1,9 +1,9 @@
 {
 	"did": "did:web:trebaxis.net",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "MmeOOlTh1ZU453XxBbN2UKXJTvakEiyLXev39anV6_Q",
 	"pds": "https://pds.trebaxis.net/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

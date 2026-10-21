@@ -1,0 +1,9 @@
+{
+	"did": "did:web:residue-santoku.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "ZAJ2wPj4UW_M9VyE8n3EZZiJLbQtnBbyDffWoysq4MU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

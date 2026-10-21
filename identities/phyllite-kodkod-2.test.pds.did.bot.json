@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-kodkod-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "FmYpGINSEsc8d8v8hCyPkh96bXo9A0hSb6YKI7PrZ-A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

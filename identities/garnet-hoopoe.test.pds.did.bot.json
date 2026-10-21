@@ -1,0 +1,9 @@
+{
+	"did": "did:web:garnet-hoopoe.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "NctxgZWiRkRBuc-PLWckxagEOMOFMxI3qr9tmjgT5Eo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

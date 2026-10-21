@@ -1,6 +1,7 @@
 {
 	"url": "https://beta.seiran.org/",
-	"status": "unreachable",
+	"status": "online",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1792379636938,
-	"errorAt": 1792380339575
+	"errorAt": null
 }

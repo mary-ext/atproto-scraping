@@ -1,0 +1,9 @@
+{
+	"did": "did:web:quotient-kris.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792552644079,
+	"errorAt": null,
+	"hash": "OLMy0l7huZmb_idCj_lpqjLDw2ZzMlDq1ogAo6gd5wo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

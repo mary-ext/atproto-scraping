@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ignimbrite-dormouse.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "iCdTZ-6MuOcBrTIHq182v5HlfXoEagNrs9LRENHlKEQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

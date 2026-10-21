@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler.skychart.blue/",
 	"did": "did:plc:hgv52gbcj6n67ylxoiz5icxs",
-	"status": "online",
+	"status": "offline",
 	"version": "skychart-labeler",
 	"firstSeenAt": 1790740650576,
-	"errorAt": null
+	"errorAt": 1792553368262
 }

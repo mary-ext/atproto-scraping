@@ -1,9 +1,9 @@
 {
 	"did": "did:web:at.scribhneoir.com",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "gY11sj1XOvJA_0cYUgLXN4CzP9i_Dx_rOGy1h39qLas",
 	"pds": "https://at.scribhneoir.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }

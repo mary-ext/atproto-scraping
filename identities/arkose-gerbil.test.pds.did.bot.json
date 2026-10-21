@@ -1,9 +1,9 @@
 {
 	"did": "did:web:arkose-gerbil.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792466565146,
-	"errorAt": null,
 	"hash": "qwqbUx55ysTDO34EHaHmm3bH1UJed_9F1UxpmFNnVqA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792466565146,
+	"errorAt": null
 }
