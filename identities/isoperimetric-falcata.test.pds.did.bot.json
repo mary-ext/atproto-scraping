@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isoperimetric-falcata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "latp4-PprOl4NwjjE2dILILSI8EMG5LcrKVZ9u5VOl4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

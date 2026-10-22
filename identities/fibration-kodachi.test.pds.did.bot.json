@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fibration-kodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "7zRVTOlHPtTecrM6bu_dDnV62bcQ8x83vev83GDIs4Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:entropia.de",
-	"status": "online",
+	"status": "offline",
 	"hash": "Q7WQkmsRwEPriBN4Vz1ZIXz0yN1SXjfHN59Bv5CEjfo",
 	"pds": "https://pds.entropia.de/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792638952979
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sandstone-warbler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "XkkWxUOl_og0NtIIBrI8I-lkA2SLObyYx1hkqlGaY8c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

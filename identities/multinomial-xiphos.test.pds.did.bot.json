@@ -1,9 +1,9 @@
 {
 	"did": "did:web:multinomial-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "DR9HnDNHsiiWzhhYv5giIa8A_GBXqTCtGm0l3o-LG3M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

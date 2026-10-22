@@ -1,9 +1,9 @@
 {
 	"did": "did:web:emerald-margay.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "7wMqwFDEqrjkdNNkGbf5p0LAokOfBgfVzMUZ8Onx-5E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

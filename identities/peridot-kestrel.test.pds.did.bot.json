@@ -1,9 +1,9 @@
 {
 	"did": "did:web:peridot-kestrel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "woEGSpwsIzNfmceKSSnrnESLqbkyC3xO-LYKhzCQyxc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

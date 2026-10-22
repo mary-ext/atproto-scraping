@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-sujihiki.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792638952979,
+	"errorAt": null,
+	"hash": "Yy8BN8KilLlwUp57YIfPZV4edYxVUILQH74Ysx0dQqM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

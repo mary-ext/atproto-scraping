@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gulas.ch",
-	"status": "online",
+	"status": "offline",
 	"hash": "fAlIenoSbm1tdhBDu_nGwCnGGDoREqYhT4bKerALuQE",
 	"pds": "https://pds.entropia.de/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792638952979
 }

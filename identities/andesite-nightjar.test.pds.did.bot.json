@@ -1,9 +1,9 @@
 {
 	"did": "did:web:andesite-nightjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "cNLxKIbGTQ5Udp9t4bFc8w95jfi4cEayzgBN0v19vbk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

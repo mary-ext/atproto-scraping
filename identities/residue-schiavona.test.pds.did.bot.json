@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-schiavona.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "vvK3XOqcX0J5i0Uxx16mCf1Bh4lQqUOy24oN4ueYspA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

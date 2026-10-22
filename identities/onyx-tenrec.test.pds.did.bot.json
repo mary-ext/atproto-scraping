@@ -1,0 +1,9 @@
+{
+	"did": "did:web:onyx-tenrec.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792638952979,
+	"errorAt": null,
+	"hash": "R8LZvB3PGsOMCOS0y_RlztLPsKai1FUenVjEhaWF1ms",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

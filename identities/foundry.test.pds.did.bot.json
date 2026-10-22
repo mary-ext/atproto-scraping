@@ -1,9 +1,9 @@
 {
 	"did": "did:web:foundry.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "E4omNdx_0joBp90gDNzgr7glx5HloTWGinCuQLN-QQo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

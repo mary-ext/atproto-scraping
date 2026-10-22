@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-deba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "0AQc0_Bp3spcusjL0cxVHXcyUhlpuA7EJ6jVuENsr8M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

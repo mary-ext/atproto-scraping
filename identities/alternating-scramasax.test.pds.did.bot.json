@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alternating-scramasax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "Cmi2Sv2BSrcZkkgExCF8e1OSlxeUDNzJeHfi5d47kCk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:peridotite-jerboa-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "sZ-e48alpS_jsjaBTg4CnbSF4UAqA_U4EZ0Rc0v_ugE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

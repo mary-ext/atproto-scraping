@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chalcedony-mara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "022oNEcKY1qX_-EYF02j4xA06z9Fn5cPja0SOWrsZqs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

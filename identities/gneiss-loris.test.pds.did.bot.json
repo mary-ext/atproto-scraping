@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gneiss-loris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "fFKNumUykRX_XuHbGeBwtBqOOKwTl2x6_IpFYsE27Uw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

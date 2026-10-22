@@ -1,9 +1,9 @@
 {
 	"did": "did:web:planar-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "0Aa6hKUJIC1LYUHLxqjPVuU9v_vk0KyV_j-l_rzkmMI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

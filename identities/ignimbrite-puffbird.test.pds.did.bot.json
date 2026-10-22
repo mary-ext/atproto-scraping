@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ignimbrite-puffbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "FIWeK7eBD6T_CtL5V99ExRoxXYE7p-CSVfxRqGDRMYg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

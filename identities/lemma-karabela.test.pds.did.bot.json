@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "jHt_I2bdQRB-8h_3qVDth2MXGBE-2HmCzwQQeyB-yiw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

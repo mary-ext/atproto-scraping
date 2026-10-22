@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chert-colugo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "IQvwFniYQxWO05rNfNgrFoq0qU5DRnicG2mCq-dGqBA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

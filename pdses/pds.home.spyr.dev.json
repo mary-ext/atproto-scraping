@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.home.spyr.dev/",
-	"status": "offline",
-	"version": "0.4.5037",
+	"status": "online",
+	"version": "0.4.5046",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1792553368262
+	"errorAt": null
 }

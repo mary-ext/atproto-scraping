@@ -1,8 +1,8 @@
 {
 	"url": "https://noodles.name/",
-	"status": "offline",
-	"version": "0.4.5037",
+	"status": "online",
+	"version": "0.4.5044",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1792553368262
+	"errorAt": null
 }

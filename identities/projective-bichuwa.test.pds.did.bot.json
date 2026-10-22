@@ -1,9 +1,9 @@
 {
 	"did": "did:web:projective-bichuwa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "BhNzKC72bkdiXIAwMIBLpeAnYqLzEzFMKSOuNuVeq0I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

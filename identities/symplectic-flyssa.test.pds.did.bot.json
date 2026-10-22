@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-flyssa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "Rr6kFspmPwOEZ3-IfmeTW0IkUWILfToYFdflDYANFYE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

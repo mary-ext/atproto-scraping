@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.usaya.de/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789095540985,
-	"errorAt": null
+	"errorAt": 1792639700254
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limestone-otter.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "Ec5FwIpqzBkb2cNPD1a8YwS7KyKcG3eQml6JGIxHMGE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

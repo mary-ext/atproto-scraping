@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scoria-motmot.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "72VPDpkgMDJkS4XEN6NwljbsNnV-EJBEHot7kEXS2GU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

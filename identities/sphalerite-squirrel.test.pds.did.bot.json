@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sphalerite-squirrel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "j8u8xsmyWhrUf5-kGl4Vw6Z2QvF4qdQHNvDqLfybmvE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

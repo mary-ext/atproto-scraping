@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pyrope-degu.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "bYrCoYHbrvoasvMJvWXQEzSg9eQ70HavYgmGtGPy1eM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }

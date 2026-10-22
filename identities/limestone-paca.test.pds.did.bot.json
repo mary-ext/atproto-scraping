@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limestone-paca.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792552644079,
-	"errorAt": null,
 	"hash": "g1aDUz10xveXkoinhGED-BoDosfhBcDdC8tQb9C6PJ4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792552644079,
+	"errorAt": null
 }
