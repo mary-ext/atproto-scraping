@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-firangi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792638952979,
-	"errorAt": null,
 	"hash": "abursyNQHPUQxsoK6NdNHQMaueLd1P5UVjh0dhO_NoM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792638952979,
+	"errorAt": null
 }

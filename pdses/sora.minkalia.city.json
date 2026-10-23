@@ -1,8 +1,8 @@
 {
 	"url": "https://sora.minkalia.city/",
-	"status": "offline",
-	"version": "0.4.5036",
+	"status": "online",
+	"version": "0.4.5044",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779670034628,
-	"errorAt": 1792639700254
+	"errorAt": null
 }

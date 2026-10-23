@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.bike.community/",
 	"did": "did:plc:qkty4ninplgtzeychgz4yyrh",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

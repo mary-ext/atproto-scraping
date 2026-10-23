@@ -1,9 +1,9 @@
 {
 	"did": "did:web:slate-tanager-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792638952979,
-	"errorAt": null,
 	"hash": "V6ev9V1lD9PFbTI0MtJPU7ETCqvOdtZWOjy3pqkyOVc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792638952979,
+	"errorAt": null
 }

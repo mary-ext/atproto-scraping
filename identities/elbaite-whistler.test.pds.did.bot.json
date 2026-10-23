@@ -1,0 +1,9 @@
+{
+	"did": "did:web:elbaite-whistler.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792725691104,
+	"errorAt": null,
+	"hash": "4QoGEOHUTwiGyVYDmcruogLHDFBzZt62zD3KC5rwbXQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

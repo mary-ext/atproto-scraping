@@ -1,8 +1,8 @@
 {
 	"url": "https://gdbay.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "gdbay-local",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788836507982,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

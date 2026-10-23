@@ -1,0 +1,9 @@
+{
+	"did": "did:web:dense-messer.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792725691104,
+	"errorAt": null,
+	"hash": "x3FGa67SS0k8tXV8SagLj5-q-WbMO8FgxaN621ieoq0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

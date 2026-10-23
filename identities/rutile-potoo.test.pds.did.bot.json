@@ -1,0 +1,9 @@
+{
+	"did": "did:web:rutile-potoo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792725691104,
+	"errorAt": null,
+	"hash": "ro85rBndfh9TVnNvumSrHs2mcLmNkuM0cS7xyJgpn1E",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

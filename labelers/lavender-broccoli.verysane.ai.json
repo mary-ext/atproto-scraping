@@ -2,7 +2,7 @@
 	"url": "https://lavender-broccoli.verysane.ai/",
 	"did": "did:plc:s45hbf5dqdkjpwuuq4djo6l2",
 	"status": "online",
-	"version": "0.3.2",
+	"version": "e2eeb6f4edf91981fe9cd0bdf6840f149031b779-dirty",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

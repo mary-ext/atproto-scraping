@@ -1,8 +1,8 @@
 {
 	"url": "https://minnywho.fyi/",
-	"status": "offline",
-	"version": "0.4.5037",
+	"status": "online",
+	"version": "0.4.5046",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790393403113,
-	"errorAt": 1792639700254
+	"errorAt": null
 }

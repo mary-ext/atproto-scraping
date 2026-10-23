@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2026-10-22T03:36:12.043Z[^1]
+Last updated: 2026-10-23T03:41:24.723Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 14 days gets dropped off from 
 
 ## Personal data servers
 
-**4172** instances active  
-**3271** online  
-**901** offline  
+**4175** instances active  
+**3283** online  
+**892** offline  
 **90** hosted by Bluesky  
-**4082** hosted by third-parties
+**4085** hosted by third-parties
 
 ### Bluesky-hosted servers
 
@@ -118,80 +118,79 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | PDS | Open? | Version |
 | --- | --- | --- |
 | ✅ 01.pds.objkt.network | No | 0.4.5009 |
-| ✅ 040bsky.nl | No | 0.4.5044 |
-| ✅ 0852.uk | No | 0.4.5044 |
-| ✅ 0x9.at | No | 0.4.5044 |
+| ✅ 040bsky.nl | No | 0.4.5046 |
+| ✅ 0852.uk | No | 0.4.5046 |
+| ✅ 0x9.at | No | 0.4.5046 |
 | ✅ 0xf.fr | No | 0.4.5009 |
-| ✅ 0xpeter.xyz | No | 0.4.5044 |
-| ✅ 1337-pd5-r3dux.eddmil.es | No | 0.4.5044 |
+| ✅ 0xpeter.xyz | No | 0.4.5046 |
+| ✅ 1337-pd5-r3dux.eddmil.es | No | 0.4.5046 |
 | ✅ 1898.fid.is | Yes | 0.10.4 |
-| ✅ 191919199.xyz | No | 0.4.5044 |
-| ✅ 1998.social | No | 0.4.5044 |
+| ✅ 191919199.xyz | No | 0.4.5046 |
+| ✅ 1998.social | No | 0.4.5046 |
 | ✅ 2exp.space | No | 0.4.5037 |
 | ✅ 2ndscreen.social | No | 0.4.5034 |
 | ❌ 2queer.xyz | No | 0.4.193 |
 | ✅ 3.td | No | 0.4.208 |
-| ✅ 3615etienne.com | No | 0.4.5044 |
-| ✅ 465789.xyz | No | 0.4.5044 |
-| ✅ 556gauge.com | No | 0.4.5044 |
+| ✅ 3615etienne.com | No | 0.4.5046 |
+| ✅ 465789.xyz | No | 0.4.5046 |
+| ✅ 556gauge.com | No | 0.4.5046 |
 | ✅ 5o3.dev | No | 0.4.188 |
 | ✅ 75-119-145-29.sslip.io | No | 0.4.5009 |
-| ✅ 8bitwizard.social | No | 0.4.5044 |
+| ✅ 8bitwizard.social | No | 0.4.5046 |
 | ✅ a.tpro.to | No | tranquil 0.6.6 |
 | ✅ aagaming.me | No | 0.4.5044 |
 | ✅ aaronoellis.com | No | 0.4.219 |
 | ✅ abnormal.zip | No | 0.4.5026 |
-| ✅ abnormalpds.work | No | 0.4.5044 |
+| ✅ abnormalpds.work | No | 0.4.5046 |
 | ✅ acpr.dev | No | 0.4.208 |
-| ✅ actarachne.com | No | 0.4.5044 |
+| ✅ actarachne.com | No | 0.4.5046 |
 | ✅ adam759.net | No | 0.4.5034 |
-| ✅ adamit.link | No | 0.4.5044 |
-| ✅ adult-pds.com | No | 0.4.5044 |
+| ✅ adamit.link | No | 0.4.5046 |
+| ✅ adult-pds.com | No | 0.4.5046 |
 | ✅ advertising.army | No | 0.4.208 |
-| ✅ afternooncurry.com | No | 0.4.5044 |
-| ❌ aggl.moe | No | N/A |
-| ✅ agomes.co | No | 0.4.5044 |
-| ✅ aguete.es | No | 0.4.5044 |
-| ✅ ahoy.foulweather.org | No | 0.4.5044 |
-| ✅ ai-of-the-tiger.de | No | 0.4.5044 |
-| ✅ ai.newvibecity.com | No | 0.4.5044 |
+| ✅ afternooncurry.com | No | 0.4.5046 |
+| ✅ aggl.moe | No | N/A |
+| ✅ agomes.co | No | 0.4.5046 |
+| ✅ aguete.es | No | 0.4.5046 |
+| ✅ ahoy.foulweather.org | No | 0.4.5046 |
+| ✅ ai-of-the-tiger.de | No | 0.4.5046 |
+| ✅ ai.newvibecity.com | No | 0.4.5046 |
 | ❌ aid.bske.site | Yes | tranquil 0.6.0 |
-| ✅ ainur-home.de | No | 0.4.5044 |
+| ✅ ainur-home.de | No | 0.4.5046 |
 | ✅ airlock.ltd | No | tranquil 0.7.1 |
 | ✅ akiba.tokyo.jp | No | 0.4.5043 |
 | ✅ akkoma.org | No | 0.4.5044 |
 | ✅ al.club.endormis.cat | No | 0.4.5034 |
 | ✅ alda.social | No | 0.4.5026 |
-| ✅ alexproto.xyz | No | 0.4.5044 |
+| ✅ alexproto.xyz | No | 0.4.5046 |
 | ✅ alien.dentist | No | 0.4.182 |
-| ✅ alloc.page | No | 0.4.5044 |
+| ✅ alloc.page | No | 0.4.5046 |
 | ✅ alpha.swan.place | No | ??? |
-| ✅ alphaxiv.social | No | 0.4.5037 |
+| ✅ alphaxiv.social | No | 0.4.5046 |
 | ✅ alt.ripperoni.com | No | 0.4.208 |
-| ✅ altq.net | No | 0.4.5044 |
-| ✅ alttextlab.click | No | 0.4.5044 |
+| ✅ altq.net | No | 0.4.5046 |
+| ✅ alttextlab.click | No | 0.4.5046 |
 | ✅ aly.social | No | tranquil 0.7.1 |
-| ✅ am-net.pp.ua | No | 0.4.5044 |
-| ✅ ameo.dev | No | 0.4.219 |
+| ✅ am-net.pp.ua | No | 0.4.5046 |
+| ✅ ameo.dev | No | 0.4.5046 |
 | ✅ amethyst.name | No | 0.4.219 |
 | ✅ ami.social | No | 0.4.208 |
-| ✅ amplifier.site | No | 0.4.5044 |
-| ✅ amycheng.dev | No | 0.4.5044 |
-| ✅ andrewdefee.com | No | 0.4.5044 |
-| ✅ andromeda.social | No | 0.4.5044 |
-| ✅ angellozan.live | No | 0.4.5044 |
+| ✅ amplifier.site | No | 0.4.5046 |
+| ✅ amycheng.dev | No | 0.4.5046 |
+| ✅ andrewdefee.com | No | 0.4.5046 |
+| ✅ andromeda.social | No | 0.4.5046 |
+| ✅ angellozan.live | No | 0.4.5046 |
 | ✅ angrygayunicorn.com | No | 0.4.5006 |
 | ✅ ansel.grainsocial.network | No | 0.4.5027 |
 | ✅ anthers.social | No | 0.4.5027 |
 | ✅ ao.oyster.cafe | No | tranquil 0.6.7 |
-| ✅ aozora.muskeg.dev | No | 0.4.5044 |
-| ❌ aozora.yockow.jp | No | 0.4.5037 |
+| ✅ aozora.muskeg.dev | No | 0.4.5046 |
+| ✅ aozora.yockow.jp | No | 0.4.5046 |
 | ✅ ap.is-hardly.online | No | 0.4.208 |
 | ✅ apeace.cool | No | 0.4.204 |
 | ❌ api-preview.kiln.zone | No | ??? |
 | ❌ api.bluesky.3ek5f74qkexdi72gok7eaoi7b77rbzch734e4ah7lyxdyungtonk4had.onion | No | ??? |
 | ❌ api.bluesky.4vsadjfos6we4gwkwwuipu3t7n7gsqhfdm7tnk7w2zarzlux2wlbcryd.onion | No | ??? |
-| ❌ api.bluesky.4yrolhhay7vzjtudpwwzgxwgxciqzumtrzaqjped7beflkn6ifikhnad.onion | No | ??? |
 | ❌ api.bluesky.542j6dh4bvwwxc2bdazgiu4jlgd64utfmhg54juz7agnb45i6sak6qqd.onion | No | ??? |
 | ❌ api.bluesky.7opclvd2hnkwog6lxzy3ybhn4kozjfrj4ji4tqg2uipemd4f2nsy5cyd.onion | No | ??? |
 | ❌ api.bluesky.c5okygvo46xj5teb5fv7agnmno3anu5prms6s5tjeszdkunl4msewnad.onion | No | ??? |
@@ -211,58 +210,59 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ api.bluesky.uxgnmg4csy6mxz2pss6xtlms3xiatebddexqiwntqvh2zkqxecc2jhid.onion | No | ??? |
 | ❌ api.bluesky.vbge376uwctcoyr3owjq7o2rfnlxaslr4rcrktdgynpkateym7lksiad.onion | No | ??? |
 | ❌ api.bluesky.xqzo3p72afpnt32eypsn47tm5oknjrz52ftkupyodhan24564j47arqd.onion | No | ??? |
+| ❌ api.didcal.io | No | ??? |
 | ❌ api.roomy.space | No | ??? |
-| ✅ app.leafplaza.eu | No | 0.4.5044 |
+| ✅ app.leafplaza.eu | No | 0.4.5046 |
 | ❌ apple.lukeacl.com | No | ??? |
-| ✅ applestickers.net | No | 0.4.5044 |
-| ❌ arabica.systems | No | 0.4.5036 |
-| ✅ araulin.eu | No | 0.4.5044 |
-| ✅ arcemortis.xyz | No | 0.4.5043 |
+| ✅ applestickers.net | No | 0.4.5046 |
+| ✅ arabica.systems | No | 0.4.5046 |
+| ✅ araulin.eu | No | 0.4.5046 |
+| ✅ arcemortis.xyz | No | 0.4.5046 |
 | ✅ arcnode.xyz | No | 0.4.5001 |
 | ✅ arcustech.social | No | 0.4.5037 |
-| ✅ arends.social | No | 0.4.5044 |
+| ✅ arends.social | No | 0.4.5046 |
 | ✅ arenm.me | No | 0.4.208 |
 | ✅ arion.social | No | 0.4.158 |
 | ✅ arknek.my.id | No | 0.4.5037 |
 | ❌ artcru.sh | No | 0.4.5037 |
-| ✅ artificial-ryan.us | Yes | 0.4.5043 |
-| ✅ artois.me | No | 0.4.5044 |
-| ✅ arume.cloud | No | 0.4.5044 |
+| ✅ artificial-ryan.us | Yes | 0.4.5046 |
+| ✅ artois.me | No | 0.4.5046 |
+| ✅ arume.cloud | No | 0.4.5046 |
 | ✅ ashy.at | No | tranquil 0.6.6 |
-| ✅ aster.id | No | 0.5.29 |
-| ✅ astral.moe | No | 0.4.5044 |
+| ✅ aster.id | No | 0.5.44 |
+| ✅ astral.moe | No | 0.4.5046 |
 | ❌ astridion.social | No | 0.4.5037 |
-| ✅ astronomi.ca | No | 0.4.5044 |
-| ✅ astrosky.social | No | 0.4.5044 |
-| ✅ at-pds.whiteside.io | No | 0.4.5044 |
-| ✅ at.aesthetic.computer | No | 0.4.5044 |
+| ✅ astronomi.ca | No | 0.4.5046 |
+| ✅ astrosky.social | No | 0.4.5046 |
+| ✅ at-pds.whiteside.io | No | 0.4.5046 |
+| ✅ at.aesthetic.computer | No | 0.4.5046 |
 | ✅ at.afoch.net | No | 0.4.5043 |
 | ✅ at.anorak01.top | No | tranquil 0.6.6 |
 | ✅ at.antilogik.de | No | 0.1.3 |
-| ✅ at.app.wafrn.net | No | 0.4.5043 |
+| ✅ at.app.wafrn.net | No | 0.4.5046 |
 | ✅ at.arimelody.space | No | tranquil 0.6.4 |
-| ✅ at.arjentic.ai | No | 0.4.5044 |
-| ❌ at.arles.us | No | 0.4.5027 |
+| ✅ at.arjentic.ai | No | 0.4.5046 |
+| ✅ at.arles.us | No | 0.4.5027 |
 | ✅ at.baro.dev | No | 0.4.5026 |
-| ✅ at.bliss.town | No | 0.4.5044 |
-| ✅ at.bluecatnet.work | No | 0.4.5044 |
+| ✅ at.bliss.town | No | 0.4.5046 |
+| ✅ at.bluecatnet.work | No | 0.4.5046 |
 | ✅ at.bnbdiscord.net | No | 0.4.5044 |
-| ✅ at.boxfox.es | No | 0.4.5044 |
-| ✅ at.cheongchun.blue | No | 0.4.5044 |
-| ✅ at.coopey.net | No | 0.4.5044 |
-| ✅ at.coyote.email | No | 0.4.5044 |
-| ✅ at.crit.run | No | 0.4.5044 |
+| ✅ at.boxfox.es | No | 0.4.5046 |
+| ✅ at.cheongchun.blue | No | 0.4.5046 |
+| ✅ at.coopey.net | No | 0.4.5046 |
+| ✅ at.coyote.email | No | 0.4.5046 |
+| ✅ at.crit.run | No | 0.4.5046 |
 | ❌ at.cubcock.net | No | ??? |
 | ✅ at.cultist.dev | No | tranquil 0.6.5 |
-| ✅ at.death.id.au | No | 0.4.5044 |
-| ✅ at.denpa.cl | No | 0.4.5044 |
+| ✅ at.death.id.au | No | 0.4.5046 |
+| ✅ at.denpa.cl | No | 0.4.5046 |
 | ✅ at.dingdongdata.com | No | 0.4.5037 |
 | ✅ at.drigs.org | No | 0.4.208 |
 | ✅ at.dws.rip | No | 0.4.5037 |
 | ✅ at.dyke.solutions | No | tranquil 0.6.6 |
 | ✅ at.equinoxx.dev | No | tranquil 0.6.7 |
 | ✅ at.erratique.fr | No | 0.4.193 |
-| ✅ at.fabio.sh | No | 0.4.219 |
+| ❌ at.fabio.sh | No | 0.4.219 |
 | ✅ at.falco.fun | No | 0.4.5027 |
 | ✅ at.fedisky.it | No | 0.4.5044 |
 | ✅ at.flkn.dev | No | tranquil 0.6.7 |
@@ -271,29 +271,29 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.fur.onl | No | pegasus e02c44f |
 | ✅ at.gabboman.xyz | No | 0.4.5037 |
 | ✅ at.gordinator.org | Yes | tranquil 0.6.7 |
-| ✅ at.gpeppard.com | No | 0.4.5044 |
-| ✅ at.grjte.sh | No | 0.4.5044 |
-| ✅ at.gudulin.com | No | 0.4.5026 |
+| ✅ at.gpeppard.com | No | 0.4.5046 |
+| ✅ at.grjte.sh | No | 0.4.5046 |
+| ✅ at.gudulin.com | No | 0.4.5046 |
 | ✅ at.guldner.at | No | 0.4.193 |
 | ✅ at.hackpgh.org | No | tranquil 0.6.6 |
-| ✅ at.haunted.computer | No | 0.4.5037 |
+| ✅ at.haunted.computer | No | 0.4.5046 |
 | ✅ at.hayden.moe | No | tranquil 0.6.6 |
 | ✅ at.hexlab.foo | No | tranquil 0.6.2 |
-| ❌ at.heyvictorfrost.com | No | 0.4.208 |
+| ✅ at.heyvictorfrost.com | No | 0.4.208 |
 | ✅ at.hgk.me | No | 0.4.5037 |
 | ✅ at.hmmburger.com | No | 0.4.182 |
-| ✅ at.hoijyun.org | No | 0.4.5044 |
+| ✅ at.hoijyun.org | No | 0.4.5046 |
 | ✅ at.horlo.net | No | tranquil 0.6.6 |
-| ✅ at.hwsc.link | No | 0.4.5044 |
-| ✅ at.insertdomain.name | No | 0.4.5044 |
+| ✅ at.hwsc.link | No | 0.4.5046 |
+| ✅ at.insertdomain.name | No | 0.4.5046 |
 | ✅ at.irminsul.cc | No | 0.4.5043 |
 | ✅ at.jodoin.io | No | 0.4.5037 |
 | ✅ at.kizaing.ca | No | 0.4.5027 |
-| ✅ at.kotodama.ca | No | 0.4.5044 |
+| ✅ at.kotodama.ca | No | 0.4.5046 |
 | ✅ at.lantian.pub | No | tranquil 0.6.7 |
-| ✅ at.laslie.de | No | 0.4.5037 |
+| ✅ at.laslie.de | No | 0.4.5046 |
 | ✅ at.leash.me | No | 0.4.208 |
-| ✅ at.lmp3.dev | No | 0.4.5044 |
+| ✅ at.lmp3.dev | No | 0.4.5046 |
 | ❌ at.lop.moe | No | cocoon 0.11.4 |
 | ✅ at.lunareclipse.zone | No | 0.4.107 |
 | ❌ at.madmalkav.stream | No | 0.4.219 |
@@ -303,22 +303,22 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.mice.tel | No | tranquil 0.7.0 |
 | ✅ at.mikchan.net | No | 0.4.5027 |
 | ✅ at.mitsuse.jp | No | 0.4.5027 |
-| ✅ at.moonshadow.dev | No | 0.4.5043 |
+| ✅ at.moonshadow.dev | No | 0.4.5046 |
 | ✅ at.murad.social | No | 0.4.5037 |
-| ✅ at.mustics.com | No | 0.4.5044 |
+| ✅ at.mustics.com | No | 0.4.5046 |
 | ✅ at.mysteryt.win | No | 0.4.182 |
-| ✅ at.nogrp.net | No | 0.4.5044 |
+| ✅ at.nogrp.net | No | 0.4.5046 |
 | ✅ at.ocw.social | No | 0.4.94 |
 | ✅ at.oyam.ca | No | 0.4.67 |
-| ✅ at.palaver.world | No | 0.4.5044 |
+| ✅ at.palaver.world | No | 0.4.5046 |
 | ✅ at.paperclover.net | Yes | 0.4.5034 |
 | ✅ at.plrs.im | No | tranquil 0.6.6 |
 | ✅ at.poxiao-labs.work | No | 0.4.5036 |
 | ✅ at.pricelessmisc.com | No | 0.4.208 |
 | ✅ at.randev.xyz | No | 0.4.5037 |
 | ✅ at.resenha.top | No | 0.4.5034 |
-| ✅ at.ricci.social | No | 0.4.5044 |
-| ✅ at.rita.moe | No | 0.4.5044 |
+| ✅ at.ricci.social | No | 0.4.5046 |
+| ✅ at.rita.moe | No | 0.4.5046 |
 | ✅ at.rysieko.pl | No | tranquil 0.6.7 |
 | ✅ at.saru.moe | No | 0.4.204 |
 | ✅ at.scribhneoir.com | Yes | cirrus 0.18.0 |
@@ -329,69 +329,71 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.sleepy.girlkissing.club | No | 0.4.5036 |
 | ✅ at.smgt.me | No | 0.4.5034 |
 | ✅ at.social.cybernetica.cc | No | 0.4.5044 |
-| ✅ at.spawninsane.com | No | 0.4.5044 |
+| ✅ at.spawninsane.com | No | 0.4.5046 |
 | ✅ at.squawk.zone | No | tranquil 0.6.6 |
 | ❌ at.stylism.moe | No | ??? |
-| ✅ at.swag.place | No | 0.4.5044 |
+| ✅ at.sulphuric.dev | No | 0.4.5046 |
+| ✅ at.swag.place | No | 0.4.5046 |
 | ❌ at.systm32.xyz | No | 0.4.5037 |
-| ✅ at.thenote.app | No | 0.4.5044 |
+| ✅ at.thenote.app | No | 0.4.5046 |
 | ✅ at.tny.im | No | 0.4.5044 |
 | ✅ at.tuinberg.nl | No | 0.4.5034 |
-| ✅ at.vandervelden.dev | No | 0.4.5043 |
-| ✅ at.vyygir.me | No | 0.4.5044 |
+| ✅ at.vandervelden.dev | No | 0.4.5046 |
+| ✅ at.vyygir.me | No | 0.4.5046 |
 | ✅ at.waf.c00lest-kats-on.ovh | No | 0.4.5043 |
-| ✅ at.waf.gaycatgirl.sex | No | 0.4.5043 |
-| ✅ at.waf.meowing.zip | No | 0.4.5044 |
+| ✅ at.waf.gaycatgirl.sex | No | 0.4.5046 |
+| ✅ at.waf.meowing.zip | No | 0.4.5046 |
 | ✅ at.wafrn.k1ba.eu | No | 0.4.5043 |
-| ✅ at.wafrn.nikes.website | No | 0.4.5027 |
+| ✅ at.wafrn.nikes.website | No | 0.4.5046 |
 | ✅ at.whinyweb.com | No | tranquil 0.7.1 |
 | ✅ at.wicwafren.com | No | 0.4.5044 |
 | ✅ at.wolo.dev | No | 0.4.5034 |
-| ✅ at.yohaku.app | No | 0.4.5044 |
+| ✅ at.yohaku.app | No | 0.4.5046 |
 | ✅ at.yourdevocean.com | No | 0.4.5037 |
 | ✅ at.yugoslavia.best | No | 0.4.5037 |
 | ✅ at2.jbc.lol | No | 0.4.5034 |
-| ✅ atchan.net | Yes | 0.4.5044 |
+| ✅ atchan.net | Yes | 0.4.5046 |
 | ✅ atlas-pds-staging.rebuildingus.org | No | 0.4.5009 |
 | ✅ atlas-pds.rebuildingus.org | No | 0.4.5009 |
-| ✅ atmo.eraland.net | No | 0.4.5043 |
+| ✅ atme.im | No | 0.4.5046 |
+| ✅ atmo.eraland.net | No | 0.4.5044 |
 | ✅ atmo.princeps-poesis.xyz | No | 0.4.5009 |
 | ✅ atmo2.mk.gg | Yes | cirrus 0.12.0 |
 | ✅ atmos.cv | No | 0.4.5009 |
 | ✅ atmosphere.games | No | 0.4.208 |
 | ✅ atmosphere.lore.earth | No | tranquil 0.7.0 |
 | ✅ atom.new.incorso.xyz | Yes | blue-nile-pds v1.0.0 |
-| ✅ atp.jamntoast.com | No | 0.4.5044 |
+| ✅ atp.jamntoast.com | No | 0.4.5046 |
 | ✅ atp.mobula.moe | No | tranquil 0.6.7 |
-| ✅ atp.momandpop.network | No | 0.4.5044 |
+| ✅ atp.momandpop.network | No | 0.4.5046 |
 | ❌ atp.referendumapp.com | No | ??? |
-| ✅ atp.retroheart.net | No | 0.4.5044 |
-| ✅ atp.shaunguimond.com | No | 0.4.5044 |
-| ❌ atp.tochu-cha.net | Yes | mypds v0.1.dev380+g5395b136c |
-| ✅ atp.willisdoering.net | No | 0.4.5044 |
+| ✅ atp.retroheart.net | No | 0.4.5046 |
+| ✅ atp.shaunguimond.com | No | 0.4.5046 |
+| ✅ atp.tochu-cha.net | Yes | mypds v0.1.dev380+g5395b136c |
+| ✅ atp.willisdoering.net | No | 0.4.5046 |
 | ✅ atprotify.me | Yes | ??? |
 | ✅ atproto-pds-dev.fr04.zio.sh | No | 0.4.5027 |
 | ✅ atproto-pds.drweissbrot.net | No | 0.4.204 |
 | ✅ atproto-pds.saiyajin.space | No | 0.4.5037 |
-| ✅ atproto.bayo.social | No | 0.4.5044 |
+| ✅ atproto.bayo.social | No | 0.4.5046 |
 | ✅ atproto.brid.gy | No | ??? |
-| ✅ atproto.bront.rodeo | No | 0.4.5044 |
-| ✅ atproto.caav.me | No | 0.4.5044 |
+| ✅ atproto.bront.rodeo | No | 0.4.5046 |
+| ✅ atproto.caav.me | No | 0.4.5046 |
 | ✅ atproto.ceo | No | 0.4.5027 |
 | ✅ atproto.chain-of-thought.org | No | 0.4.5043 |
 | ✅ atproto.cizzuk.net | No | N/A |
 | ✅ atproto.crowconclave.dev | No | 0.4.5037 |
-| ✅ atproto.digitalmethods.net | No | 0.4.5044 |
-| ✅ atproto.elon.li | No | 0.4.5044 |
-| ✅ atproto.feets.co.nz | No | 0.4.5044 |
-| ✅ atproto.funnydragons.lol | No | tranquil 0.7.0 |
+| ✅ atproto.digitalmethods.net | No | 0.4.5046 |
+| ✅ atproto.elon.li | No | 0.4.5046 |
+| ✅ atproto.feets.co.nz | No | 0.4.5046 |
+| ✅ atproto.funnydragons.lol | No | tranquil 0.7.1 |
 | ✅ atproto.is-rocket.science | No | N/A |
 | ✅ atproto.isincredibly.gay | No | 0.4.5009 |
 | ✅ atproto.jad.tl | No | 0.4.5009 |
-| ✅ atproto.kevinshelley.net | No | 0.4.5044 |
+| ✅ atproto.kevinshelley.net | No | 0.4.5046 |
 | ✅ atproto.kiva.lgbt | No | tranquil 0.6.6 |
-| ✅ atproto.kyriog.fr | No | 0.4.5027 |
-| ✅ atproto.namandixit.net | No | 0.4.5043 |
+| ✅ atproto.kyriog.fr | No | 0.4.5046 |
+| ✅ atproto.namandixit.net | No | 0.4.5046 |
 | ✅ atproto.okaits7534.net | No | tranquil 0.7.0 |
 | ✅ atproto.openclaw-france.fr | Yes | 0.4.5034 |
 | ✅ atproto.pnm.tf | No | tranquil 0.6.7 |
@@ -399,8 +401,8 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ atproto.sathani.com | No | tranquil 0.6.6 |
 | ✅ atproto.spacepandas.eu | No | N/A |
 | ✅ atproto.tala.family | No | 0.4.5009 |
-| ✅ atproto.tiuxo.com | No | 0.4.5044 |
-| ✅ atproto.twonum.org | No | 0.4.5037 |
+| ✅ atproto.tiuxo.com | No | 0.4.5046 |
+| ✅ atproto.twonum.org | No | 0.4.5046 |
 | ❌ atprotocol.social | No | 0.4.204 |
 | ✅ atprotocratespds.bringyourown.computer | No | 0.15.0-rc.4+ts1789589576 |
 | ✅ attest.monster | No | 0.4.5034 |
@@ -408,455 +410,455 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ aurum.saturnali.net | No | 0.4.5037 |
 | ✅ awesom.caderz.cc | No | 0.4.208 |
 | ✅ axxium.promethean.rest | No | 0.4.5036 |
-| ✅ ayame.moe | No | 0.4.5044 |
-| ✅ b.ersei.net | No | 0.4.5043 |
+| ✅ ayame.moe | No | 0.4.5046 |
+| ✅ b.ersei.net | No | 0.4.5046 |
 | ✅ b.lordfuckpuppy.social | No | 0.4.193 |
 | ❌ b.mioside.top | No | ??? |
-| ✅ b.yufushiro.dev | No | 0.4.5037 |
-| ✅ b3.hk | No | 0.4.5044 |
-| ✅ babfurs.social | No | 0.4.5044 |
-| ✅ babu.dev | No | v0.1.15-ae34c28f |
+| ✅ b.yufushiro.dev | No | 0.4.5046 |
+| ✅ b3.hk | No | 0.4.5046 |
+| ✅ babfurs.social | No | 0.4.5046 |
+| ✅ babu.dev | No | v0.1.15+dirty |
 | ✅ bacterial.pub | No | 0.4.5027 |
 | ✅ bag.laugh.town | No | 0.5.32 |
-| ✅ bailey.protobase.at | No | 0.4.5037 |
-| ✅ balasarius.co.uk | No | 0.4.5044 |
+| ✅ bailey.protobase.at | No | 0.4.5046 |
+| ✅ balasarius.co.uk | No | 0.4.5046 |
 | ✅ ballshed.net | No | 0.4.5027 |
-| ✅ banana-party.objkt.dev | No | 0.4.5044 |
+| ✅ banana-party.objkt.dev | No | 0.4.5046 |
 | ✅ banjo.paullieberman.org | No | 0.4.219 |
 | ✅ barsinister.net | No | 0.4.5037 |
 | ❌ basedcarl.com | No | 0.4.182 |
 | ✅ beagaydocrim.es | No | 0.4.219 |
 | ✅ bear1.croft.click | No | 0.45.0 |
 | ✅ beatrice.wtf | No | 0.4.138 |
-| ✅ beings.id | No | 0.4.5044 |
-| ✅ bejust.social | No | 0.4.5044 |
+| ✅ beings.id | No | 0.4.5046 |
+| ✅ bejust.social | No | 0.4.5046 |
 | ❌ beta.seiran.org | Yes | ??? |
 | ✅ betweenzeroand.one | No | 0.4.193 |
 | ✅ bevenhall.net | No | 0.4.5027 |
-| ✅ biggee.social | No | 0.4.5044 |
+| ✅ biggee.social | No | 0.4.5046 |
 | ✅ bigwave.social | No | 0.4.219 |
-| ✅ bishop.blue | No | 0.4.5044 |
-| ✅ bitemy.app | No | 0.4.5044 |
-| ✅ bitlevel.at | No | 0.4.5037 |
+| ✅ bishop.blue | No | 0.4.5046 |
+| ✅ bitemy.app | No | 0.4.5046 |
+| ✅ bitlevel.at | No | 0.4.5046 |
 | ✅ bivri.net | Yes | 0.4.5037 |
 | ✅ blacksky.app | Yes | 1.14.14 |
-| ✅ blackstar.quest | No | 0.4.5044 |
-| ✅ blanket.exentio.sexy | No | tranquil 0.6.7 |
-| ✅ blau.actinia.xyz | No | 0.4.5043 |
+| ✅ blackstar.quest | No | 0.4.5046 |
+| ✅ blanket.exentio.sexy | No | tranquil 0.7.1 |
+| ✅ blau.actinia.xyz | No | 0.4.5046 |
 | ✅ blcst.net | No | 0.4.5001 |
 | ✅ blep.cat | No | 0.4.5037 |
-| ✅ blipbleep.xyz | No | 0.4.5044 |
+| ❌ blipbleep.xyz | No | 0.4.5044 |
 | ✅ block36.gay | No | 0.4.5009 |
-| ✅ blogsky.venki.dev | No | 0.4.5044 |
-| ✅ bloo.ski | No | 0.4.5044 |
-| ✅ bloodmoon-network.de | No | 0.4.5044 |
-| ✅ blu.pikafan.de | No | 0.4.5044 |
+| ✅ blogsky.venki.dev | No | 0.4.5046 |
+| ✅ bloo.ski | No | 0.4.5046 |
+| ✅ bloodmoon-network.de | No | 0.4.5046 |
+| ✅ blu.pikafan.de | No | 0.4.5046 |
 | ❌ blue-1c9e94.ci.autonomic.zone | No | ??? |
+| ❌ blue-9a6ffa.ci.autonomic.zone | No | ??? |
 | ❌ blue-bf2584.ci.autonomic.zone | No | ??? |
 | ❌ blue-c72aab.ci.autonomic.zone | No | ??? |
 | ✅ blue-ocean.social | No | 0.4.5037 |
 | ✅ blue.ahri.cloud | No | 0.4.5037 |
 | ✅ blue.alexraustin.com | No | 0.4.5027 |
-| ❌ blue.archer.xyz | No | 0.4.5037 |
-| ✅ blue.ciql.net | No | 0.4.5044 |
+| ✅ blue.archer.xyz | No | 0.4.5046 |
+| ✅ blue.ciql.net | No | 0.4.5046 |
 | ✅ blue.eldritch.gift | No | 0.4.182 |
 | ✅ blue.frazerm.com | No | 0.4.5044 |
 | ✅ blue.jbonomi.dev | No | 0.4.5027 |
 | ✅ blue.matios.pics | No | 0.4.193 |
-| ✅ blue.mocodbo.com | No | 0.4.5044 |
+| ✅ blue.mocodbo.com | No | 0.4.5046 |
 | ✅ blue.moncur.me.uk | No | 0.4.193 |
-| ✅ blue.opland.net | No | 0.4.5043 |
+| ✅ blue.opland.net | No | 0.4.5046 |
 | ✅ blue.passwor.de | No | 0.4.5037 |
-| ✅ blue.tsnx.net | No | 0.4.5044 |
-| ✅ blueshifted.dev | No | 0.4.5044 |
-| ✅ bluesky-fediverse.francecentral.cloudapp.azure.com | No | 0.4.5044 |
+| ✅ blue.tsnx.net | No | 0.4.5046 |
+| ✅ blueshifted.dev | No | 0.4.5046 |
+| ✅ bluesky-fediverse.francecentral.cloudapp.azure.com | No | 0.4.5046 |
 | ✅ bluesky-pds-production.up.railway.app | No | 0.4.5034 |
 | ✅ bluesky-pds.at.fsl.sh | No | 0.4.193 |
 | ✅ bluesky-pds.demette.fr | No | 0.4.5036 |
 | ✅ bluesky.0x10.lv | No | 0.4.5001 |
 | ✅ bluesky.21crypto.ch | No | 0.4.67 |
 | ✅ bluesky.5i.fi | No | 0.4.219 |
-| ✅ bluesky.adriansmares.ro | No | 0.4.5043 |
-| ✅ bluesky.advancemed.com.au | No | 0.4.5044 |
+| ✅ bluesky.adriansmares.ro | No | 0.4.5046 |
+| ✅ bluesky.advancemed.com.au | No | 0.4.5046 |
 | ✅ bluesky.aevumdecessus.com | No | 0.4.5009 |
 | ✅ bluesky.amaat.be | No | 0.4.208 |
-| ❌ bluesky.andrew-bluesky-0924.selfhost.imbue.com | No | 0.4.5034 |
 | ✅ bluesky.aporter.xyz | No | 0.4.5037 |
-| ✅ bluesky.apprich-web.de | No | 0.4.5043 |
-| ✅ bluesky.asaken1021.net | No | 0.4.5044 |
-| ✅ bluesky.avaars.com | No | 0.4.5043 |
+| ✅ bluesky.apprich-web.de | No | 0.4.5046 |
+| ✅ bluesky.asaken1021.net | No | 0.4.5046 |
+| ✅ bluesky.avaars.com | No | 0.4.5046 |
 | ✅ bluesky.aviate.org | No | 0.4.5001 |
-| ✅ bluesky.babiak.dev | No | 0.4.5044 |
-| ✅ bluesky.bachar.co | No | 0.4.5044 |
+| ✅ bluesky.babiak.dev | No | 0.4.5046 |
+| ✅ bluesky.bachar.co | No | 0.4.5046 |
 | ✅ bluesky.bananastorm.com | No | 0.4.107 |
-| ✅ bluesky.barber-loera.com | No | 0.4.5044 |
+| ✅ bluesky.barber-loera.com | No | 0.4.5046 |
 | ✅ bluesky.basking.monster | No | 0.4.193 |
-| ✅ bluesky.benbrook.me | No | 0.4.5044 |
+| ✅ bluesky.benbrook.me | No | 0.4.5046 |
 | ✅ bluesky.bitbybitphoto.com | No | 0.4.5034 |
 | ✅ bluesky.bitbybitsynths.com | No | 0.4.5034 |
-| ✅ bluesky.blockcerts.io | No | 0.4.5044 |
+| ✅ bluesky.blockcerts.io | No | 0.4.5046 |
 | ✅ bluesky.boucey.fr | No | 0.4.5037 |
 | ✅ bluesky.brodin.rocks | No | 0.4.5009 |
 | ❌ bluesky.broszeit.be | No | 0.4.5037 |
 | ✅ bluesky.bryantserver.com | No | 0.4.5037 |
-| ✅ bluesky.bulwarkob.com | No | 0.4.5044 |
-| ✅ bluesky.casually.cat | No | 0.4.5043 |
-| ✅ bluesky.cdecker08.dev | No | 0.4.5037 |
-| ❌ bluesky.ceneezer.icu | No | 0.4.5037 |
-| ✅ bluesky.ciosciaa.net | No | 0.4.5044 |
+| ✅ bluesky.bulwarkob.com | No | 0.4.5046 |
+| ✅ bluesky.casually.cat | No | 0.4.5046 |
+| ✅ bluesky.cdecker08.dev | No | 0.4.5043 |
+| ✅ bluesky.ceneezer.icu | No | 0.4.5046 |
+| ✅ bluesky.ciosciaa.net | No | 0.4.5046 |
 | ✅ bluesky.cole.gb.net | No | 0.4.208 |
-| ✅ bluesky.constaq.se | No | 0.4.5044 |
+| ✅ bluesky.constaq.se | No | 0.4.5046 |
 | ✅ bluesky.coronacloud.love | No | 0.4.107 |
-| ✅ bluesky.crazher.com | No | 0.4.5044 |
-| ✅ bluesky.crazycoder.dev | No | 0.4.5044 |
+| ✅ bluesky.crazher.com | No | 0.4.5046 |
+| ✅ bluesky.crazycoder.dev | No | 0.4.5046 |
 | ✅ bluesky.cromulus.com | No | 0.4.67 |
 | ✅ bluesky.cryne.me | No | 0.4.107 |
 | ✅ bluesky.dannyrubio.dev | No | 0.4.5027 |
-| ✅ bluesky.dkpds.net | No | 0.4.5044 |
-| ✅ bluesky.druid.fi | No | 0.4.5044 |
-| ✅ bluesky.dsimon.com | No | 0.4.5044 |
+| ✅ bluesky.dkpds.net | No | 0.4.5046 |
+| ✅ bluesky.druid.fi | No | 0.4.5046 |
+| ✅ bluesky.dsimon.com | No | 0.4.5046 |
 | ✅ bluesky.duck.moe | No | 0.4.204 |
-| ✅ bluesky.dylanw.dev | No | 0.4.5044 |
+| ✅ bluesky.dylanw.dev | No | 0.4.5046 |
 | ✅ bluesky.ebtegtman.com | No | 0.4.193 |
 | ✅ bluesky.ekgld.com | No | 0.4.5044 |
-| ✅ bluesky.epicliem.com | No | 0.4.5044 |
+| ✅ bluesky.epicliem.com | No | 0.4.5046 |
 | ✅ bluesky.ericmitch.com | No | 0.4.188 |
 | ✅ bluesky.erwanleboucher.dev | No | cocoon f1f744e |
 | ✅ bluesky.fishnet.vip | No | 0.4.204 |
 | ✅ bluesky.flokinet.social | No | 0.4.193 |
 | ✅ bluesky.foestauf.dev | No | 0.4.5037 |
-| ✅ bluesky.fr0sty1997.red | No | 0.4.5044 |
+| ✅ bluesky.fr0sty1997.red | No | 0.4.5046 |
 | ✅ bluesky.gare.au | No | 0.4.74 |
-| ✅ bluesky.gilltrick.com | No | 0.4.5044 |
-| ✅ bluesky.greifenhorst.de | No | 0.4.5044 |
-| ✅ bluesky.grotte.org | No | 0.4.5044 |
+| ✅ bluesky.gilltrick.com | No | 0.4.5046 |
+| ✅ bluesky.greifenhorst.de | No | 0.4.5046 |
+| ✅ bluesky.grotte.org | No | 0.4.5046 |
 | ✅ bluesky.gyozaguy.com | No | 0.4.5044 |
 | ✅ bluesky.haojia-wu.com | No | 0.4.67 |
 | ✅ bluesky.hare1039.top | No | 0.4.5009 |
 | ✅ bluesky.hka-cloud.de | No | 0.4.219 |
-| ✅ bluesky.hotmilk.space | No | 0.4.5043 |
-| ✅ bluesky.inoreader.com | No | 0.4.5044 |
-| ✅ bluesky.itinthedatacenter.com | No | 0.4.5043 |
+| ✅ bluesky.hotmilk.space | No | 0.4.5046 |
+| ✅ bluesky.inoreader.com | No | 0.4.5046 |
+| ✅ bluesky.itinthedatacenter.com | No | 0.4.5046 |
 | ✅ bluesky.j-makoto.online | No | 0.4.193 |
-| ✅ bluesky.ja.meshiller.com | No | 0.4.5044 |
-| ✅ bluesky.jasonwilderphotography.com | No | 0.4.5043 |
+| ✅ bluesky.ja.meshiller.com | No | 0.4.5046 |
+| ✅ bluesky.jasonwilderphotography.com | No | 0.4.5046 |
 | ✅ bluesky.joyboycloud.xyz | No | 0.4.5037 |
-| ✅ bluesky.kevin-dee.com | No | 0.4.5044 |
-| ✅ bluesky.kiefer.dk | No | 0.4.5044 |
-| ✅ bluesky.kieranpotts.com | No | 0.4.5044 |
-| ✅ bluesky.kk7okt.net | No | 0.4.5044 |
-| ✅ bluesky.koehn.com | No | 0.4.5037 |
+| ✅ bluesky.kevin-dee.com | No | 0.4.5046 |
+| ✅ bluesky.kiefer.dk | No | 0.4.5046 |
+| ✅ bluesky.kieranpotts.com | No | 0.4.5046 |
+| ✅ bluesky.kk7okt.net | No | 0.4.5046 |
+| ✅ bluesky.koehn.com | No | 0.4.5046 |
 | ✅ bluesky.kotzker.org | No | 0.4.5044 |
-| ✅ bluesky.kyledev.co | No | 0.4.5044 |
-| ✅ bluesky.lanacomrie.com | No | 0.4.5037 |
-| ✅ bluesky.landlordsguild.com | No | 0.4.5044 |
-| ✅ bluesky.literatecomputing.com | No | 0.4.5044 |
-| ✅ bluesky.llarian.net | No | 0.4.5044 |
+| ✅ bluesky.kyledev.co | No | 0.4.5046 |
+| ✅ bluesky.lanacomrie.com | No | 0.4.5046 |
+| ✅ bluesky.landlordsguild.com | No | 0.4.5046 |
+| ✅ bluesky.literatecomputing.com | No | 0.4.5046 |
+| ✅ bluesky.llarian.net | No | 0.4.5046 |
 | ✅ bluesky.loopt.ca | No | 0.4.193 |
 | ❌ bluesky.lu | No | 0.4.5037 |
-| ✅ bluesky.lucyrobillard.xyz | No | 0.4.5009 |
-| ✅ bluesky.magicyuki.com | No | 0.4.5044 |
-| ✅ bluesky.mancity.com | No | 0.4.5044 |
-| ✅ bluesky.marcelstiller.com | No | 0.4.5044 |
-| ✅ bluesky.marenubium.onmypc.net | No | 0.4.5034 |
+| ❌ bluesky.lucyrobillard.xyz | No | 0.4.5009 |
+| ❌ bluesky.magicyuki.com | No | 0.4.5044 |
+| ✅ bluesky.mancity.com | No | 0.4.5046 |
+| ✅ bluesky.marcelstiller.com | No | 0.4.5046 |
+| ❌ bluesky.marenubium.onmypc.net | No | 0.4.5034 |
 | ✅ bluesky.marud.fr | No | 0.4.5027 |
 | ✅ bluesky.massi1008.eu | No | 0.4.208 |
 | ✅ bluesky.masuhr.ch | No | 0.4.5037 |
 | ✅ bluesky.memohat.xyz | No | 0.4.5026 |
-| ✅ bluesky.mena.house | No | 0.4.5044 |
-| ✅ bluesky.mer-cantile.com | No | 0.4.5044 |
-| ✅ bluesky.metalbanana.net | No | 0.4.5044 |
+| ✅ bluesky.mena.house | No | 0.4.5046 |
+| ✅ bluesky.mer-cantile.com | No | 0.4.5046 |
+| ✅ bluesky.metalbanana.net | No | 0.4.5046 |
 | ✅ bluesky.mishki.digital | No | 0.4.67 |
-| ✅ bluesky.motchie.social | No | 0.4.5037 |
+| ✅ bluesky.motchie.social | No | 0.4.5044 |
 | ✅ bluesky.mousses.xyz | No | N/A |
 | ✅ bluesky.namisunami.com | No | 0.4.208 |
 | ❌ bluesky.network.phazed.xyz | No | 0.4.182 |
 | ✅ bluesky.nickthesick.com | No | 0.4.5046 |
-| ✅ bluesky.ninjadom.com | No | 0.4.5044 |
-| ❌ bluesky.nissesdomain.org | No | 0.4.5037 |
+| ❌ bluesky.ninjadom.com | No | 0.4.5044 |
+| ✅ bluesky.nissesdomain.org | No | 0.4.5046 |
 | ✅ bluesky.niya-it.nl | No | 0.4.193 |
 | ✅ bluesky.nord.digital | No | 0.4.74 |
-| ✅ bluesky.nprsucks.com | No | 0.4.5044 |
+| ✅ bluesky.nprsucks.com | No | 0.4.5046 |
 | ✅ bluesky.onno.cool | No | 0.4.5027 |
-| ✅ bluesky.oursocials.xyz | No | 0.4.5043 |
+| ✅ bluesky.oursocials.xyz | No | 0.4.5046 |
 | ✅ bluesky.panakotta00.dev | No | 0.4.193 |
 | ✅ bluesky.patchokki.art | No | 0.4.193 |
 | ❌ bluesky.pds.nouveauprintemps.org | No | 0.4.5009 |
 | ✅ bluesky.purdynet.com | No | 0.4.5034 |
-| ✅ bluesky.queerbeast.com | No | 0.4.5044 |
+| ✅ bluesky.queerbeast.com | No | 0.4.5046 |
 | ✅ bluesky.rampedindent.xyz | No | 0.4.219 |
-| ✅ bluesky.rebelonion.dev | No | 0.4.5044 |
-| ✅ bluesky.redeyesocial.com | No | 0.4.5044 |
+| ✅ bluesky.rebelonion.dev | No | 0.4.5046 |
+| ✅ bluesky.redeyesocial.com | No | 0.4.5046 |
 | ✅ bluesky.robots.beer | No | 0.4.208 |
-| ✅ bluesky.rocketfilms.tv | No | 0.4.5044 |
+| ✅ bluesky.rocketfilms.tv | No | 0.4.5046 |
 | ✅ bluesky.romaindupuy.tech | No | 0.4.208 |
-| ✅ bluesky.rondie.org | No | 0.4.5043 |
+| ✅ bluesky.rondie.org | No | 0.4.5046 |
 | ✅ bluesky.ropoko.net | No | 0.4.55 |
 | ✅ bluesky.rosafamily.net | No | 0.4.5037 |
 | ❌ bluesky.rumlr.com | No | 0.4.5037 |
-| ✅ bluesky.sakurariver.ca | No | 0.4.5044 |
+| ✅ bluesky.sakurariver.ca | No | 0.4.5046 |
 | ✅ bluesky.sanin.dev | No | 0.4.5034 |
 | ✅ bluesky.sbirchler.ch | No | 0.4.5001 |
 | ✅ bluesky.scam-mail.me | No | 0.4.67 |
 | ✅ bluesky.scfreiburg.com | No | 0.4.204 |
-| ✅ bluesky.schweren.dev | No | 0.4.5044 |
-| ❌ bluesky.scorpa.de | No | 0.4.208 |
+| ✅ bluesky.schweren.dev | No | 0.4.5046 |
+| ✅ bluesky.scorpa.de | No | 0.4.5046 |
 | ✅ bluesky.shiny-task.com | No | 0.4.5009 |
 | ✅ bluesky.siacone.art | No | 0.4.5037 |
-| ✅ bluesky.skylord.io | No | 0.4.5044 |
+| ✅ bluesky.skylord.io | No | 0.4.5046 |
 | ✅ bluesky.skylt.ovh | No | 0.4.107 |
 | ✅ bluesky.smoothnet.org | No | 0.4.5037 |
-| ✅ bluesky.socket.es | No | 0.4.5044 |
-| ✅ bluesky.speely.net | No | 0.4.5044 |
-| ✅ bluesky.starfyre.de | No | 0.4.5044 |
+| ✅ bluesky.socket.es | No | 0.4.5046 |
+| ✅ bluesky.speely.net | No | 0.4.5046 |
+| ✅ bluesky.starfyre.de | No | 0.4.5046 |
 | ✅ bluesky.strawhats.cc | Yes | 0.4.5037 |
 | ✅ bluesky.sys64.dev | No | N/A |
-| ✅ bluesky.talaria-tech.com | No | 0.4.5044 |
-| ✅ bluesky.tatakaibo.xyz | No | 0.4.5044 |
+| ✅ bluesky.talaria-tech.com | No | 0.4.5046 |
+| ✅ bluesky.tatakaibo.xyz | No | 0.4.5046 |
 | ✅ bluesky.techdragon.au | No | 0.4.5027 |
 | ✅ bluesky.theberts.com | No | 0.4.193 |
 | ✅ bluesky.thecrimsontint.com | No | 0.4.1-r1 |
 | ✅ bluesky.theoldbadger.me | No | 0.4.5027 |
 | ✅ bluesky.thereisnocat.com | No | N/A |
-| ✅ bluesky.therobbiedavis.com | No | 0.4.5037 |
+| ✅ bluesky.therobbiedavis.com | No | 0.4.5046 |
 | ✅ bluesky.theworldofythaq.com | No | 0.4.5043 |
-| ✅ bluesky.torchwood.me | No | 0.4.5044 |
+| ✅ bluesky.torchwood.me | No | 0.4.5046 |
 | ❌ bluesky.trashlabs.de | No | 0.4.169 |
 | ✅ bluesky.travisboss.xyz | No | 0.4.5037 |
 | ❌ bluesky.trev.app | No | 0.4.5034 |
 | ✅ bluesky.trojaner.dev | No | 0.4.5034 |
-| ✅ bluesky.unitedparadigms.com | No | 0.4.5044 |
-| ✅ bluesky.vandervilt.com | No | 0.4.5044 |
+| ✅ bluesky.unitedparadigms.com | No | 0.4.5046 |
+| ✅ bluesky.vandervilt.com | No | 0.4.5046 |
 | ✅ bluesky.varney.fr | No | 0.4.5034 |
 | ✅ bluesky.victimcache.com | No | N/A |
 | ✅ bluesky.virgile62150.fr | No | 0.4.193 |
 | ✅ bluesky.vishnurajeevan.com | No | 0.4.5044 |
-| ✅ bluesky.web.home.steahr.net | No | 0.4.5044 |
-| ✅ bluesky.xeronith.com | No | 0.4.5044 |
-| ✅ bluesky.xsns.jp | No | 0.4.5034 |
-| ✅ bluesky.xuereb.family | No | 0.4.5044 |
-| ✅ bluesky.yorgos.net.gr | No | 0.4.5044 |
+| ✅ bluesky.web.home.steahr.net | No | 0.4.5046 |
+| ✅ bluesky.xeronith.com | No | 0.4.5046 |
+| ✅ bluesky.xsns.jp | No | 0.4.5046 |
+| ✅ bluesky.xuereb.family | No | 0.4.5046 |
+| ✅ bluesky.yorgos.net.gr | No | 0.4.5046 |
 | ✅ bluesky.yperman.eu | No | 0.4.5037 |
 | ✅ bluesky.zergy.net | No | 0.4.5037 |
 | ✅ bluesky.zwangsjacken.net | No | 0.4.5043 |
 | ❌ bluesky1005-hori.aere-sanctuary.net | No | 0.4.5034 |
-| ✅ blueskyb.org | No | 0.4.5044 |
-| ✅ blueskyflare.com | No | 0.4.5044 |
-| ✅ blueskypds.apislogic.com | No | 0.4.5044 |
-| ✅ blueskypds.nunn.nu | No | 0.4.5044 |
-| ✅ blux.productions | No | 0.4.5044 |
+| ✅ blueskyb.org | No | 0.4.5046 |
+| ✅ blueskyflare.com | No | 0.4.5046 |
+| ✅ blueskypds.apislogic.com | No | 0.4.5046 |
+| ✅ blueskypds.nunn.nu | No | 0.4.5046 |
+| ✅ blux.productions | No | 0.4.5046 |
 | ✅ bn2b.com | No | 0.4.193 |
 | ✅ bolte.garden | No | 0.4.5044 |
-| ✅ bonedisk.com | No | 0.4.5044 |
+| ✅ bonedisk.com | No | 0.4.5046 |
 | ✅ bookhive.social | No | 0.4.5046 |
 | ✅ boomerland.de | No | tranquil 0.6.5 |
 | ✅ boskma.frl | No | 0.4.5037 |
-| ✅ bot.araul.in | No | 0.4.5044 |
-| ✅ bousky.social | No | 0.4.5044 |
-| ✅ bramley-lack.at | No | 0.4.5037 |
+| ✅ bot.araul.in | No | 0.4.5046 |
+| ✅ bousky.social | No | 0.4.5046 |
+| ✅ bramley-lack.at | No | 0.4.5046 |
 | ✅ breadcrumbs.id | No | tranquil 0.6.6 |
-| ✅ brgr.zone | No | 0.4.5044 |
+| ✅ brgr.zone | No | 0.4.5046 |
 | ❌ bridges-immunology-stores-chris.trycloudflare.com | No | ??? |
-| ✅ brioco.space | No | 0.4.5044 |
+| ✅ brioco.space | No | 0.4.5046 |
 | ✅ brittg.com | No | 0.4.5044 |
-| ✅ broggl.farm | No | 0.4.5044 |
-| ✅ bryant.family | No | 0.4.5044 |
-| ✅ bs.cafepots.net | No | 0.4.5044 |
+| ✅ broggl.farm | No | 0.4.5046 |
+| ✅ bryant.family | No | 0.4.5046 |
+| ✅ bs.cafepots.net | No | 0.4.5046 |
 | ✅ bs.cmeu.us | No | 0.4.193 |
 | ✅ bs.disruption-systems.com | No | 0.4.5037 |
 | ✅ bs.ellbur.com | No | 0.4.5027 |
-| ✅ bs.fribbynetwork.net | No | 0.4.5044 |
+| ✅ bs.fribbynetwork.net | No | 0.4.5046 |
 | ✅ bs.girlskissi.ng | No | 0.4.5044 |
 | ✅ bs.idiocy.org | No | 0.4.5009 |
 | ✅ bs.ilyamikcoder.com | No | 0.4.219 |
 | ✅ bs.jtophermedia.com | No | 0.4.5009 |
-| ✅ bs.lastcallphotography.com | No | 0.4.5043 |
+| ✅ bs.lastcallphotography.com | No | 0.4.5046 |
 | ✅ bs.lehtiin.eu | No | N/A |
 | ✅ bs.mattsteg.com | No | N/A |
 | ✅ bs.mgjer.de | No | 0.4.219 |
 | ✅ bs.musou.dev | No | 0.4.5037 |
 | ✅ bs.nzcow.com | No | 0.4.5037 |
 | ✅ bs.omniskop.de | No | 0.4.107 |
-| ✅ bs.oomfie.space | No | 0.4.5044 |
+| ✅ bs.oomfie.space | No | 0.4.5046 |
 | ✅ bs.peterkramer.eu | No | 0.4.193 |
 | ✅ bs.podonaut.com | No | 0.4.208 |
-| ✅ bs.possumpat.io | No | 0.4.5044 |
+| ✅ bs.possumpat.io | No | 0.4.5046 |
 | ✅ bs.sincobertura.net | No | 0.4.5037 |
-| ✅ bs.syruptrap.net | No | 0.4.5044 |
+| ✅ bs.syruptrap.net | No | 0.4.5046 |
 | ❌ bs.version30.net | No | 0.4.5037 |
-| ✅ bs1.stoiccebalrai.com | No | 0.4.5044 |
-| ✅ bsk.ujnet.org | No | 0.4.5044 |
+| ✅ bs1.stoiccebalrai.com | No | 0.4.5046 |
+| ✅ bsk.ujnet.org | No | 0.4.5046 |
 | ❌ bske.site | Yes | tranquil 0.6.0 |
-| ✅ bsky-on.rave.page | No | 0.4.5044 |
+| ✅ bsky-on.rave.page | No | 0.4.5046 |
 | ❌ bsky-pds-rs.tuna2134.workers.dev | No | 0.1.0 |
 | ❌ bsky-pds.atserver.farm | No | 0.4.5034 |
 | ✅ bsky-pds.dextraspace.net | No | 0.4.5037 |
 | ✅ bsky-pds.fancy.org.uk | No | 0.4.74 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.5031 |
-| ✅ bsky-pds.lamberti.io | No | 0.4.5043 |
-| ✅ bsky-pds.nofollow.me | No | 0.4.5043 |
-| ✅ bsky-pds.ogamen.net | No | 0.4.5044 |
-| ✅ bsky-pds.petertanner.dev | No | 0.4.5044 |
+| ✅ bsky-pds.lamberti.io | No | 0.4.5046 |
+| ✅ bsky-pds.nofollow.me | No | 0.4.5046 |
+| ✅ bsky-pds.ogamen.net | No | 0.4.5046 |
+| ✅ bsky-pds.petertanner.dev | No | 0.4.5046 |
 | ✅ bsky-pds.sharky.codes | No | 0.4.182 |
 | ✅ bsky.0k.io | No | 0.4.98 |
-| ✅ bsky.39music.dance | No | 0.4.5044 |
-| ✅ bsky.3v1lstuff.de | No | 0.4.5044 |
+| ✅ bsky.39music.dance | No | 0.4.5046 |
+| ✅ bsky.3v1lstuff.de | No | 0.4.5046 |
 | ✅ bsky.99rst.org | No | 0.4.5046 |
-| ✅ bsky.acerascal.com | No | 0.4.5043 |
+| ✅ bsky.acerascal.com | No | 0.4.5046 |
 | ✅ bsky.acrion.social | No | N/A |
 | ✅ bsky.adadoai.com | No | 0.4.5027 |
-| ✅ bsky.adamjacobus.dev | No | 0.4.5044 |
+| ✅ bsky.adamjacobus.dev | No | 0.4.5046 |
 | ✅ bsky.aenead.net | No | N/A |
 | ✅ bsky.africa | Yes | blue-nile-pds v1.0.0 |
-| ✅ bsky.air11.social | No | 0.4.5044 |
-| ✅ bsky.aki.cat | No | 0.4.5037 |
-| ✅ bsky.alahmn.at | No | 0.4.5044 |
-| ❌ bsky.alexheiss.de | No | 0.4.5037 |
+| ✅ bsky.air11.social | No | 0.4.5046 |
+| ✅ bsky.aki.cat | No | 0.4.5046 |
+| ✅ bsky.alahmn.at | No | 0.4.5046 |
+| ✅ bsky.alexheiss.de | No | 0.4.5037 |
 | ✅ bsky.aliel.fr | No | 0.4.138 |
 | ✅ bsky.allan.run | No | 0.4.5037 |
-| ✅ bsky.alljoin.me | No | 0.4.5044 |
+| ✅ bsky.alljoin.me | No | 0.4.5046 |
 | ✅ bsky.alyx.pink | No | 0.4.5044 |
-| ✅ bsky.anh.blue | No | 0.4.5044 |
+| ✅ bsky.anh.blue | No | 0.4.5046 |
 | ✅ bsky.anthonychavez.dev | No | 0.4.5009 |
 | ✅ bsky.antti.codes | No | 0.4.5046 |
 | ❌ bsky.aprokira.lu | No | 0.4.5034 |
 | ✅ bsky.aradine.com | No | 0.4.193 |
-| ✅ bsky.arkravenvt.com | No | 0.4.5037 |
+| ✅ bsky.arkravenvt.com | No | 0.4.5046 |
 | ✅ bsky.arslaan.studio | No | 0.4.98 |
-| ✅ bsky.asianpianoman.com | No | 0.4.5044 |
+| ✅ bsky.asianpianoman.com | No | 0.4.5046 |
 | ✅ bsky.athemis.de | No | 0.4.5037 |
-| ✅ bsky.atlantis-ws.xyz | No | 0.4.5044 |
-| ✅ bsky.atout-france.fr | No | 0.4.5044 |
+| ✅ bsky.atlantis-ws.xyz | No | 0.4.5046 |
+| ✅ bsky.atout-france.fr | No | 0.4.5046 |
 | ✅ bsky.auxel.co | No | 0.4.182 |
 | ✅ bsky.average.name | No | 0.4.5034 |
 | ✅ bsky.ayma.cat | No | 0.4.5027 |
 | ✅ bsky.baeddel.social | No | 0.4.5009 |
-| ✅ bsky.bagon.my.id | No | 0.4.5044 |
+| ✅ bsky.bagon.my.id | No | 0.4.5046 |
 | ✅ bsky.bark.wolp.chat | No | 0.4.5043 |
 | ✅ bsky.based.zone | No | 0.4.5034 |
-| ✅ bsky.basil.quest | No | 0.4.5044 |
+| ✅ bsky.basil.quest | No | 0.4.5046 |
 | ✅ bsky.bbinfra.net | No | 0.4.188 |
-| ✅ bsky.beefboyz.com | No | 0.4.5044 |
-| ✅ bsky.benface.com | No | 0.4.5044 |
-| ✅ bsky.benkubin.com | No | 0.4.5044 |
+| ✅ bsky.beefboyz.com | No | 0.4.5046 |
+| ✅ bsky.benface.com | No | 0.4.5046 |
+| ✅ bsky.benkubin.com | No | 0.4.5046 |
 | ✅ bsky.bepste.in | No | 0.4.219 |
 | ✅ bsky.bhisd.me | No | 0.4.219 |
 | ✅ bsky.bigboy.us | No | 0.4.5037 |
 | ✅ bsky.birdinter.net | No | 0.4.5009 |
-| ✅ bsky.biu.im | No | 0.4.5037 |
-| ✅ bsky.black-carp.net | No | 0.4.5044 |
+| ✅ bsky.biu.im | No | 0.4.5046 |
+| ✅ bsky.black-carp.net | No | 0.4.5046 |
 | ✅ bsky.blakesmith.me | No | 0.4.5034 |
-| ✅ bsky.blazebone.com | No | 0.4.5044 |
-| ✅ bsky.bluetongue.ai | No | 0.4.5044 |
-| ✅ bsky.bnuuy.xyz | No | 0.4.5044 |
-| ✅ bsky.bombsquad.dev | No | 0.4.5044 |
+| ✅ bsky.blazebone.com | No | 0.4.5046 |
+| ✅ bsky.bluetongue.ai | No | 0.4.5046 |
+| ✅ bsky.bnuuy.xyz | No | 0.4.5046 |
+| ✅ bsky.bombsquad.dev | No | 0.4.5046 |
 | ✅ bsky.bortle-host.io | No | 0.4.5009 |
-| ✅ bsky.bowdens.me | No | 0.4.5044 |
-| ✅ bsky.bri.gg | No | 0.4.5044 |
-| ✅ bsky.briantajuddin.com | No | 0.4.5044 |
-| ✅ bsky.broken-moon.net | No | 0.4.5044 |
+| ✅ bsky.bowdens.me | No | 0.4.5046 |
+| ✅ bsky.bri.gg | No | 0.4.5046 |
+| ✅ bsky.briantajuddin.com | No | 0.4.5046 |
+| ✅ bsky.broken-moon.net | No | 0.4.5046 |
 | ✅ bsky.brumm.family | No | N/A |
-| ✅ bsky.buldy.eu | No | 0.4.5044 |
+| ✅ bsky.buldy.eu | No | 0.4.5046 |
 | ✅ bsky.c14.li | No | 0.4.5037 |
 | ✅ bsky.c2dv.com | No | 0.4.138 |
 | ✅ bsky.caffeinated.computer | No | 0.4.5043 |
 | ✅ bsky.cagan.sarl | No | 0.4.188 |
-| ✅ bsky.call-151.net | No | 0.4.5044 |
-| ✅ bsky.callmephilip.com | No | 0.4.5044 |
-| ✅ bsky.carolan.io | No | 0.4.5044 |
+| ✅ bsky.call-151.net | No | 0.4.5046 |
+| ✅ bsky.callmephilip.com | No | 0.4.5046 |
+| ✅ bsky.carolan.io | No | 0.4.5046 |
 | ✅ bsky.carrier.family | No | 0.4.158 |
-| ✅ bsky.catboy.baby | No | 0.4.5044 |
+| ✅ bsky.catboy.baby | No | 0.4.5046 |
 | ✅ bsky.catgirlpatchouli.online | No | 0.4.5026 |
 | ✅ bsky.ccisd.me | No | 0.4.219 |
-| ✅ bsky.chagge.com | No | 0.4.5044 |
+| ✅ bsky.chagge.com | No | 0.4.5046 |
 | ✅ bsky.chaotic.cx | No | 0.4.5037 |
 | ✅ bsky.chasalin.nl | No | 0.4.219 |
-| ✅ bsky.chooch.us | No | 0.4.5037 |
-| ✅ bsky.chrise.com | No | 0.4.5044 |
-| ✅ bsky.chrispritchard.co.uk | No | 0.4.5037 |
-| ✅ bsky.chrisvanderloo.com | No | 0.4.5044 |
-| ✅ bsky.circuitrinos.com | No | 0.4.5044 |
+| ✅ bsky.chooch.us | No | 0.4.5046 |
+| ✅ bsky.chrise.com | No | 0.4.5046 |
+| ✅ bsky.chrispritchard.co.uk | No | 0.4.5046 |
+| ✅ bsky.chrisvanderloo.com | No | 0.4.5046 |
+| ✅ bsky.circuitrinos.com | No | 0.4.5046 |
 | ✅ bsky.cocopoops.com | No | 0.4.59 |
-| ✅ bsky.coffeesec.com | No | 0.4.5044 |
-| ✅ bsky.col.social | No | 0.4.5044 |
+| ✅ bsky.coffeesec.com | No | 0.4.5046 |
+| ✅ bsky.col.social | No | 0.4.5046 |
 | ✅ bsky.cooey.club | No | 0.4.219 |
 | ❌ bsky.corneliusmadsen.dk | No | 0.4.5037 |
 | ✅ bsky.corvidiot.com | No | N/A |
-| ✅ bsky.cpacket.com | No | 0.4.5044 |
-| ✅ bsky.cruzgott.com | No | 0.4.5044 |
-| ✅ bsky.cvts.nz | No | 0.4.5044 |
+| ✅ bsky.cpacket.com | No | 0.4.5046 |
+| ✅ bsky.cruzgott.com | No | 0.4.5046 |
+| ✅ bsky.cvts.nz | No | 0.4.5046 |
 | ✅ bsky.cypherstack.com | No | 0.4.138 |
 | ✅ bsky.cyrilsebek.cz | No | 0.4.193 |
-| ✅ bsky.darrenmoffatt.com | No | 0.4.5044 |
+| ✅ bsky.darrenmoffatt.com | No | 0.4.5046 |
 | ✅ bsky.davepeck.dev | No | 0.4.5026 |
-| ✅ bsky.day | No | 0.4.5044 |
+| ✅ bsky.day | No | 0.4.5046 |
 | ✅ bsky.dayl.in | No | 0.4.5001 |
 | ✅ bsky.dazed.party | No | 0.4.5037 |
 | ✅ bsky.de4d.lol | No | 0.4.5027 |
 | ✅ bsky.dead10ck.dev | No | 0.4.219 |
 | ✅ bsky.depertat.net | No | 0.4.5034 |
-| ✅ bsky.desblock.net | No | 0.4.5044 |
-| ✅ bsky.devcomp.xyz | No | 0.4.5044 |
-| ✅ bsky.discord.digital | No | 0.4.5037 |
+| ✅ bsky.desblock.net | No | 0.4.5046 |
+| ✅ bsky.devcomp.xyz | No | 0.4.5046 |
+| ✅ bsky.discord.digital | No | 0.4.5046 |
 | ✅ bsky.dontremember.me | No | 0.4.67 |
 | ✅ bsky.dragon2611.net | No | 0.4.5037 |
 | ✅ bsky.dragonite.blog | No | 0.4.219 |
-| ✅ bsky.driftnet.online | No | 0.4.5044 |
+| ❌ bsky.driftnet.online | No | 0.4.5044 |
 | ✅ bsky.drrn.dev | No | 0.4.74 |
 | ✅ bsky.dzuchun.ing | No | 0.4.5034 |
-| ✅ bsky.eagerpebble.com | No | 0.4.5044 |
-| ✅ bsky.eax.dev | No | 0.4.5044 |
+| ✅ bsky.eagerpebble.com | No | 0.4.5046 |
+| ✅ bsky.eax.dev | No | 0.4.5046 |
 | ✅ bsky.ediug.tokyo | No | 0.4.5027 |
 | ✅ bsky.ee | No | :trollface: |
 | ✅ bsky.eleith.com | No | 0.4.5009 |
-| ✅ bsky.elektrine.com | No | 0.4.219 |
+| ✅ bsky.elektrine.com | No | 0.4.5046 |
 | ✅ bsky.emy.lu | No | 0.4.5034 |
 | ✅ bsky.enpitsulin.dev | No | 0.5.32 |
 | ✅ bsky.eternalwings.de | No | 0.4.5027 |
-| ✅ bsky.eu.com | No | 0.4.5044 |
-| ✅ bsky.extendtherapy.com | No | 0.4.5044 |
-| ✅ bsky.faceslog.com | No | 0.4.5043 |
+| ✅ bsky.eu.com | No | 0.4.5046 |
+| ✅ bsky.extendtherapy.com | No | 0.4.5046 |
+| ✅ bsky.faceslog.com | No | 0.4.5046 |
 | ✅ bsky.falasi.net | No | 0.4.208 |
-| ✅ bsky.fhta.co.uk | No | 0.4.5044 |
+| ✅ bsky.fhta.co.uk | No | 0.4.5046 |
 | ❌ bsky.fibre74.fr | No | 0.4.5037 |
 | ✅ bsky.floscodes.net | No | 0.4.5027 |
-| ✅ bsky.forgettable.xyz | No | 0.4.5044 |
+| ✅ bsky.forgettable.xyz | No | 0.4.5046 |
 | ✅ bsky.fruths.com | No | 0.4.219 |
 | ✅ bsky.funami.tech | No | 0.4.5037 |
 | ✅ bsky.gagniard.org | No | 0.4.5037 |
 | ✅ bsky.gearlicious.one | No | 0.4.5037 |
-| ✅ bsky.gestur.org | No | 0.4.5044 |
+| ✅ bsky.gestur.org | No | 0.4.5046 |
 | ✅ bsky.gingertug.com | No | 0.4.5037 |
 | ✅ bsky.gizm0.dev | No | 0.4.169 |
-| ✅ bsky.gknayzeh.com | No | 0.4.5043 |
-| ✅ bsky.glos24.pl | No | 0.4.5044 |
+| ✅ bsky.gknayzeh.com | No | 0.4.5046 |
+| ✅ bsky.glos24.pl | No | 0.4.5046 |
 | ✅ bsky.goodanser.com | No | 0.4.5009 |
 | ✅ bsky.groet-infra.nl | No | 0.4.107 |
-| ✅ bsky.gsheps.net | No | 0.4.5043 |
-| ✅ bsky.gsuscs.xyz | No | 0.4.5043 |
+| ✅ bsky.gsheps.net | No | 0.4.5046 |
+| ✅ bsky.gsuscs.xyz | No | 0.4.5046 |
 | ✅ bsky.hack13.me | No | 0.4.208 |
 | ✅ bsky.hacktak.eu | No | 0.4.204 |
 | ✅ bsky.haholula.kro.kr | No | 0.4.182 |
 | ✅ bsky.harpersys.org | No | 0.4.188 |
 | ❌ bsky.haworth.id.au | No | 0.4.5037 |
-| ✅ bsky.hegre.com | No | 0.4.5044 |
-| ✅ bsky.helvetet.eu | No | 0.4.5044 |
-| ✅ bsky.hibanet.com | No | 0.4.5044 |
-| ✅ bsky.higgy.social | No | 0.4.5044 |
-| ✅ bsky.hmt.social | No | 0.4.5044 |
+| ✅ bsky.hegre.com | No | 0.4.5046 |
+| ✅ bsky.helvetet.eu | No | 0.4.5046 |
+| ✅ bsky.hibanet.com | No | 0.4.5046 |
+| ✅ bsky.higgy.social | No | 0.4.5046 |
+| ✅ bsky.hmt.social | No | 0.4.5046 |
 | ✅ bsky.homestuck.fr | No | 0.4.5027 |
 | ✅ bsky.hummird.online | No | 0.4.208 |
 | ✅ bsky.huscker.space | No | 0.4.208 |
 | ✅ bsky.hvn.network | No | 0.4.208 |
 | ✅ bsky.hydroakri.cc | No | 0.4.5034 |
 | ✅ bsky.hyena.network | No | 0.4.5027 |
-| ✅ bsky.hyprlab.co | No | 0.4.5044 |
+| ✅ bsky.hyprlab.co | No | 0.4.5046 |
 | ✅ bsky.hysh.jp | No | N/A |
 | ✅ bsky.i.taylorh.dev | No | 0.4.169 |
 | ❌ bsky.ignat.co | No | 0.4.5037 |
 | ✅ bsky.ijmacd.com | No | 0.4.74 |
-| ✅ bsky.imdevinc.com | No | 0.4.5044 |
-| ✅ bsky.integritaet.ch | No | 0.4.5027 |
+| ✅ bsky.imdevinc.com | No | 0.4.5046 |
+| ✅ bsky.integritaet.ch | No | 0.4.5046 |
 | ✅ bsky.interware.gmbh | No | 0.4.5009 |
 | ✅ bsky.invidirin.de | No | 0.4.208 |
 | ✅ bsky.is | No | 0.4.5027 |
@@ -869,50 +871,50 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.jcd.pub | No | 0.4.5034 |
 | ✅ bsky.jecalvert.com | No | 0.4.5009 |
 | ✅ bsky.jestdurance.fr | No | 0.4.208 |
-| ✅ bsky.jinjja.ninja | No | 0.4.5044 |
-| ✅ bsky.jltml.me | No | 0.4.5044 |
-| ✅ bsky.jordo.zone | No | 0.4.5037 |
-| ✅ bsky.juje.co | No | 0.4.5044 |
+| ✅ bsky.jinjja.ninja | No | 0.4.5046 |
+| ✅ bsky.jltml.me | No | 0.4.5046 |
+| ✅ bsky.jordo.zone | No | 0.4.5046 |
+| ✅ bsky.juje.co | No | 0.4.5046 |
 | ✅ bsky.kairu.nl | No | 0.4.188 |
 | ✅ bsky.kandayuri.net | No | N/A |
-| ✅ bsky.karebu.gay | No | 0.4.5044 |
-| ✅ bsky.kazetsuki.com | No | 0.4.5044 |
-| ✅ bsky.kazto.net | No | 0.4.5044 |
+| ✅ bsky.karebu.gay | No | 0.4.5046 |
+| ✅ bsky.kazetsuki.com | No | 0.4.5046 |
+| ✅ bsky.kazto.net | No | 0.4.5046 |
 | ✅ bsky.keirn.net | No | 0.4.5037 |
-| ✅ bsky.kennelly.me | No | 0.4.5037 |
+| ❌ bsky.kennelly.me | No | 0.4.5037 |
 | ✅ bsky.kevoun.com | No | 0.4.193 |
-| ✅ bsky.kikisuniverse.com | No | 0.4.5044 |
+| ✅ bsky.kikisuniverse.com | No | 0.4.5046 |
 | ✅ bsky.kinnaird.scot | No | 0.4.138 |
-| ✅ bsky.kitsunehosting.net | No | 0.4.5027 |
+| ❌ bsky.kitsunehosting.net | No | 0.4.5027 |
 | ✅ bsky.kmaschta.me | No | 0.4.193 |
-| ✅ bsky.kobos.dev | No | 0.4.5044 |
-| ✅ bsky.kraemer.cc | No | 0.4.5044 |
+| ✅ bsky.kobos.dev | No | 0.4.5046 |
+| ✅ bsky.kraemer.cc | No | 0.4.5046 |
 | ✅ bsky.kretschmann.social | No | 0.4.219 |
-| ✅ bsky.krrd.ing | No | 0.4.5044 |
+| ✅ bsky.krrd.ing | No | 0.4.5046 |
 | ✅ bsky.kurocon.nl | No | 0.4.5046 |
-| ✅ bsky.kyrazis.com | No | 0.4.5043 |
+| ✅ bsky.kyrazis.com | No | 0.4.5046 |
 | ✅ bsky.leafbla.de | No | 0.4.107 |
-| ✅ bsky.lethedata.com | No | 0.4.5044 |
+| ✅ bsky.lethedata.com | No | 0.4.5046 |
 | ✅ bsky.leximolab.com | No | N/A |
 | ✅ bsky.liberatedphoenix.com | No | 0.4.5027 |
-| ✅ bsky.limes.pink | No | 0.4.5044 |
+| ✅ bsky.limes.pink | No | 0.4.5046 |
 | ✅ bsky.littletcg.fr | No | 0.4.193 |
-| ✅ bsky.lobadk.com | No | 0.4.5044 |
-| ✅ bsky.localecho.net | No | 0.4.5044 |
+| ✅ bsky.lobadk.com | No | 0.4.5046 |
+| ✅ bsky.localecho.net | No | 0.4.5046 |
 | ✅ bsky.lochetfamily.com | No | 0.4.5001 |
-| ✅ bsky.louis.cloud | No | 0.4.5044 |
+| ✅ bsky.louis.cloud | No | 0.4.5046 |
 | ✅ bsky.lucas.love | No | 0.4.5043 |
-| ✅ bsky.lucaslower.com | No | 0.4.5044 |
+| ✅ bsky.lucaslower.com | No | 0.4.5046 |
 | ✅ bsky.luddite.dev | No | 0.4.219 |
 | ✅ bsky.lwis.me | No | 0.4.5037 |
 | ❌ bsky.madtek.co.za | No | 0.4.208 |
-| ✅ bsky.mael.sh | No | 0.4.5044 |
-| ✅ bsky.majhul.vip | No | 0.4.5043 |
-| ✅ bsky.makemake.site | No | 0.4.5044 |
+| ✅ bsky.mael.sh | No | 0.4.5046 |
+| ✅ bsky.majhul.vip | No | 0.4.5046 |
+| ✅ bsky.makemake.site | No | 0.4.5046 |
 | ✅ bsky.maki325.me | No | 0.4.5009 |
-| ✅ bsky.marcreisner.com | No | 0.4.5043 |
-| ✅ bsky.martyloo.com | No | 0.4.5044 |
-| ✅ bsky.mawsandclaws.xyz | No | 0.4.5044 |
+| ✅ bsky.marcreisner.com | No | 0.4.5046 |
+| ✅ bsky.martyloo.com | No | 0.4.5046 |
+| ✅ bsky.mawsandclaws.xyz | No | 0.4.5046 |
 | ✅ bsky.mcduck-land.de | No | 0.4.5043 |
 | ✅ bsky.mceyes.me | No | 0.4.219 |
 | ✅ bsky.mcr.gb.net | No | 0.4.5001 |
@@ -921,57 +923,56 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.meowing.men | No | 0.4.5043 |
 | ✅ bsky.mestiez.nl | No | 0.4.219 |
 | ✅ bsky.metalgearludd.net | No | 0.4.188 |
-| ✅ bsky.midnightstops.com | No | 0.4.5043 |
+| ✅ bsky.midnightstops.com | No | 0.4.5046 |
 | ✅ bsky.mikehacks.io | No | 0.4.5043 |
-| ✅ bsky.mikewells.name | No | 0.4.5044 |
-| ✅ bsky.milesdean.net | No | 0.4.5044 |
-| ✅ bsky.missoulaanonymous.com | No | 0.4.5044 |
-| ✅ bsky.missoulasucks.com | No | 0.4.5044 |
+| ✅ bsky.mikewells.name | No | 0.4.5046 |
+| ✅ bsky.milesdean.net | No | 0.4.5046 |
+| ✅ bsky.missoulaanonymous.com | No | 0.4.5046 |
+| ✅ bsky.missoulasucks.com | No | 0.4.5046 |
 | ✅ bsky.mita.me | No | 0.4.5037 |
-| ✅ bsky.mjrm.us | No | 0.4.5044 |
+| ✅ bsky.mjrm.us | No | 0.4.5046 |
 | ✅ bsky.mkkey.net | No | 2026.10.21+47bdb0 |
 | ✅ bsky.mkultra.monster | No | 0.4.5027 |
-| ❌ bsky.mnguyen.dev | No | 0.4.5037 |
-| ✅ bsky.moang.com.br | No | 0.4.5044 |
+| ✅ bsky.moang.com.br | No | 0.4.5046 |
 | ✅ bsky.montuori.net | No | 0.4.5037 |
 | ✅ bsky.morawski.my | No | 0.4.219 |
 | ✅ bsky.mrzablah.co | No | 0.4.136 |
 | ✅ bsky.mstar.dev | No | 0.4.208 |
 | ✅ bsky.mulambda.de | No | 0.4.5009 |
-| ✅ bsky.muzhaqi.com | No | 0.4.5044 |
+| ✅ bsky.muzhaqi.com | No | 0.4.5046 |
 | ✅ bsky.mycapitolwatchdog.com | No | 0.4.5034 |
-| ✅ bsky.myusernamesth.is | No | 0.4.5044 |
+| ✅ bsky.myusernamesth.is | No | 0.4.5046 |
 | ✅ bsky.nanao.moe | No | 0.4.5037 |
 | ✅ bsky.nasberry.net | No | 0.4.5037 |
 | ✅ bsky.nat20.lol | No | 0.4.219 |
 | ✅ bsky.nazigamingclan.com | No | 0.4.219 |
-| ✅ bsky.ncrypted.dev | No | 0.4.5044 |
-| ✅ bsky.nebula.lgbt | No | 0.4.5044 |
+| ✅ bsky.ncrypted.dev | No | 0.4.5046 |
+| ✅ bsky.nebula.lgbt | No | 0.4.5046 |
 | ✅ bsky.nekojimi.moe | No | 0.4.74 |
-| ✅ bsky.neo0717.com | No | 0.4.5044 |
-| ✅ bsky.nerdcloud.cz | No | 0.4.5044 |
+| ✅ bsky.neo0717.com | No | 0.4.5046 |
+| ✅ bsky.nerdcloud.cz | No | 0.4.5046 |
 | ❌ bsky.nerdfest.dev | No | 0.4.5037 |
 | ✅ bsky.nerdyfam.social | No | 0.4.208 |
-| ✅ bsky.neshweb.net | No | 0.4.5044 |
+| ✅ bsky.neshweb.net | No | 0.4.5046 |
 | ❌ bsky.nicheweb.dev | No | 0.4.5037 |
-| ✅ bsky.nightshade.fun | No | 0.4.5044 |
+| ✅ bsky.nightshade.fun | No | 0.4.5046 |
 | ✅ bsky.niki-lee.com | No | 0.4.5009 |
-| ✅ bsky.noadcoco.fr | No | 0.4.5044 |
+| ✅ bsky.noadcoco.fr | No | 0.4.5046 |
 | ✅ bsky.nodemixaholic.com | No | 0.4.5037 |
-| ✅ bsky.nordisk.cloud | No | 0.4.5044 |
+| ✅ bsky.nordisk.cloud | No | 0.4.5046 |
 | ✅ bsky.noridev.moe | No | 0.4.5009 |
 | ❌ bsky.nrbrtspvk.com | Yes | 0.4.208 |
 | ✅ bsky.nullalley.com | Yes | 0.4.5027 |
-| ✅ bsky.octavarecords.com | No | 0.4.5044 |
+| ✅ bsky.octavarecords.com | No | 0.4.5046 |
 | ✅ bsky.odincc.net | No | 0.4.182 |
-| ✅ bsky.ogre-man.com | No | 0.4.5044 |
+| ✅ bsky.ogre-man.com | No | 0.4.5046 |
 | ✅ bsky.ohnomer.com | No | 0.4.5009 |
-| ✅ bsky.olympichek.dev | No | 0.4.5044 |
-| ✅ bsky.opa42.me | No | 0.4.5044 |
+| ✅ bsky.olympichek.dev | No | 0.4.5046 |
+| ✅ bsky.opa42.me | No | 0.4.5046 |
 | ❌ bsky.openvibe.social | No | 0.4.5037 |
 | ✅ bsky.owlsnest.nl | No | 0.4.5043 |
 | ✅ bsky.ozonize.hu | No | 0.5.31 |
-| ✅ bsky.parastor.net | No | 0.4.5043 |
+| ✅ bsky.parastor.net | No | 0.4.5046 |
 | ✅ bsky.participate.at | No | 0.4.208 |
 | ❌ bsky.pazny.eu | No | ??? |
 | ✅ bsky.pb.io | No | 0.4.74 |
@@ -979,31 +980,31 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.peteroceanmedia.com | No | 0.4.5009 |
 | ✅ bsky.phitchaw.at | No | 0.4.193 |
 | ✅ bsky.pink | No | 0.4.5009 |
-| ✅ bsky.pipiska.org | No | 0.4.5044 |
+| ✅ bsky.pipiska.org | No | 0.4.5046 |
 | ✅ bsky.pitchstack.gg | No | 0.4.5037 |
-| ✅ bsky.plasmatrap.com | No | 0.4.5044 |
+| ✅ bsky.plasmatrap.com | No | 0.4.5046 |
 | ✅ bsky.plums.zip | No | 0.4.208 |
-| ✅ bsky.pmj.rocks | No | 0.4.5044 |
+| ✅ bsky.pmj.rocks | No | 0.4.5046 |
 | ✅ bsky.polosk.uno | No | 0.4.5037 |
 | ✅ bsky.pratiksinha.com | Yes | 0.4.219 |
 | ✅ bsky.prdev.net | No | 0.4.208 |
 | ✅ bsky.priyapartha.com | No | 0.4.5034 |
 | ✅ bsky.puppygirl.fail | No | 0.4.5044 |
 | ✅ bsky.pve.dev | No | 0.4.5027 |
-| ✅ bsky.qualipsoft.com | No | 0.4.5044 |
+| ✅ bsky.qualipsoft.com | No | 0.4.5046 |
 | ✅ bsky.ranranhome.info | No | 0.4.5034 |
-| ✅ bsky.raptor-care.center | No | 0.4.5044 |
+| ✅ bsky.raptor-care.center | No | 0.4.5046 |
 | ✅ bsky.raymaika.ca | No | 0.4.204 |
-| ✅ bsky.rcockburn.com | No | 0.4.5044 |
+| ✅ bsky.rcockburn.com | No | 0.4.5046 |
 | ✅ bsky.rcolon.net | No | 0.4.211 |
-| ✅ bsky.readiefur.com | No | 0.4.5044 |
+| ✅ bsky.readiefur.com | No | 0.4.5046 |
 | ✅ bsky.reggi.com | No | 0.4.5009 |
 | ✅ bsky.remotenode.host | No | 0.4.5037 |
 | ✅ bsky.reve.land | No | 0.4.5037 |
 | ✅ bsky.rjo.name | No | 0.4.5034 |
 | ✅ bsky.rominesmills.com | No | 0.4.208 |
-| ✅ bsky.roombob.cat | No | 0.4.5044 |
-| ✅ bsky.root.rs | No | 0.4.5044 |
+| ✅ bsky.roombob.cat | No | 0.4.5046 |
+| ✅ bsky.root.rs | No | 0.4.5046 |
 | ✅ bsky.rotkap.net | No | 0.4.5027 |
 | ✅ bsky.rp-taki.com | No | 0.4.5001 |
 | ✅ bsky.rpm.cc | No | 0.4.5037 |
@@ -1011,30 +1012,30 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.runhello.com | No | N/A |
 | ✅ bsky.rustamzh.com | No | 0.4.5027 |
 | ✅ bsky.ryuka-lucas.net | No | 0.4.5037 |
-| ✅ bsky.ryzuk.net | No | 0.4.5044 |
+| ✅ bsky.ryzuk.net | No | 0.4.5046 |
 | ✅ bsky.rznd.com.br | No | 0.4.5034 |
 | ✅ bsky.sage.id | No | 0.4.158 |
 | ✅ bsky.samahh.dev | No | 0.4.5037 |
-| ✅ bsky.samdornan.me | No | 0.4.5044 |
-| ✅ bsky.samulireijula.net | No | 0.4.5044 |
-| ✅ bsky.scalix.social | No | 0.4.5044 |
+| ✅ bsky.samdornan.me | No | 0.4.5046 |
+| ✅ bsky.samulireijula.net | No | 0.4.5046 |
+| ✅ bsky.scalix.social | No | 0.4.5046 |
 | ✅ bsky.scharmueller.net | No | 0.4.208 |
-| ✅ bsky.scot | No | 0.4.5044 |
-| ✅ bsky.scriptkitty.me | No | 0.4.5044 |
+| ✅ bsky.scot | No | 0.4.5046 |
+| ✅ bsky.scriptkitty.me | No | 0.4.5046 |
 | ✅ bsky.seanfitz.dev | No | 0.4.188 |
-| ✅ bsky.secretworld.social | No | 0.4.5044 |
+| ✅ bsky.secretworld.social | No | 0.4.5046 |
 | ✅ bsky.sexyfuckboy.social | No | N/A |
 | ✅ bsky.shadowdrake.org | No | 0.4.5027 |
-| ✅ bsky.shas.am | No | 0.4.5044 |
-| ✅ bsky.shoreline.je | No | 0.4.5044 |
-| ✅ bsky.simply-vibing.com | No | 0.4.5044 |
-| ✅ bsky.sirkorgo.com | No | 0.4.5044 |
-| ✅ bsky.skymarchini.net | No | 0.4.5044 |
-| ✅ bsky.sly.sh | No | 0.4.5044 |
-| ✅ bsky.snikte.net | No | 0.4.5044 |
+| ✅ bsky.shas.am | No | 0.4.5046 |
+| ✅ bsky.shoreline.je | No | 0.4.5046 |
+| ✅ bsky.simply-vibing.com | No | 0.4.5046 |
+| ✅ bsky.sirkorgo.com | No | 0.4.5046 |
+| ✅ bsky.skymarchini.net | No | 0.4.5046 |
+| ✅ bsky.sly.sh | No | 0.4.5046 |
+| ✅ bsky.snikte.net | No | 0.4.5046 |
 | ✅ bsky.spencerboucher.com | No | 0.4.5001 |
 | ✅ bsky.spikehead.xyz | No | 0.4.208 |
-| ✅ bsky.spooky.gg | No | 0.4.5044 |
+| ✅ bsky.spooky.gg | No | 0.4.5046 |
 | ✅ bsky.spragueco.com | No | 0.4.5009 |
 | ❌ bsky.starwolves.net | No | 0.4.5037 |
 | ✅ bsky.stellarpride.com | No | 0.4.219 |
@@ -1043,101 +1044,101 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.substandard.info | No | 0.4.219 |
 | ✅ bsky.sztupy.hu | No | 0.4.5043 |
 | ❌ bsky.t13.one | No | 0.4.204 |
-| ❌ bsky.tainton.uk | No | 0.4.5037 |
+| ✅ bsky.tainton.uk | No | 0.4.5046 |
 | ✅ bsky.talkunafraid.co.uk | No | 0.4.193 |
 | ✅ bsky.tallcat.net | No | N/A |
-| ✅ bsky.tangerine-systems.com | No | 0.4.5044 |
-| ✅ bsky.tangle.se | No | 0.4.5044 |
+| ✅ bsky.tangerine-systems.com | No | 0.4.5046 |
+| ✅ bsky.tangle.se | No | 0.4.5046 |
 | ✅ bsky.tea-cats.co.uk | No | 0.4.226 |
-| ✅ bsky.tearow.com | No | 0.4.5044 |
-| ✅ bsky.techhangout.social | No | 0.4.5044 |
+| ✅ bsky.tearow.com | No | 0.4.5046 |
+| ✅ bsky.techhangout.social | No | 0.4.5046 |
 | ✅ bsky.telosdrive.com | No | 0.4.193 |
-| ✅ bsky.tena-beji.com | No | 0.4.5044 |
+| ✅ bsky.tena-beji.com | No | 0.4.5046 |
 | ✅ bsky.teremich.de | No | 0.4.208 |
 | ✅ bsky.tessa.works | No | N/A |
 | ✅ bsky.the-hive-mind.org | No | 0.4.67 |
 | ✅ bsky.the-wired.org | No | 0.4.5009 |
-| ✅ bsky.thedelleutah.com | No | 0.4.5044 |
+| ✅ bsky.thedelleutah.com | No | 0.4.5046 |
 | ✅ bsky.theorangeone.net | No | 0.4.5043 |
 | ✅ bsky.theoswalds.com | No | 0.4.5037 |
-| ✅ bsky.thewiringundertheboard.net | No | 0.4.5043 |
-| ✅ bsky.thriv.dev | No | 0.4.5044 |
+| ✅ bsky.thewiringundertheboard.net | No | 0.4.5046 |
+| ✅ bsky.thriv.dev | No | 0.4.5046 |
 | ✅ bsky.timanon.de | No | 0.4.5027 |
-| ✅ bsky.tk439.net | No | 0.4.5044 |
-| ✅ bsky.tkhaldi.me | No | 0.4.5044 |
+| ✅ bsky.tk439.net | No | 0.4.5046 |
+| ✅ bsky.tkhaldi.me | No | 0.4.5046 |
 | ✅ bsky.tlbail.fr | No | 0.4.5009 |
 | ✅ bsky.travishenning.com | No | 0.4.5037 |
-| ❌ bsky.tschida.co | No | 0.4.5037 |
+| ✅ bsky.tschida.co | No | 0.4.5046 |
 | ✅ bsky.tuna2134.dev | Yes | ??? |
 | ✅ bsky.tvtyler.com | No | 0.4.193 |
 | ✅ bsky.unicornyrainbow.org | No | 0.4.5036 |
-| ✅ bsky.v7508.eu | No | 0.4.5044 |
-| ✅ bsky.vaguely.art | No | 0.4.5036 |
+| ✅ bsky.v7508.eu | No | 0.4.5046 |
+| ✅ bsky.vaguely.art | No | 0.4.5046 |
 | ✅ bsky.violoncello.ch | No | 0.4.5034 |
-| ✅ bsky.voege.net | No | 0.4.5044 |
-| ✅ bsky.vosky.fr | No | 0.4.5044 |
+| ✅ bsky.voege.net | No | 0.4.5046 |
+| ✅ bsky.vosky.fr | No | 0.4.5046 |
 | ✅ bsky.walljm.com | No | 0.4.5034 |
 | ❌ bsky.wanivy.com | No | 0.4.5037 |
 | ✅ bsky.welch.network | No | 0.4.5001 |
-| ✅ bsky.whinis.com | No | 0.4.5044 |
+| ✅ bsky.whinis.com | No | 0.4.5046 |
 | ❌ bsky.wibisana.eu.cc | No | ??? |
 | ✅ bsky.wopr.systems | No | 0.4.5001 |
-| ✅ bsky.wtr.app | No | 0.4.5044 |
-| ✅ bsky.wunk.cafe | No | 0.4.5044 |
+| ✅ bsky.wtr.app | No | 0.4.5046 |
+| ✅ bsky.wunk.cafe | No | 0.4.5046 |
 | ✅ bsky.yeet.fm | No | 0.4.219 |
 | ✅ bsky.yona.moe | No | 0.4.5043 |
 | ✅ bsky.yozmusic.com | No | N/A |
 | ✅ bsky.zacred0rryn.top | No | 0.4.193 |
-| ✅ bsky.zerojay.com | No | 0.4.5044 |
-| ✅ bsky.zoeyvid.de | No | 0.4.5044 |
+| ✅ bsky.zerojay.com | No | 0.4.5046 |
+| ✅ bsky.zoeyvid.de | No | 0.4.5046 |
 | ✅ bsky.zoner.work | No | 0.4.5043 |
-| ✅ bskybot.app | No | 0.4.5044 |
-| ✅ bskymail.app | No | 0.4.5044 |
-| ✅ bskymg.pds4u.de | No | 0.4.5044 |
-| ✅ bskypds.dothack.com | No | 0.4.5044 |
-| ✅ bskypds.fempolyhedron.dev | No | 0.4.5044 |
+| ✅ bskybot.app | No | 0.4.5046 |
+| ✅ bskymail.app | No | 0.4.5046 |
+| ✅ bskymg.pds4u.de | No | 0.4.5046 |
+| ✅ bskypds.dothack.com | No | 0.4.5046 |
+| ✅ bskypds.fempolyhedron.dev | No | 0.4.5046 |
 | ✅ bskypds.hostinfr.com | No | tranquil 0.6.6 |
 | ✅ bskypds.teli.games | No | 0.4.182 |
 | ❌ bskypds.up.railway.app | No | 0.4.5037 |
 | ✅ btucker.net | No | 0.4.5009 |
-| ✅ buehrle.io | No | 0.4.5044 |
+| ✅ buehrle.io | No | 0.4.5046 |
 | ✅ buenobunny.digital | No | 0.4.208 |
-| ✅ buffy.social | No | 0.4.5044 |
-| ✅ buller.cc | No | 0.4.5044 |
-| ✅ bullshido.app | No | 0.4.5044 |
-| ✅ bumsco.de | No | 0.4.5043 |
+| ✅ buffy.social | No | 0.4.5046 |
+| ✅ buller.cc | No | 0.4.5046 |
+| ✅ bullshido.app | No | 0.4.5046 |
+| ✅ bumsco.de | No | 0.4.5046 |
 | ❌ bunny.observer | No | 0.4.5037 |
 | ✅ bunpup.dev | No | 0.4.188 |
-| ✅ burg.art | No | 0.4.5043 |
-| ✅ butterfly.vulpinecitrus.info | No | 0.4.5044 |
+| ✅ burg.art | No | 0.4.5046 |
+| ✅ butterfly.vulpinecitrus.info | No | 0.4.5046 |
 | ❌ byjp.updraft.id | No | tranquil 0.6.7 |
 | ✅ bylisa.dev | No | 0.4.5037 |
-| ✅ bytelabs.social | No | 0.4.5044 |
-| ✅ c0s.net | No | 0.4.5044 |
-| ✅ c2.z4.fyi | No | 0.4.5044 |
-| ✅ caamas.gravee.org | No | 0.4.5043 |
-| ✅ cabildo.ar | No | 0.4.5044 |
-| ✅ caelumcaeruleum.funcool.win | No | 0.4.5044 |
+| ✅ bytelabs.social | No | 0.4.5046 |
+| ✅ c0s.net | No | 0.4.5046 |
+| ✅ c2.z4.fyi | No | 0.4.5046 |
+| ✅ caamas.gravee.org | No | 0.4.5046 |
+| ✅ cabildo.ar | No | 0.4.5046 |
+| ❌ caelumcaeruleum.funcool.win | No | 0.4.5044 |
 | ✅ calebstein.net | No | 0.4.74 |
 | ✅ caliko.fr | No | 0.4.5027 |
-| ✅ camora.dev | No | 0.4.5044 |
+| ✅ camora.dev | No | 0.4.5046 |
 | ✅ camsmith.dev | No | N/A |
-| ✅ capellini.social | No | 0.4.5044 |
-| ✅ caramelo.social.br | No | 0.4.5044 |
-| ✅ caseyjr.micro.plumbing | No | 0.4.5044 |
+| ✅ capellini.social | No | 0.4.5046 |
+| ✅ caramelo.social.br | No | 0.4.5046 |
+| ✅ caseyjr.micro.plumbing | No | 0.4.5046 |
 | ✅ castletown.darkworld.download | No | tranquil 0.6.7-deltarune-tomorrow |
-| ✅ casualmatt.ch | No | 0.4.5044 |
-| ✅ catgirls.social | No | 0.4.5044 |
-| ✅ cathrow.social | No | 0.4.5044 |
+| ✅ casualmatt.ch | No | 0.4.5046 |
+| ✅ catgirls.social | No | 0.4.5046 |
+| ✅ cathrow.social | No | 0.4.5046 |
 | ❌ catric333.xyz | No | 0.4.5037 |
 | ✅ cb513.xyz | No | 0.4.5037 |
 | ✅ cclabpro.org | No | 0.4.204 |
-| ✅ ccwglobal.insurancesky.app | No | 0.4.5044 |
+| ✅ ccwglobal.insurancesky.app | No | 0.4.5046 |
 | ✅ cdcs.dev | No | 0.4.5037 |
-| ✅ cdha.kr | No | 0.4.5037 |
-| ✅ ce.ntipe.de | No | 0.4.5043 |
+| ✅ cdha.kr | No | 0.4.5046 |
+| ✅ ce.ntipe.de | No | 0.4.5046 |
 | ✅ celestia.sh | No | 0.4.5001 |
-| ✅ celsi.social | No | 0.4.5044 |
+| ✅ celsi.social | No | 0.4.5046 |
 | ❌ certified-apppds-core-epds-pr-100.up.railway.app | Yes | 0.4.211 |
 | ❌ certified-apppds-core-epds-pr-204.up.railway.app | Yes | 0.4.211 |
 | ❌ certified-apppds-core-epds-pr-217.up.railway.app | Yes | 0.4.211 |
@@ -1150,92 +1151,91 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ certified-apppds-core-pr-base.up.railway.app | Yes | 0.5.34 |
 | ✅ certified.one | No | 0.5.34 |
 | ✅ chancellor.social | No | 0.4.5043 |
-| ✅ chaorace.net | No | 0.4.5044 |
+| ✅ chaorace.net | No | 0.4.5046 |
 | ✅ chat.skydeck.live | No | 0.4.5034 |
 | ✅ chat.totaldataloss.com | No | 0.4.208 |
 | ✅ cheeky.town | No | tranquil 0.6.7 |
-| ✅ chewie-lin.me | No | 0.4.5044 |
+| ✅ chewie-lin.me | No | 0.4.5046 |
 | ✅ chfotofilm.dk | No | 0.4.204 |
-| ✅ chicory.blue | No | 0.4.5044 |
+| ✅ chicory.blue | No | 0.4.5046 |
 | ✅ chime.auralglow.me | No | tranquil 0.6.6 |
 | ✅ chirp.forestfortheleaves.org | No | 0.4.5037 |
 | ✅ chitanda.moe | No | 0.4.204 |
 | ✅ choomga.ng | No | 0.4.138 |
-| ✅ chrisjenx.com | No | 0.4.5044 |
-| ✅ christianity.business | No | 0.4.5044 |
-| ✅ chrysalis.onely.space | No | 0.4.5044 |
+| ✅ chrisjenx.com | No | 0.4.5046 |
+| ✅ christianity.business | No | 0.4.5046 |
+| ✅ chrysalis.onely.space | No | 0.4.5046 |
 | ✅ chubbs.me | No | 0.4.5037 |
-| ✅ cieloblu.xyz | Yes | 0.5.29 |
+| ✅ cieloblu.xyz | Yes | 0.5.44 |
 | ✅ cirrus.knotbin.net | Yes | cirrus 0.17.1 |
 | ✅ cirrus.trespass.ing | Yes | cirrus 0.18.0 |
 | ✅ civicforge.solutions | No | 0.4.5037 |
 | ✅ clankpds.vukstajic.eu | No | 0.4.208 |
-| ✅ claros.ar | No | 0.4.5044 |
+| ✅ claros.ar | No | 0.4.5046 |
 | ✅ clay.rip | No | N/A |
 | ✅ climateai.org | No | 0.5.34 |
 | ❌ cloud.xn--schchner-2za.de | No | ??? |
 | ✅ clusterfsck.com | No | 0.4.67 |
-| ✅ cocas-js.xsns.jp | No | 0.4.5034 |
+| ✅ cocas-js.xsns.jp | No | 0.4.5046 |
 | ❌ cocoon-pds.atserver.farm | No | cocoon 0.11.3 |
 | ❌ cocoon.generic.dev | Yes | cocoon v0.10-5-g7fe347f |
-| ✅ cocoon.hailey.at | No | cocoon v0.13.3-0-g27c02cc |
+| ✅ cocoon.hailey.at | No | cocoon ca03d1a |
 | ✅ cocoon.orthanc.nz | No | cocoon dev-3a65c4dea |
 | ✅ cocoon.serendipty01.dev | No | cocoon v0.13.3-0-g27c02cc |
 | ❌ code.widespread.fyi | No | ??? |
-| ✅ codeandstrings.com | No | 0.4.5044 |
+| ✅ codeandstrings.com | No | 0.4.5046 |
 | ❌ codegod100--rookery-pds-web.us-east.modal.run | No | ??? |
-| ✅ colchester.social | No | 0.4.5044 |
-| ✅ colibri.social | No | 0.4.5027 |
-| ✅ comind.network | No | 0.4.5044 |
+| ✅ colchester.social | No | 0.4.5046 |
+| ✅ colibri.social | No | 0.4.5046 |
+| ✅ comind.network | No | 0.4.5046 |
 | ✅ compressed.cubporn.zip | No | tranquil 0.6.6 |
 | ✅ computerwit.ch | No | 0.4.5037 |
-| ✅ comrade.earth | No | 0.4.5044 |
+| ✅ comrade.earth | No | 0.4.5046 |
 | ✅ comrades.social | No | 0.4.5027 |
 | ✅ comsmith.blue | No | 0.4.74 |
-| ✅ comstar.space | No | 0.4.5044 |
-| ✅ consciousness.stream | No | 0.4.5044 |
-| ✅ coseeker.org | No | 0.4.5044 |
+| ✅ comstar.space | No | 0.4.5046 |
+| ✅ consciousness.stream | No | 0.4.5046 |
+| ✅ coseeker.org | No | 0.4.5046 |
 | ✅ cosmi.cafe | No | 0.4.5001 |
 | ✅ courmont.cloud | No | 0.4.5037 |
-| ✅ couttsnet.com | No | 0.4.5037 |
+| ✅ couttsnet.com | No | 0.4.5046 |
 | ✅ coventryrat.com | No | 0.4.193 |
-| ✅ cozy.me.uk | No | 0.4.5044 |
+| ✅ cozy.me.uk | No | 0.4.5046 |
 | ✅ cpds.up.railway.app | No | 0.0.1 |
-| ✅ cristini.social | No | 0.4.5044 |
-| ✅ crnlswn.com | No | 0.4.5044 |
+| ✅ cristini.social | No | 0.4.5046 |
+| ✅ crnlswn.com | No | 0.4.5046 |
 | ✅ cronoci.de | No | 0.4.5037 |
-| ❌ cryptoanarchy.network | No | ??? |
 | ✅ csw.im | No | tranquil 0.6.6 |
 | ❌ cubes.blue | No | 0.4.5037 |
 | ✅ cupcap.org | Yes | 0.4.226 |
-| ✅ curiosity.rip | No | 0.4.5044 |
+| ✅ curiosity.rip | No | 0.4.5046 |
 | ✅ cyberfortress.security | No | 0.4.219 |
-| ✅ d.schlechter.info | No | 0.4.5044 |
+| ✅ d.schlechter.info | No | 0.4.5046 |
 | ❌ d.zeusvshades.world | No | ??? |
 | ✅ daemons.work | No | 0.4.5044 |
-| ✅ daniel-schmitt.de | No | 0.4.5044 |
-| ✅ daochi.eu | No | 0.4.5044 |
+| ✅ daniel-schmitt.de | No | 0.4.5046 |
+| ✅ daochi.eu | No | 0.4.5046 |
 | ❌ dariusradius.com | No | N/A |
-| ✅ darkmatter.rocks | No | 0.4.5044 |
-| ✅ data.cmd.wtf | No | 0.4.5044 |
+| ✅ darkmatter.rocks | No | 0.4.5046 |
+| ✅ data.cmd.wtf | No | 0.4.5046 |
 | ✅ data.scoreflo.at | No | 0.4.5034 |
-| ✅ database.coffeencode.cc | No | 0.4.5044 |
+| ✅ database.coffeencode.cc | No | 0.4.5046 |
 | ✅ datalayers.eu | No | custorium-entryway v0.2.0 |
 | ✅ datum.keays.io | No | 0.4.208 |
 | ✅ dawidpotocki.com | No | 0.4.5009 |
-| ✅ dblabs.co.uk | No | 0.4.5043 |
+| ✅ dblabs.co.uk | No | 0.4.5046 |
 | ✅ dbush.net | No | 0.4.5037 |
 | ✅ dcdev4.ticketh.xyz | No | 0.4.219 |
-| ✅ deadair.cloud | No | 0.4.5044 |
-| ✅ deadfrog.org | No | 0.4.5044 |
+| ✅ deadair.cloud | No | 0.4.5046 |
+| ✅ deadfrog.org | No | 0.4.5046 |
 | ✅ deadreckoning.io | No | 0.4.5044 |
 | ✅ dearcoaster.com | No | 0.4.5034 |
-| ✅ deergoat.club | No | 0.4.5044 |
+| ✅ deergoat.club | No | 0.4.5046 |
 | ✅ defcon1.me | No | 0.4.219 |
-| ✅ defenestrum.com | No | 0.4.5044 |
-| ✅ dehub.club | No | 0.4.5044 |
-| ✅ deltaoffline.dev | No | 0.4.5044 |
-| ✅ demeulder.us | No | 0.4.5044 |
+| ✅ defenestrum.com | No | 0.4.5046 |
+| ✅ dehub.club | No | 0.4.5046 |
+| ✅ deltaoffline.dev | No | 0.4.5046 |
+| ✅ demeulder.us | No | 0.4.5046 |
 | ✅ demi.engineer | No | 0.5.29 |
 | ❌ denazen.social | No | 0.4.5037 |
 | ✅ denken.concrnt.net | No | concrnt-atproto-bridge main |
@@ -1246,7 +1246,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ dev.chill.town | No | ??? |
 | ✅ dev.eu1.pwkl.social | No | 0.5.1 |
 | ❌ dev.pds.chthonicarts.com | No | ??? |
-| ✅ dev.unifist.social | No | 0.4.5044 |
+| ✅ dev.unifist.social | No | 0.4.5046 |
 | ✅ dev.us1.pwkl.social | No | 0.5.21 |
 | ✅ devict.social | No | 0.4.5026 |
 | ✅ devlog.wouterdb.com | No | 0.4.5037 |
@@ -1322,7 +1322,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shdakbxmkbcyuydqrktyyvjlpgvtbpzxgzqdv7hjmalrtu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shdgsguzqp37ty9fbr5xvkg824qncgzsizxeadhfdmdauf.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shdgx5imskwgxxpnwsx73sagdxrm52zdi9zr5tzewfkh9h.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shdic4bigmqbg8jqjojltbpfmnrhdebrknsvffz2skushw.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shdj76pulbbmxm3timqztst8eicmcxeaj3x114quap5xsz.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shdkkxuwhrrrvsfkp52fg7fq2w8vaohw79grf8lrhqpca6.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shdmarrzdkgimarfetgfq7r8rn5dqljqzvnah6ru35jnyu.xrpc.fedproxy.com | No | ??? |
@@ -1345,7 +1344,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3sheas9srsbc3lmbcikas55o5kw8ouigwjqxcw4iilp6jqv.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shedrtkrqf393kjxqufrnbhlvyjvlffz7pws258hnvdfrj.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shehp5fuc4514fdzksysqnlbn417kdhquv9tkqno9za8cd.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shei5fvocamq6mdumcxlrotw8vs6t61ex9mtmmuuxwmrcj.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shek9gw36umdtkzinzrqbqvhnbrw7tgscdxrds5lfm1g93.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shekchuqmnqmdghvsniptzorbpqxszagiym4skgbjrft9e.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shelnrp47ssfc7p3wushxefcsfwiw1jj2h6jv7cexaaf9z.xrpc.fedproxy.com | No | ??? |
@@ -1367,7 +1365,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shfvdhy4aqqpsktjgtu9de23wdt52pxfpevdz8ku9v58nu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shfxiqfujdthvp5q4m1wpqqye2pwyyznmmem6zhna8nwmq.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shfzopkup9rc9qxnmh9yvsqas2n2qpd8cq8qcdqxds1uyo.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shg2fugvza2pxn3yjcuxjwgnn3lag1hwfk2f3z6affptmw.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shg5tkpoens6jrp3ohmkw2ckqx2pdbc7vpp8t2hru6i2qd.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shga5r1c3dg3my94ei3hkomahcn8jusst73fmevrx5quwe.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shgccld5dvcwpgo4s72zgc69dkaufq8mrbsickhpvuakwx.xrpc.fedproxy.com | No | ??? |
@@ -1396,12 +1393,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shhsmragz9zwqxemdajzudzrug5mmzl5xzubhlj5zgvzv7.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shhwwbqltpurnw4zybg8lixc1rzxcn8byv7dpzajszymon.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shhy2svyxdavthj5nsfkuat4qdizxdkte1npntfua3nvjj.xrpc.fedproxy.com | No | ??? |
+| ✅ did-key-zq3shi38adlphrtkznnvngganrwp154lfgsjpvb34dswr5ktb.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shi3lkmfv2b5yezqq6ejf41bq8kwlhqbyjeuec621g94pk.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shi7i23449f7yhkqppkhwqkm2rsasn5991g5tnb6h4nx99.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shicpkqmgsq41gecrgqp11hlfsdy1fyebvwludvmrxacy1.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shigns7uwj8enrxnbgtbnvsush3fzvzbgckbgcbmf5zswu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shihe3e6yug7r7ethv4cnu4sqrqeusr3itbbazxezffgis.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shijjkyuny5nczfwuuey25fxsnt3xtjdkaiznxvj6thyrn.xrpc.fedproxy.com | No | ??? |
+| ✅ did-key-zq3ship7dczzxqxeuvfgcf6gxzedakre1qevazzas6vw4qite.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shiq19kthj3ofmhbqe9kvmv2mbuvjjflbvgflw9sdjskbc.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shiscaspw21qgfn3dbhwd2b4xbamctfdtz3slbggbynf7f.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shit4tuvk7hexjkknv66uw7xnddduvf8mm86v4dyfqcrap.xrpc.fedproxy.com | No | ??? |
@@ -1539,6 +1538,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shpkgzr9r1dhffdyzdesqyhk4qskbqsfrcfxjoejmezb22.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shplafsantwpdb8mhrvcc3quqreszhegspamssseny1bym.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shpmfde2pzdmss45rmgvst4invqmpn587qmsjhctp8asrw.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shpmjmxpmrvjik1l5w5nvhhja2x1h2cnnwsv6o6bko8ywn.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shpq2pzf5b28ctzlmscrpnvpjtbnmdiqjnfqgsendq5ccq.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shpq9uwzfxnsnmkkasbd95vxs2sfvam41jh1rwjkeivhf1.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shpqwnr7v7hbapwlnppk1muhc89kbtcatyvoq56fcutef6.xrpc.fedproxy.com | No | ??? |
@@ -1575,6 +1575,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shqnandh3imozweakpubbq6ruhvawo9yujlxxvnn1vwtch.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shqntrcsagud3yhmltzy5hzkbye8fh4kcqbcuar4wib6w7.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shqppm7r7mo4o3c3mq33kerv6doynr7fnhcjcvmvwbsglt.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shqqgaqps6bcf9jnnsig4j81nzjx8tnswnlhxze6xt5yoy.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shqqosgttmclh964izbdnebxvaaxy4rjg7pgatcjeyfjsu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shqqwuxpk7gehdnppmgoxzrkr8hqwsvknqkv4bypdwp4bc.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shqr6zw7f4a99c2cfwnkt29wpjqcnbgjwecol96womtojy.xrpc.fedproxy.com | No | ??? |
@@ -1612,6 +1613,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shrpwmhjkduefvhasvsmxn3uzsa5nkke1utdni5b56g3qm.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shrqecnzjutszxjjptny7jyqovfrvipvcydamlkygzjuds.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shrqetvji7cv3kwvh9bnm8wvk5gyrehy1yag1e8szhwtv8.xrpc.fedproxy.com | No | ??? |
+| ✅ did-key-zq3shrszcvnsnxtjtipgjt6c5p7wsktkgfm8y6iyxt7ybnamt.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shrtdnq3ubvjbz9fee5htmn95qmi9ced5zxtsvyjukteq9.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shrvb1h8wxr8fssbnwsk4bz1rwkwyegoxurbpgpigcg1mf.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shrxk55zuinpwcjpta61opgebnwftvenqom3xqkzi3xwod.xrpc.fedproxy.com | No | ??? |
@@ -1620,6 +1622,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shs191pgcm1spusec8zt8vdzyrpztjec5w8jh4ckpwutn9.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shs1kcnmeedxercerommf6srkfqalnnryb9fzqv4frdw9b.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shs1y7lgjovqsttx1m4jx6ay2msc4decsdipskbhemv7ue.xrpc.fedproxy.com | No | ??? |
+| ✅ did-key-zq3shs369trfwuugd2fcpqmmmmih6mexejdqburcsvtsfs5pi.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shs4jfny8mupz1obcnhy1xgdku4mlhujcezzqt9pmboutg.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shsbdafs5p6kdar3rq6ccqrqrmchftfecahswl3csyd96f.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shsbzxtsxsoukxuib9bwezkaudshb6amykivcdfz5lceqk.xrpc.fedproxy.com | No | ??? |
@@ -1691,7 +1694,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shu66ewf8dcyawzg2klycsxc4znrdicxppwhwpw3uhdg37.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shu697r46bknn6qmrsfrqpwvwpkngqtkkqz9fpxq7kgi1z.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shua43vc3ejd3vwyvlsg7yznqfbjusa6uwairejemcra94.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shucrm8ml1ipwcxptcewdi8gsmnlhsecqpppf6ammpekmz.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shuepjjlgmm9qrsqd7ry7xzky1dgezf8xtu2esepff1huh.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shugjjucrohl9ssbxfy59duhrhhax7xcbbastkwhxwrmvk.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shuipyxzkat1gbzmvefqpt5uyt48g3ugeatkmhfxygec65.xrpc.fedproxy.com | No | ??? |
@@ -1824,36 +1826,36 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shzsqawftqngicpggcdhr1us34gttepd1c5me7xnaobgvz.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shzvvukcx5wn3xkivszj3dtj7dnd5f2sowxgbjysu6pqcy.xrpc.fedproxy.com | No | ??? |
 | ✅ disbursement.center | No | 0.4.5027 |
-| ✅ dispark.org | No | 0.4.5044 |
+| ✅ dispark.org | No | 0.4.5046 |
 | ✅ divy.zone | No | 0.4.5046 |
-| ✅ diyhuman.ca | No | 0.4.5044 |
+| ✅ diyhuman.ca | No | 0.4.5046 |
 | ✅ dl-pds.na47.io | No | 0.4.208 |
-| ✅ dmrg.yokohama | No | 0.4.5044 |
+| ✅ dmrg.yokohama | No | 0.4.5046 |
 | ✅ dobrev.net | No | 0.4.208 |
-| ✅ doft.blue | No | 0.4.5044 |
-| ✅ doggos.life | No | 0.4.5044 |
+| ✅ doft.blue | No | 0.4.5046 |
+| ✅ doggos.life | No | 0.4.5046 |
 | ✅ dogpark.social | No | 0.4.5027 |
-| ✅ doublebi.ch | No | 0.4.5044 |
-| ✅ dower.com.au | No | 0.4.5044 |
-| ✅ dracoblue.com | No | 0.4.5044 |
-| ✅ dreamstate.nu | No | 0.4.5044 |
+| ✅ doublebi.ch | No | 0.4.5046 |
+| ✅ dower.com.au | No | 0.4.5046 |
+| ✅ dracoblue.com | No | 0.4.5046 |
+| ✅ dreamstate.nu | No | 0.4.5046 |
 | ✅ drews.website | No | 0.4.5037 |
-| ✅ ds.raceef.com | Yes | 0.4.5037 |
-| ✅ dummy.to | No | 0.4.5044 |
+| ✅ ds.raceef.com | No | 0.4.5037 |
+| ✅ dummy.to | No | 0.4.5046 |
 | ✅ earth.snowpulse.net | Yes | 0.4.219 |
-| ✅ eatmybruises.com | No | 0.4.5044 |
+| ✅ eatmybruises.com | No | 0.4.5046 |
 | ✅ ed209.dev | No | 0.4.5037 |
 | ✅ edbd.boats | No | 0.4.5037 |
 | ✅ eepy.day | No | 0.4.5037 |
-| ✅ eicar-test-file.zip | No | 0.4.5043 |
+| ✅ eicar-test-file.zip | No | 0.4.5046 |
 | ❌ elburro.social | No | 0.4.5037 |
 | ❌ elcentro.social | No | 0.4.5037 |
 | ✅ eldritch.buzz | No | 0.4.5037 |
 | ✅ ellab.club | No | 0.4.5037 |
-| ✅ elly.meme | No | 0.4.5043 |
+| ✅ elly.meme | No | 0.4.5046 |
 | ✅ elmalditobatman.com | No | 0.4.208 |
 | ❌ elyssa.cat | No | 0.4.5037 |
-| ✅ emma.pubmed.science | No | 0.4.5044 |
+| ✅ emma.pubmed.science | No | 0.4.5046 |
 | ✅ emuman.net | No | 0.4.208 |
 | ✅ enchiridion.gg | No | 0.4.5009 |
 | ✅ encrypted.group | No | 0.4.5027 |
@@ -1865,76 +1867,76 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ epochal.quest | No | 0.4.199 |
 | ✅ eqbot.com | No | 0.4.5043 |
 | ✅ ericson.net | No | 0.4.5027 |
-| ✅ eris.cat | No | 0.4.5044 |
-| ✅ es-atproto-setup-squirrel.uk | Yes | 0.5.29 |
+| ✅ eris.cat | No | 0.4.5046 |
+| ✅ es-atproto-setup-squirrel.uk | Yes | 0.5.44 |
 | ✅ eslar.de | No | 0.4.5027 |
-| ✅ espelunca.blue | Yes | 0.4.5037 |
+| ✅ espelunca.blue | Yes | 0.4.5046 |
 | ✅ eu1.pwkl.social | No | 0.5.1 |
 | ✅ eu2.pwkl.social | No | 0.5.1 |
 | ✅ eurosky.social | Yes | 0.5.29 |
-| ✅ eursky.com | No | 0.4.5044 |
+| ✅ eursky.com | No | 0.4.5046 |
 | ✅ evan-brass.net | No | cocoon 41b2e9c |
 | ✅ eve.snowpulse.net | Yes | 0.4.219 |
 | ✅ eventsatrc.info | No | 0.4.5034 |
 | ✅ evil.gay | No | 0.4.5043 |
 | ✅ exeverse.net | No | 0.4.219 |
 | ✅ exp.justin-stanley.com | No | 0.4.5027 |
-| ✅ expdmn-834735.com | No | 0.4.5044 |
+| ✅ expdmn-834735.com | No | 0.4.5046 |
 | ✅ external-pds.delve.town | No | 0.4.5027 |
-| ✅ extradimensional.space | No | 0.4.5044 |
+| ✅ extradimensional.space | No | 0.4.5046 |
 | ✅ ezpds-staging.up.railway.app | No | custos v0.16.2 |
-| ✅ f3dr.com | No | 0.4.5044 |
+| ✅ f3dr.com | No | 0.4.5046 |
 | ❌ f8130.cldixon.dev | No | 0.4.5026 |
 | ✅ fablud.de | No | 0.4.5037 |
 | ❌ fairway.iameli.link | No | streamplace v0.11.29-d25715f2 |
-| ✅ fastani.me | No | 0.4.5044 |
+| ✅ fastani.me | No | 0.4.5046 |
 | ✅ fazen.social | Yes | 0.4.208 |
-| ✅ feldt.systems | No | 0.4.5044 |
+| ✅ feldt.systems | No | 0.4.5046 |
 | ✅ firiusfoxx.live | No | 0.4.5037 |
-| ✅ fixate.social | No | 0.4.5044 |
+| ✅ fixate.social | No | 0.4.5046 |
 | ✅ fjf.jp | No | 0.4.5037 |
 | ✅ flint.mitten.social | No | 0.4.219 |
-| ✅ flnf.hu | No | 0.4.5044 |
-| ✅ floret.pet | No | 0.4.5043 |
-| ✅ fluffylaika.fyi | No | 0.4.5044 |
-| ✅ fmpds.cacheblasters.com | Yes | 0.4.5044 |
+| ✅ flnf.hu | No | 0.4.5046 |
+| ✅ floret.pet | No | 0.4.5046 |
+| ✅ fluffylaika.fyi | No | 0.4.5046 |
+| ✅ fmpds.cacheblasters.com | Yes | 0.4.5046 |
 | ❌ fobomail.duckdns.org | No | 0.4.5037 |
 | ✅ forum-hietzing.at | No | 0.4.219 |
 | ✅ foxhole.lgbt | No | 0.4.5034 |
 | ✅ fractal-pds.net | No | tranquil 0.6.7 |
-| ✅ framily.email | No | 0.4.5044 |
-| ✅ fratik.pl | No | 0.4.5044 |
-| ✅ freedata.wiki | No | 0.4.5044 |
-| ✅ french.dog | No | 0.4.5037 |
+| ✅ framily.email | No | 0.4.5046 |
+| ✅ fratik.pl | No | 0.4.5046 |
+| ✅ freedata.wiki | No | 0.4.5046 |
+| ✅ french.dog | No | 0.4.5046 |
 | ✅ friedrichsen.online | No | 0.4.208 |
-| ✅ frog.pizza | No | 0.4.5044 |
-| ✅ frog.rocks | No | 0.4.5044 |
-| ✅ frogspace.dev | No | 0.4.5044 |
+| ✅ frog.pizza | No | 0.4.5046 |
+| ✅ frog.rocks | No | 0.4.5046 |
+| ✅ frogspace.dev | No | 0.4.5046 |
 | ❌ from.zekk.works | No | 0.4.5037 |
 | ✅ fuck.scd.lol | No | 0.4.182 |
-| ✅ fuckelonmusk.social | No | 0.4.5044 |
+| ✅ fuckelonmusk.social | No | 0.4.5046 |
 | ✅ funbot.tplinkdns.com | No | 0.4.5027 |
 | ✅ funkypenguin-bluesky-pds.elfhosted.com | No | 0.4.5034 |
-| ✅ fwcr.de | No | 0.4.5043 |
+| ✅ fwcr.de | No | 0.4.5046 |
 | ✅ gainforest.id | No | 0.4.211 |
-| ✅ gary.moe | No | 0.4.5044 |
-| ✅ gay.pet | No | 0.4.5044 |
+| ✅ gary.moe | No | 0.4.5046 |
+| ✅ gay.pet | No | 0.4.5046 |
 | ✅ gaze.systems | No | 0.4.5037 |
-| ✅ gbears.social | No | 0.4.5044 |
+| ✅ gbears.social | No | 0.4.5046 |
 | ❌ gbx-pds-a.1007sandiego.com | No | 0.5.37 |
-| ✅ gdbay.net | No | gdbay-local |
+| ❌ gdbay.net | No | gdbay-local |
 | ✅ geese.blue | No | 0.5.32 |
 | ✅ gems.xyz | No | 0.4.5017 |
-| ✅ gendalph.net | No | 0.4.5044 |
-| ✅ gennrich.fyi | No | 0.4.5044 |
-| ✅ geoffrey.cc | No | 0.4.5043 |
+| ✅ gendalph.net | No | 0.4.5046 |
+| ✅ gennrich.fyi | No | 0.4.5046 |
+| ✅ geoffrey.cc | No | 0.4.5046 |
 | ✅ gerdemann.me | No | 0.4.67 |
 | ❌ get.unstu.cc | No | 0.4.5037 |
-| ✅ ghostzero.de | No | 0.4.5044 |
-| ✅ ghoul.systems | No | 0.4.5044 |
-| ✅ gifthood.social | No | 0.4.5044 |
+| ✅ ghostzero.de | No | 0.4.5046 |
+| ✅ ghoul.systems | No | 0.4.5046 |
+| ✅ gifthood.social | No | 0.4.5046 |
 | ✅ gilchrist.scot | No | 0.4.5034 |
-| ✅ giosky.social | No | 0.4.5044 |
+| ✅ giosky.social | No | 0.4.5046 |
 | ✅ girl.technology | No | 0.4.5036 |
 | ✅ girlkisser.top | No | 0.4.219 |
 | ✅ gist.afrilingua.ai | Yes | 0.4.5009 |
@@ -1943,72 +1945,72 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ git.recoil.org | No | ??? |
 | ✅ gleam-pds.exe.xyz | Yes | 0.1.0 |
 | ✅ gluck.dev | No | 0.4.5037 |
-| ✅ gmandialectic.dev | No | 0.4.5044 |
+| ✅ gmandialectic.dev | No | 0.4.5046 |
 | ✅ gmd55-mm.hf.space | Yes | 0.4.12 |
 | ✅ gmd55-z.hf.space | Yes | 0.4.12 |
 | ✅ gnarg.live | No | 0.4.5043 |
 | ✅ go.indiemusi.ch | No | 0.4.219 |
-| ✅ goblin.club | No | 0.4.5044 |
+| ✅ goblin.club | No | 0.4.5046 |
 | ✅ goldmanfl.com | No | 0.4.5037 |
 | ❌ gonnakms.lol | No | 0.4.5037 |
 | ❌ goodgirl.dev | No | 0.4.98 |
-| ✅ goodmkt.id | Yes | 0.4.5044 |
+| ✅ goodmkt.id | Yes | 0.4.5046 |
 | ✅ governance.chive.pub | No | 0.4.208 |
-| ✅ gpmidi.net | No | 0.4.219 |
-| ✅ gpp.green | No | 0.4.5044 |
-| ✅ grapevyne.social | No | 0.4.5044 |
-| ✅ greenhouse.lgbt | No | tranquil 0.7.0 |
+| ✅ gpmidi.net | No | 0.4.5046 |
+| ✅ gpp.green | No | 0.4.5046 |
+| ✅ grapevyne.social | No | 0.4.5046 |
+| ✅ greenhouse.lgbt | No | tranquil 0.7.1 |
 | ✅ grethchen.de | No | 0.4.5037 |
 | ✅ greysky.social | No | 0.4.74 |
 | ❌ grilledcheese.app | Yes | ??? |
-| ✅ grnknght.app | No | 0.4.5044 |
-| ✅ groules.fr | No | 0.4.5044 |
+| ✅ grnknght.app | No | 0.4.5046 |
+| ✅ groules.fr | No | 0.4.5046 |
 | ✅ gruen.lol | No | 0.4.74 |
 | ✅ gsv-pds.stevej.workers.dev | No | 0.1.0 |
 | ✅ gumby.social | No | 0.4.219 |
-| ✅ gwood.uk | No | 0.4.5037 |
+| ✅ gwood.uk | No | 0.4.5046 |
 | ✅ gzlx.social | No | 0.4.5037 |
-| ✅ habanero.f5.si | No | 0.4.5044 |
-| ✅ hackdefendr.com | No | 0.4.5044 |
-| ✅ hadow.fr | No | 0.4.5044 |
+| ✅ habanero.f5.si | No | 0.4.5046 |
+| ✅ hackdefendr.com | No | 0.4.5046 |
+| ✅ hadow.fr | No | 0.4.5046 |
 | ✅ haiku.garden | No | tranquil 0.6.5 |
-| ✅ hallam.io | No | 0.4.5043 |
+| ✅ hallam.io | No | 0.4.5046 |
 | ❌ haloserver.club | No | 0.4.219 |
-| ✅ halosix.net | No | 0.4.5044 |
-| ✅ hamili.net | No | 0.4.5043 |
-| ✅ hammyy.xyz | No | 0.4.5044 |
-| ✅ harb.net.au | No | 0.4.5043 |
+| ✅ halosix.net | No | 0.4.5046 |
+| ✅ hamili.net | No | 0.4.5046 |
+| ✅ hammyy.xyz | No | 0.4.5046 |
+| ✅ harb.net.au | No | 0.4.5046 |
 | ✅ harshnoise.social | Yes | 0.4.5037 |
-| ✅ haruhwa.com | No | 0.4.5044 |
-| ✅ hbudd.com | No | 0.4.5037 |
+| ✅ haruhwa.com | No | 0.4.5046 |
+| ✅ hbudd.com | No | 0.4.5043 |
 | ✅ hearth.emerald-cobra.ts.net | No | 0.15.0-rc.6+3521380bc1 |
 | ✅ hearth.nearhorizon.site | No | 0.4.208 |
-| ✅ helges.net | No | 0.4.5044 |
-| ✅ hellobrock.com | No | 0.4.5044 |
+| ✅ helges.net | No | 0.4.5046 |
+| ✅ hellobrock.com | No | 0.4.5046 |
 | ✅ hellthread.pro | No | 0.4.5027 |
 | ✅ heredia.social | No | 0.4.5037 |
-| ✅ hereticsasylum.com | No | 0.4.5044 |
-| ✅ hermespds.org | No | 0.4.5044 |
+| ✅ hereticsasylum.com | No | 0.4.5046 |
+| ✅ hermespds.org | No | 0.4.5046 |
 | ✅ hermitary.brad.quest | No | 0.4.5043 |
-| ✅ hesperus.io | No | 0.4.5044 |
-| ✅ hey.checkoutmy.link | No | 0.4.5044 |
-| ✅ heymrbass.com | No | 0.4.5044 |
+| ✅ hesperus.io | No | 0.4.5046 |
+| ✅ hey.checkoutmy.link | No | 0.4.5046 |
+| ✅ heymrbass.com | No | 0.4.5046 |
 | ✅ hold.biglargeclarke.com | No | 0.4.999 |
 | ✅ hold.cetacean.club | No | 0.4.999 |
 | ✅ hold.hexlab.foo | No | 0.4.999 |
 | ✅ hold.styx.mrijke.nl | No | 0.4.999 |
 | ✅ hold.zezura.xyz | No | 0.4.999 |
 | ✅ hold01.atcr.io | No | 0.4.999 |
-| ✅ home-servarr.com | No | 0.4.5037 |
+| ✅ home-servarr.com | No | 0.4.5046 |
 | ✅ home.at.noetic.work | No | 0.4.5034 |
 | ✅ homura.pet | No | tranquil 0.6.7 |
 | ❌ honeyvale.cc | Yes | ??? |
-| ✅ hooray.social | No | 0.4.5044 |
+| ✅ hooray.social | No | 0.4.5046 |
 | ✅ host.knight.cool | Yes | 0.4.5037 |
 | ✅ householder.dev | Yes | 0.4.5009 |
 | ✅ htpc.stargazer-bearded.ts.net | No | 0.4.5044 |
 | ✅ humperdink.me | No | 0.4.193 |
-| ✅ huxian-lab.net | No | 0.4.5044 |
+| ✅ huxian-lab.net | No | 0.4.5046 |
 | ❌ i-am-on.top | No | tranquil 0.6.6 |
 | ✅ i0.tf | No | 0.4.193 |
 | ✅ i6y.me | No | 0.4.5009 |
@@ -2016,78 +2018,79 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ iameli.com | No | 0.4.5043 |
 | ✅ id.karlbrig.ht | Yes | cirrus 0.19.0 |
 | ✅ id.mytinygiraffe.com | No | 0.4.5027 |
-| ✅ id.testnet.f7y.xyz | No | 0.4.5044 |
-| ✅ iiinova.com | No | 0.4.5037 |
+| ✅ id.testnet.f7y.xyz | No | 0.4.5046 |
+| ✅ iiinova.com | No | 0.4.5046 |
 | ❌ inexorabledawn.com | No | N/A |
 | ✅ infoveinx.lol | No | 0.4.5027 |
 | ✅ internal-socials.ypch.live | No | 0.4.208 |
-| ✅ intin.us | No | 0.4.5044 |
+| ✅ intin.us | No | 0.4.5046 |
 | ❌ inverter.199-71-188-53.sslip.io | No | ??? |
 | ✅ ioachim.eu.org | No | 0.4.74 |
-| ✅ is.angstridden.net | No | 0.4.5044 |
+| ✅ is.angstridden.net | No | 0.4.5046 |
 | ❌ is.doingthings.online | No | 0.4.5037 |
-| ✅ isdoingthings.online | No | 0.4.5044 |
-| ✅ itsbradmorgan.com | No | 0.4.5044 |
+| ✅ isdoingthings.online | No | 0.4.5046 |
+| ✅ itsbradmorgan.com | No | 0.4.5046 |
 | ✅ ittoire.com | No | 0.4.193 |
 | ✅ ivanamat.es | No | 0.4.74 |
-| ✅ izzybizzy.xyz | No | 0.4.5044 |
-| ✅ jacklaurence.com | No | 0.4.5044 |
-| ✅ jaipasinter.net | No | 0.4.5044 |
-| ✅ jameuwu.com | No | 0.4.5037 |
-| ✅ japantravel.tips | No | 0.4.5044 |
-| ✅ jaredstark.social | No | 0.4.5044 |
+| ✅ izzybizzy.xyz | No | 0.4.5046 |
+| ✅ jacklaurence.com | No | 0.4.5046 |
+| ✅ jaipasinter.net | No | 0.4.5046 |
+| ❌ jameuwu.com | No | 0.4.5037 |
+| ✅ japantravel.tips | No | 0.4.5046 |
+| ✅ jaredstark.social | No | 0.4.5046 |
 | ✅ jarrett.app | No | 0.4.5034 |
-| ✅ jasonmc.com | No | 0.4.5044 |
-| ✅ jaycee.space | No | 0.4.5044 |
-| ✅ jaym.in | No | 0.4.5044 |
-| ✅ jayporeon.net | No | 0.4.5044 |
-| ✅ jaysky.de | No | 0.4.5044 |
-| ✅ jcaicedo.com | No | 0.4.5044 |
+| ✅ jasonmc.com | No | 0.4.5046 |
+| ✅ jaycee.space | No | 0.4.5046 |
+| ✅ jaym.in | No | 0.4.5046 |
+| ✅ jayporeon.net | No | 0.4.5046 |
+| ✅ jaysky.de | No | 0.4.5046 |
+| ✅ jcaicedo.com | No | 0.4.5046 |
 | ✅ jedillama.social | No | 0.4.5009 |
-| ✅ jellyf.sh | No | 0.4.5044 |
-| ✅ jerrett.blue | No | 0.4.5044 |
-| ✅ jess.papergraffiti.com | No | 0.4.5044 |
-| ✅ jessicaferguson.net | No | 0.4.5044 |
-| ✅ jhixson.net | No | 0.4.5044 |
+| ✅ jellyf.sh | No | 0.4.5046 |
+| ✅ jerrett.blue | No | 0.4.5046 |
+| ✅ jess.papergraffiti.com | No | 0.4.5046 |
+| ✅ jessicaferguson.net | No | 0.4.5046 |
+| ✅ jhixson.net | No | 0.4.5046 |
 | ✅ jis.work | No | 0.4.5037 |
 | ✅ jluther.org | Yes | cirrus 0.12.0 |
 | ✅ jockstrap.cloud | No | tranquil 0.6.6 |
-| ✅ joeljoeljoel.com | No | 0.4.5044 |
+| ✅ joeljoeljoel.com | No | 0.4.5046 |
 | ✅ joemarriage.com | No | 0.4.74 |
 | ✅ joey-stelyph.spirallex.com | Yes | ??? |
 | ✅ jordan.linkntunnel.com | No | 0.4.5043 |
 | ✅ joris.sh | No | 0.4.74 |
-| ✅ josipantolis.from.hr | No | 0.4.5044 |
-| ✅ jp1.pds.atsea.id | No | 0.4.5044 |
+| ✅ josipantolis.from.hr | No | 0.4.5046 |
+| ✅ jp1.pds.atsea.id | No | 0.4.5046 |
 | ✅ jplt.com | No | 0.4.219 |
-| ✅ jswan.dev | No | 0.4.5044 |
+| ✅ jswan.dev | No | 0.4.5046 |
 | ✅ juche.social | No | 0.4.219 |
+| ❌ judas.birdinter.net | No | ??? |
 | ✅ juergen.vejmelka.de | No | 0.4.107 |
 | ✅ juniper-pds.sp00ky.net | No | 0.5.29 |
-| ✅ juri.woach.me | No | 0.4.5034 |
-| ✅ justdothings.net | No | 0.4.5044 |
-| ✅ justwisdomthings.dev | No | 0.4.5044 |
+| ✅ juri.woach.me | No | 0.4.5037 |
+| ✅ justdothings.net | No | 0.4.5046 |
+| ✅ justwisdomthings.dev | No | 0.4.5046 |
 | ✅ juuze.de | No | 0.4.5044 |
-| ✅ kaibi.xyz | No | 0.4.5044 |
+| ✅ kaibi.xyz | No | 0.4.5046 |
 | ✅ kaillou.nc | No | N/A |
 | ✅ kairon.social | No | 0.4.5037 |
-| ✅ kairos.solar | No | 0.4.5044 |
-| ✅ kaloncpu57.site | No | 0.4.5044 |
-| ✅ kanoah.pl | No | 0.4.5044 |
-| ❌ kape.xyz | No | 0.4.5037 |
+| ✅ kairos.solar | No | 0.4.5046 |
+| ✅ kaloncpu57.site | No | 0.4.5046 |
+| ✅ kanoah.pl | No | 0.4.5046 |
+| ✅ kape.xyz | No | 0.4.5046 |
 | ✅ katproto.girlonthemoon.xyz | No | 0.4.5009 |
-| ✅ keik.info | No | 0.4.5044 |
+| ✅ keik.info | No | 0.4.5046 |
 | ✅ keith.business | No | 0.4.5034 |
-| ✅ kekeg.com | No | 0.4.5044 |
-| ✅ kevindoyon.com | No | 0.4.5044 |
+| ✅ kekeg.com | No | 0.4.5046 |
+| ✅ kevindoyon.com | No | 0.4.5046 |
 | ✅ kill9.net | No | 0.4.5034 |
 | ✅ kimbia.social | No | N/A |
-| ✅ kinectricity.social | No | 0.4.5044 |
+| ✅ kinectricity.social | No | 0.4.5046 |
 | ✅ kingdom.1randomprince.life | No | 0.4.107 |
-| ✅ kitch.social | No | 0.4.5044 |
+| ✅ kitch.social | No | 0.4.5046 |
 | ✅ kjubybot.xyz | No | 0.4.5037 |
-| ✅ kmack.app | No | 0.4.5044 |
-| ✅ kmbx.live | No | 0.4.5044 |
+| ✅ kmack.app | No | 0.4.5046 |
+| ✅ kmbx.live | No | 0.4.5046 |
 | ❌ knot.aaronf86.tech | No | ??? |
 | ❌ knot.averyrive.rs | No | ??? |
 | ❌ knot.axelhax.net | No | ??? |
@@ -2099,6 +2102,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ knot.grandiras.net | No | ??? |
 | ❌ knot.hauleth.dev | No | ??? |
 | ❌ knot.iamtheno.name | No | ??? |
+| ❌ knot.jannschu.de | No | ??? |
 | ❌ knot.kun.is | No | ??? |
 | ❌ knot.lexicon.garden | No | ??? |
 | ❌ knot.lvdar.nl | No | ??? |
@@ -2113,81 +2117,82 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ knot.pluie.me | No | ??? |
 | ❌ knot.poggers.website | No | ??? |
 | ❌ knot.popbob.wtf | No | ??? |
+| ❌ knot.ronshavit.com | No | ??? |
 | ❌ knot.secluded.site | No | ??? |
 | ❌ knot.simmarith.de | No | ??? |
-| ❌ knot.solanaceae.net | No | ??? |
+| ❌ knot.tibor.sh | No | ??? |
 | ❌ knot.vengeful.eu | No | ??? |
 | ❌ knot.vvill.dev | No | ??? |
 | ❌ knot.xenolandscapes.com | No | ??? |
 | ✅ knot2.staging.arras.elyria.dev | No | knot 2.0.0 |
-| ✅ knotbin.xyz | No | 0.4.5044 |
+| ✅ knotbin.xyz | No | 0.4.5046 |
 | ✅ kobold.one | No | 0.4.5009 |
-| ✅ koliloks.social | No | 0.4.5044 |
-| ✅ kolkrabensky.de | No | 0.4.5044 |
-| ✅ kolonieblagen.de | No | 0.4.5044 |
+| ✅ koliloks.social | No | 0.4.5046 |
+| ✅ kolkrabensky.de | No | 0.4.5046 |
+| ✅ kolonieblagen.de | No | 0.4.5046 |
 | ✅ konpeki.solutions | No | 0.4.5034 |
 | ✅ koree.social | No | ??? |
 | ✅ krantz.social | No | 0.4.219 |
 | ✅ krekeny.eny.space | No | 0.4.204 |
-| ✅ krotscheck.social | No | 0.4.5044 |
+| ✅ krotscheck.social | No | 0.4.5046 |
 | ✅ kry.pt | No | 0.4.208 |
 | ✅ kumorizora.net | No | 0.4.219 |
-| ✅ kusshie.com | No | 0.4.5001 |
-| ✅ kuuak.ch | No | 0.4.5044 |
-| ✅ l2v2p.nl | No | 0.4.5044 |
+| ❌ kusshie.com | No | 0.4.5001 |
+| ✅ kuuak.ch | No | 0.4.5046 |
+| ✅ l2v2p.nl | No | 0.4.5046 |
 | ✅ lab.martianbase.net | No | 0.4.5044 |
-| ✅ lacunabsky.org | No | 0.4.5044 |
-| ✅ lacunas.net | No | 0.4.5037 |
+| ✅ lacunabsky.org | No | 0.4.5046 |
+| ✅ lacunas.net | No | 0.4.5046 |
 | ✅ lakeblood.ca | No | 0.4.208 |
 | ✅ lam4i.uk | No | 0.4.5027 |
-| ✅ langan.id | No | 0.4.5044 |
+| ✅ langan.id | No | 0.4.5046 |
 | ✅ lansley.com | No | 0.4.193 |
 | ✅ latexdrone.com | No | N/A |
 | ✅ lemon.skin | No |  |
 | ❌ lg.lan.rockheung.xyz | No | ??? |
 | ✅ lichen-pds-ci.gtest.commoninternet.net | No | 0.4.5034 |
 | ✅ lichen-pds.gtest.commoninternet.net | No | 0.4.5034 |
-| ✅ likes.blue | No | 0.4.5044 |
-| ✅ liliangomes.com | No | 0.4.5044 |
+| ✅ likes.blue | No | 0.4.5046 |
+| ✅ liliangomes.com | No | 0.4.5046 |
 | ❌ lilys.computer | No | 0.4.5037 |
-| ✅ limitof.xyz | No | 0.4.5044 |
+| ✅ limitof.xyz | No | 0.4.5046 |
 | ✅ link.samus.link | No | 0.4.67 |
-| ✅ livem.de | No | 0.4.5044 |
+| ✅ livem.de | No | 0.4.5046 |
 | ❌ liverpool-lean-field-axis.trycloudflare.com | No | ??? |
 | ✅ locus.nearhorizon.app | No | ??? |
 | ✅ logue.bot | No | 0.4.219 |
 | ✅ lolc.at | No | 0.4.5037 |
 | ✅ lore.farm | No | ??? |
-| ✅ losers.club | No | 0.4.5044 |
-| ✅ losh.online | No | 0.4.5044 |
+| ✅ losers.club | No | 0.4.5046 |
+| ✅ losh.online | No | 0.4.5046 |
 | ✅ lumihanki.net | No | 0.4.67 |
-| ✅ lythiox.com | No | 0.4.5044 |
+| ✅ lythiox.com | No | 0.4.5046 |
 | ✅ mackc.org | No | 0.4.208 |
-| ✅ macrottie.dev | No | 0.4.5044 |
+| ✅ macrottie.dev | No | 0.4.5046 |
 | ✅ madeorsk.com | No | 0.4.5027 |
 | ❌ madsquirrel.social | No | 0.4.5037 |
 | ✅ magallan.online | Yes | 0.4.188 |
-| ✅ magic.duneeryksson.com | No | 0.4.5044 |
-| ✅ magicite.social | No | 0.4.5044 |
+| ✅ magic.duneeryksson.com | No | 0.4.5046 |
+| ✅ magicite.social | No | 0.4.5046 |
 | ✅ maid.doll.gl | No | 0.4.5001 |
-| ✅ malone.social | No | 0.4.5044 |
+| ✅ malone.social | No | 0.4.5046 |
 | ✅ mangin.com | No | 0.4.5001 |
-| ✅ mangla.xyz | No | 0.4.5044 |
+| ✅ mangla.xyz | No | 0.4.5046 |
 | ✅ manhattan.distraction.engineer | No | 0.4.17 |
-| ✅ manic.life | No | 0.4.5044 |
+| ✅ manic.life | No | 0.4.5046 |
 | ✅ marcoabis.it | No | 0.4.67 |
 | ✅ margin.cafe | Yes | tranquil 0.7.0 |
-| ✅ marian-social.de | No | 0.4.5044 |
+| ✅ marian-social.de | No | 0.4.5046 |
 | ✅ markfalk.com | No | 0.4.193 |
-| ✅ marshall.sh | No | 0.4.5044 |
+| ✅ marshall.sh | No | 0.4.5046 |
 | ✅ marta.fail | No | 0.4.5034 |
-| ✅ math-anon.com | No | 0.4.5044 |
+| ✅ math-anon.com | No | 0.4.5046 |
 | ✅ mattdyson.org | No | N/A |
-| ✅ matthewzipkin.com | No | 0.4.5044 |
+| ✅ matthewzipkin.com | No | 0.4.5046 |
 | ✅ mattjones.xyz | No | 0.4.193 |
 | ✅ maximumcannot.live | No | 0.4.193 |
-| ✅ mayhew.social | No | 0.4.5044 |
-| ✅ me.jonbishop.com | No | 0.4.5044 |
+| ✅ mayhew.social | No | 0.4.5046 |
+| ✅ me.jonbishop.com | No | 0.4.5046 |
 | ✅ me.plutopotam.us | No | 0.4.74 |
 | ✅ me.rasc.ch | No | 0.4.5037 |
 | ❌ me.zakru.fi | No | 0.4.59 |
@@ -2199,26 +2204,25 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ melkor.priv.at.eu.org | No | 0.4.219 |
 | ✅ memo.dog | No | tranquil 0.6.6 |
 | ✅ meows.gay | No | 0.4.204 |
-| ✅ mepds.esc-now.org | No | 0.4.5044 |
+| ✅ mepds.esc-now.org | No | 0.4.5046 |
 | ❌ meri-agent-4.exe.xyz | No | ??? |
 | ❌ meri-first-agent.exe.xyz | No | ??? |
-| ❌ meribook.tail01738d.ts.net | No | ??? |
 | ❌ methodology-groove-potato-enough.trycloudflare.com | No | ??? |
 | ✅ mew.problemeowtic.net | No | 0.4.5044 |
-| ✅ michaeltgreen.social | No | 0.4.5044 |
-| ✅ micro.blog.br | No | 0.4.5043 |
-| ✅ mijnbluesky.nl | No | 0.4.5044 |
-| ✅ mike9.click | No | 0.4.5044 |
+| ✅ michaeltgreen.social | No | 0.4.5046 |
+| ✅ micro.blog.br | No | 0.4.5046 |
+| ✅ mijnbluesky.nl | No | 0.4.5046 |
+| ✅ mike9.click | No | 0.4.5046 |
 | ✅ milord.tail763a36.ts.net | No | 0.4.5026 |
 | ✅ minastas.social | No | N/A |
-| ✅ minnesota.earth | No | 0.4.5044 |
-| ❌ minnywho.fyi | No | 0.4.5037 |
+| ✅ minnesota.earth | No | 0.4.5046 |
+| ✅ minnywho.fyi | No | 0.4.5046 |
 | ✅ mir.cee.wtf | No | 0.4.5009 |
 | ❌ mirablossom.cc | Yes | ??? |
 | ✅ miren.team | No | 0.4.208 |
 | ❌ missaamane.com | Yes | ??? |
 | ✅ mistforge.social | No | 0.4.67 |
-| ✅ miyulab.dev | No | 0.4.5044 |
+| ✅ miyulab.dev | No | 0.4.5046 |
 | ✅ mlb.st | No | 0.4.74 |
 | ✅ mmattbtw-xd.hf.space | Yes | 0.4.208 |
 | ✅ mmattbtw-xd2.hf.space | Yes | 0.4.208 |
@@ -2229,61 +2233,61 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ moondancer.pm | No | 0.4.208 |
 | ✅ morrien.de | No | 0.4.182 |
 | ✅ moss.dog | No | 0.4.107 |
-| ✅ mpi-bluesky-pds.mpi-sws.org | No | 0.4.5001 |
-| ✅ mpowers.net | No | 0.4.5044 |
+| ❌ mpi-bluesky-pds.mpi-sws.org | No | 0.4.5001 |
+| ✅ mpowers.net | No | 0.4.5046 |
 | ✅ mraow.party | No | 0.4.5034 |
 | ✅ mraz.org | No | 0.4.5009 |
-| ✅ mtb.wtf | No | 0.4.5044 |
-| ✅ muave.me | No | 0.4.5044 |
-| ✅ muftee.net | No | 0.4.5044 |
+| ✅ mtb.wtf | No | 0.4.5046 |
+| ✅ muave.me | No | 0.4.5046 |
+| ✅ muftee.net | No | 0.4.5046 |
 | ✅ murrax.dev | No | 0.4.5009 |
-| ✅ muscled.xyz | No | 0.4.5044 |
+| ✅ muscled.xyz | No | 0.4.5046 |
 | ✅ muse.puppygirl.app | No | 0.4.5034 |
 | ✅ mybluesky.link | No | 0.4.5009 |
 | ❌ mycelial.network | No | ??? |
 | ✅ mychat.pics | Yes | 0.4.5037 |
-| ✅ mypds.cc | No | 0.4.5044 |
-| ✅ mypds.lol | No | 0.4.5037 |
+| ✅ mypds.cc | No | 0.4.5046 |
+| ✅ mypds.lol | No | 0.4.5046 |
 | ✅ myrestone.land | No | 0.4.5037 |
 | ✅ mysky.chat | No | 0.4.219 |
 | ❌ mysocial4you.com | Yes | 0.4.5037 |
-| ✅ mystacloud.social | No | 0.4.5044 |
+| ✅ mystacloud.social | No | 0.4.5046 |
 | ✅ mythision.com | No | 0.4.67 |
 | ✅ n3rdsky.com | No | 0.4.193 |
 | ✅ nahida.blue | No | 0.5.10-lpnet |
 | ✅ nak.haniwar.com | No | concrnt-atproto-bridge main |
 | ✅ napa-node-01.watershed-agent.dev | Yes | 0.4.5037 |
-| ✅ narka.xyz | No | 0.4.5037 |
-| ✅ natpds.natalie.ee | No | 0.4.5044 |
-| ✅ nblaker.com | No | 0.4.5044 |
-| ✅ ndako.at | No | 0.4.5044 |
-| ✅ nebu.land | No | 0.4.5044 |
-| ✅ nest.ansxor.ca | No | 0.4.5044 |
-| ✅ nest.axtch.eu | No | 0.4.5037 |
+| ✅ narka.xyz | No | 0.4.5046 |
+| ✅ natpds.natalie.ee | No | 0.4.5046 |
+| ✅ nblaker.com | No | 0.4.5046 |
+| ✅ ndako.at | No | 0.4.5046 |
+| ✅ nebu.land | No | 0.4.5046 |
+| ✅ nest.ansxor.ca | No | 0.4.5046 |
+| ✅ nest.axtch.eu | No | 0.4.5046 |
 | ✅ network.hukoubook.com | No | 0.4.5037 |
 | ✅ newdisabledsouth.community | No | 1.14.10 |
 | ✅ nextpointfromnothing.com | No | 0.4.208 |
-| ✅ nickgnome.com | No | 0.4.5044 |
+| ✅ nickgnome.com | No | 0.4.5046 |
 | ✅ nihilist.cloud | No | 0.4.5034 |
 | ✅ nimble-side-72ubcbc2sjwifvdlaz74.wbeforenext.app | No | 0.5.40 |
 | ✅ niximac.co | No | 0.4.5034 |
-| ✅ nobs.pleasehurt.us | No | 0.4.5044 |
-| ✅ noodledraggy.party | No | 0.4.5037 |
-| ✅ noodles.name | No | 0.4.5044 |
+| ✅ nobs.pleasehurt.us | No | 0.4.5046 |
+| ✅ noodledraggy.party | No | 0.4.5046 |
+| ✅ noodles.name | No | 0.4.5046 |
 | ✅ nooker.social | No | 0.4.5009 |
-| ✅ nortelnet.works | No | 0.4.5044 |
+| ✅ nortelnet.works | No | 0.4.5046 |
 | ✅ northsky.social | No | N/A |
 | ✅ nospoon.red | No | 0.4.5043 |
-| ✅ notashwin.xyz | No | 0.4.5044 |
+| ✅ notashwin.xyz | No | 0.4.5046 |
 | ✅ noted.at | No | N/A |
-| ✅ npmx.social | Yes | 0.4.5044 |
+| ✅ npmx.social | Yes | 0.4.5046 |
 | ✅ nstar.social | No | 0.4.5043 |
-| ✅ nvll.xyz | No | 0.4.5044 |
-| ✅ nw.social | No | 0.4.5044 |
-| ✅ oablglas.meynier.bzh | No | 0.4.5044 |
-| ✅ ob-sky.net | No | 0.4.5044 |
+| ✅ nvll.xyz | No | 0.4.5046 |
+| ✅ nw.social | No | 0.4.5046 |
+| ✅ oablglas.meynier.bzh | No | 0.4.5046 |
+| ✅ ob-sky.net | No | 0.4.5046 |
 | ✅ obecnymatematik.cz | No | 0.4.5034 |
-| ✅ oblique.jojjjajjr.net | No | 0.4.5044 |
+| ✅ oblique.jojjjajjr.net | No | 0.4.5046 |
 | ✅ observable.art | No | 0.4.219 |
 | ✅ obsolete.social | No | 0.4.5037 |
 | ✅ octopus.rotimsarth.com | No | 0.4.5046 |
@@ -2291,62 +2295,62 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ odyniec.org | No | 0.4.193 |
 | ✅ offprint.social | No | 0.4.5037 |
 | ✅ offsky.de | No | 0.4.219 |
-| ✅ oge.social | No | 0.4.5044 |
+| ✅ oge.social | No | 0.4.5046 |
 | ❌ old-blanket.exentio.sexy | No | ??? |
 | ✅ old.bsku.social | Yes | tranquil 0.6.0 |
 | ✅ oleander.one | No | 0.4.5034 |
 | ✅ omnsft.eu | No | tranquil 0.7.1 |
-| ✅ on.gwynnie.gay | No | 0.4.5044 |
+| ✅ on.gwynnie.gay | No | 0.4.5046 |
 | ❌ onion.social | No | 0.4.188 |
-| ✅ onsocial.uk | No | 0.4.5044 |
+| ✅ onsocial.uk | No | 0.4.5046 |
 | ✅ ontological.observer | No | 0.4.5027 |
-| ✅ opencommons.dev | No | 0.4.5044 |
+| ✅ opencommons.dev | No | 0.4.5046 |
 | ✅ openlore.jeffbailey.us | No | 0.4.5034 |
 | ✅ opensocial.fyi | No | ??? |
-| ✅ opnshelf.social | No | tranquil 0.6.7 |
+| ✅ opnshelf.social | No | tranquil 0.6.8 |
 | ✅ orangepi-zero-3w.rocksky.social | Yes | clojure-pds v0.1.0-dev |
 | ✅ org.tngl.sh | No | tranquil 0.6.6 |
 | ✅ oromit.de | No | 0.4.193 |
-| ✅ osney.vc | No | 0.4.5044 |
-| ✅ otasora.blue | No | 0.4.5044 |
-| ✅ other-pds.futur.blue | No | 0.4.5044 |
+| ✅ osney.vc | No | 0.4.5046 |
+| ✅ otasora.blue | No | 0.4.5046 |
+| ✅ other-pds.futur.blue | No | 0.4.5046 |
 | ✅ ouracorn.house | No | 1.14.8 |
-| ✅ ourbubble.net | No | 0.4.5037 |
-| ✅ outof.coffee | No | 0.4.5044 |
-| ✅ ownsky.org | No | 0.4.5044 |
-| ✅ oxose.org | No | 0.4.208 |
+| ✅ ourbubble.net | No | 0.4.5046 |
+| ✅ outof.coffee | No | 0.4.5046 |
+| ✅ ownsky.org | No | 0.4.5046 |
+| ✅ oxose.org | No | 0.4.5046 |
 | ✅ oyster.pds.eny.network | No | 0.4.208 |
-| ✅ oysterarchery.com | No | 0.4.5044 |
+| ✅ oysterarchery.com | No | 0.4.5046 |
 | ✅ p.0rs.org | No | 0.4.219 |
-| ✅ p.kojira.io | No | 0.4.5044 |
-| ✅ p.sive.rs | No | 0.4.5044 |
+| ✅ p.kojira.io | No | 0.4.5046 |
+| ✅ p.sive.rs | No | 0.4.5046 |
 | ❌ p0bb3v1z-8051.inc1.devtunnels.ms | No | ??? |
 | ✅ packet.science | No | 0.4.5034 |
 | ✅ pantonius.dev | No | 0.4.188 |
 | ✅ papillon.coissac.eu | No | 0.4.208 |
 | ✅ parkerr.app | No | 0.4.67 |
-| ✅ partall.no | No | 0.5.40 |
-| ✅ patchshifter.com | No | 0.4.5044 |
+| ✅ partall.no | No | 0.5.41 |
+| ✅ patchshifter.com | No | 0.4.5046 |
 | ❌ paul.sx | No | 0.4.5037 |
 | ✅ pauljr.rocks | No | 0.4.193 |
 | ❌ pavluk.org | No | 0.4.208 |
-| ✅ pawgslayers.club | No | 0.4.5044 |
+| ✅ pawgslayers.club | No | 0.4.5046 |
 | ✅ paws.nya.pub | No | 0.4.5027 |
-| ✅ pbs.boringosint.fr | No | 0.4.5044 |
+| ✅ pbs.boringosint.fr | No | 0.4.5046 |
 | ✅ pdn1.host.newnal.id | Yes | 0.9.5032 |
 | ✅ pdpds.dholms.at | No | 0.4.5032 |
-| ✅ pds-130-110-238-163.nip.io | Yes | 0.4.5044 |
+| ✅ pds-130-110-238-163.nip.io | Yes | 0.4.5046 |
 | ❌ pds-2k6wzfrq-preview.kiln.zone | No | ??? |
 | ✅ pds-3ew8m2b9-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-82u3npzz-preview.kiln.zone | Yes | kiln-pds |
-| ✅ pds-alpha.skycave.space | No | 0.4.5044 |
+| ✅ pds-alpha.skycave.space | No | 0.4.5046 |
 | ✅ pds-at.doesnotexist.club | No | 0.4.5034 |
 | ✅ pds-atp.baconbytes.net | No | 0.4.5034 |
-| ✅ pds-atproto.matias49.eu | No | 0.4.5044 |
-| ✅ pds-bluesky.asml.berkmancenter.org | No | 0.4.5044 |
+| ✅ pds-atproto.matias49.eu | No | 0.4.5046 |
+| ✅ pds-bluesky.asml.berkmancenter.org | No | 0.4.5046 |
 | ✅ pds-cbkzpnfy-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-chr85idy-preview.kiln.zone | Yes | kiln-pds |
-| ✅ pds-dev.heart-land.io | No | 0.4.5044 |
+| ✅ pds-dev.heart-land.io | No | 0.4.5046 |
 | ✅ pds-dev.lenooby09.tech | No | PDS1.0-ACCT.16-ID.5-INV.2-ADM.4-MOD.1-REPO.12-BLOB.7-OPS.10-SYNC. |
 | ✅ pds-dev.puzzling.us | No | 0.4.5034 |
 | ✅ pds-dev.si46.world | No | 0.4.205 |
@@ -2361,18 +2365,18 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds-m4stgtid-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-message-demo-2.nate-8fe.workers.dev | Yes | 0.1.0 |
 | ✅ pds-message-demo.nate-8fe.workers.dev | Yes | 0.1.0 |
-| ✅ pds-nb.whey.party | No | 0.4.5044 |
-| ✅ pds-nd.whey.party | No | 0.4.5044 |
+| ✅ pds-nb.whey.party | No | 0.4.5046 |
+| ✅ pds-nd.whey.party | No | 0.4.5046 |
 | ✅ pds-nicmyas5-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-production-e399.up.railway.app | No | 0.5.7 |
 | ❌ pds-scale-to-zero.0rs.org | No | cocoon dev-local |
 | ✅ pds-stage.wsocial.dev | No | 0.5.21 |
-| ✅ pds-staging.dsaslate.com | Yes | 0.4.219 |
+| ✅ pds-staging.dsaslate.com | Yes | 0.4.5046 |
 | ✅ pds-staging.supper.party | No | ??? |
 | ❌ pds-sznqgs38-preview.kiln.zone | No | ??? |
 | ✅ pds-test.arjunkrishna.dev | Yes | cirrus 0.19.0 |
 | ✅ pds-test.frequency.social | No | 0.15.0-rc.5+unknown |
-| ✅ pds-test.icocofun.net | No | 0.4.5044 |
+| ✅ pds-test.icocofun.net | No | 0.4.5046 |
 | ✅ pds-test.keithhacks.cyou | No | 0.4.169 |
 | ✅ pds-test.meowing.zip | No | 0.5.32 |
 | ✅ pds-ubyijqtk-preview.kiln.zone | Yes | kiln-pds |
@@ -2380,43 +2384,43 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds-video-probe.staging.dvines.org | No | 1.14.6 |
 | ✅ pds-y9w4r7f8-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-ymam49fgj516sp8qvl63kv1e.lighthouse-d.stme-int.com | No | 0.4.182 |
-| ✅ pds.0x2142.systems | No | 0.4.5044 |
+| ✅ pds.0x2142.systems | No | 0.4.5046 |
 | ✅ pds.0xbf.ch | No | 0.4.5034 |
 | ✅ pds.1095.me | Yes | 0.4.219 |
 | ✅ pds.1270010.xyz | No | 0.4.219 |
 | ✅ pds.13willow.com | No | 0.4.5026 |
 | ✅ pds.172-93-215-200.sslip.io | No | 0.5.37 |
 | ✅ pds.1gn15.com | No | 0.4.5034 |
-| ✅ pds.1kb.app | No | 0.4.5044 |
+| ✅ pds.1kb.app | No | 0.4.5046 |
 | ✅ pds.2000.nyc | No | tranquil 0.7.0 |
 | ❌ pds.2ndscreen.social | No | 0.4.5034 |
 | ❌ pds.34-154-29-79.sslip.io | Yes | 0.4.5037 |
 | ❌ pds.35-167-168-84.sslip.io | No | 0.4.5037 |
 | ✅ pds.360.cymru | No | 0.4.169 |
-| ✅ pds.3drx.top | No | 0.4.5044 |
+| ✅ pds.3drx.top | No | 0.4.5046 |
 | ✅ pds.40hz.org | No | cocoon dev-b85bbdab849c4e4c3d483c5a80e0009794ca5767 |
 | ✅ pds.74k1.sh | No | 0.4.5037 |
 | ✅ pds.7rnx.net | No | N/A |
 | ✅ pds.7x6.net | No | 0.4.5034 |
 | ❌ pds.8vr.cc | No | 0.4.5034 |
-| ✅ pds.9021007.xyz | No | 0.4.5043 |
+| ✅ pds.9021007.xyz | No | 0.4.5046 |
 | ✅ pds.a2.rip | No | 0.4.5037 |
-| ✅ pds.aaronsalmon.com | No | 0.4.5044 |
+| ✅ pds.aaronsalmon.com | No | 0.4.5046 |
 | ✅ pds.acey.sh | No | tranquil 0.7.1 |
-| ❌ pds.achester88.dev | No | 0.4.5037 |
 | ✅ pds.achus.in | Yes | 0.4.182 |
 | ✅ pds.ackwell.au | No | 0.4.5001 |
 | ✅ pds.acreetionos.org | No | 0.4.5027 |
-| ✅ pds.adamsapple.org | No | 0.4.5044 |
-| ✅ pds.adamwolf.org | No | 0.4.5044 |
-| ❌ pds.adichotomy.com | No | 0.4.172 |
-| ✅ pds.advanced-eschatonics.com | No | 0.4.5044 |
-| ✅ pds.adversarial.lol | No | 0.4.5044 |
+| ✅ pds.adamsapple.org | No | 0.4.5046 |
+| ✅ pds.adamwolf.org | No | 0.4.5046 |
+| ✅ pds.adichotomy.com | No | 0.4.172 |
+| ✅ pds.advanced-eschatonics.com | No | 0.4.5046 |
+| ✅ pds.adversarial.lol | No | 0.4.5046 |
 | ✅ pds.aeantipov.com | No | 0.4.5027 |
-| ✅ pds.afeedhshaji.in | No | 0.4.5044 |
+| ✅ pds.afeedhshaji.in | No | 0.4.5046 |
 | ✅ pds.afontaine.dev | No | 0.4.5009 |
-| ✅ pds.agus.dev | No | 0.4.5044 |
-| ✅ pds.ah-web.org | No | 0.4.5044 |
+| ✅ pds.agave.p0.contact | No | tranquil 0.7.0 |
+| ✅ pds.agus.dev | No | 0.4.5046 |
+| ✅ pds.ah-web.org | No | 0.4.5046 |
 | ✅ pds.aidanlavis.dev | Yes | cirrus 0.19.0 |
 | ✅ pds.aidrivenlife.com | No | 0.4.5037 |
 | ✅ pds.aiepco.com | Yes | 0.4.5027 |
@@ -2424,20 +2428,20 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ pds.airspace-demo.dogpawhat.tech | No | 0.0.0-spaces-alpha-20260910230440 |
 | ✅ pds.aitorres.com | No | 0.4.5044 |
 | ✅ pds.ajbird.net | No | tranquil 0.6.6 |
-| ✅ pds.ajcool.space | No | 0.4.5044 |
-| ✅ pds.akcelerator.events | No | 0.4.5044 |
-| ❌ pds.akizuki.best | No | 0.4.5037 |
+| ✅ pds.ajcool.space | No | 0.4.5046 |
+| ✅ pds.akcelerator.events | No | 0.4.5046 |
+| ✅ pds.akizuki.best | No | 0.4.5044 |
 | ✅ pds.akky.gay | No | tranquil 0.7.1 |
 | ✅ pds.akotro.dev | No | 0.4.5037 |
 | ✅ pds.akume.tw | No | ??? |
-| ✅ pds.akyon.dog | No | 0.4.5044 |
+| ✅ pds.akyon.dog | No | 0.4.5046 |
 | ✅ pds.alexkearney.com | No | 0.5.34 |
 | ✅ pds.alexvds.com | No | tranquil 0.7.1 |
 | ✅ pds.alghul.com | No | 0.4.5009 |
-| ✅ pds.alice.tf | No | 0.4.5044 |
-| ✅ pds.alivetech.org | No | 0.4.5044 |
-| ✅ pds.alizardguy.com | No | 0.4.5044 |
-| ✅ pds.allishare.com | No | 0.4.5044 |
+| ✅ pds.alice.tf | No | 0.4.5046 |
+| ✅ pds.alivetech.org | No | 0.4.5046 |
+| ✅ pds.alizardguy.com | No | 0.4.5046 |
+| ✅ pds.allishare.com | No | 0.4.5046 |
 | ✅ pds.allthingsembedded.online | No | 0.4.219 |
 | ✅ pds.allura.moe | No | cocoon v0.9.0-4-g4bd740d |
 | ✅ pds.alpha.tgzr.net | No | 0.4.5034 |
@@ -2447,102 +2451,102 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.alyxia.dev | No | 0.4.74 |
 | ✅ pds.amerika.social | No | 0.4.5037 |
 | ✅ pds.amethyst.house | No | 0.1.0 |
-| ✅ pds.amosmos.es | No | 0.4.5044 |
-| ✅ pds.amras.me | No | 0.4.5044 |
-| ✅ pds.amsel.dev | No | 0.4.5044 |
+| ✅ pds.amosmos.es | No | 0.4.5046 |
+| ✅ pds.amras.me | No | 0.4.5046 |
+| ✅ pds.amsel.dev | No | 0.4.5046 |
 | ✅ pds.amy.sh | No | 0.4.5037 |
 | ✅ pds.andrewstiefel.net | No | 0.4.182 |
 | ✅ pds.angozi.com | No | 0.4.5034 |
 | ✅ pds.angussoftware.dev | No | 0.4.5009 |
 | ✅ pds.anish.land | No | tranquil 0.6.7 |
 | ✅ pds.ankarhem.dev | No | 0.4.5034 |
-| ✅ pds.ankeshbharti.com | No | 0.4.5044 |
+| ✅ pds.ankeshbharti.com | No | 0.4.5046 |
 | ❌ pds.anna.lgbt | No | N/A |
 | ✅ pds.anthonyloria.dev | Yes | cirrus 0.13.0 |
 | ✅ pds.anturated.dev | No | 0.4.5034 |
-| ✅ pds.anymanystreams.cc | No | 0.4.5044 |
-| ✅ pds.ap2.io | No | 0.4.5044 |
+| ✅ pds.anymanystreams.cc | No | 0.4.5046 |
+| ✅ pds.ap2.io | No | 0.4.5046 |
 | ✅ pds.apcn.nz | No | 0.4.5034 |
-| ✅ pds.aquaapp.online | No | 0.4.5044 |
+| ✅ pds.aquaapp.online | No | 0.4.5046 |
 | ✅ pds.areafiftyone.dev | No | 0.4.5044 |
 | ✅ pds.areolagrundle.xyz | No | 0.4.5009 |
-| ✅ pds.argand.org | No | 0.4.5044 |
+| ✅ pds.argand.org | No | 0.4.5046 |
 | ❌ pds.arjunkrishna.dev | No | ??? |
 | ✅ pds.arkensys.dedyn.io | No | cocoon 0.13.0 |
 | ✅ pds.arknet.media | No | 0.4.5009 |
 | ✅ pds.ashhhleyyy.dev | No | 0.4.5034 |
 | ✅ pds.asorman.io | No | 0.4.208 |
-| ✅ pds.asterisk.pub | No | 0.4.5037 |
-| ✅ pds.astra.lgbt | No | 0.4.5009 |
+| ✅ pds.asterisk.pub | No | 0.4.5046 |
+| ✅ pds.astra.lgbt | No | 0.4.5046 |
 | ✅ pds.at-group.chat | No | 0.4.5034 |
-| ✅ pds.at.arthomnix.dev | No | 0.4.5044 |
-| ✅ pds.at.gotink.be | No | 0.4.5044 |
+| ✅ pds.at.arthomnix.dev | No | 0.4.5046 |
+| ✅ pds.at.gotink.be | No | 0.4.5046 |
 | ✅ pds.at.jojojux.de | No | 0.4.5027 |
-| ✅ pds.at.logik.al | No | 0.4.5044 |
+| ✅ pds.at.logik.al | No | 0.4.5046 |
 | ✅ pds.at.tt4.net | No | 0.4.182 |
 | ✅ pds.at.vpzom.click | No | 0.4.138 |
 | ✅ pds.atbb.space | No | 0.4.208 |
 | ❌ pds.atbin.dev | No | 0.4.5037 |
 | ✅ pds.atctwo.net | No | 0.4.219 |
-| ✅ pds.atmosphere.money | No | 0.4.5044 |
-| ✅ pds.atpota.to | No | 0.4.5044 |
+| ✅ pds.atmosphere.money | No | 0.4.5046 |
+| ✅ pds.atpota.to | No | 0.4.5046 |
 | ✅ pds.atproto.conrad.cafe | No | tranquil 0.6.6 |
 | ✅ pds.atproto.dk | No | 0.4.5043 |
 | ✅ pds.atproto.fox1e.dev | No | tranquil 0.6.6 |
 | ✅ pds.atproto.fr | No | tranquil 0.7.0 |
-| ✅ pds.atproto.hugeblank.dev | No | 0.4.5044 |
-| ✅ pds.atproto.md | No | 0.4.5037 |
-| ✅ pds.atproto.ooo | No | 0.4.5044 |
+| ✅ pds.atproto.hugeblank.dev | No | 0.4.5046 |
+| ❌ pds.atproto.md | No | 0.4.5037 |
+| ✅ pds.atproto.ooo | No | 0.4.5046 |
 | ✅ pds.attilagyorffy.net | No | 0.4.5043 |
 | ✅ pds.augustabt.com | No | 0.4.5046 |
 | ✅ pds.aura-creators.fr | No | 0.4.5034 |
 | ✅ pds.auridh.me | No | tranquil 0.6.6 |
 | ✅ pds.australian-pharmacognosy.org | No | 0.4.5034 |
-| ✅ pds.authority-one.com | No | 0.4.5044 |
-| ✅ pds.autopoet.uk | No | 0.4.5044 |
+| ✅ pds.authority-one.com | No | 0.4.5046 |
+| ✅ pds.autopoet.uk | No | 0.4.5046 |
 | ✅ pds.autumn.industries | No | 0.4.5037 |
 | ❌ pds.averybleu.top | No | 0.4.5037 |
-| ✅ pds.averyrive.rs | No | 0.4.5043 |
+| ✅ pds.averyrive.rs | No | 0.4.5046 |
 | ✅ pds.awit.at | No | 0.4.5037 |
 | ✅ pds.awoo.ren | No | tranquil 0.6.7 |
-| ✅ pds.ayai.dev | No | 0.4.136 |
-| ✅ pds.azuero.me | No | 0.4.5044 |
+| ❌ pds.ayai.dev | No | 0.4.136 |
+| ✅ pds.azuero.me | No | 0.4.5046 |
 | ✅ pds.b4t.to | No | 0.4.188 |
 | ✅ pds.babu.dev | No | N/A |
-| ✅ pds.babyharlan.com | No | 0.4.5044 |
-| ✅ pds.bacon.lol | No | 0.4.5044 |
-| ✅ pds.badpenny.mn | No | 0.4.5044 |
+| ✅ pds.babyharlan.com | No | 0.4.5046 |
+| ✅ pds.bacon.lol | No | 0.4.5046 |
+| ✅ pds.badpenny.mn | No | 0.4.5046 |
 | ✅ pds.baker-smith.au | No | 0.4.193 |
 | ✅ pds.bapu.app | No | 0.4.5009 |
 | ✅ pds.barelymaking.it | No | 0.4.5027 |
 | ✅ pds.barkshark.xyz | No | 0.4.5037 |
-| ✅ pds.bas.sh | No | 0.4.5043 |
+| ✅ pds.bas.sh | No | 0.4.5046 |
 | ✅ pds.based.enterprises | No | tranquil 0.7.0 |
 | ✅ pds.bear.fyi | No | 0.4.208 |
-| ✅ pds.beardednudist.com | No | 0.4.5044 |
+| ✅ pds.beardednudist.com | No | 0.4.5046 |
 | ✅ pds.bearlthr.com | No | 0.4.204 |
-| ✅ pds.becker.wales | No | 0.4.5044 |
+| ✅ pds.becker.wales | No | 0.4.5046 |
 | ✅ pds.beckitrue.com | No | 0.4.5009 |
 | ✅ pds.beee.gay | No | 0.4.5034 |
-| ✅ pds.beerdev.co.uk | No | 0.4.5044 |
-| ✅ pds.ben.town | No | 0.4.5044 |
+| ✅ pds.beerdev.co.uk | No | 0.4.5046 |
+| ✅ pds.ben.town | No | 0.4.5046 |
 | ✅ pds.beoriginal.social | No | 0.4.5037 |
-| ✅ pds.bernd.network | No | 0.5.44 |
-| ✅ pds.berry-medusa.net | No | 0.4.5044 |
-| ✅ pds.beyouraego.com | No | 0.4.5044 |
+| ✅ pds.bernd.network | No | 0.5.46 |
+| ✅ pds.berry-medusa.net | No | 0.4.5046 |
+| ✅ pds.beyouraego.com | No | 0.4.5046 |
 | ✅ pds.bigdadbear.com | No | 0.4.5034 |
 | ✅ pds.bigporn.top | No | cocoon v0.13-0-g5f13178 |
-| ✅ pds.billy.wales | No | 0.4.5044 |
+| ✅ pds.billy.wales | No | 0.4.5046 |
 | ✅ pds.biscuits.at | No | tranquil 0.7.1 |
 | ✅ pds.bitfolio.biz | No | 0.4.158 |
 | ✅ pds.bius.moe | No | 0.4.5034 |
 | ✅ pds.blair.gg | No | 0.4.5034 |
 | ❌ pds.blair.nz | No | 0.4.5037 |
 | ✅ pds.blam.pw | No | 0.4.5043 |
-| ✅ pds.blowdart.blue | No | 0.4.5044 |
+| ✅ pds.blowdart.blue | No | 0.4.5046 |
 | ✅ pds.blueish.me | No | tranquil 0.7.1 |
 | ✅ pds.bluesky.addo.art | No | 0.4.193 |
-| ✅ pds.bluesky.andreas-klingler.de | No | 0.4.5044 |
+| ✅ pds.bluesky.andreas-klingler.de | No | 0.4.5046 |
 | ✅ pds.bluesky.docker.house | No | 0.5.38 |
 | ✅ pds.bluesky.saltyfox.one | No | 0.5.38 |
 | ✅ pds.bluesky.sindt.org | No | 0.4.74 |
@@ -2550,65 +2554,66 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.bnd.social | No | 0.4.188 |
 | ✅ pds.bnu.sh | No | 0.4.208 |
 | ❌ pds.bogay.me | No | tranquil 0.2.1 |
-| ✅ pds.bomb.sh | No | 0.4.5043 |
+| ✅ pds.bomb.sh | No | 0.4.5046 |
 | ✅ pds.boop.fi | No | tranquil 0.6.4 |
 | ✅ pds.bootstrapd.org | No | 0.4.5034 |
 | ✅ pds.boulderevents.directory | No | 0.4.5034 |
-| ✅ pds.bowverse.fr | No | 0.4.5044 |
-| ✅ pds.bradpeebler.com | No | 0.4.5044 |
-| ✅ pds.braxuss.eu | No | 0.4.5037 |
+| ✅ pds.bowverse.fr | No | 0.4.5046 |
+| ✅ pds.bradpeebler.com | No | 0.4.5046 |
+| ✅ pds.brads.house | No | tranquil 0.7.1 |
+| ✅ pds.braxuss.eu | No | 0.4.5046 |
 | ✅ pds.breach.blue | No | 0.4.5037 |
 | ✅ pds.brendonkerkhoff.com | No | 0.4.67 |
-| ✅ pds.bretton.dev | No | 0.4.5044 |
+| ✅ pds.bretton.dev | No | 0.4.5046 |
 | ✅ pds.brianflynn.lol | No | tranquil 0.7.1 |
-| ✅ pds.bridgebeats.link | No | 0.4.5043 |
+| ✅ pds.bridgebeats.link | No | 0.4.5046 |
 | ✅ pds.bringyourown.computer | No | 0.4.5027 |
 | ✅ pds.bromance.land | No | 0.4.5009 |
-| ✅ pds.bruno.zip | No | 0.4.5044 |
-| ✅ pds.brunob.lv | No | 0.4.5043 |
+| ✅ pds.bruno.zip | No | 0.4.5046 |
+| ✅ pds.brunob.lv | No | 0.4.5044 |
 | ✅ pds.brycenaddison.com | No | 0.4.74 |
-| ✅ pds.bscharm.com | No | 0.4.5044 |
+| ✅ pds.bscharm.com | No | 0.4.5046 |
 | ✅ pds.bsky.browserid.me | No | 0.4.5009 |
-| ✅ pds.bsky.ln4.net | No | 0.4.5009 |
-| ✅ pds.bsky.sats4.life | No | 0.4.5044 |
+| ✅ pds.bsky.ln4.net | No | 0.4.5046 |
+| ✅ pds.bsky.sats4.life | No | 0.4.5046 |
 | ❌ pds.bsky.su | No | 0.4.193 |
 | ✅ pds.bsky.transgirl.fr | No | 0.4.5027 |
 | ✅ pds.buffadoo.nl | No | 0.4.219 |
 | ✅ pds.buildvora.ai | No | 0.4.5027 |
 | ✅ pds.builtbybrendan.com | No | N/A |
 | ✅ pds.bullfrogit.net | No | 0.4.5001 |
-| ✅ pds.burger.systems | No | 0.4.5037 |
+| ❌ pds.burger.systems | No | 0.4.5037 |
 | ✅ pds.butwho.org | No | 0.4.5037 |
-| ✅ pds.byecorps.com | No | 0.4.5044 |
-| ✅ pds.c-stellar.net | No | 0.4.5044 |
+| ✅ pds.byecorps.com | No | 0.4.5046 |
+| ✅ pds.c-stellar.net | No | 0.4.5046 |
 | ✅ pds.c2homelab.com | No | 0.4.107 |
-| ✅ pds.cacheblasters.com | No | 0.4.5044 |
-| ✅ pds.cannadb.net | No | 0.4.5037 |
-| ✅ pds.captainc.at | No | 0.4.5044 |
-| ✅ pds.capturevoices.com | No | 0.4.5044 |
-| ✅ pds.cara.city | No | 0.4.5044 |
+| ✅ pds.cacheblasters.com | No | 0.4.5046 |
+| ✅ pds.cannadb.net | No | 0.4.5046 |
+| ✅ pds.captainc.at | No | 0.4.5046 |
+| ✅ pds.capturevoices.com | No | 0.4.5046 |
+| ✅ pds.cara.city | No | 0.4.5046 |
 | ❌ pds.carolinia.co.uk | No | 0.4.5037 |
 | ✅ pds.caruanafamily.net | No | 0.4.193 |
-| ✅ pds.casaconejo.net | No | 0.4.5044 |
+| ✅ pds.casaconejo.net | No | 0.4.5046 |
 | ✅ pds.catbird.blue | No | 0.4.194 |
-| ✅ pds.cauda.cloud | No | 0.4.5044 |
+| ✅ pds.cauda.cloud | No | 0.4.5046 |
 | ✅ pds.cdbrdr.com | No | 0.4.5034 |
-| ✅ pds.celosia.zip | No | 0.4.5044 |
+| ✅ pds.celosia.zip | No | 0.4.5046 |
 | ✅ pds.cerapter.me | No | 0.4.5027 |
 | ✅ pds.ch.fo | No | tranquil 0.6.6 |
-| ✅ pds.ch0.dev | No | 0.4.5044 |
+| ✅ pds.ch0.dev | No | 0.4.5046 |
 | ✅ pds.chadtmiller.com | No | 0.5.21 |
-| ✅ pds.chagwood.dev | No | 0.4.5044 |
+| ✅ pds.chagwood.dev | No | 0.4.5046 |
 | ✅ pds.chameth.com | No | 0.4.5027 |
-| ✅ pds.chaoticweg.cc | No | 0.4.5044 |
+| ✅ pds.chaoticweg.cc | No | 0.4.5046 |
 | ✅ pds.charlws.com | No | 0.4.208 |
 | ✅ pds.cherry.computer | No | 0.4.5027 |
 | ✅ pds.chicago.com | Yes | 0.4.178 |
 | ✅ pds.chiccou.net | No | 0.4.5034 |
 | ✅ pds.chickadeelookout.one | No | tranquil 0.7.1 |
 | ✅ pds.chir.rs | No | 0.4.5037 |
-| ✅ pds.chive.pub | No | 0.4.5044 |
-| ✅ pds.cholun.me | No | 0.4.5044 |
+| ✅ pds.chive.pub | No | 0.4.5046 |
+| ✅ pds.cholun.me | No | 0.4.5046 |
 | ✅ pds.chrispaganon.com | No | 0.4.5009 |
 | ✅ pds.chrisparsons.dev | No | 0.4.5044 |
 | ✅ pds.chthonicarts.com | No | 0.4.5027 |
@@ -2618,24 +2623,25 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.claimnorth.com | Yes | 0.4.5026 |
 | ✅ pds.clear.community | Yes | 0.5.15 |
 | ✅ pds.clim8.cloud | No | 0.4.5037 |
-| ✅ pds.clxxiii.dev | No | tranquil 0.6.7 |
+| ❌ pds.clxxiii.dev | No | tranquil 0.6.7 |
 | ✅ pds.cmacr.ae | No | tranquil 0.6.2 |
-| ✅ pds.codeburke.social | No | 0.4.5044 |
+| ✅ pds.codeburke.social | No | 0.4.5046 |
 | ✅ pds.codelif.in | No | 0.4.5027 |
-| ✅ pds.codename47.co.uk | No | 0.4.5044 |
-| ✅ pds.cold-albion.net | No | 0.4.5044 |
+| ✅ pds.codename47.co.uk | No | 0.4.5046 |
+| ✅ pds.cold-albion.net | No | 0.4.5046 |
 | ❌ pds.coldencullen.com | No | ??? |
 | ✅ pds.coldsteel.io | No | 0.4.5034 |
 | ✅ pds.colingodsey.com | No | 0.4.5009 |
+| ✅ pds.collegegamewatch.net | No | 0.4.5046 |
 | ✅ pds.colorad.us | No | 0.4.5037 |
 | ✅ pds.comcal.bedb.no | No | 0.4.5027 |
-| ✅ pds.commonscomputer.com | No | 0.4.5034 |
-| ✅ pds.controlnet.space | No | 0.4.5044 |
+| ✅ pds.commonscomputer.com | No | 0.4.5037 |
+| ✅ pds.controlnet.space | No | 0.4.5046 |
 | ✅ pds.conull.net | No | 0.4.5034 |
 | ✅ pds.conversensus.site | No | 0.4.5037 |
 | ✅ pds.coord.dev | No | 0.4.107 |
 | ✅ pds.corleissen.com | No | 0.4.219 |
-| ✅ pds.coryd.dev | No | 0.4.5037 |
+| ✅ pds.coryd.dev | No | 0.4.5046 |
 | ✅ pds.cosmichorror.dev | No | 0.4.208 |
 | ✅ pds.cosocial.ca | No | 0.4.5034 |
 | ✅ pds.cosplaye.rs | No | 0.4.5027 |
@@ -2643,46 +2649,46 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.cove.town | No | tranquil 0.7.1 |
 | ✅ pds.coves.me | No | 0.4.5044 |
 | ✅ pds.cow.computer | No | tranquil 0.7.1 |
-| ❌ pds.cowrus.com | No | 0.4.5037 |
-| ❌ pds.cpek6.com | No | 0.4.5037 |
-| ✅ pds.cpricedomain.net | No | 0.4.5044 |
+| ✅ pds.cowrus.com | No | 0.4.5046 |
+| ✅ pds.cpek6.com | No | 0.4.5046 |
+| ✅ pds.cpricedomain.net | No | 0.4.5046 |
 | ✅ pds.crashkeys.dev | No | 0.4.5027 |
-| ✅ pds.crepererum.net | No | 0.4.5044 |
-| ❌ pds.crimson.ninja | No | 0.4.219 |
-| ✅ pds.cryblue.net | No | 0.4.5043 |
-| ✅ pds.cryminals.com | No | 0.4.5044 |
+| ✅ pds.crepererum.net | No | 0.4.5046 |
+| ✅ pds.crimson.ninja | No | 0.4.219 |
+| ✅ pds.cryblue.net | No | 0.4.5046 |
+| ✅ pds.cryminals.com | No | 0.4.5046 |
 | ✅ pds.cssints.dev | No | ??? |
 | ✅ pds.cuducos.me | No | 0.4.5043 |
-| ✅ pds.cupcakehy.com | No | 0.4.5044 |
+| ✅ pds.cupcakehy.com | No | 0.4.5046 |
 | ✅ pds.cursive.info | No | 0.4.219 |
 | ✅ pds.cutie.zone | No | 0.4.5037 |
-| ❌ pds.cuties.cloud | No | 0.4.5034 |
-| ❌ pds.cyberwild.org | Yes | 0.4.5037 |
+| ✅ pds.cuties.cloud | No | 0.4.5034 |
+| ✅ pds.cyberwild.org | Yes | 0.4.5046 |
 | ✅ pds.d0nuts.im | No | 0.4.98 |
-| ✅ pds.dack.au | No | 0.4.5036 |
+| ❌ pds.dack.au | No | 0.4.5036 |
 | ✅ pds.dadavidtseng.com | Yes | 0.4.219 |
 | ✅ pds.dadoum.zone | No | 0.4.5034 |
 | ✅ pds.daft.games | No | 0.4.193 |
-| ✅ pds.dallasthe.dev | No | 0.4.5044 |
+| ✅ pds.dallasthe.dev | No | 0.4.5046 |
 | ✅ pds.dane.sh | No | 0.4.5027 |
-| ✅ pds.danieldaum.net | No | 0.4.5037 |
-| ✅ pds.daniellemaywood.uk | No | tranquil 0.7.0 |
-| ✅ pds.danni.id | No | 0.4.5044 |
-| ✅ pds.dantemarone.com | No | 0.4.5044 |
+| ❌ pds.danieldaum.net | No | 0.4.5037 |
+| ✅ pds.daniellemaywood.uk | No | tranquil 0.7.1 |
+| ✅ pds.danni.id | No | 0.4.5046 |
+| ✅ pds.dantemarone.com | No | 0.4.5046 |
 | ✅ pds.darn.fish | No | N/A |
 | ✅ pds.daroche.me | No | tranquil 0.7.0 |
 | ✅ pds.darpo.foo | No | 0.4.5034 |
 | ✅ pds.dataslut.pet | No | 0.4.5034 |
-| ✅ pds.daudix.one | No | 0.4.5044 |
+| ✅ pds.daudix.one | No | 0.4.5046 |
 | ✅ pds.davidar.io | No | 0.4.204 |
 | ✅ pds.davlin.io | No | 0.4.5009 |
 | ✅ pds.daze.lol | No | tranquil 0.6.7 |
-| ❌ pds.deathbybandaid.net | No | 0.4.5037 |
+| ✅ pds.deathbybandaid.net | No | 0.4.5037 |
 | ✅ pds.decant.blue | No | 0.4.5009 |
 | ✅ pds.deegan.id.au | No | 0.4.188 |
 | ✅ pds.deep-thought.earth | No | 0.4.5037 |
 | ✅ pds.dekuwa.su | No | 0.4.5001 |
-| ✅ pds.del32.org | No | 0.4.5044 |
+| ✅ pds.del32.org | No | 0.4.5046 |
 | ✅ pds.deloughry.co.uk | No | 0.4.5034 |
 | ✅ pds.delve.town | No | 0.5.34 |
 | ✅ pds.demeester.fr | No | 0.4.5009 |
@@ -2693,77 +2699,77 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.dev.site | No | 0.4.5027 |
 | ✅ pds.dev2.wsocial.dev | No | 0.5.21 |
 | ✅ pds.dev3.wsocial.dev | No | 0.5.21 |
-| ✅ pds.devarno.com | No | 0.4.5044 |
-| ✅ pds.devcat.one | No | tranquil 0.7.0 |
-| ✅ pds.devsky.app | No | 0.4.5044 |
+| ✅ pds.devarno.com | No | 0.4.5046 |
+| ✅ pds.devcat.one | No | tranquil 0.7.1 |
+| ✅ pds.devsky.app | No | 0.4.5046 |
 | ✅ pds.devtools.foo | No | 0.4.5009 |
 | ❌ pds.devvm21599.pnb0.fbinfra.net | No | ??? |
-| ✅ pds.dewdrop.dog | No | 0.4.5044 |
-| ✅ pds.dholms.xyz | No | 0.4.5044 |
-| ✅ pds.did.bot | No | b8bab73cf13d |
+| ✅ pds.dewdrop.dog | No | 0.4.5046 |
+| ✅ pds.dholms.xyz | No | 0.4.5046 |
+| ✅ pds.did.bot | No | 99447ac3e927 |
 | ✅ pds.did.md | Yes | 0.5.34 |
-| ✅ pds.diligentdilettante.com | No | 0.4.5044 |
+| ✅ pds.diligentdilettante.com | No | 0.4.5046 |
 | ✅ pds.dinakernel.com | Yes | 0.4.208 |
 | ❌ pds.dirty.social | No | 0.4.5009 |
-| ✅ pds.discussional.social | No | 0.4.5044 |
-| ✅ pds.disruptnow.app | No | 0.4.5037 |
+| ✅ pds.discussional.social | No | 0.4.5046 |
+| ✅ pds.disruptnow.app | No | 0.4.5046 |
 | ✅ pds.divine.video | No | 1.14.6 |
 | ✅ pds.djara.dev | No | 0.4.208 |
 | ✅ pds.dk-sh.net | No | 0.4.5009 |
-| ✅ pds.dkbhadeshiya.me | No | 0.4.5043 |
+| ✅ pds.dkbhadeshiya.me | No | 0.4.5046 |
 | ✅ pds.dlun.ch | No | 0.4.5037 |
-| ✅ pds.dneaves.com | No | 0.4.5044 |
-| ✅ pds.dnsgo.eu | No | 0.4.5037 |
-| ✅ pds.doctorjeal.com | No | 0.4.5044 |
-| ✅ pds.doesthings.online | No | 0.4.5037 |
+| ✅ pds.dneaves.com | No | 0.4.5046 |
+| ✅ pds.dnsgo.eu | No | 0.4.5046 |
+| ✅ pds.doctorjeal.com | No | 0.4.5046 |
+| ✅ pds.doesthings.online | No | 0.4.5046 |
 | ✅ pds.doggirl.love | No | tranquil 0.6.7 |
-| ✅ pds.dogpawhat.tech | No | tranquil 0.6.7 |
+| ✅ pds.dogpawhat.tech | No | tranquil 0.7.1 |
 | ✅ pds.dollware.net | No | N/A |
 | ✅ pds.dominikhofer.me | No | 0.4.5034 |
 | ✅ pds.dr0p.info | No | 0.4.219 |
 | ✅ pds.draboros.net | No | N/A |
 | ✅ pds.dragonstonekeep.net | No | 0.4.208 |
 | ✅ pds.dreamteam.boo | No | tranquil 0.7.1 |
-| ✅ pds.dreary.dev | No | 0.4.5044 |
+| ✅ pds.dreary.dev | No | 0.4.5046 |
 | ✅ pds.drewedgar.com | No | 0.4.219 |
-| ✅ pds.drillreview.com | No | 0.4.5044 |
+| ✅ pds.drillreview.com | No | 0.4.5046 |
 | ✅ pds.dsx.sh | No | tranquil 0.6.6 |
 | ❌ pds.dtth.ch | No | tranquil 0.6.7 |
-| ✅ pds.dustinniles.com | No | 0.4.5009 |
-| ✅ pds.e-lee.io | No | 0.4.5044 |
+| ✅ pds.dustinniles.com | No | 0.4.5046 |
+| ✅ pds.e-lee.io | No | 0.4.5046 |
 | ✅ pds.e0n.sh | No | 0.4.5034 |
 | ✅ pds.easyselfhost.com | No | 0.4.138 |
-| ✅ pds.ebil.club | No | tranquil 0.6.7 |
+| ❌ pds.ebil.club | No | tranquil 0.6.7 |
 | ✅ pds.echoja.com | No | 0.4.208 |
 | ✅ pds.edgarlop.es | No | 0.4.5027 |
 | ✅ pds.edouard.paris | No | 0.4.5037 |
 | ✅ pds.edriffles.us | Yes | 0.5.29 |
-| ✅ pds.edwardh.dev | No | tranquil 0.6.7 |
-| ✅ pds.ejmg.is | No | 0.4.5044 |
+| ✅ pds.edwardh.dev | No | tranquil 0.7.0 |
+| ✅ pds.ejmg.is | No | 0.4.5046 |
 | ✅ pds.ekamdor.social | Yes | ??? |
-| ✅ pds.eldridge.cam | No | 0.4.5037 |
+| ✅ pds.eldridge.cam | No | 0.4.5046 |
 | ✅ pds.eleknet.dk | No | 0.4.67 |
-| ✅ pds.eliotbeer.co.uk | No | 0.4.5044 |
+| ✅ pds.eliotbeer.co.uk | No | 0.4.5046 |
 | ✅ pds.ellie.town | No | 0.4.5034 |
 | ✅ pds.ellinet13.com | No | 0.4.5027 |
 | ✅ pds.elxx.net | No | 0.4.5034 |
-| ✅ pds.enderman.boo | No | 0.4.5044 |
-| ✅ pds.endrun.io | No | 0.4.5037 |
+| ✅ pds.enderman.boo | No | 0.4.5046 |
+| ✅ pds.endrun.io | No | 0.4.5046 |
 | ✅ pds.eniworks.net | No | 0.4.204 |
-| ✅ pds.enticedwanderer.com | No | 0.4.219 |
+| ✅ pds.enticedwanderer.com | No | 0.4.5046 |
 | ✅ pds.erican.dev | No | 0.4.5043 |
 | ✅ pds.ericwaetke.de | No | tranquil 0.6.6 |
-| ✅ pds.eriskii.net | No | 0.4.5044 |
+| ✅ pds.eriskii.net | No | 0.4.5046 |
 | ✅ pds.escapeangle.com | No | 0.4.5034 |
-| ✅ pds.eski.dev | No | 0.4.5044 |
+| ✅ pds.eski.dev | No | 0.4.5046 |
 | ❌ pds.estherose.online | No | 0.4.5037 |
 | ✅ pds.eu.sovrn.at | No | 1.1.0+77b8897 |
 | ✅ pds.evanphx.dev | No | 0.4.5009 |
-| ✅ pds.evanston.social | No | 0.4.5037 |
+| ✅ pds.evanston.social | No | 0.4.5046 |
 | ✅ pds.everynothing.net | No | 0.4.5009 |
 | ✅ pds.evilcyberhacker.net | No | 0.4.5027 |
 | ✅ pds.ewert.foo | No | 0.4.5009 |
-| ✅ pds.ext.iatfei.com | No | 0.4.5044 |
+| ✅ pds.ext.iatfei.com | No | 0.4.5046 |
 | ❌ pds.extantanima.blue | No | 0.4.5037 |
 | ✅ pds.fabricio.gay | No | cocoon 0.10.0 |
 | ✅ pds.faeranne.com | No | tranquil 0.6.6 |
@@ -2771,133 +2777,133 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.fantomitechno.dev | No | 0.4.219 |
 | ✅ pds.fbxl.net | No | 0.4.5009 |
 | ✅ pds.federate.to | No | 0.4.5036 |
-| ✅ pds.fedi.my.id | No | 0.4.5044 |
+| ✅ pds.fedi.my.id | No | 0.4.5046 |
 | ✅ pds.feldbach.haus | No | tranquil 0.6.0 |
 | ✅ pds.femi.dev | No | 0.4.182 |
 | ✅ pds.ferox.cc | No | 0.4.5037 |
 | ✅ pds.ffi.lol | No | 0.4.219 |
-| ✅ pds.ffxxi.com | No | 0.4.5044 |
-| ✅ pds.fifo-f.eu | No | 0.4.5043 |
+| ✅ pds.ffxxi.com | No | 0.4.5046 |
+| ✅ pds.fifo-f.eu | No | 0.4.5046 |
 | ✅ pds.fileorbit.cloud | Yes | tranquil 0.6.6 |
 | ✅ pds.fileshare.se | No | 0.4.5034 |
-| ✅ pds.finallycanuck.ca | No | 0.4.5044 |
+| ✅ pds.finallycanuck.ca | No | 0.4.5046 |
 | ✅ pds.finfet.sh | No | 0.4.5026 |
 | ✅ pds.fischr.org | No | 0.4.5009 |
 | ✅ pds.flamingos-cant.xyz | No | 0.4.5009 |
-| ✅ pds.flicknow.xyz | No | 0.4.5044 |
-| ✅ pds.flixa.stream | No | 0.4.5037 |
-| ✅ pds.floofware.net | No | 0.4.5044 |
+| ✅ pds.flicknow.xyz | No | 0.4.5046 |
+| ✅ pds.flixa.stream | No | 0.4.5046 |
+| ✅ pds.floofware.net | No | 0.4.5046 |
 | ✅ pds.flow.industries | No | 0.5.36 |
-| ✅ pds.flurry.sh | No | 0.4.5044 |
+| ✅ pds.flurry.sh | No | 0.4.5046 |
 | ✅ pds.focusedhunts.net | No | 0.4.193 |
-| ✅ pds.follk.net | No | 0.4.5044 |
+| ✅ pds.follk.net | No | 0.4.5046 |
 | ✅ pds.folw.me | Yes | 0.5.34 |
 | ✅ pds.foxwitch.net | No | N/A |
 | ✅ pds.foyerr.app | No | tranquil 0.6.6 |
 | ✅ pds.fpl.dev | No | 0.4.5009 |
 | ✅ pds.fps.social | No | latest |
 | ✅ pds.freddy.us | No | 0.4.5044 |
-| ✅ pds.freeborn.cloud | No | 0.4.5044 |
+| ✅ pds.freeborn.cloud | No | 0.4.5046 |
 | ✅ pds.freemix.fm | No | 0.4.5009 |
 | ❌ pds.freeroam.cc | No | 0.4.5027 |
 | ✅ pds.freeskool.directory | No | 0.4.5034 |
 | ✅ pds.friendmeat.org | No | 0.4.5009 |
-| ✅ pds.frncs.eu | No | 0.4.5044 |
+| ✅ pds.frncs.eu | No | 0.4.5046 |
 | ✅ pds.fuad.im | No | 0.4.219 |
 | ✅ pds.fudini.app | No | 0.4.219 |
 | ✅ pds.fujocoded.dev | No | 0.4.158 |
 | ✅ pds.furbism.com | No | 0.4.223 |
 | ✅ pds.furtenbach.social | No | 0.4.5034 |
 | ✅ pds.futur.blue | No | pegasus e02c44f |
-| ✅ pds.fy5zl.workers.dev | No | 0.4.5044 |
+| ✅ pds.fy5zl.workers.dev | No | 0.4.5046 |
 | ✅ pds.fzn.gg | No | 0.4.107 |
 | ❌ pds.gae.moe | No | tranquil 0.6.5 |
-| ✅ pds.gael.social | No | 0.4.5044 |
-| ✅ pds.galifrey.dev | No | 0.4.5043 |
+| ✅ pds.gael.social | No | 0.4.5046 |
+| ✅ pds.galifrey.dev | No | 0.4.5046 |
 | ✅ pds.gamesgamesgamesgames.games | No | 0.4.5034 |
 | ✅ pds.gander.social | Yes | N/A |
 | ✅ pds.ganz.gay | No | tranquil 0.6.7 |
-| ✅ pds.garlic.town | No | N/A |
-| ✅ pds.gautier.dev | No | 0.4.5044 |
-| ✅ pds.gaycatgirl.sex | No | 0.4.5044 |
+| ❌ pds.garlic.town | No | N/A |
+| ✅ pds.gautier.dev | No | 0.4.5046 |
+| ✅ pds.gaycatgirl.sex | No | 0.4.5046 |
 | ✅ pds.gearhead.blue | No | 0.4.5037 |
-| ✅ pds.gelly.dev | No | 0.4.5044 |
-| ✅ pds.ggoulart.com | No | 0.4.5037 |
+| ✅ pds.gelly.dev | No | 0.4.5046 |
+| ✅ pds.ggoulart.com | No | 0.4.5046 |
 | ✅ pds.gigaonion.com | No | 0.4.5043 |
 | ✅ pds.gigawatt.nl | No | 0.4.193 |
-| ✅ pds.gigq.com | No | 0.4.5043 |
-| ✅ pds.girlfag.club | No | 0.4.5044 |
+| ✅ pds.gigq.com | No | 0.4.5046 |
+| ✅ pds.girlfag.club | No | 0.4.5046 |
 | ✅ pds.girlies.moe | No | tranquil 0.7.0 |
-| ✅ pds.gitlost.net | No | 0.4.5044 |
+| ✅ pds.gitlost.net | No | 0.4.5046 |
 | ✅ pds.gjessing.io | No | 0.4.5037 |
 | ✅ pds.glados.computer | No | cocoon v0.11.0-66-g402219d |
 | ✅ pds.glowers.club | No | matrix-appservice-atproto |
 | ✅ pds.gmstn.systems | No | 0.4.182 |
 | ✅ pds.goat.navy | No | N/A |
 | ✅ pds.goddess.systems | No | 0.4.208 |
-| ✅ pds.godless-america.com | No | 0.4.5044 |
+| ✅ pds.godless-america.com | No | 0.4.5046 |
 | ✅ pds.goldentooth.net | Yes | 0.4.208 |
 | ❌ pds.goldweaver.systems | No | tranquil 0.6.5 |
 | ✅ pds.goo.garden | No | tranquil 0.6.7 |
-| ✅ pds.googleballs.com | No | 0.4.5044 |
-| ✅ pds.gore.pet | No | 0.4.208 |
-| ✅ pds.grabau.dev | No | 0.4.5044 |
-| ✅ pds.grandiras.net | No | 0.4.5044 |
+| ✅ pds.googleballs.com | No | 0.4.5046 |
+| ❌ pds.gore.pet | No | 0.4.208 |
+| ✅ pds.grabau.dev | No | 0.4.5046 |
+| ✅ pds.grandiras.net | No | 0.4.5046 |
 | ✅ pds.grantgunner.org | No | 0.4.219 |
-| ✅ pds.groundmist.xyz | No | 0.4.5044 |
-| ✅ pds.growin.digital | No | 0.4.5044 |
+| ✅ pds.groundmist.xyz | No | 0.4.5046 |
+| ✅ pds.growin.digital | No | 0.4.5046 |
 | ✅ pds.guid.foo | No | 0.4.5046 |
 | ❌ pds.guineeeeeeeeeeeeeeeeeeeeeeeerm.com | No | ??? |
-| ✅ pds.gwaves.tv | No | 0.4.5044 |
+| ✅ pds.gwaves.tv | No | 0.4.5046 |
 | ✅ pds.gza.jp | No | 0.4.193 |
-| ✅ pds.hadley.life | No | 0.4.5044 |
+| ✅ pds.hadley.life | No | 0.4.5046 |
 | ✅ pds.hadsie.com | No | 0.5.32 |
 | ✅ pds.hakase.life | No | 0.4.5037 |
-| ❌ pds.halvacoffee.fyi | No | tranquil 0.6.7 |
+| ✅ pds.halvacoffee.fyi | No | tranquil 0.7.1 |
 | ✅ pds.harpoon-ipa.com | No | 0.4.5037 |
 | ❌ pds.hats.health | No | ??? |
-| ✅ pds.haydoniv.com | No | 0.4.5044 |
+| ✅ pds.haydoniv.com | No | 0.4.5046 |
 | ❌ pds.hayuki.cyou | No | ??? |
 | ✅ pds.hearth.blue | No | 0.4.5009 |
 | ✅ pds.helegrod.dev | No | 0.4.5006 |
 | ✅ pds.henry.town | No | 0.4.182 |
-| ✅ pds.hermes-x.social | No | 0.4.5044 |
-| ✅ pds.herve.bzh | No | 0.4.5044 |
+| ✅ pds.hermes-x.social | No | 0.4.5046 |
+| ✅ pds.herve.bzh | No | 0.4.5046 |
 | ✅ pds.hihusky.com | No | 0.5.36 |
-| ✅ pds.hitorigoto.com | No | 0.4.5044 |
-| ✅ pds.hiwasa.fr | No | 0.4.5044 |
+| ✅ pds.hitorigoto.com | No | 0.4.5046 |
+| ✅ pds.hiwasa.fr | No | 0.4.5046 |
 | ✅ pds.hns.one | No | 0.4.5027 |
 | ✅ pds.hogwarts.dev | No | 0.4.5009 |
-| ✅ pds.hollingworth.nl | No | 0.4.5044 |
+| ✅ pds.hollingworth.nl | No | 0.4.5046 |
 | ✅ pds.home.nora.codes | No | 0.4.5034 |
 | ✅ pds.home.spyr.dev | No | 0.4.5046 |
-| ✅ pds.honks.social | No | 0.4.5044 |
+| ✅ pds.honks.social | No | 0.4.5046 |
 | ❌ pds.howittsprent.uk | No | 0.4.5034 |
-| ✅ pds.huhta.sh | No | 0.4.5044 |
-| ✅ pds.hunor.eu.org | No | 0.4.5044 |
+| ✅ pds.huhta.sh | No | 0.4.5046 |
+| ✅ pds.hunor.eu.org | No | 0.4.5046 |
 | ✅ pds.hypergolic.org | No | 0.4.208 |
 | ✅ pds.iamtheno.name | No | tranquil 0.6.7 |
 | ❌ pds.igafox.jp | No | 0.4.169 |
 | ✅ pds.igav.ink | No | tranquil 0.6.7 |
-| ✅ pds.igorpalija.com | No | 0.4.5043 |
+| ✅ pds.igorpalija.com | No | 0.4.5046 |
 | ✅ pds.iiridayn.info | No | 0.4.5001 |
 | ✅ pds.ilia.fi | No | 0.4.5046 |
-| ✅ pds.imobox.io | No | 0.4.5044 |
+| ✅ pds.imobox.io | No | 0.4.5046 |
 | ✅ pds.imowl.net | No | 0.4.5009 |
-| ✅ pds.implied.win | No | 0.4.5044 |
+| ✅ pds.implied.win | No | 0.4.5046 |
 | ✅ pds.imvs.me | No | 0.4.5009 |
 | ❌ pds.inari.diy | No | ??? |
 | ✅ pds.indexx.dev | No | 0.4.208 |
-| ✅ pds.infernalerror.com | No | 0.4.5037 |
-| ✅ pds.information.superhighway.online | No | 0.4.5044 |
+| ✅ pds.infernalerror.com | No | 0.4.5046 |
+| ✅ pds.information.superhighway.online | No | 0.4.5046 |
 | ✅ pds.infratainment.zip | No | 0.4.5034 |
+| ❌ pds.initpub.com | No | ??? |
 | ✅ pds.innumerable-wounds.com | No | 0.4.188 |
 | ❌ pds.inovuslabs.org | No | ??? |
 | ✅ pds.insalubrio.us | No | 0.4.158 |
-| ❌ pds.insertapp.net | No | 0.4.5027 |
-| ✅ pds.intolerantpacifist.com | No | 0.4.5044 |
-| ✅ pds.invoxiplaygames.com | No | 0.4.5044 |
-| ✅ pds.inx.moe | No | 0.4.5027 |
+| ✅ pds.intolerantpacifist.com | No | 0.4.5046 |
+| ✅ pds.invoxiplaygames.com | No | 0.4.5046 |
+| ✅ pds.inx.moe | No | 0.4.5037 |
 | ✅ pds.ip-logger.com | No | 0.4.5034 |
 | ❌ pds.isaa.cl | No | 0.4.5037 |
 | ✅ pds.isabelroses.com | No | tranquil 0.6.7 |
@@ -2905,68 +2911,68 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.itsze.ro | No | 0.4.219 |
 | ✅ pds.iwani.dev | No | 0.4.5027 |
 | ✅ pds.izala.gg | No | 0.4.208 |
-| ✅ pds.izu.re | No | 0.4.5043 |
+| ✅ pds.izu.re | No | 0.4.5046 |
 | ✅ pds.jacaro.dev | No | 0.4.5044 |
 | ✅ pds.jackson.dev | No | 0.4.5027 |
 | ✅ pds.jakehash.com | Yes | 0.4.5027 |
 | ✅ pds.jarexibackblaze.xyz | No | 0.4.5043 |
-| ✅ pds.jaronoff.com | No | 0.4.5044 |
-| ❌ pds.jaryk.xyz | No | 0.4.5037 |
+| ✅ pds.jaronoff.com | No | 0.4.5046 |
+| ✅ pds.jaryk.xyz | No | 0.4.5046 |
 | ✅ pds.jason13.my.id | No | 0.4.5009 |
-| ✅ pds.jasontenpenny.com | No | 0.4.5044 |
-| ✅ pds.jay.xyz | No | 0.4.5044 |
+| ✅ pds.jasontenpenny.com | No | 0.4.5046 |
+| ✅ pds.jay.xyz | No | 0.4.5046 |
 | ✅ pds.jayjay.li | No | 0.4.138 |
 | ✅ pds.jcg.re | No | 0.4.5034 |
 | ✅ pds.jchackett.me | No | ??? |
 | ✅ pds.jcollie.dev | No | tranquil 0.6.2 |
-| ✅ pds.jdh.au | No | 0.4.5044 |
+| ✅ pds.jdh.au | No | 0.4.5046 |
 | ✅ pds.jdkserver.nl | No | 0.4.208 |
-| ✅ pds.jeanmachine.dev | No | 0.4.5044 |
+| ✅ pds.jeanmachine.dev | No | 0.4.5046 |
 | ✅ pds.jeeves.reo101.xyz | No | tranquil 0.7.1 |
-| ✅ pds.jeffkreger.com | No | 0.4.5037 |
+| ✅ pds.jeffkreger.com | No | 0.4.5046 |
 | ✅ pds.jel.gay | No | 0.4.5034 |
 | ✅ pds.jera.ink | No | 0.4.5037 |
-| ✅ pds.jerlander.se | No | 0.4.5044 |
-| ✅ pds.jersh.tech | No | 0.4.5043 |
-| ✅ pds.jftiv.org | No | 0.4.5044 |
+| ✅ pds.jerlander.se | No | 0.4.5036 |
+| ✅ pds.jersh.tech | No | 0.4.5046 |
+| ✅ pds.jftiv.org | No | 0.4.5046 |
 | ✅ pds.jgundermann.com | No | 0.4.5027 |
-| ✅ pds.jgv.bio | No | 0.4.5044 |
+| ✅ pds.jgv.bio | No | 0.4.5046 |
 | ✅ pds.jibbe.rs | No | 0.4.208 |
 | ✅ pds.jkp.sh | No | tranquil 0.7.1 |
 | ✅ pds.jlauser.net | No | 0.4.5043 |
 | ✅ pds.jmackie.social | No | 0.4.182 |
 | ✅ pds.jmrp.io | No | 0.4.5037 |
 | ✅ pds.jogga.fit | Yes | 1.14.13 |
-| ✅ pds.johnharrison.cc | No | 0.4.5044 |
+| ✅ pds.johnharrison.cc | No | 0.4.5046 |
 | ✅ pds.jolheiser.com | No | 0.4.5027 |
-| ✅ pds.jonojr.dev | No | 0.4.5044 |
-| ✅ pds.jordanwhistler.info | No | 0.4.5044 |
+| ✅ pds.jonojr.dev | No | 0.4.5046 |
+| ✅ pds.jordanwhistler.info | No | 0.4.5046 |
 | ✅ pds.joshing.online | No | 0.5.32 |
 | ✅ pds.joshthompson.me | No | 0.4.5037 |
-| ✅ pds.jp.world | No | 0.4.5044 |
-| ✅ pds.jrash.net | No | 0.4.5044 |
+| ✅ pds.jp.world | No | 0.4.5046 |
+| ✅ pds.jrash.net | No | 0.4.5046 |
 | ✅ pds.jstefanelli.com | No | 0.4.193 |
 | ✅ pds.julia.cool | No | cocoon dev |
 | ✅ pds.julianwachholz.dev | No | 0.4.219 |
 | ✅ pds.justdavi.dev | No | 0.4.5009 |
 | ✅ pds.justin-stanley.com | No | 0.4.5027 |
-| ✅ pds.justingarrison.com | No | 0.4.5044 |
+| ✅ pds.justingarrison.com | No | 0.4.5046 |
 | ✅ pds.justinm.one | No | bluepds |
 | ✅ pds.justzvan.xyz | No | cocoon 0.13.0 |
-| ✅ pds.juu.kr | No | 0.4.5044 |
-| ✅ pds.jws.social | No | 0.4.5037 |
-| ✅ pds.ka.ag | No | 0.4.5037 |
-| ✅ pds.kaeck.name | No | 0.4.5044 |
+| ✅ pds.juu.kr | No | 0.4.5046 |
+| ✅ pds.jws.social | No | 0.4.5046 |
+| ✅ pds.ka.ag | No | 0.4.5046 |
+| ✅ pds.kaeck.name | No | 0.4.5046 |
 | ✅ pds.kaeden.codes | No | tranquil 0.7.1 |
-| ✅ pds.kafunda.space | No | 0.4.5044 |
+| ✅ pds.kafunda.space | No | 0.4.5046 |
 | ✅ pds.kalebpace.me | No | 0.4.5034 |
-| ✅ pds.kallestruik.nl | No | 0.4.5044 |
+| ✅ pds.kallestruik.nl | No | 0.4.5046 |
 | ✅ pds.kanonenterprises.com | No | 0.4.5027 |
 | ✅ pds.karanshukla.ca | No | 0.4.5037 |
 | ✅ pds.kart.sh | No | tranquil 0.7.1 |
 | ✅ pds.kartar.ai | No | 0.4.5027 |
-| ✅ pds.kat.mom | No | 0.4.5044 |
-| ✅ pds.kayla.is | No | 0.4.5044 |
+| ✅ pds.kat.mom | No | 0.4.5046 |
+| ✅ pds.kayla.is | No | 0.4.5046 |
 | ✅ pds.kayla.moe | No | 0.4.5043 |
 | ✅ pds.kbravh.dev | No | tranquil 0.6.4 |
 | ✅ pds.keithlewiskeithlewis.com | No | 0.4.5027 |
@@ -2974,9 +2980,9 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.kennel.rest | No | tranquil 0.6.7 |
 | ✅ pds.kentaro1043.com | No | 0.4.5001 |
 | ✅ pds.kept.live | No | 0.4.208 |
-| ✅ pds.keysyntax.com | No | 0.4.5044 |
+| ✅ pds.keysyntax.com | No | 0.4.5046 |
 | ✅ pds.khanwinter.com | No | 0.5.44 |
-| ✅ pds.kianjon.es | No | 0.4.5044 |
+| ✅ pds.kianjon.es | No | 0.4.5046 |
 | ✅ pds.kiarc.win | No | 0.4.98 |
 | ✅ pds.kieransweetman.com | Yes | 0.4.208 |
 | ✅ pds.kiliantyler.com | No | 0.4.5037 |
@@ -2986,52 +2992,52 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.klegul.de | No | 0.4.204 |
 | ❌ pds.kocharin.art | No | ??? |
 | ✅ pds.kofron.io | No | tranquil 0.6.6 |
-| ✅ pds.koontz.dev | No | 0.4.5044 |
+| ✅ pds.koontz.dev | No | 0.4.5046 |
 | ✅ pds.kosmon.org | No | 0.4.5037 |
 | ✅ pds.kot.pink | No | 0.4.5034 |
-| ✅ pds.krasovs.ky | No | 0.4.5044 |
-| ✅ pds.ksnet.io | No | 0.4.5044 |
+| ✅ pds.krasovs.ky | No | 0.4.5046 |
+| ✅ pds.ksnet.io | No | 0.4.5046 |
 | ✅ pds.kty.cat | No | 0.4.168 |
 | ✅ pds.kulupu.party | No | 0.4.5027 |
 | ✅ pds.kun.is | No | tranquil 0.6.7 |
 | ✅ pds.kunet.dev | No | 0.4.5027 |
-| ✅ pds.kvndvn.social | No | 0.4.5044 |
+| ✅ pds.kvndvn.social | No | 0.4.5046 |
 | ✅ pds.l3mon4.de | No | 0.4.219 |
 | ✅ pds.l7y.media | No | 0.4.5044 |
 | ✅ pds.lab.dvjn.dev | No | 0.4.5027 |
-| ✅ pds.labrecheho.me | No | 0.4.5044 |
+| ✅ pds.labrecheho.me | No | 0.4.5046 |
 | ✅ pds.lamp.wtf | No | 0.4.221 |
 | ✅ pds.larakin.systems | No | 0.4.5043 |
 | ✅ pds.lassul.us | Yes | tranquil 0.7.0 |
-| ✅ pds.lathrys.at | No | 0.4.5044 |
+| ✅ pds.lathrys.at | No | 0.4.5046 |
 | ✅ pds.laurenshof.online | No | 0.4.5043 |
 | ✅ pds.lavate.ch | No | tranquil 0.6.7 |
 | ✅ pds.lavendev.com | No | 0.4.182 |
 | ✅ pds.lbrunner.net | No | 0.4.5009 |
 | ✅ pds.leejuyuu.xyz | No | 0.4.193 |
-| ✅ pds.leetaeryeo.com | No | 0.4.5044 |
+| ✅ pds.leetaeryeo.com | No | 0.4.5046 |
 | ✅ pds.lefht.cc | No | 0.4.5037 |
 | ✅ pds.leksis.eu | Yes | N/A |
-| ✅ pds.lenooby09.tech | No | 0.4.5044 |
+| ✅ pds.lenooby09.tech | No | 0.4.5046 |
 | ✅ pds.leoqi.ca | Yes | 0.4.5009 |
-| ✅ pds.lesueurb.fr | No | 0.4.5037 |
+| ❌ pds.lesueurb.fr | No | 0.4.5037 |
 | ❌ pds.leugitze.dev | No | 0.4.5037 |
-| ✅ pds.lewis-od.co.uk | No | 0.4.5044 |
-| ✅ pds.lexicon.store | No | 0.4.5044 |
+| ✅ pds.lewis-od.co.uk | No | 0.4.5046 |
+| ✅ pds.lexicon.store | No | 0.4.5046 |
 | ✅ pds.liminal.horse | No | 0.5.32 |
 | ✅ pds.linkjar.social | No | N/A |
 | ✅ pds.literarycommons.com | No | 0.4.219 |
-| ✅ pds.lizthegrey.com | No | 0.4.5044 |
-| ✅ pds.lksz.name | No | 0.4.5044 |
+| ✅ pds.lizthegrey.com | No | 0.4.5046 |
+| ✅ pds.lksz.name | No | 0.4.5046 |
 | ✅ pds.lmblsk.cloud | No | 0.4.204 |
 | ✅ pds.locket.computer | No | cocoon dev-locket |
-| ✅ pds.loeffler.wien | No | 0.4.5044 |
+| ✅ pds.loeffler.wien | No | 0.4.5046 |
 | ✅ pds.lordcheeto.com | No | 0.4.5037 |
 | ✅ pds.lostcause.house | No | 0.4.219 |
-| ✅ pds.louisvillebsky.app | Yes | 0.4.5044 |
-| ✅ pds.lovethelielietolove.com | No | 0.4.5044 |
+| ✅ pds.louisvillebsky.app | Yes | 0.4.5046 |
+| ✅ pds.lovethelielietolove.com | No | 0.4.5046 |
 | ✅ pds.ludos.city | No | 0.4.5027 |
-| ✅ pds.lugiaberry.art | No | 0.4.5044 |
+| ✅ pds.lugiaberry.art | No | 0.4.5046 |
 | ✅ pds.lugshar.pl | No | 0.4.5037 |
 | ✅ pds.lukegb.com | No | 0.4.5009 |
 | ✅ pds.lumnika.com | No | 0.5.34 |
@@ -3041,113 +3047,112 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.lyyrn.com | No | 0.4.5001 |
 | ✅ pds.macalinao.org | No | 0.4.5037 |
 | ✅ pds.macknz.com | No | 0.4.5037 |
-| ✅ pds.madoka.systems | No | 0.4.5037 |
-| ❌ pds.maelstrom.dev | No | 0.4.208 |
+| ✅ pds.madoka.systems | No | 0.4.5046 |
+| ✅ pds.maelstrom.dev | No | 0.4.5044 |
 | ✅ pds.magicalsamurai.com | No | 0.4.5037 |
 | ✅ pds.mahany.io | No | 1.14.9 |
 | ✅ pds.mahood.dev | No | 0.4.67 |
-| ✅ pds.makeworld.space | No | 0.4.5044 |
+| ✅ pds.makeworld.space | No | 0.4.5046 |
 | ✅ pds.malldao.xyz | No | ??? |
 | ✅ pds.malpercio.dev | No | 0.4.208 |
-| ✅ pds.manipulat.org | No | 0.4.5044 |
-| ✅ pds.marenthyu.de | No | 0.4.5044 |
-| ✅ pds.mark-xipil.com | No | 0.4.5044 |
+| ✅ pds.manipulat.org | No | 0.4.5046 |
+| ✅ pds.marenthyu.de | No | 0.4.5046 |
+| ✅ pds.mark-xipil.com | No | 0.4.5046 |
 | ✅ pds.markmarine.dev | No | 0.4.5027 |
-| ✅ pds.markstenglein.com | No | 0.4.5037 |
+| ✅ pds.markstenglein.com | No | 0.4.5046 |
 | ✅ pds.marshift.ing | No | tranquil 0.7.1 |
 | ✅ pds.masoudmim.com | No | 0.4.5009 |
 | ✅ pds.massivebox.net | No | 0.4.219 |
-| ✅ pds.mastonon.net | No | 0.4.5044 |
-| ✅ pds.matsuuratomoya.com | No | 0.4.5044 |
+| ✅ pds.mastonon.net | No | 0.4.5046 |
+| ✅ pds.matsuuratomoya.com | No | 0.4.5046 |
 | ✅ pds.mattducharme.dev | No | 0.4.5034 |
-| ✅ pds.mattforster.social | No | 0.4.5044 |
-| ✅ pds.mattobs.com | No | 0.4.5044 |
+| ✅ pds.mattforster.social | No | 0.4.5046 |
+| ✅ pds.mattobs.com | No | 0.4.5046 |
 | ✅ pds.mattriley.work | No | tranquil 0.6.5 |
 | ✅ pds.mattstein.com | No | 0.4.5037 |
 | ✅ pds.mau.fi | No | 0.4.5043 |
-| ✅ pds.mauvehed.com | No | 0.4.5043 |
-| ✅ pds.mbeaver.ca | No | 0.4.5044 |
+| ✅ pds.mauvehed.com | No | 0.4.5046 |
+| ✅ pds.mbeaver.ca | No | 0.4.5046 |
 | ✅ pds.mbl.social | No | 0.4.5046 |
 | ✅ pds.mcardle.xyz | No | tranquil 0.6.7 |
-| ✅ pds.mccoy.dev | No | 0.4.5044 |
-| ✅ pds.mcmanus.tech | No | 0.4.5044 |
+| ✅ pds.mccoy.dev | No | 0.4.5046 |
+| ✅ pds.mcmanus.tech | No | 0.4.5046 |
 | ✅ pds.mdog.dev | No | 0.4.5027 |
 | ✅ pds.mecham.xyz | No | 0.4.5037 |
 | ✅ pds.megantoots.com | No | 0.4.5037 |
 | ✅ pds.meisterlala.dev | No | 0.4.5046 |
-| ✅ pds.melkat.dev | No | 0.4.5044 |
+| ✅ pds.melkat.dev | No | 0.4.5046 |
 | ✅ pds.mensmachina.com | No | 0.4.5037 |
 | ✅ pds.meowing.de | No | 0.4.5037 |
 | ✅ pds.meowtrix.at | No | 0.4.208 |
 | ✅ pds.mercie.dev | No | 0.4.5046 |
 | ✅ pds.mercurio.moe | No | 0.4.5009 |
 | ✅ pds.merely.ca | No | 0.4.5027 |
-| ✅ pds.merklehost.xyz | No | 0.4.5044 |
+| ✅ pds.merklehost.xyz | No | 0.4.5046 |
 | ✅ pds.merrimanindhq.com | No | tranquil 0.6.7 |
 | ✅ pds.metaspn.network | No | 0.4.208 |
-| ✅ pds.mgajdo.ch | No | 0.4.5044 |
+| ✅ pds.mgajdo.ch | No | 0.4.5046 |
 | ✅ pds.mh.run | No | tranquil 0.6.7 |
 | ✅ pds.mice.tel | No | 0.5.40 |
 | ✅ pds.midka.dev | No | 0.4.193 |
 | ✅ pds.miekeroth.org | Yes | 0.4.5037 |
 | ✅ pds.mihaizaurus.at | No | tranquil 0.6.4 |
 | ❌ pds.milosz.top | No | 0.4.5034 |
-| ✅ pds.minito.dev | No | 0.4.5044 |
+| ✅ pds.minito.dev | No | 0.4.5046 |
 | ❌ pds.minot.dev | No | 0.4.193 |
-| ❌ pds.misha.zip | No | tranquil 0.6.6 |
+| ✅ pds.misha.zip | No | tranquil 0.6.6 |
 | ✅ pds.mitchellh.com | No | 0.4.5034 |
 | ✅ pds.mitchelltribe.com | No | 0.4.5043 |
 | ✅ pds.mk.gg | Yes | cirrus 0.19.0 |
 | ✅ pds.mkizka.dev | No | 0.4.5037 |
 | ✅ pds.mlf.one | No | 0.4.5044 |
-| ❌ pds.mnogu.net | No | 0.4.5037 |
 | ✅ pds.mocha.thoughtless.eu | No | tranquil 0.6.6 |
 | ✅ pds.mock.tangled.org | No | tranquil 0.6.7 |
-| ✅ pds.moe | No | 0.4.5044 |
-| ✅ pds.moe.pub | No | 0.4.5044 |
+| ✅ pds.moe | No | 0.4.5046 |
+| ✅ pds.moe.pub | No | 0.4.5046 |
 | ✅ pds.moffat.io | No | 0.4.5034 |
-| ✅ pds.moll.blue | No | 0.4.5044 |
+| ✅ pds.moll.blue | No | 0.4.5046 |
 | ✅ pds.mona.cat | No | tranquil 0.7.1 |
 | ✅ pds.monke.moe | No | 0.4.5037 |
 | ✅ pds.moritzruth.de | No | tranquil 0.6.5 |
 | ✅ pds.morphism.id | No | 0.4.5009 |
 | ✅ pds.mosasa.dog | No | 0.4.5043 |
 | ✅ pds.moutonlab.eu | No | 0.4.219 |
-| ✅ pds.mozzius.dev | No | 0.4.5044 |
+| ✅ pds.mozzius.dev | No | 0.4.5046 |
 | ✅ pds.mrrp.lol | No | tranquil 0.6.7 |
 | ✅ pds.msx.gay | No | 0.4.5037 |
 | ✅ pds.multivax.ca | No | tranquil 0.6.6 |
 | ❌ pds.mundoazul.social | No | 0.4.5037 |
-| ✅ pds.mutantmonkey.in | No | 0.4.5043 |
+| ✅ pds.mutantmonkey.in | No | 0.4.5046 |
 | ✅ pds.mwcampbell.us | No | 0.4.182 |
-| ✅ pds.mweir.dev | No | 0.4.5044 |
-| ✅ pds.mx0.dev | No | 0.4.5044 |
+| ✅ pds.mweir.dev | No | 0.4.5046 |
+| ✅ pds.mx0.dev | No | 0.4.5046 |
 | ✅ pds.mycatools.com | No | 0.4.169 |
 | ✅ pds.mylogin.space | No | 0.4.5034 |
-| ✅ pds.myristica.dev | No | 0.4.5044 |
+| ✅ pds.myristica.dev | No | 0.4.5046 |
 | ✅ pds.mythik.co.uk | No | cocoon dev |
 | ❌ pds.mythryl.app | No | ??? |
-| ✅ pds.n2.pm | No | 0.4.5044 |
+| ✅ pds.n2.pm | No | 0.4.5046 |
 | ✅ pds.n2d.io | No | 0.4.5034 |
-| ✅ pds.naco.li | No | 0.4.5044 |
+| ✅ pds.naco.li | No | 0.4.5046 |
 | ✅ pds.nahfe.dev | No | 0.4.5034 |
-| ✅ pds.name | No | 0.4.5044 |
-| ✅ pds.nanatay.net | No | 0.4.5044 |
+| ✅ pds.name | No | 0.4.5046 |
+| ✅ pds.nanatay.net | No | 0.4.5046 |
 | ✅ pds.nander.me | No | tranquil 0.6.6 |
 | ✅ pds.nanoyaki.space | No | 0.4.5037 |
 | ❌ pds.natey.sh | No | 0.4.5027 |
 | ✅ pds.nathanbeddoe.com | No | tranquil 0.6.6 |
 | ❌ pds.nbani.xyz | No | 0.4.5037 |
-| ✅ pds.ndfine.com | No | 0.4.5044 |
-| ✅ pds.ndo.dev | No | 0.4.5044 |
+| ✅ pds.ndfine.com | No | 0.4.5046 |
+| ✅ pds.ndo.dev | No | 0.4.5046 |
 | ✅ pds.nebu.land | No | tranquil 0.6.7 |
 | ✅ pds.necauq.ua | No | 0.4.5034 |
 | ✅ pds.necrokote.dedyn.io | No | 0.4.219 |
-| ✅ pds.negatethis.com | No | 0.4.219 |
-| ✅ pds.nel.pet | No | tranquil 0.6.7 |
-| ✅ pds.nelind.dk | No | 0.4.5037 |
+| ✅ pds.negatethis.com | No | 0.4.5034 |
+| ✅ pds.nel.pet | No | tranquil 0.7.0 |
+| ❌ pds.nelind.dk | No | 0.4.5037 |
 | ✅ pds.neonchat.co | No | 0.4.208 |
-| ✅ pds.nercone.dev | No | 0.4.5034 |
+| ❌ pds.nercone.dev | No | 0.4.5034 |
 | ✅ pds.nerdylikeme.com | No | 0.4.219 |
 | ✅ pds.netasgard.com | No | 0.4.5037 |
 | ✅ pds.netinertia.co.uk | No | 0.4.5043 |
@@ -3155,45 +3160,45 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.ngp.computer | No | tranquil 0.6.7 |
 | ✅ pds.nh.run | No | 0.4.5027 |
 | ✅ pds.nickmohoric.dev | No | 0.4.219 |
-| ✅ pds.nicodelcastillo.com | No | 0.4.5044 |
-| ✅ pds.nicoritschel.com | No | 0.4.5044 |
-| ✅ pds.nicweyand.com | No | 0.4.5044 |
+| ✅ pds.nicodelcastillo.com | No | 0.4.5046 |
+| ✅ pds.nicoritschel.com | No | 0.4.5046 |
+| ✅ pds.nicweyand.com | No | 0.4.5046 |
 | ✅ pds.nid.sh | No | cocoon 0.13.2 |
-| ❌ pds.night.vn.ua | No | tranquil 0.6.6 |
+| ✅ pds.night.vn.ua | No | tranquil 0.6.6 |
 | ✅ pds.nightshade.network | No | 0.4.169 |
-| ✅ pds.nikomo.fi | No | 0.4.5044 |
-| ✅ pds.nilaallj.se | No | 0.4.5044 |
-| ✅ pds.nixeneko.info | No | 0.4.5044 |
+| ✅ pds.nikomo.fi | No | 0.4.5046 |
+| ✅ pds.nilaallj.se | No | 0.4.5046 |
+| ✅ pds.nixeneko.info | No | 0.4.5046 |
 | ✅ pds.no-bull.sh | No | 0.4.5027 |
-| ✅ pds.noahbogart.com | No | 0.4.5044 |
+| ✅ pds.noahbogart.com | No | 0.4.5046 |
 | ❌ pds.noi.cx | No | tranquil 0.6.7 |
 | ✅ pds.nonetype.io | No | 0.4.5034 |
 | ✅ pds.notfire.cc | No | 0.4.5044 |
 | ✅ pds.notnow.dev | No | 0.4.5009 |
 | ✅ pds.notorganic.info | Yes | 0.4.219 |
-| ✅ pds.novelo.social.br | No | 0.4.5044 |
+| ✅ pds.novelo.social.br | No | 0.4.5046 |
 | ✅ pds.noyer.app | No | 0.4.5037 |
 | ✅ pds.ns.agency | No | 0.4.5027 |
 | ❌ pds.nthwire.xyz | No | 0.4.5009 |
 | ❌ pds.nudante.com | No | 0.4.5037 |
 | ✅ pds.nul.ie | No | 0.4.5001 |
-| ✅ pds.numergent.com | No | 0.4.5044 |
+| ✅ pds.numergent.com | No | 0.4.5046 |
 | ✅ pds.numina.systems | No | cocoon 27c02cc |
 | ❌ pds.oathling.dev | No | ??? |
-| ✅ pds.oathling.world | Yes | 0.4.219 |
+| ✅ pds.oathling.world | Yes | 0.4.5046 |
 | ✅ pds.obsign.org | No | custos v0.16.2 |
 | ❌ pds.oddward.space | No | 0.4.5037 |
 | ✅ pds.offbeatwit.ch | No | tranquil 0.6.6 |
-| ✅ pds.ofplayers.net | No | 0.4.5044 |
-| ✅ pds.ogerpon.social | No | 0.4.5044 |
+| ✅ pds.ofplayers.net | No | 0.4.5046 |
+| ✅ pds.ogerpon.social | No | 0.4.5046 |
 | ✅ pds.ogre.monster | No | 0.4.208 |
-| ❌ pds.olaren.dev | No | tranquil 0.7.1 |
+| ✅ pds.olaren.dev | No | tranquil 0.7.1 |
 | ✅ pds.ole.strohm.no | No | 0.4.193 |
 | ✅ pds.olifog.com | No | pegasus 8ec718a |
-| ✅ pds.oliverj.io | No | 0.4.5044 |
+| ✅ pds.oliverj.io | No | 0.4.5046 |
 | ✅ pds.omni.me | No | 0.4.208 |
-| ✅ pds.oncomputing.dev | No | 0.4.5044 |
-| ✅ pds.onlocalhost.dev | No | 0.4.5044 |
+| ✅ pds.oncomputing.dev | No | 0.4.5046 |
+| ✅ pds.onlocalhost.dev | No | 0.4.5046 |
 | ✅ pds.onsky.social | No | 0.4.5027 |
 | ✅ pds.onurguzel.com | No | 0.4.5034 |
 | ✅ pds.onymix.eu | No | 0.4.5034 |
@@ -3201,68 +3206,68 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.opnmt.net | No | 0.5.32 |
 | ✅ pds.oriom.dev | No | ??? |
 | ✅ pds.oronar.net | No | 0.4.5009 |
-| ✅ pds.oscarmlage.com | No | 0.4.5044 |
+| ✅ pds.oscarmlage.com | No | 0.4.5046 |
 | ✅ pds.oscillatory.net | No | tranquil 0.7.1 |
-| ✅ pds.oso.social | No | 0.5.29 |
-| ✅ pds.otmns.cc | No | 0.4.5037 |
+| ✅ pds.oso.social | No | 0.5.44 |
+| ✅ pds.otmns.cc | No | 0.4.5046 |
 | ✅ pds.otterlord.dev | No | 0.4.5009 |
 | ✅ pds.ottr.uk | No | 0.4.219 |
-| ✅ pds.ourhardy.com | No | 0.4.5044 |
+| ✅ pds.ourhardy.com | No | 0.4.5046 |
 | ✅ pds.outpost10.uk | No | 0.4.5001 |
 | ✅ pds.ovy.cloud | No | tranquil 0.7.0 |
 | ✅ pds.owaoow.baq.ovh | No | 0.4.219 |
 | ❌ pds.paolobietolini.com | No | 0.4.5026 |
 | ✅ pds.papers.club | No | 0.4.5044 |
-| ✅ pds.parakeet.at | No | 0.4.5034 |
+| ✅ pds.parakeet.at | No | 0.4.5037 |
 | ✅ pds.pardisio.xyz | No | tranquil 0.7.0 |
-| ❌ pds.passcod.nz | No | 0.4.5037 |
-| ✅ pds.passoja.fi | No | 0.4.5044 |
+| ✅ pds.passcod.nz | No | 0.4.5046 |
+| ✅ pds.passoja.fi | No | 0.4.5046 |
 | ✅ pds.patria.social | No | 0.4.5027 |
-| ✅ pds.patrick.social | No | 0.4.5044 |
+| ✅ pds.patrick.social | No | 0.4.5046 |
 | ❌ pds.patspats.xyz | No | ??? |
 | ✅ pds.pauli.place | No | 0.4.5037 |
-| ✅ pds.paulj.me | No | 0.4.5044 |
+| ✅ pds.paulj.me | No | 0.4.5046 |
 | ✅ pds.pauljako.de | No | tranquil 0.6.6 |
 | ✅ pds.paulmurch.com | No | 0.4.5009 |
 | ✅ pds.pawb.de | No | 0.4.5034 |
 | ✅ pds.pckt.cafe | No | brooke.5031 |
-| ✅ pds.pdxhackerspace.org | No | 0.4.5043 |
-| ✅ pds.peepo.social | No | 0.4.5044 |
+| ✅ pds.pdxhackerspace.org | No | 0.4.5046 |
+| ✅ pds.peepo.social | No | 0.4.5046 |
 | ✅ pds.peerbench.ai | No | 0.4.5001 |
 | ✅ pds.penguinite.dev | No | 0.4.5001 |
 | ❌ pds.penney-family.net | No | N/A |
 | ✅ pds.peoni.es | No | tranquil 0.6.7 |
-| ✅ pds.perfectfall.com | No | 0.4.5044 |
-| ✅ pds.perfectgra.de | No | 0.4.5044 |
+| ✅ pds.perfectfall.com | No | 0.4.5046 |
+| ✅ pds.perfectgra.de | No | 0.4.5046 |
 | ✅ pds.periwinkle.sh | No | 0.4.5046 |
 | ✅ pds.perohub.com | Yes | ??? |
 | ✅ pds.perska.net | No | 0.4.5044 |
 | ✅ pds.personinyourph.one | No | 0.4.5044 |
 | ✅ pds.petalcat.dev | No | tranquil 0.6.7 |
-| ✅ pds.pf.ie | No | 0.4.5044 |
-| ✅ pds.phasewalk.xyz | No | 0.4.5044 |
+| ✅ pds.pf.ie | No | 0.4.5046 |
+| ✅ pds.phasewalk.xyz | No | 0.4.5046 |
 | ✅ pds.philara.org | No | 0.4.5034 |
 | ✅ pds.phinarina.xyz | No | 0.4.5027 |
 | ✅ pds.picopi.cc | No | 0.4.5009 |
 | ✅ pds.plcs.fun | Yes | 0.4.208 |
 | ✅ pds.pluie.me | No | 0.4.5009 |
 | ✅ pds.poasters.club | No | 1.0.0+ca9ef30 |
-| ✅ pds.poetfirst.com | No | 0.4.5043 |
-| ✅ pds.poggers.website | No | 0.4.5044 |
+| ✅ pds.poetfirst.com | No | 0.4.5046 |
+| ✅ pds.poggers.website | No | 0.4.5046 |
 | ✅ pds.poketrirx.com | No | 0.4.5009 |
 | ✅ pds.pollen.place | No | tranquil 0.6.4 |
-| ✅ pds.ponente.app | No | 0.4.5044 |
+| ✅ pds.ponente.app | No | 0.4.5046 |
 | ✅ pds.pool.net.eu.org | No | 0.4.5043 |
-| ✅ pds.popbob.wtf | No | 0.4.5043 |
-| ✅ pds.postxsociety.cloud | Yes | 0.4.5043 |
+| ✅ pds.popbob.wtf | No | 0.4.5046 |
+| ✅ pds.postxsociety.cloud | Yes | 0.4.5046 |
 | ✅ pds.ppc.social | No | 0.4.5001 |
 | ✅ pds.ppcol.eu | No | 0.4.208 |
 | ✅ pds.pranavv.co.in | No | 0.4.219 |
 | ✅ pds.preloading.dev | No | 0.4.5006 |
-| ✅ pds.progressiveknife.com | No | 0.4.5044 |
+| ✅ pds.progressiveknife.com | No | 0.4.5046 |
 | ✅ pds.protogen.at | No | tranquil 0.7.1 |
 | ✅ pds.protoimsg.app | No | 0.4.221 |
-| ✅ pds.prox.fyi | No | 0.4.5044 |
+| ✅ pds.prox.fyi | No | 0.4.5046 |
 | ✅ pds.prq.nu | No | 0.4.193 |
 | ✅ pds.pub.moe | No | 0.4.219 |
 | ✅ pds.publicvcons.org | No | 0.4.219 |
@@ -3273,34 +3278,34 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.quelen.net | No | 0.4.5001 |
 | ❌ pds.quietengineer.fyi | No | 0.4.182 |
 | ✅ pds.quillmatiq.com | No | 0.4.5037 |
-| ✅ pds.quimian.com | No | 0.4.5044 |
+| ✅ pds.quimian.com | No | 0.4.5046 |
 | ✅ pds.quokka.wiki | No | 0.4.5027 |
 | ✅ pds.r-12.net | No | 0.4.5037 |
 | ✅ pds.r2d2.party | No | ??? |
-| ✅ pds.racc.blue | No | 0.4.5044 |
-| ✅ pds.raccoon.bike | No | 0.4.5044 |
-| ✅ pds.radial.fan | Yes | 0.4.5027 |
-| ✅ pds.rafael.my | No | 0.4.5044 |
-| ✅ pds.ragu.info | No | 0.4.5044 |
+| ✅ pds.racc.blue | No | 0.4.5046 |
+| ✅ pds.raccoon.bike | No | 0.4.5046 |
+| ✅ pds.radial.fan | Yes | 0.4.5043 |
+| ✅ pds.rafael.my | No | 0.4.5046 |
+| ✅ pds.ragu.info | No | 0.4.5046 |
 | ✅ pds.ralith.com | No | 0.4.5034 |
 | ✅ pds.randhome.io | No | 0.4.208 |
-| ✅ pds.random-encounter.gay | No | 0.4.5044 |
-| ✅ pds.raptorpenguin.net | No | 0.4.5044 |
-| ✅ pds.rapture.party | No | 0.4.5043 |
-| ❌ pds.rat.beauty | No | tranquil 0.6.6 |
-| ✅ pds.rcape.org | No | 0.4.219 |
+| ✅ pds.random-encounter.gay | No | 0.4.5046 |
+| ✅ pds.raptorpenguin.net | No | 0.4.5046 |
+| ✅ pds.rapture.party | No | 0.4.5046 |
+| ✅ pds.rat.beauty | No | tranquil 0.6.6 |
+| ✅ pds.rcape.org | No | 0.4.5046 |
 | ✅ pds.readifur.gay | Yes | 0.1.0 |
-| ✅ pds.rechegp.com | No | 0.4.5044 |
+| ✅ pds.rechegp.com | No | 0.4.5046 |
 | ✅ pds.reckless.dev | No | 0.4.5014 |
 | ✅ pds.reharc.cc | No | 0.4.5043 |
 | ✅ pds.reinvent-trivia.com | No | 0.4.5037 |
-| ✅ pds.rekmarks.com | No | 0.4.5044 |
+| ✅ pds.rekmarks.com | No | 0.4.5046 |
 | ✅ pds.relwarc17.icu | No | 0.4.5037 |
 | ✅ pds.remanso.space | No | 0.4.182 |
 | ✅ pds.renkon.dev | No | 0.4.5044 |
-| ✅ pds.rgst.io | No | 0.4.5044 |
-| ✅ pds.rheinbook.com | No | 0.4.5037 |
-| ✅ pds.rhythmresonance.top | No | 0.4.5044 |
+| ✅ pds.rgst.io | No | 0.4.5046 |
+| ✅ pds.rheinbook.com | No | 0.4.5046 |
+| ✅ pds.rhythmresonance.top | No | 0.4.5046 |
 | ✅ pds.richardbanks.dev | No | 0.4.5009 |
 | ✅ pds.riddims.app | No | git-0e60f3f |
 | ❌ pds.ridgeway.dev | No | ??? |
@@ -3308,30 +3313,30 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.riikkako.dev | Yes | 0.4.5009 |
 | ✅ pds.rime.grandiras.net | No | 0.15.0-rc.6+eb866e08d6 |
 | ✅ pds.rip | No | 0.5.32 |
-| ✅ pds.ripperoni.com | No | 0.4.5044 |
+| ✅ pds.ripperoni.com | No | 0.4.5046 |
 | ✅ pds.rivr.social | No | 0.4.5027 |
-| ✅ pds.robocracy.org | No | 0.4.5044 |
+| ✅ pds.robocracy.org | No | 0.4.5046 |
 | ✅ pds.rocio.blue | No | 0.4.219 |
 | ✅ pds.rocksky.app | No | 0.4.219 |
-| ✅ pds.romkey.com | No | 0.4.5043 |
+| ✅ pds.romkey.com | No | 0.4.5046 |
 | ✅ pds.roo.ke | No | 0.4.5001 |
-| ✅ pds.roppongimfg.xyz | No | 0.4.5044 |
+| ✅ pds.roppongimfg.xyz | No | 0.4.5046 |
 | ✅ pds.rosepetalkitty.cc | No | 0.4.98 |
-| ✅ pds.rtko.eu | No | 0.4.5044 |
+| ✅ pds.rtko.eu | No | 0.4.5046 |
 | ✅ pds.ruby0x1.ca | No | 0.4.5009 |
-| ✅ pds.rune.town | No | tranquil 0.7.0 |
+| ❌ pds.rune.town | No | tranquil 0.7.0 |
 | ✅ pds.rylatt.me | No | 0.4.5034 |
 | ✅ pds.ryoikarashi.com | Yes | cirrus 0.18.0 |
 | ✅ pds.sabiastudios.tech | No | 0.4.5034 |
 | ✅ pds.sachy.dev | No | 0.4.5043 |
-| ✅ pds.sacpack.org | No | 0.4.5044 |
-| ✅ pds.sajack.xyz | No | 0.4.5044 |
+| ✅ pds.sacpack.org | No | 0.4.5046 |
+| ✅ pds.sajack.xyz | No | 0.4.5046 |
 | ✅ pds.samantha.wiki | No | 0.4.5037 |
-| ✅ pds.samb.al | No | tranquil 0.6.7 |
+| ✅ pds.samb.al | No | tranquil 0.7.0 |
 | ✅ pds.sameoldstory.co | No | 0.4.5027 |
 | ✅ pds.sammy.moe | No | 0.4.5006 |
 | ✅ pds.samuel.social | No | 0.4.208 |
-| ✅ pds.samwho.dev | No | 0.4.219 |
+| ✅ pds.samwho.dev | No | 0.4.5046 |
 | ✅ pds.sanchez.sh | No | 0.4.5001 |
 | ✅ pds.sandboxlabs.ai | Yes | 0.4.219 |
 | ✅ pds.sarahjen.com | No | 0.4.193 |
@@ -3343,8 +3348,8 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.scorpio.city | No | tranquil 0.6.6 |
 | ✅ pds.scottlanoue.com | No | 0.5.44 |
 | ✅ pds.scry.io | No | 0.4.5037 |
-| ✅ pds.scsi.dev | No | 0.4.5044 |
-| ✅ pds.seansith.com | No | 0.4.5043 |
+| ✅ pds.scsi.dev | No | 0.4.5046 |
+| ✅ pds.seansith.com | No | 0.4.5046 |
 | ❌ pds.secco.dev | No | 0.4.5009 |
 | ❌ pds.seekkey.eu.org | No | 0.4.5037 |
 | ✅ pds.seekkey.tech | No | 0.4.5037 |
@@ -3352,66 +3357,65 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.semsara.ai | No | 0.4.204 |
 | ✅ pds.sensorthings.dev | No | 1.2.0+40611bc |
 | ✅ pds.serendipty01.dev | No | 0.4.5044 |
-| ✅ pds.serrahima.dev | No | 0.4.5037 |
+| ✅ pds.serrahima.dev | No | 0.4.5046 |
 | ❌ pds.sgo.to | No | ??? |
-| ✅ pds.shaggylabs.com | No | 0.4.5044 |
+| ✅ pds.shaggylabs.com | No | 0.4.5046 |
 | ✅ pds.shamm.as | No | tranquil 0.7.0 |
 | ✅ pds.sharedcomputer.network | No | 0.15.0-rc.6+f74a3e1046 |
 | ✅ pds.sharx.fyi | No | N/A |
 | ✅ pds.shendai.fr | No | tranquil 0.6.6 |
-| ✅ pds.shibbi.me | No | 0.4.5044 |
+| ✅ pds.shibbi.me | No | 0.4.5046 |
 | ✅ pds.shigepon.net | No | 0.4.5037 |
-| ✅ pds.shivan.xyz | No | 0.4.5044 |
+| ✅ pds.shivan.xyz | No | 0.4.5046 |
 | ✅ pds.shortrib.io | No | 0.4.5001 |
 | ✅ pds.shreyanjain.net | No | 0.4.5027 |
-| ✅ pds.shun-shin.com | No | 0.4.5044 |
-| ✅ pds.shuuji3.xyz | No | 0.4.5044 |
+| ✅ pds.shun-shin.com | No | 0.4.5046 |
+| ✅ pds.shuuji3.xyz | No | 0.4.5046 |
 | ✅ pds.si46.world | No | 0.4.138 |
 | ✅ pds.siax.io | No | 1.0.0 |
-| ✅ pds.sigb.us | No | 0.4.5044 |
+| ✅ pds.sigb.us | No | 0.4.5046 |
 | ✅ pds.silvi.earth | No | N/A |
 | ✅ pds.simmarith.de | No | tranquil 0.6.5 |
-| ✅ pds.simpler-sns.jp | No | 0.4.5044 |
+| ✅ pds.simpler-sns.jp | No | 0.4.5046 |
 | ✅ pds.sims.computer | No | 0.5.26 |
 | ❌ pds.sincobertura.net | No | ??? |
 | ✅ pds.singingpigs.online | No | 0.4.5043 |
-| ✅ pds.siorc.eu | No | 0.4.5044 |
+| ✅ pds.siorc.eu | No | 0.4.5046 |
 | ✅ pds.sipol.at | No | 0.4.208 |
-| ✅ pds.sirby.dev | No | 0.4.5037 |
+| ✅ pds.sirby.dev | No | 0.4.5046 |
 | ✅ pds.siren-vibes.ts.net | No | 0.4.5027 |
 | ✅ pds.sirspudlington.dev | No | 0.4.169 |
-| ✅ pds.skeptic.site | No | 0.4.5044 |
+| ✅ pds.skeptic.site | No | 0.4.5046 |
 | ❌ pds.skybridge.openleaderboard.net | No | 0.4.5001 |
-| ✅ pds.skyen.live | No | 0.4.5044 |
-| ✅ pds.skyfeed.dev | No | 0.4.5044 |
+| ✅ pds.skyen.live | No | 0.4.5046 |
+| ✅ pds.skyfeed.dev | No | 0.4.5046 |
 | ✅ pds.skypaw.net | No | 0.4.219 |
 | ✅ pds.skyphone.social | No | 0.4.5009 |
-| ✅ pds.smallbury.social | No | 0.4.5044 |
+| ✅ pds.smallbury.social | No | 0.4.5046 |
 | ✅ pds.snep.business | No | mow |
 | ✅ pds.snorre.io | No | 0.4.5034 |
-| ✅ pds.social.allem43.se | No | 0.4.5043 |
+| ❌ pds.social.allem43.se | No | 0.4.5043 |
 | ✅ pds.social.clipsymphony.com | No | ??? |
-| ❌ pds.socialweb.computer | No | ??? |
 | ✅ pds.solar1st.xyz | No | 0.4.5037 |
 | ✅ pds.solpbc.org | Yes | ??? |
 | ✅ pds.someone.ky | No | tranquil 0.6.7 |
 | ✅ pds.somethingwonderful.eu | No | 0.4.5027 |
-| ✅ pds.sommarnatten.se | No | 0.4.5044 |
+| ✅ pds.sommarnatten.se | No | 0.4.5046 |
 | ✅ pds.sonde.blue | Yes | 0.10.1 |
 | ✅ pds.sophie.engineering | No | 0.4.5034 |
 | ✅ pds.southcape.org | No | 0.4.219 |
-| ✅ pds.spaces.actor | No | 0.0.0-spaces-alpha-20261015143509 |
+| ✅ pds.spaces.actor | No | 0.0.0-spaces-alpha-20261022141228 |
 | ✅ pds.spellbound.sh | No | 0.4.5037 |
 | ✅ pds.spencer.earth | No | 0.4.5009 |
-| ✅ pds.spencergilbert.dev | No | 0.4.5044 |
+| ✅ pds.spencergilbert.dev | No | 0.4.5046 |
 | ✅ pds.spincats.net | No | 0.4.5037 |
 | ✅ pds.spirallex.com | Yes | ??? |
 | ✅ pds.sprinkles.cloud | No | N/A |
-| ✅ pds.sprk.so | Yes | 0.4.5044 |
+| ✅ pds.sprk.so | Yes | 0.4.5046 |
 | ✅ pds.sqrk.dev | No | sqrk\! |
 | ✅ pds.sqrl.systems | No | tranquil 0.7.1 |
 | ✅ pds.squadsync.gg | No | 0.4.219 |
-| ✅ pds.srv.rbrt.fr | No | 0.4.5043 |
+| ✅ pds.srv.rbrt.fr | No | 0.4.5046 |
 | ✅ pds.srv1479012.hstgr.cloud | No | 0.4.5037 |
 | ❌ pds.staceyell.com | No | tranquil 0.6.7 |
 | ✅ pds.staging.arras.elyria.dev | No | 0.4.5001 |
@@ -3419,108 +3423,108 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.staging.freemix.fm | No | 0.4.5009 |
 | ✅ pds.staging.vublox.com | No | 0.5.40 |
 | ✅ pds.standingpad.org | No | 0.4.5034 |
-| ✅ pds.star-dog.net | No | 0.4.5044 |
-| ✅ pds.starhaven.dev | No | tranquil 0.7.0 |
-| ✅ pds.starlightnet.work | No | 0.4.5034 |
-| ✅ pds.starseedfrequency.info | No | 0.4.5044 |
-| ✅ pds.statmeet.com | No | 0.4.5044 |
+| ✅ pds.star-dog.net | No | 0.4.5046 |
+| ✅ pds.starhaven.dev | No | tranquil 0.7.1 |
+| ✅ pds.starlightnet.work | No | 0.4.5046 |
+| ✅ pds.starseedfrequency.info | No | 0.4.5046 |
+| ✅ pds.statmeet.com | No | 0.4.5046 |
 | ✅ pds.stclair.me | No | 0.4.5027 |
-| ✅ pds.stellers.gay | No | 0.4.5043 |
+| ✅ pds.stellers.gay | No | 0.4.5046 |
 | ✅ pds.stephanhagemann.com | No | 0.4.5037 |
 | ✅ pds.steve.scot | No | 1.0.0+02b7e76 |
 | ✅ pds.stockage.quebec | No | 0.4.219 |
-| ✅ pds.str-sin.uk | No | 0.4.5044 |
+| ✅ pds.str-sin.uk | No | 0.4.5046 |
 | ✅ pds.straaubs.garden | No | 0.4.5037 |
-| ✅ pds.strange.website | No | 0.4.5044 |
+| ✅ pds.strange.website | No | 0.4.5046 |
 | ✅ pds.strings.io | No | ??? |
 | ✅ pds.studiodraconis.com | No | 0.4.182 |
-| ✅ pds.stupid.fish | No | 0.4.204 |
+| ❌ pds.stupid.fish | No | 0.4.204 |
 | ❌ pds.stupidtech.net | No | ??? |
 | ✅ pds.subcult.tv | No | 0.4.5027 |
-| ✅ pds.sullen.net | No | 0.4.5043 |
+| ✅ pds.sullen.net | No | 0.4.5046 |
 | ✅ pds.sunflower.lgbt | No | tranquil 0.6.6 |
 | ✅ pds.sunnahsky.com | No | 0.5.28 |
 | ✅ pds.suranyami.com | No | 0.4.5009 |
-| ✅ pds.svc.jmd.id.au | No | 0.4.5044 |
+| ✅ pds.svc.jmd.id.au | No | 0.4.5046 |
 | ✅ pds.svc.trm.io | No | 0.4.5027 |
 | ✅ pds.sved.be | No | 0.4.208 |
-| ✅ pds.svenlaa.eu | No | 0.4.5044 |
+| ✅ pds.svenlaa.eu | No | 0.4.5046 |
 | ✅ pds.svpn.com | No | 0.0.0 |
 | ✅ pds.svrt.me | No | 0.4.219 |
 | ✅ pds.swansons.at | No | 0.4.5037 |
 | ✅ pds.swarmchat.ai | Yes | 0.4.208 |
 | ✅ pds.swarmhost.dev | No | 0.4.219 |
-| ✅ pds.syahu.com | No | 0.4.5044 |
+| ✅ pds.syahu.com | No | 0.4.5046 |
 | ✅ pds.sylvievr.dev | No | tranquil 0.6.6 |
-| ✅ pds.synth.download | No | 0.4.5044 |
-| ✅ pds.syrinxs.net | No | 0.4.5044 |
+| ✅ pds.synth.download | No | 0.4.5046 |
+| ✅ pds.syrinxs.net | No | 0.4.5046 |
 | ✅ pds.systemrush.net | No | 0.4.5037 |
-| ✅ pds.t3m8ch.ru | No | 0.4.5044 |
+| ✅ pds.t3m8ch.ru | No | 0.4.5046 |
 | ✅ pds.tabschat.com | Yes | 0.5.36 |
 | ✅ pds.takibi.pub | No | 0.4.5027 |
 | ✅ pds.tale.me | No | 0.4.219 |
-| ✅ pds.tamisoft.com | No | 0.4.5044 |
+| ✅ pds.tamisoft.com | No | 0.4.5046 |
 | ✅ pds.tanuk.us | No | 0.4.5037 |
 | ✅ pds.tardigradecircus.xyz | Yes | 0.5.26 |
 | ✅ pds.tartarus.us | No | tranquil 0.6.6 |
 | ✅ pds.taylorlocus.co.uk | No | 0.4.5043 |
-| ✅ pds.techforwhat.xyz | No | 0.4.5044 |
-| ✅ pds.techie.dad | No | 0.4.5044 |
-| ✅ pds.techne.app | No | 0.4.5044 |
-| ✅ pds.technoethos.com | No | 0.4.5044 |
+| ✅ pds.techforwhat.xyz | No | 0.4.5046 |
+| ✅ pds.techie.dad | No | 0.4.5046 |
+| ✅ pds.techne.app | No | 0.4.5046 |
+| ✅ pds.technoethos.com | No | 0.4.5046 |
 | ✅ pds.telempiel.gay | No | 0.4.5006 |
 | ✅ pds.tentacle.expert | No | 0.4.138 |
 | ✅ pds.terranul.dev | No | 0.4.193 |
-| ✅ pds.terrisbecker.com | No | 0.4.5044 |
+| ✅ pds.terrisbecker.com | No | 0.4.5046 |
 | ✅ pds.tessera.at | Yes | 0.5.19 |
 | ✅ pds.tesserakt.dev | No | 0.4.5037 |
-| ✅ pds.tezoscommons.org | No | 0.4.5044 |
+| ✅ pds.tezoscommons.org | No | 0.4.5046 |
 | ✅ pds.tgirl.cloud | No | 0.4.5037 |
-| ✅ pds.thatonegeekguy.com | No | 0.4.5044 |
+| ✅ pds.thatonegeekguy.com | No | 0.4.5046 |
 | ✅ pds.theblueai.org | Yes | 0.4.5034 |
 | ✅ pds.thefishing.dev | No | 0.4.193 |
-| ✅ pds.thequinn.org | No | 0.4.74 |
-| ✅ pds.therewasrain.com | No | 0.4.5037 |
+| ❌ pds.thequinn.org | No | 0.4.74 |
+| ✅ pds.therewasrain.com | No | 0.4.5046 |
 | ✅ pds.theroguedungeon.org | No | tranquil 0.6.6 |
 | ✅ pds.thesoul.farm | No | 0.4.5027 |
 | ✅ pds.thewestwoods.us | No | tranquil 0.6.5 |
-| ✅ pds.thomas.camp | No | 0.4.5044 |
+| ✅ pds.thomas.camp | No | 0.4.5046 |
 | ✅ pds.thomasprojects.net | No | 0.4.5034 |
 | ✅ pds.thororen.com | No | 0.4.5034 |
 | ✅ pds.tibor.sh | No | 0.4.5027 |
-| ✅ pds.tidyverse.me | No | 0.4.5044 |
+| ✅ pds.tidyverse.me | No | 0.4.5046 |
 | ✅ pds.tijarist.xyz | No | 0.4.5009 |
-| ✅ pds.timburga.social | No | 0.4.5043 |
+| ✅ pds.timburga.social | No | 0.4.5046 |
 | ✅ pds.timingliu.org | No | 0.4.5034 |
-| ✅ pds.timjefferson.info | No | 0.4.5044 |
-| ✅ pds.timjrobinson.com | No | 0.4.5001 |
+| ✅ pds.timjefferson.info | No | 0.4.5046 |
+| ❌ pds.timjrobinson.com | No | 0.4.5001 |
 | ✅ pds.timju.li | No | 0.4.208 |
 | ✅ pds.timka.win | No | 0.4.5044 |
-| ✅ pds.timnsky.com | No | 0.4.5044 |
-| ✅ pds.timtrautmann.com | No | 0.4.5044 |
-| ✅ pds.tinkelenberg.com | No | 0.4.5044 |
-| ✅ pds.tldl.pro | No | 0.4.5044 |
+| ✅ pds.timnsky.com | No | 0.4.5046 |
+| ✅ pds.timtrautmann.com | No | 0.4.5046 |
+| ✅ pds.tinkelenberg.com | No | 0.4.5046 |
+| ✅ pds.tldl.pro | No | 0.4.5046 |
 | ✅ pds.tofu.social | No | tranquil 0.6.7 |
 | ✅ pds.tokyonight.city | No | tranquil 0.6.7 |
 | ✅ pds.tomkahe.com | No | 0.4.5043 |
-| ✅ pds.tomo-x.win | No | 0.4.5044 |
-| ✅ pds.tophhie.cloud | Yes | 0.4.5044 |
-| ✅ pds.touchgrass.network | Yes | 0.4.5043 |
-| ✅ pds.tracklist.diy | No | 0.4.5044 |
+| ✅ pds.tomo-x.win | No | 0.4.5046 |
+| ✅ pds.tophhie.cloud | Yes | 0.4.5046 |
+| ✅ pds.touchgrass.network | Yes | 0.5.32 |
+| ✅ pds.tracklist.diy | No | 0.4.5046 |
 | ✅ pds.trainers.gg | No | 0.4.219 |
-| ✅ pds.transparencia.tech | No | 0.4.5044 |
-| ✅ pds.tranvender.net | No | 0.4.5044 |
+| ✅ pds.transparencia.tech | No | 0.4.5046 |
+| ❌ pds.tranvender.net | No | 0.4.5044 |
 | ✅ pds.trebaxis.net | No | tranquil 0.6.5 |
 | ✅ pds.trevorblackman.dev | No | 0.4.5009 |
-| ✅ pds.treybastian.com | No | 0.4.5043 |
+| ✅ pds.treybastian.com | No | 0.4.5046 |
 | ✅ pds.triarcio.sh | No | 0.4.193 |
 | ✅ pds.tributaries.digital | No | 0.4.5043 |
-| ✅ pds.trickylabyrinth.xyz | No | 0.4.5044 |
+| ✅ pds.trickylabyrinth.xyz | No | 0.4.5046 |
 | ✅ pds.triominion.com | No | 0.4.5037 |
 | ✅ pds.trove.at | No | 0.4.208 |
-| ✅ pds.troy0820.dev | No | 0.4.5044 |
+| ✅ pds.troy0820.dev | No | 0.4.5046 |
 | ❌ pds.trump.com | No | ??? |
-| ✅ pds.tsepa.net | No | 0.4.5044 |
+| ✅ pds.tsepa.net | No | 0.4.5046 |
 | ✅ pds.tty.garden | No | 0.4.5034 |
 | ❌ pds.tuttipazzi.cyou | No | 0.4.5037 |
 | ✅ pds.tylerjfisher.com | No | 0.4.5037 |
@@ -3532,63 +3536,63 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.unravel.fyi | No | 0.5.37 |
 | ✅ pds.untilde.co | No | 0.4.182 |
 | ✅ pds.untone.uk | No | 0.4.158 |
-| ✅ pds.upcloud.world | No | 0.4.5044 |
+| ✅ pds.upcloud.world | No | 0.4.5046 |
 | ✅ pds.upstate.pub | No | 0.4.5043 |
-| ✅ pds.urcad.es | No | 0.4.208 |
-| ✅ pds.urls.loan | No | 0.4.5044 |
+| ✅ pds.urcad.es | No | 0.4.5046 |
+| ✅ pds.urls.loan | No | 0.4.5046 |
 | ✅ pds.ursalabs.dev | No | 0.4.5037 |
-| ✅ pds.usaa.ma | Yes | 0.4.5044 |
-| ❌ pds.usaya.de | No | 0.4.5037 |
+| ✅ pds.usaa.ma | Yes | 0.4.5046 |
+| ✅ pds.usaya.de | No | 0.4.5037 |
 | ✅ pds.usemaia.app | No | 0.4.5009 |
 | ✅ pds.usounds.work | No | 0.4.5006 |
 | ❌ pds.utatracker.com | No | 0.4.5037 |
 | ✅ pds.uzaaft.me | Yes | cirrus 0.13.0 |
 | ✅ pds.valentine.zip | No | 0.4.5034 |
 | ✅ pds.valuableslide.gmbh | No | 0.4.5027 |
-| ✅ pds.vandort.dev | No | 0.4.5044 |
+| ✅ pds.vandort.dev | No | 0.4.5046 |
 | ✅ pds.vanhouzen.me | No | tranquil 0.6.7 |
 | ✅ pds.var.aether.earth | No | 0.4.158 |
 | ✅ pds.vazouprivacy.com | Yes | 0.4.5026 |
 | ✅ pds.vboof.fr | No | 0.4.208 |
 | ✅ pds.vcsjones.dev | No | 0.4.193 |
 | ✅ pds.vegum.no | No | tranquil 0.6.5 |
-| ✅ pds.velvetshadow.fr | No | 0.4.5044 |
+| ✅ pds.velvetshadow.fr | No | 0.4.5046 |
 | ✅ pds.venoom.net | Yes | 0.4.5027 |
 | ✅ pds.verifikasjon.demokratiloftet.no | No | 0.4.5037 |
-| ✅ pds.vhbelvadi.com | No | 0.4.5044 |
-| ✅ pds.vidur.dev | No | 0.4.5034 |
-| ✅ pds.vincentfalconi.com | No | 0.4.5037 |
-| ✅ pds.violetic.gay | No | 0.4.5044 |
+| ✅ pds.vhbelvadi.com | No | 0.4.5046 |
+| ✅ pds.vidur.dev | No | 0.4.5046 |
+| ✅ pds.vincentfalconi.com | No | 0.4.5046 |
+| ✅ pds.violetic.gay | No | 0.4.5046 |
 | ✅ pds.vipde.f5.si | No | 0.4.5037 |
 | ✅ pds.vixen.computer | No | 0.4.5027 |
-| ✅ pds.vodkeo.com | No | 0.4.5044 |
+| ✅ pds.vodkeo.com | No | 0.4.5046 |
 | ✅ pds.votemap.eu | No | 0.4.5034 |
-| ✅ pds.voxcrowd.app | No | 0.4.5037 |
-| ✅ pds.voxodds.com | No | 0.4.5044 |
+| ✅ pds.voxcrowd.app | No | 0.4.5046 |
+| ✅ pds.voxodds.com | No | 0.4.5046 |
 | ✅ pds.vriska.dev | No | 0.4.193 |
-| ✅ pds.vrn.im | No | 0.4.5044 |
+| ✅ pds.vrn.im | No | 0.4.5046 |
 | ✅ pds.vrypan.net | Yes | robby/v0.4.0 |
 | ✅ pds.vublox.com | No | 0.5.40 |
-| ✅ pds.vulpe.systems | No | tranquil 0.6.7 |
+| ✅ pds.vulpe.systems | No | tranquil 0.7.0 |
 | ✅ pds.vvill.dev | No | tranquil 0.6.6 |
-| ✅ pds.vylion.com | No | tranquil 0.6.0 |
-| ✅ pds.waffle.casa | No | 0.4.5044 |
+| ❌ pds.vylion.com | No | tranquil 0.6.0 |
+| ✅ pds.waffle.casa | No | 0.4.5046 |
 | ✅ pds.wales | No | tranquil 0.7.0 |
-| ✅ pds.walker.cafe | No | 0.4.5043 |
+| ✅ pds.walker.cafe | No | 0.4.5046 |
 | ✅ pds.wamellow.com | No | cocoon b51c513 |
 | ✅ pds.wasson.io | No | 0.4.5009 |
 | ✅ pds.wasthatzero.net | No | 0.4.182 |
-| ✅ pds.watch-tower.net | No | 0.4.5043 |
+| ✅ pds.watch-tower.net | No | 0.4.5046 |
 | ✅ pds.watsonlabs.net | No | 0.4.5034 |
 | ✅ pds.weee.ee | No | 0.4.5043 |
-| ✅ pds.wetheredge.com | No | 0.4.5034 |
+| ✅ pds.wetheredge.com | No | 0.4.5037 |
 | ✅ pds.wfdoujin.com | No | 0.4.5034 |
-| ✅ pds.wforwumbo.net | No | 0.4.5044 |
+| ✅ pds.wforwumbo.net | No | 0.4.5046 |
 | ✅ pds.whack.dev | No | 0.4.5009 |
-| ✅ pds.whnc.me | No | 0.4.5044 |
-| ✅ pds.wickd.xyz | No | 0.4.5044 |
-| ✅ pds.wilburn.lol | No | 0.4.182 |
-| ✅ pds.williamhazard.co | No | 0.4.5044 |
+| ✅ pds.whnc.me | No | 0.4.5046 |
+| ✅ pds.wickd.xyz | No | 0.4.5046 |
+| ✅ pds.wilburn.lol | No | 0.4.5046 |
+| ✅ pds.williamhazard.co | No | 0.4.5046 |
 | ✅ pds.wingzord.be | No | 0.4.5044 |
 | ✅ pds.wiro.world | No | 0.4.5009 |
 | ✅ pds.wisp.family | No | 0.4.5027 |
@@ -3599,37 +3603,38 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.workolio.app | Yes | 0.4.5009 |
 | ✅ pds.wouldcop.com | No | 0.4.5009 |
 | ✅ pds.wsocial.network | No | 0.5.21 |
-| ✅ pds.wtfos.me | Yes | 0.4.219 |
+| ✅ pds.wtfos.me | Yes | 0.4.5046 |
 | ✅ pds.wyvern.rip | No | 0.4.219 |
 | ✅ pds.wzrdz.cool | No | 0.4.5034 |
 | ✅ pds.x0f.nl | No | 0.4.5043 |
-| ✅ pds.xayah.net | No | 0.4.5044 |
-| ✅ pds.xcvr.org | No | 0.4.5044 |
+| ✅ pds.xayah.net | No | 0.4.5046 |
+| ✅ pds.xcvr.org | No | 0.4.5046 |
 | ✅ pds.xenolandscapes.com | Yes | tranquil 0.6.3 |
-| ✅ pds.xophoros.com | No | 0.4.5044 |
-| ✅ pds.xylight.dev | No | 0.4.5044 |
+| ✅ pds.xophoros.com | No | 0.4.5046 |
+| ✅ pds.xylight.dev | No | 0.4.5046 |
 | ✅ pds.xyz | No | 0.4.219 |
 | ✅ pds.y0t3.com | No | 0.4.5037 |
 | ✅ pds.yfrit.social | No | 0.4.5027 |
 | ✅ pds.yiik.ing | No | N/A |
 | ✅ pds.yolo.scapegoat.dev | No | 0.4.5009 |
 | ✅ pds.yote.sh | No | tranquil 0.6.5 |
-| ✅ pds.ypak.co | No | 0.4.5044 |
+| ✅ pds.ypak.co | No | 0.4.5046 |
+| ❌ pds.ysaito.win | No | ??? |
 | ✅ pds.yuki46.net | No | 0.4.21 |
 | ✅ pds.zat.dev | No | 0.5.2 |
-| ✅ pds.zccx.net | No | 0.4.5043 |
+| ✅ pds.zccx.net | No | 0.4.5046 |
 | ❌ pds.zeetech.io | No | ??? |
 | ✅ pds.zelk.space | No | 0.4.5034 |
 | ✅ pds.zem.fi | No | 0.4.5034 |
-| ✅ pds.zenchant.live | No | 0.4.5044 |
+| ✅ pds.zenchant.live | No | 0.4.5046 |
 | ✅ pds.zenmaya.xyz | No | 0.4.5027 |
 | ❌ pds.zerotsu.xyz | No | ??? |
-| ✅ pds.zetaphor.com | No | 0.4.5044 |
+| ✅ pds.zetaphor.com | No | 0.4.5046 |
 | ✅ pds.zezura.xyz | No | tranquil 0.6.7 |
 | ✅ pds.zidhuss.tech | No | 0.4.5034 |
 | ✅ pds.zimbatm.com | No | 0.4.5027 |
 | ✅ pds.zimbri.cc | No | 0.4.5027 |
-| ✅ pds.zind.online | No | 0.4.5044 |
+| ✅ pds.zind.online | No | 0.4.5046 |
 | ✅ pds.ziran.space | No | 0.5.29 |
 | ✅ pds.ztg.sh | No | ztg-cirrus 0.1.0 |
 | ✅ pds.zzstoatzz.io | No | 0.4.5044 |
@@ -3642,12 +3647,12 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds1-us-west-host.solidar.network | No | 0.4.218 |
 | ✅ pds1.angelo.systems | No | tranquil 0.7.0 |
 | ❌ pds1.bsea.social | No | 0.4.218 |
-| ✅ pds1.bsky.owu.one | No | 0.4.5044 |
+| ✅ pds1.bsky.owu.one | No | 0.4.5046 |
 | ✅ pds1.lab.raakode.dk | No | 0.5.29 |
 | ✅ pds1.lilingyi-awa.top | No | 0.4.5001 |
-| ✅ pds1.mikemerritt.xyz | No | 0.4.5044 |
-| ✅ pds1.north-aster.dev | No | 0.4.5044 |
-| ❌ pds1.podping.at | No | 0.4.5037 |
+| ✅ pds1.mikemerritt.xyz | No | 0.4.5046 |
+| ✅ pds1.north-aster.dev | No | 0.4.5046 |
+| ✅ pds1.podping.at | No | 0.4.5046 |
 | ✅ pds1.rx-sns-dev.uk | No | 0.1.0 |
 | ✅ pds1.rx-sns.net | No | 0.1.0 |
 | ✅ pds1.rx-social.net | No | 0.1.0 |
@@ -3669,7 +3674,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds18.rx-sns.net | No | 0.1.0 |
 | ✅ pds19.rx-sns.net | No | 0.1.0 |
 | ✅ pds2.bun.how | No | 0.4.5034 |
-| ✅ pds2.dolciss.net | No | 0.4.5044 |
+| ✅ pds2.dolciss.net | No | 0.4.5046 |
 | ✅ pds2.jaystevens.me | No | 0.4.5044 |
 | ✅ pds2.kocharin.art | Yes | ??? |
 | ✅ pds2.lab.raakode.dk | No | 0.5.29 |
@@ -3677,15 +3682,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds2.mkizka.dev | No | 0.5.29 |
 | ✅ pds2.on-her.computer | No | 0.4.5034 |
 | ❌ pds2.patspats.xyz | No | ??? |
-| ✅ pds2.podping.at | No | 0.4.5044 |
+| ✅ pds2.podping.at | No | 0.4.5046 |
 | ❌ pds2.poltr.info | No | ??? |
 | ✅ pds2.rougebordeaux.xyz | No | 0.4.219 |
 | ✅ pds2.rx-sns-dev.uk | No | 0.1.0 |
 | ✅ pds2.rx-sns.net | No | 0.1.0 |
 | ✅ pds2.rx-social.net | No | 0.1.0 |
-| ✅ pds2.smallbury.social | No | 0.4.5044 |
-| ❌ pds2.socialweb.computer | No | ??? |
-| ✅ pds2.soverth.blue | No | 0.4.5037 |
+| ✅ pds2.smallbury.social | No | 0.4.5046 |
+| ✅ pds2.soverth.blue | No | 0.4.5046 |
 | ✅ pds20.rx-sns.net | No | 0.1.0 |
 | ✅ pds3.bun.how | No | tranquil 0.7.1 |
 | ❌ pds3.patspats.xyz | No | ??? |
@@ -3707,44 +3711,42 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds9.rx-sns.net | No | 0.1.0 |
 | ✅ pds9.rx-social.net | No | 0.1.0 |
 | ✅ pdsingletary.protobase.at | No | 0.4.5037 |
-| ✅ peaceypea.net | No | 0.4.5043 |
+| ✅ peaceypea.net | No | 0.4.5046 |
 | ✅ peers.social | Yes | ??? |
 | ✅ pegasus.bas.sh | No | pegasus e02c44f |
 | ❌ pegasus.generic.dev | Yes | pegasus dev |
-| ✅ peridot.love | No | 0.4.5044 |
+| ✅ peridot.love | No | 0.4.5046 |
 | ✅ persona.spirallex.com | Yes | ??? |
 | ✅ petitl.fr | No | 0.4.5027 |
 | ✅ petrichor.wtf | No | cocoon v0.11.3-0-g8ad8f2d |
 | ✅ phase.social | No | 0.4.193 |
 | ✅ philly.sh | No | 0.4.5037 |
-| ✅ philtz.co | No | 0.4.5044 |
+| ✅ philtz.co | No | 0.4.5046 |
 | ✅ phlogiston.social | No | 0.4.5037 |
-| ✅ phobosnet.uk | No | 0.4.5044 |
-| ✅ phoozle.com | No | 0.4.5044 |
+| ✅ phobosnet.uk | No | 0.4.5046 |
+| ✅ phoozle.com | No | 0.4.5046 |
 | ✅ pi.equals.3.141592653589793.ru | No | 0.4.5026 |
-| ❌ pi.stalheim.net | No | 0.4.5037 |
 | ✅ pierre.slowte.ch | No | 0.4.5026 |
 | ✅ pimaker.at | No | 0.4.67 |
 | ✅ pisces.merklehost.xyz | No | 0.4.5007 |
-| ✅ pizzasox.com | No | 0.4.5044 |
+| ✅ pizzasox.com | No | 0.4.5046 |
 | ✅ planetary.defense.system.functional.technology | No | 0.4.5034 |
 | ✅ plantroon.com | No | 0.4.219 |
-| ✅ pleasant.rest | No | 0.4.5044 |
-| ✅ pleiadian.xsns.jp | No | 0.4.5034 |
-| ✅ plumbob.social | No | 0.4.5044 |
-| ✅ plutus.tylerwhitney.com | No | 0.4.5044 |
-| ✅ pmallen.xyz | No | 0.4.5044 |
-| ❌ poasters-club-vlpds.fly.dev | No | ??? |
-| ✅ pod.exppad.com | No | 0.4.5044 |
+| ✅ pleasant.rest | No | 0.4.5046 |
+| ✅ pleiadian.xsns.jp | No | 0.4.5046 |
+| ✅ plumbob.social | No | 0.4.5046 |
+| ✅ plutus.tylerwhitney.com | No | 0.4.5046 |
+| ✅ pmallen.xyz | No | 0.4.5046 |
+| ✅ pod.exppad.com | No | 0.4.5046 |
 | ✅ pods.farmpod.eu | No | custorium v0.8.11 |
 | ✅ poecoh.com | No | 0.4.5009 |
 | ✅ polarfox.app | No | 0.4.5009 |
 | ✅ polycule.social | No | ??? |
 | ✅ poosky.social | No | 0.4.5001 |
-| ✅ porpoise-technologies.moe | No | 0.4.5044 |
-| ✅ postcrypt-pds.net | No | 0.4.5037 |
+| ✅ porpoise-technologies.moe | No | 0.4.5046 |
+| ✅ postcrypt-pds.net | No | 0.4.5046 |
 | ✅ postx.social | No | 0.4.5037 |
-| ✅ poweredbyadhd.net | No | 0.4.5044 |
+| ✅ poweredbyadhd.net | No | 0.4.5046 |
 | ✅ prevter.me | No | 0.4.59 |
 | ✅ prichal-pds.subcult.tv | No | 0.4.5036 |
 | ✅ primula.my.id | No | 0.4.208 |
@@ -3752,57 +3754,57 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ prismalau.org | No | 0.4.193 |
 | ❌ private-knot.starhaven.dev | No | ??? |
 | ✅ private.gainforest.id | No | 0.5.7-permissioned-data-c5962d7 |
-| ✅ privatepds.com | No | 0.4.5044 |
-| ✅ profile.blue | No | 0.4.5044 |
-| ✅ proot.uk | No | 0.4.5044 |
+| ✅ privatepds.com | No | 0.4.5046 |
+| ✅ profile.blue | No | 0.4.5046 |
+| ❌ proot.uk | No | 0.4.5044 |
 | ✅ proteinspill.com | No | 0.4.5027 |
 | ❌ ps4.pds.meowing.zip | No | 0.4.5037 |
 | ✅ psd.nearhorizon.app | Yes | ??? |
 | ✅ psky.social | No | 0.4.5009 |
-| ✅ psrd.club | Yes | 0.4.5037 |
-| ✅ pubby.social | No | 0.4.5044 |
-| ✅ punipon.dev | No | 0.4.5037 |
+| ✅ psrd.club | Yes | 0.4.5046 |
+| ✅ pubby.social | No | 0.4.5046 |
+| ✅ punipon.dev | No | 0.4.5046 |
 | ✅ punk-cafe-pds.com | No | 0.4.213 |
 | ✅ puppydataserver.com | No | pegasus dev |
-| ✅ pups.lgbt | No | 0.4.5044 |
+| ✅ pups.lgbt | No | 0.4.5046 |
 | ✅ purpleskye.net | No | 0.4.193 |
 | ✅ purr.systems | No | boobies |
 | ✅ pushingbuddies.kralsei.stream | No | tranquil 0.7.1 |
 | ✅ pussy.fortnitehacks.download | No | 0.4.66 |
 | ✅ puter.group | No | tranquil 0.6.7 |
-| ✅ quarterbacks.day | No | 0.4.5044 |
+| ✅ quarterbacks.day | No | 0.4.5046 |
 | ✅ quietism.art | No | 0.4.5027 |
 | ✅ quilt.com.tw | No | 0.4.208 |
-| ✅ radiospork.com | No | 0.4.5044 |
+| ✅ radiospork.com | No | 0.4.5046 |
 | ❌ radxa.rocksky.social | No | ??? |
 | ✅ rafu.social | No | N/A |
-| ✅ rainbowgirl.moe | No | 0.4.5044 |
-| ✅ ramon-west.com | No | 0.4.5044 |
-| ✅ randoneering.dev | No | 0.4.5037 |
+| ✅ rainbowgirl.moe | No | 0.4.5046 |
+| ✅ ramon-west.com | No | 0.4.5046 |
+| ✅ randoneering.dev | No | 0.4.5046 |
 | ✅ rant.cafe | No | 0.4.138 |
-| ✅ raspberrypi3.rocksky.social | Yes | clojure-pds v0.1.0-dev |
+| ❌ raspberrypi3.rocksky.social | Yes | clojure-pds v0.1.0-dev |
 | ✅ raspberrypi4.rocksky.social | Yes | N/A |
-| ✅ rat.mom | No | 0.4.5044 |
+| ✅ rat.mom | No | 0.4.5046 |
 | ✅ rbnhmr.me | No | 0.4.5034 |
-| ✅ rdbmax.xyz | No | 0.4.5044 |
+| ✅ rdbmax.xyz | No | 0.4.5046 |
 | ✅ redecapivara.social | No | 0.4.5009 |
-| ✅ redocean.one | No | 0.4.5044 |
+| ✅ redocean.one | No | 0.4.5046 |
 | ✅ ref.pds.blackstar.quest | Yes | 0.15.0-rc.4+ts1786736829 |
 | ❌ repo.actor | No | 0.4.5034 |
-| ✅ repo.layers.pub | No | 0.4.5044 |
+| ✅ repo.layers.pub | No | 0.4.5046 |
 | ✅ repo.works | No | N/A |
 | ✅ repos.fyi | No | 0.4.107 |
 | ❌ researchps.com | No | 0.4.5001 |
-| ❌ reszke.dev | No | 0.4.98 |
+| ✅ reszke.dev | No | 0.4.98 |
 | ✅ retrodev.com | No | 0.4.74 |
 | ✅ reverie.house | No | 0.4.208 |
-| ✅ rhein.social | No | 0.4.5044 |
-| ✅ ricardocosme.eu | No | 0.4.5044 |
-| ✅ rjm.ie | No | 0.4.5037 |
-| ✅ roadl.ing | No | 0.4.5044 |
-| ✅ rob365.social | No | 0.4.5044 |
+| ✅ rhein.social | No | 0.4.5046 |
+| ✅ ricardocosme.eu | No | 0.4.5046 |
+| ✅ rjm.ie | No | 0.4.5046 |
+| ✅ roadl.ing | No | 0.4.5046 |
+| ✅ rob365.social | No | 0.4.5046 |
 | ✅ robkeys.info | No | 0.4.158 |
-| ✅ robmonline.net | No | 0.4.5044 |
+| ✅ robmonline.net | No | 0.4.5046 |
 | ✅ roccobots.beastmoderocco.com | No | 0.4.5009 |
 | ✅ rocksky.social | Yes | 0.1.0 |
 | ✅ rook.host | No | ??? |
@@ -3811,20 +3813,20 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ rookery.latha.org | No | ??? |
 | ✅ roomy.chat | No | 0.4.5009 |
 | ✅ roost.latha.org | Yes | ??? |
-| ✅ rootkitty.gay | No | 0.4.5044 |
-| ✅ rope.pics | No | 0.4.5044 |
+| ✅ rootkitty.gay | No | 0.4.5046 |
+| ✅ rope.pics | No | 0.4.5046 |
 | ✅ roseapollo.com | No | 0.4.5046 |
-| ✅ rossignol-gordon.tech | No | 0.4.5043 |
+| ✅ rossignol-gordon.tech | No | 0.4.5046 |
 | ✅ rpg.actor | No | 0.4.208 |
 | ✅ rsky.fourteentrees.net | No | 0.4.5027 |
 | ✅ ru.fuck.insure | No | tranquil 0.6.6 |
-| ✅ rubberskunk.de | No | 0.4.5044 |
+| ✅ rubberskunk.de | No | 0.4.5046 |
 | ✅ ruimoreira.uk | No | 0.4.193 |
 | ✅ rustle-pds.chat | No | 0.4.219 |
-| ✅ rvagc.social | No | 0.4.5044 |
+| ✅ rvagc.social | No | 0.4.5046 |
 | ✅ sad.ovh | No | millipds v0.0.6.dev24+gfaf0c36ba |
 | ✅ sakurasora.social | No | tranquil 0.6.7 |
-| ✅ salty.house | No | 0.4.5044 |
+| ✅ salty.house | No | 0.4.5046 |
 | ✅ salu51-pds.hf.space | Yes | 0.4.12 |
 | ✅ salu51-qqq.hf.space | Yes | 0.4.208 |
 | ✅ salu51-w.hf.space | Yes | 0.4.208 |
@@ -3833,132 +3835,130 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ sans-self.org | No | tranquil 0.6.7 |
 | ✅ santana.nyc | No | 0.4.5037 |
 | ✅ santisbon.me | No | 0.4.5026 |
-| ✅ sarchasm.social | No | 0.4.5044 |
+| ✅ sarchasm.social | No | 0.4.5046 |
 | ✅ satdump.org | No | 0.4.74 |
 | ✅ saturn.pds.bekanntefreunde.de | No | tranquil 0.6.7 |
-| ✅ scalehelix.net | No | 0.4.5044 |
+| ✅ scalehelix.net | No | 0.4.5046 |
 | ✅ scalytooth.metaflame.dev | No | 0.4.5043 |
 | ✅ scaryhairy.monster | No | 0.4.220 |
 | ✅ schabel.online | No | 0.4.5034 |
-| ✅ scios.network | No | 0.4.5044 |
-| ✅ scketchzone.com | No | 0.4.5044 |
+| ✅ scios.network | No | 0.4.5046 |
+| ✅ scketchzone.com | No | 0.4.5046 |
 | ✅ scodran.nl | No | 0.4.5037 |
 | ✅ sds.atproto.staging.silvi.earth | Yes | 0.4.176 |
 | ✅ sea.whims.io | No | 0.4.219 |
-| ✅ seaknot.studio | No | 0.4.5044 |
+| ✅ seaknot.studio | No | 0.4.5046 |
 | ✅ sefirah.dev | No | tranquil 0.6.6 |
 | ✅ seiran-beta.org | Yes | ??? |
 | ✅ self.surf | No | 0.4.211 |
 | ✅ selfhosted.social | Yes | N/A |
 | ✅ sequeste.red | No | tranquil 0.6.6 |
-| ✅ seranok.cyou | No | 0.4.5044 |
-| ✅ sergej.social | No | 0.4.5044 |
+| ✅ seranok.cyou | No | 0.4.5046 |
+| ✅ sergej.social | No | 0.4.5046 |
 | ✅ serverless.social | Yes | ??? |
 | ❌ sevenark.dynv6.net | Yes | 0.5.34 |
 | ❌ sevenark.space | Yes | 0.5.34 |
-| ✅ shapalo.com | No | 0.4.5044 |
+| ✅ shapalo.com | No | 0.4.5046 |
 | ✅ sharkgirl.pet | No | 0.5.38 |
-| ✅ shimaenaga.veryroundbird.house | No | 0.4.5044 |
-| ✅ shirls.org | No | 0.4.5044 |
+| ✅ shimaenaga.veryroundbird.house | No | 0.4.5046 |
+| ✅ shirls.org | No | 0.4.5046 |
 | ✅ shortform.me | No | N/A |
 | ✅ si46.homes | No | 0.4.220 |
 | ✅ si46.shop | No | 0.4.220 |
 | ✅ sidaravicius.com | No | 0.4.158 |
-| ✅ sif.io | No | 0.4.5044 |
-| ✅ silverhand.cc | No | 0.4.5044 |
+| ✅ sif.io | No | 0.4.5046 |
+| ✅ silverhand.cc | No | 0.4.5046 |
 | ✅ silvexen.org | No | 0.4.5026 |
 | ✅ simonian.social | No | 0.4.5001 |
-| ✅ simulationdevs.com | No | 0.4.5044 |
+| ✅ simulationdevs.com | No | 0.4.5046 |
 | ❌ skeetcentral.com | No | 0.4.5037 |
-| ✅ skeetmanufaktur.de | No | 0.4.5044 |
-| ✅ skeleton.rodeo | No | 0.4.5044 |
+| ✅ skeetmanufaktur.de | No | 0.4.5046 |
+| ✅ skeleton.rodeo | No | 0.4.5046 |
 | ✅ skep.es | No | 0.4.5009 |
 | ✅ skies.fromouter.space | No | 0.4.5027 |
-| ✅ skril.la | No | 0.4.5044 |
+| ✅ skril.la | No | 0.4.5046 |
 | ❌ sky.00ffff.eu | No | 0.4.5027 |
-| ✅ sky.11.surf | No | 0.4.5043 |
+| ✅ sky.11.surf | No | 0.4.5046 |
 | ✅ sky.ewnetworks.eu | No | 0.4.5009 |
 | ✅ sky.f20cd2.sh | No | 0.4.5046 |
-| ✅ sky.faithcollapsing.com | No | 0.4.5044 |
+| ✅ sky.faithcollapsing.com | No | 0.4.5046 |
 | ✅ sky.funk.net | No | 0.4.5001 |
 | ✅ sky.interfree.ca | No | N/A |
-| ✅ sky.lain.is | No | 0.4.5044 |
-| ✅ sky.lalafell.org | No | 0.4.5044 |
-| ✅ sky.mattstrapp.net | No | 0.4.5044 |
+| ✅ sky.lain.is | No | 0.4.5046 |
+| ✅ sky.lalafell.org | No | 0.4.5046 |
+| ✅ sky.mattstrapp.net | No | 0.4.5046 |
 | ❌ sky.meeovicms.com | No | ??? |
 | ✅ sky.orz.uno | No | 0.4.5037 |
-| ✅ sky.oxo.hk | No | 0.4.5044 |
+| ✅ sky.oxo.hk | No | 0.4.5046 |
 | ✅ sky.publishdigital.com | No | 0.4.5043 |
 | ✅ sky.ronyn.cx | No | 0.4.5037 |
-| ✅ sky.see.micenest.xyz | No | 0.4.5044 |
+| ✅ sky.see.micenest.xyz | No | 0.4.5046 |
 | ✅ sky.skulldogged.dev | No | 0.4.5037 |
-| ✅ sky.ultimatezones.net | No | 0.4.5044 |
+| ✅ sky.ultimatezones.net | No | 0.4.5046 |
 | ✅ skyblue.cc | No | 0.4.193 |
-| ✅ skyfurs.social | No | 0.4.5044 |
-| ✅ skymate.social | No | 0.4.5044 |
-| ❌ skystack.xyz | No | 0.0.3 |
+| ✅ skyfurs.social | No | 0.4.5046 |
+| ✅ skymate.social | No | 0.4.5046 |
 | ✅ slama.dev | No | 0.4.169 |
 | ✅ slothbucks.social | No | N/A |
 | ❌ small.patatas.ca | No | 0.4.208 |
 | ✅ smial.at | No | v0.1.15-ae34c28f |
-| ✅ snag.eu-central.yakka.network | No | 0.4.5044 |
+| ✅ snag.eu-central.yakka.network | No | 0.4.5046 |
 | ✅ snrd.social | Yes | 0.4.5034 |
 | ✅ sns.kampidh.com | No | 0.4.5037 |
-| ✅ sns.limelee.xyz | No | 0.4.5044 |
+| ✅ sns.limelee.xyz | No | 0.4.5046 |
 | ❌ sns.rakker.me | No | 0.4.193 |
-| ✅ soaringfox.social | No | 0.4.5044 |
+| ✅ soaringfox.social | No | 0.4.5046 |
 | ✅ soc.exquant.com | No | 0.4.193 |
-| ✅ social-hell.uk | No | 0.4.5044 |
+| ✅ social-hell.uk | No | 0.4.5046 |
 | ✅ social.adadoai.com | No | 0.4.5027 |
 | ✅ social.adkins.coffee | No | 0.4.5037 |
 | ✅ social.computercodeblue.com | No | 0.4.193 |
 | ✅ social.corviform.gay | No | tranquil 0.6.6 |
 | ✅ social.dcron.in | No | 0.4.5046 |
-| ✅ social.dnix.de | No | 0.4.5044 |
-| ✅ social.egair.eu | No | 0.4.5044 |
-| ✅ social.eginfracloud.uk | No | 0.4.5044 |
-| ❌ social.eromedia.net | No | 0.4.5001 |
+| ✅ social.dnix.de | No | 0.4.5046 |
+| ✅ social.egair.eu | No | 0.4.5046 |
+| ✅ social.eginfracloud.uk | No | 0.4.5046 |
 | ✅ social.eusv.net | No | 0.4.5001 |
 | ✅ social.eyevinn.technology | No | 0.4.67 |
 | ✅ social.farrant.me | No | 0.4.193 |
 | ✅ social.gabelschnabel.de | No | 0.4.5009 |
 | ✅ social.german-noob.win | No | 0.4.5027 |
-| ✅ social.gmg.io | No | 0.4.5044 |
-| ✅ social.graver.app | No | 0.4.5044 |
-| ✅ social.groovyverse.com | Yes | 0.4.5044 |
+| ✅ social.gmg.io | No | 0.4.5046 |
+| ✅ social.graver.app | No | 0.4.5046 |
+| ✅ social.groovyverse.com | Yes | 0.4.5046 |
 | ✅ social.ilkka.dev | No | 0.4.5009 |
-| ✅ social.jkei.club | No | 0.4.5027 |
-| ✅ social.kefirboer.com | Yes | 0.4.5044 |
+| ✅ social.jkei.club | No | 0.4.5046 |
+| ✅ social.kefirboer.com | Yes | 0.4.5046 |
 | ✅ social.kemonos.net | No | 0.4.193 |
 | ✅ social.kolivri.fr | No | 0.4.5037 |
-| ✅ social.l3x.in | No | 0.4.5044 |
+| ✅ social.l3x.in | No | 0.4.5046 |
 | ✅ social.ladas552.me | No | tranquil 0.6.7 |
-| ✅ social.lalaluna.me | No | 0.4.5044 |
-| ✅ social.michael-lloyd-lee.me.uk | No | 0.4.5044 |
+| ✅ social.lalaluna.me | No | 0.4.5046 |
+| ✅ social.michael-lloyd-lee.me.uk | No | 0.4.5046 |
 | ✅ social.muslimtv.io | No | 0.4.107 |
-| ✅ social.mztski-zhk.cc | No | 0.4.5044 |
-| ✅ social.north.engineer | No | 0.4.5044 |
-| ✅ social.pcpulse.us | No | 0.4.5044 |
+| ✅ social.mztski-zhk.cc | No | 0.4.5046 |
+| ✅ social.north.engineer | No | 0.4.5046 |
+| ✅ social.pcpulse.us | No | 0.4.5046 |
 | ✅ social.remotesec.io | No | 0.4.208 |
-| ✅ social.rtp.pt | No | 0.4.5044 |
+| ✅ social.rtp.pt | No | 0.4.5046 |
 | ✅ social.scolasti.co | No | 0.4.5009 |
 | ✅ social.shypan.st | Yes | 1.0.0+c6f7621 |
-| ✅ social.sillytune.space | No | 0.4.5037 |
-| ✅ social.sunkcost.dev | No | 0.4.5044 |
+| ✅ social.sillytune.space | No | 0.4.5046 |
+| ✅ social.sunkcost.dev | No | 0.4.5046 |
 | ✅ social.tairum.com | No | 0.4.5044 |
 | ✅ social.venari.cloud | No | 0.4.5009 |
 | ✅ social.w3bs.org | No | 0.4.5037 |
-| ✅ social.wiredcloud.xyz | No | 0.4.5044 |
-| ✅ social.wtfos.me | Yes | 0.4.219 |
+| ✅ social.wiredcloud.xyz | No | 0.4.5046 |
+| ✅ social.wtfos.me | Yes | 0.4.5046 |
 | ✅ social.yeti-factory.org | No | 0.4.193 |
 | ✅ social.yetiscabin.com | No | 0.4.5037 |
 | ✅ social.zaccary.me | No | 0.4.5037 |
 | ✅ socl.is | No | 0.4.39 |
 | ✅ songbc.com | No | 0.4.5036 |
-| ❌ sora.minkalia.city | No | 0.4.5036 |
+| ✅ sora.minkalia.city | No | 0.4.5044 |
 | ❌ sosu.nkb.moe | No | 0.4.193 |
-| ✅ southsiderva.social | No | 0.4.5044 |
-| ✅ sowedu.net | No | 0.4.5044 |
+| ✅ southsiderva.social | No | 0.4.5046 |
+| ✅ sowedu.net | No | 0.4.5046 |
 | ✅ space-cocoon.glados.computer | No | cocoon v0.11.1-12-g1c934e4 |
 | ✅ spaces-alpha.atproto.ooo | No | 0.5.32 |
 | ✅ spaces-alpha.colibri.social | No | 0.5.32 |
@@ -3967,56 +3967,58 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ spaces.kaushikc.org | No | 0.5.32 |
 | ✅ spap.cloud | No | 0.4.74 |
 | ✅ sparknexus.tech | Yes | 0.4.5009 |
-| ✅ spazure.codes | No | 0.4.5044 |
+| ✅ spazure.codes | No | 0.4.5046 |
 | ✅ spd.smokepowered.com | No | 0.4.193 |
-| ✅ sphereconnective.info | No | 0.4.5044 |
+| ✅ sphereconnective.info | No | 0.4.5046 |
 | ✅ sqpds.com | No | 0.4.5034 |
 | ✅ squi.dev | No | tranquil 0.7.1 |
 | ✅ squirrel.engineering | No | 0.4.5001 |
 | ✅ staff-pds-staging.up.railway.app | No | ??? |
-| ✅ staging-pds.familiar.at | Yes | 0.4.219 |
+| ✅ staging-pds.familiar.at | Yes | 0.4.5046 |
+| ✅ staging.unset.ac | No | 0.4.5037 |
 | ✅ staging.vst.gg | No | 0.4.5034 |
-| ✅ starburst.social | No | 0.4.5044 |
-| ✅ starpalace.us | No | 0.4.5044 |
+| ✅ starburst.social | No | 0.4.5046 |
+| ✅ starpalace.us | No | 0.4.5046 |
 | ✅ stasisb.org | No | 0.4.208 |
-| ✅ steamboat.social | No | 0.4.5044 |
+| ✅ steamboat.social | No | 0.4.5046 |
 | ✅ steelgrim.com | No | 0.4.74 |
 | ✅ steffl.social | No | 0.4.5044 |
-| ✅ stevebate.social | No | 0.4.5037 |
-| ✅ straypixel.ca | No | 0.4.5044 |
+| ✅ stevebate.social | No | 0.4.5046 |
+| ✅ straypixel.ca | No | 0.4.5046 |
 | ✅ streamplace.com | No | 1.1.0+5be21d9 |
-| ✅ studiocms.social | No | 0.4.5044 |
-| ✅ sturd.co.uk | No | 0.4.5044 |
+| ✅ studiocms.social | No | 0.4.5046 |
+| ✅ sturd.co.uk | No | 0.4.5046 |
 | ✅ styx.mrijke.nl | No | tranquil 0.6.5 |
 | ✅ sukai.adiquaints.moe | No | 0.4.5037 |
 | ✅ sunaba.io | No | 0.4.5027 |
 | ✅ sup39.dev | No | 0.4.219 |
 | ✅ super.fish | No | 0.4.5036 |
-| ✅ superunknown.org | No | 0.4.5043 |
-| ✅ suprgrvty.com | No | 0.4.5044 |
+| ✅ superunknown.org | No | 0.4.5046 |
+| ✅ suprgrvty.com | No | 0.4.5046 |
 | ✅ surf.social | No | 0.4.219 |
 | ✅ swan.place | Yes | ??? |
-| ❌ sylveon.syndix.io | No | 0.4.5037 |
+| ✅ sylveon.syndix.io | No | 0.4.5037 |
 | ✅ symmetricforests.online | No | 0.4.208 |
-| ✅ syntaxterror.dev | No | 0.4.5044 |
+| ✅ syntaxterror.dev | No | 0.4.5046 |
 | ✅ sys-tem.xyz | No | 0.4.5046 |
 | ✅ syu.is | No | 0.5.44 |
 | ✅ t.starshard.space | No | tranquil 0.6.7 |
 | ✅ t4tkiss.ing | No | tranquil 0.6.7 |
-| ✅ tail.nekoraxvimpe.com | No | 0.4.5044 |
-| ✅ taipei.hsuanyuchou.net | No | 0.4.5044 |
+| ✅ tail.nekoraxvimpe.com | No | 0.4.5046 |
+| ✅ taipei.hsuanyuchou.net | No | 0.4.5046 |
 | ✅ taiwansky.social | Yes | ??? |
-| ✅ talking.aardvark.sh | No | 0.4.5044 |
+| ✅ talking.aardvark.sh | No | 0.4.5046 |
 | ❌ tangled.doggirl.love | No | ??? |
 | ❌ tangled.smidge.fyi | No | ??? |
-| ✅ tarczon.cloud | No | 0.4.5043 |
-| ✅ tastefuldinosaurerotica.com | No | 0.4.5044 |
-| ✅ tate.social | No | 0.4.5044 |
+| ✅ tarczon.cloud | No | 0.4.5046 |
+| ✅ tastefuldinosaurerotica.com | No | 0.4.5046 |
+| ✅ tate.social | No | 0.4.5046 |
 | ✅ tdpl.io | No | tidepool 0.1 |
-| ✅ teal.town | Yes | 0.4.5044 |
-| ✅ team.yakimapride.org | No | 0.4.5044 |
+| ✅ teal.town | Yes | 0.4.5046 |
+| ✅ team.yakimapride.org | No | 0.4.5046 |
 | ✅ tech1ndex.dev | No | 0.4.74 |
-| ✅ technofuckingfeudalism.com | No | 0.4.5044 |
+| ✅ technofuckingfeudalism.com | No | 0.4.5046 |
+| ❌ temp-pds.birdinter.net | No | ??? |
 | ✅ tempomusic.art | No | 0.4.5027 |
 | ✅ tempomusic.fan | No | 0.4.5027 |
 | ✅ test-4.mk.gg | Yes | cirrus 0.12.0 |
@@ -4031,45 +4033,45 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ test.pds.chthonicarts.com | No | 0.4.5027 |
 | ❌ test2-kilimanjaro-io.pds99.eu.sovrn.at | No | 0.3.1 |
 | ✅ test2.mk.gg | Yes | N/A |
-| ✅ testing.protobase.at | No | 0.4.5037 |
-| ✅ testingitwith.protobase.at | No | 0.4.5037 |
+| ✅ testing.protobase.at | No | 0.4.5046 |
+| ✅ testingitwith.protobase.at | No | 0.4.5046 |
 | ✅ testpds.computingwith.love | No | tranquil 0.7.1 |
 | ❌ testpds.hiina.space | No | 0.4.5037 |
-| ✅ tethys.observer | No | 0.4.5044 |
+| ✅ tethys.observer | No | 0.4.5046 |
 | ✅ teto.mom | No | 0.4.5043 |
 | ✅ tetraonid.com | No | 0.4.74 |
-| ✅ thats.art | No | 0.4.5044 |
-| ✅ the-destro.com | No | 0.4.5044 |
-| ✅ the.skoof.ca | No | 0.4.5044 |
+| ✅ thats.art | No | 0.4.5046 |
+| ✅ the-destro.com | No | 0.4.5046 |
+| ✅ the.skoof.ca | No | 0.4.5046 |
 | ✅ theaethercollective.net | No | 0.4.107 |
 | ✅ theatl.social | No | 0.4.5037 |
-| ✅ thegooseandthebear.com | No | 0.4.5044 |
-| ✅ theinvite.us | No | 0.4.5044 |
-| ✅ theparlor.org | No | 0.4.5044 |
-| ✅ theshi.re | No | 0.4.5044 |
-| ✅ this-is-epic.space | No | 0.4.5043 |
-| ✅ thoth.22wlp.org | No | 0.4.5044 |
-| ✅ thoughtify.space | No | 0.4.5044 |
+| ✅ thegooseandthebear.com | No | 0.4.5046 |
+| ✅ theinvite.us | No | 0.4.5046 |
+| ✅ theparlor.org | No | 0.4.5046 |
+| ✅ theshi.re | No | 0.4.5046 |
+| ✅ this-is-epic.space | No | 0.4.5046 |
+| ✅ thoth.22wlp.org | No | 0.4.5046 |
+| ✅ thoughtify.space | No | 0.4.5046 |
 | ✅ threatt.network | No | 0.4.219 |
-| ✅ threesongsandgone.com | No | 0.4.5044 |
-| ✅ thufir.link | No | 0.4.5044 |
+| ✅ threesongsandgone.com | No | 0.4.5046 |
+| ✅ thufir.link | No | 0.4.5046 |
 | ✅ timeto.resist.is | No | 0.4.5034 |
 | ❌ tin.gillao.net | No | pegasus 8ec718a |
-| ✅ tms7331.xyz | No | 0.4.5044 |
+| ✅ tms7331.xyz | No | 0.4.5046 |
 | ✅ tngl.sh | No | 0.4.5037 |
-| ✅ tnn1t1s.me | No | 0.4.5044 |
-| ✅ toedi.xyz | No | 0.4.5044 |
-| ✅ tokedgamers.com | No | 0.4.5044 |
+| ✅ tnn1t1s.me | No | 0.4.5046 |
+| ✅ toedi.xyz | No | 0.4.5046 |
+| ✅ tokedgamers.com | No | 0.4.5046 |
 | ✅ tokimeki.social | No | 0.4.5027 |
-| ✅ tokyotrax.online | No | 0.4.5034 |
+| ✅ tokyotrax.online | No | 0.4.5046 |
 | ✅ tolerance.group | Yes | 0.4.208 |
-| ✅ tollan.dev | No | 0.4.5044 |
+| ✅ tollan.dev | No | 0.4.5046 |
 | ✅ tomkrizan.com | No | 0.4.5037 |
 | ✅ toolwars-pds.195.201.161.187.sslip.io | No | 0.4.5027 |
 | ✅ totallynotseth.dev | No | 0.4.176 |
 | ✅ tps.social | No | 0.4.5027 |
-| ✅ tran.quilling.dev | No | tranquil 0.6.7 |
-| ✅ tranquil-pds.devins.page | No | tranquil 0.6.7 |
+| ✅ tran.quilling.dev | No | tranquil 0.7.1 |
+| ✅ tranquil-pds.devins.page | No | tranquil 0.7.0 |
 | ❌ tranquil-pds.g4v.dev | No | tranquil 0.5.2 |
 | ✅ tranquil-pds.mylogin.space | No | tranquil 0.6.7 |
 | ✅ tranquil-spaces.madoka.systems | Yes | tranquil 0.6.6 |
@@ -4080,6 +4082,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ tranquil.bas.sh | No | tranquil 0.7.1 |
 | ✅ tranquil.bwc9876.dev | No | tranquil 0.7.1 |
 | ✅ tranquil.cerulea.blue | No | N/A |
+| ✅ tranquil.danieldaum.net | Yes | tranquil 0.7.1 |
 | ✅ tranquil.farm | No | tranquil 0.6.7 |
 | ✅ tranquil.felinus.fish | No | tranquil 0.6.7 |
 | ✅ tranquil.gxrl.network | No | tranquil 0.7.0 |
@@ -4087,115 +4090,115 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ tranquil.pathetic.systems | No | tranquil 0.6.3 |
 | ✅ tranquil.solanaceae.net | No | tranquil 0.7.1 |
 | ✅ tranquil.whispers.systems | No | tranquil 0.7.0 |
-| ✅ trif.games | No | 0.4.5044 |
-| ✅ trifouillislebaveux.com | No | 0.4.5044 |
+| ✅ trif.games | No | 0.4.5046 |
+| ✅ trifouillislebaveux.com | No | 0.4.5046 |
 | ✅ trisectorsoftware.com | No | 0.4.5037 |
-| ✅ tristanbrewer.com | No | 0.4.5044 |
+| ✅ tristanbrewer.com | No | 0.4.5046 |
 | ✅ tros.org | No | 0.4.5027 |
 | ✅ truereach.cc | No | 0.4.5001 |
-| ✅ trunked.at | No | v0.1.15-ae34c28f |
-| ✅ try.gpsms.eu | No | 0.4.5044 |
+| ✅ trunked.at | No | v0.1.15+dirty |
+| ✅ try.gpsms.eu | No | 0.4.5046 |
 | ✅ try.kyu.re | No | tranquil 0.6.0 |
-| ✅ tsky.store | No | 0.4.5044 |
+| ✅ tsky.store | No | 0.4.5046 |
 | ✅ ttai.dev | No | 0.4.204 |
 | ❌ ttv69.xyz | No | 0.4.5037 |
 | ✅ tweet.pitlor.dev | No | 0.4.5037 |
-| ✅ tweethive.net | No | 0.4.5043 |
+| ✅ tweethive.net | No | 0.4.5046 |
 | ✅ twoeggs.team | No | 0.4.219 |
-| ✅ tzv0.com | No | 0.4.5044 |
-| ✅ u.jalsa.world | No | 0.4.5044 |
-| ✅ ugns.link | No | 0.4.5044 |
-| ✅ uhh.how | No | 0.4.5044 |
-| ✅ ulfilion.ca | No | 0.4.5037 |
-| ✅ unconsensus.com | No | 0.4.5044 |
-| ✅ unifist.social | No | 0.4.5044 |
+| ✅ tzv0.com | No | 0.4.5046 |
+| ✅ u.jalsa.world | No | 0.4.5046 |
+| ✅ ugns.link | No | 0.4.5046 |
+| ✅ uhh.how | No | 0.4.5046 |
+| ✅ ulfilion.ca | No | 0.4.5046 |
+| ✅ unconsensus.com | No | 0.4.5046 |
+| ✅ unifist.social | No | 0.4.5046 |
 | ✅ unsupervised.online | No | 0.4.107 |
 | ✅ upscrolled.buzz | Yes | N/A |
 | ✅ us1.pwkl.social | No | 0.4.214 |
 | ❌ users.unusuals.worldofchampionsnetwork.com.ng | Yes | 0.4.5037 |
-| ✅ v-laboratory.com | No | 0.4.5044 |
+| ✅ v-laboratory.com | No | 0.4.5046 |
 | ❌ valleyandridgegames.com | No | 0.4.5037 |
 | ✅ vareniye.dev | No | 0.4.5027 |
-| ✅ vault.nexus.sc | No | 0.4.5044 |
+| ✅ vault.nexus.sc | No | 0.4.5046 |
 | ✅ veles.7778777.online | No | 1.0.0+2aaf27c |
 | ❌ velvetnova.cc | Yes | ??? |
-| ✅ vengeful.eu | No | 0.4.5044 |
+| ✅ vengeful.eu | No | 0.4.5046 |
 | ✅ verify.speakwrite.io | No | 0.4.208 |
 | ✅ vesuvius.pyroclastic.cloud | No | N/A |
 | ✅ vicky.rs | No | N/A |
 | ✅ virite.net | No | 0.4.5034 |
 | ✅ vkapadia.com | No | 0.4.67 |
 | ❌ vlpds-test.i.jaz.sh | No | ??? |
-| ✅ vlpds.goat.navy | Yes | 1.1.0+b685927dae |
-| ✅ vlpds.jazco.dev | No | 1.2.1+09250ef24aa1 |
-| ✅ vtb.yt | No | 0.4.5044 |
+| ✅ vlpds.goat.navy | Yes | 1.2.1+3f298223f6 |
+| ✅ vlpds.jazco.dev | No | 1.2.2+f6cb3a443218 |
+| ✅ vtb.yt | No | 0.4.5046 |
 | ❌ vublox-pds-staging.fly.dev | No | ??? |
 | ✅ waffffffffffffffffffffffffffffffffffff.bunnynabbit.com | No | 0.4.5044 |
 | ✅ wallera.computer | No | 0.4.5043 |
 | ✅ warhaggis.com | No | 0.4.5027 |
-| ✅ wedembois.biz | No | 0.4.5044 |
+| ✅ wedembois.biz | No | 0.4.5046 |
 | ✅ weeb.jp | No | N/A |
 | ✅ wegif.com | No | 1 |
 | ✅ weiliangchang.com | No | 0.4.5034 |
 | ✅ wenzdaysparty.com | No | 0.4.5037 |
-| ✅ weslandia.ca | No | 0.4.5044 |
-| ✅ wetsuitfur.com | No | 0.4.5044 |
+| ✅ weslandia.ca | No | 0.4.5046 |
+| ✅ wetsuitfur.com | No | 0.4.5046 |
 | ✅ wh.at.logik.al | No | tranquil 0.6.7 |
 | ✅ whatno.fyi | No | 0.4.219 |
 | ✅ whatno.io | No | 0.4.107 |
 | ❌ wibisana.eu.cc | No | ??? |
 | ✅ wickwork.cafe | No | git-02f717d |
-| ✅ wildwolf.dev | No | 0.4.5044 |
-| ✅ willdot.xyz | No | 0.4.5044 |
+| ✅ wildwolf.dev | No | 0.4.5046 |
+| ✅ willdot.xyz | No | 0.4.5046 |
 | ✅ williamlsnyder.net | No | 0.4.193 |
 | ❌ willie-pds-3eafb75977.willieechalmers-18f.workers.dev | No | 0.4.5037 |
 | ❌ willie-pds-c300a41812.willieechalmers-18f.workers.dev | No | ??? |
 | ❌ willie-pds-ebeb382190.willieechalmers-18f.workers.dev | No | ??? |
 | ✅ witchof.space | No | 0.4.5034 |
-| ✅ wldmstr.de | No | 0.4.5044 |
-| ✅ wndr.chat | No | 0.4.5044 |
-| ✅ wones.co.uk | No | 0.4.5044 |
+| ✅ wldmstr.de | No | 0.4.5046 |
+| ✅ wndr.chat | No | 0.4.5046 |
+| ✅ wones.co.uk | No | 0.4.5046 |
 | ❌ workinggirl.xyz | No | 0.4.5037 |
 | ✅ ww.dog | No | 0.4.5037 |
 | ❌ www.threesongsandgone.com | No | 0.4.5037 |
 | ❌ x.fron.io | No | cocoon f1f744e |
 | ✅ x.mt.social | No | 0.4.185 |
 | ✅ xlz.ca | No | 0.4.219 |
-| ✅ xmirror.bot | No | 0.4.5037 |
+| ✅ xmirror.bot | No | 0.4.5046 |
 | ✅ xoddiel.me | No | 0.4.5027 |
-| ✅ xop.dev | No | 0.4.5044 |
+| ✅ xop.dev | No | 0.4.5046 |
 | ✅ xpds.infodox.net | No | 0.4.67 |
-| ✅ xsbluesky.xsns.jp | No | 0.4.5044 |
-| ✅ xylophilist.zapto.org | No | 0.4.5044 |
+| ✅ xsbluesky.xsns.jp | No | 0.4.5046 |
+| ✅ xylophilist.zapto.org | No | 0.4.5046 |
 | ✅ y.mt.social | No | 0.4.185 |
-| ✅ y0.bot | No | 0.4.5044 |
-| ✅ yapfest.club | No | 0.4.5044 |
-| ✅ yeongaori.com | No | 0.5.41 |
-| ✅ yiff.exchange | No | 0.4.5044 |
+| ✅ y0.bot | No | 0.4.5046 |
+| ✅ yapfest.club | No | 0.4.5046 |
+| ✅ yeongaori.com | No | 0.5.46 |
+| ✅ yiff.exchange | No | 0.4.5046 |
 | ✅ yno.news | No | 0.4.193 |
 | ✅ yondersong.com | No | N/A |
-| ✅ yoshiki.burnworks.com | No | 0.4.5044 |
-| ✅ your-mommy.org | No | 0.4.5043 |
+| ✅ yoshiki.burnworks.com | No | 0.4.5046 |
+| ✅ your-mommy.org | No | 0.4.5046 |
 | ✅ yourcanopy.net | No | 0.4.5009 |
-| ✅ yourjelly.dev | No | 0.4.5043 |
+| ✅ yourjelly.dev | No | 0.4.5046 |
 | ❌ yrriban.net | No | 0.4.5037 |
 | ✅ yunya.pet | No | 0.4.5037 |
-| ✅ yuri.mom | No | 0.4.5044 |
-| ✅ yurisnight.app | No | 0.4.5044 |
+| ✅ yuri.mom | No | 0.4.5046 |
+| ✅ yurisnight.app | No | 0.4.5046 |
 | ✅ yuzu.josm.me | No | tranquil 0.6.6 |
 | ✅ yvr.whims.io | No | 0.4.219 |
 | ✅ yyj.whims.io | No | 0.4.219 |
 | ❌ zachs.gay | No | 0.4.5037 |
 | ✅ zahorecz.eu | No | 0.4.5037 |
 | ✅ zaluka.xyz | No | 0.4.193 |
-| ✅ zay-zay.net | No | 0.4.5044 |
-| ✅ zazen.social | No | 0.4.5044 |
+| ✅ zay-zay.net | No | 0.4.5046 |
+| ✅ zazen.social | No | 0.4.5046 |
 | ❌ zds-oversized-lab-20261017.fly.dev | No | ??? |
-| ✅ zds.gillao.net | No | 0.5.0 |
-| ✅ zedsocial.ca | Yes | 0.4.5044 |
+| ✅ zds.gillao.net | No | 0.5.2 |
+| ✅ zedsocial.ca | Yes | 0.4.5046 |
 | ❌ zerotsu.eu.org | No | ??? |
 | ✅ zio.blue | No | 0.4.5027 |
-| ✅ zq.ie | No | 0.4.5044 |
+| ✅ zq.ie | No | 0.4.5046 |
 | ✅ zulaica.social | No | 0.4.193 |
 | ✅ zverev.xyz | No | 0.4.5034 |
 | ✅ zwsp.xyz | No | 0.5.2 |
@@ -4204,8 +4207,8 @@ Instances that have not been active for more than 14 days gets dropped off from 
 ## Labelers
 
 **217** instances active  
-**194** online  
-**23** offline
+**154** online  
+**63** offline
 
 ### Bluesky labelers
 
@@ -4227,7 +4230,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | Labeler | Version |
 | --- | --- |
 | ✅ 283labeler.mp0.jp | N/A |
-| ✅ 95.216.192.17.sslip.io | 0.4.2 |
+| ❌ 95.216.192.17.sslip.io | 0.4.2 |
 | ✅ activitylabeler.hypercerts.dev | ??? |
 | ✅ alternativeproto.net | ??? |
 | ✅ ao3labeler.fujocoded.com | N/A |
@@ -4248,32 +4251,32 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ classify.my.id | ??? |
 | ✅ clubs.danto.rocks | 0.2.0 |
 | ✅ contraria.schmidt.monster | 0.4.2 |
-| ✅ creatorsky.audioelk.com | 0.4.2 |
+| ❌ creatorsky.audioelk.com | 0.4.2 |
 | ✅ cuddling.kralsei.stream | 0.4.2 |
 | ✅ czkrajelabeler-7845.rostiapp.cz | N/A |
 | ✅ discourse.manos.tech | 0.4.2 |
-| ✅ ec2-13-61-190-180.eu-north-1.compute.amazonaws.com | 0.4.2 |
+| ❌ ec2-13-61-190-180.eu-north-1.compute.amazonaws.com | 0.4.2 |
 | ✅ elitometer-bsky-labeler.nwrasl.easypanel.host | ??? |
 | ✅ facts.kiesel.app | 0.2.0 |
 | ✅ fanworkslabeler.fujocoded.com | N/A |
 | ✅ feature-request-labeler.nucleonjohn.com | 0.2.0 |
-| ✅ firewatcher.axioltiyus.com | 0.4.2 |
+| ❌ firewatcher.axioltiyus.com | 0.4.2 |
 | ✅ freeslab.net | ??? |
 | ✅ fujinlabeler.fujocoded.com | N/A |
 | ✅ fussball-labeler.coreworks.dev | 0.1.167 |
 | ✅ gkmas-labeler.endless.dance | N/A |
 | ✅ grilledcheese.app | ??? |
 | ✅ herald.hum.social | 0.2.0 |
-| ✅ howaboutyougeta.life | 0.4.2 |
+| ❌ howaboutyougeta.life | 0.4.2 |
 | ✅ hyperlabel-production.up.railway.app | N/A |
 | ✅ imas-labeler.endless.dance | N/A |
 | ✅ imascg-labeler.endless.dance | N/A |
 | ✅ imasml-labeler.endless.dance | N/A |
-| ✅ jerrified.handytechs.com | 0.4.2 |
-| ✅ kind-labeler.bryan.town | 0.4.2 |
+| ❌ jerrified.handytechs.com | 0.4.2 |
+| ❌ kind-labeler.bryan.town | 0.4.2 |
 | ✅ kys.makersfield.co | N/A |
 | ❌ label.bettertori.fi | N/A |
-| ✅ label.bluesky.ms | 0.4.2 |
+| ❌ label.bluesky.ms | 0.4.2 |
 | ✅ label.enneagram.blue | ??? |
 | ✅ labeler-bluesky.agranapzeta.workers.dev | labeler-bluesky |
 | ✅ labeler-bot-tan.suibari.com | 0.2.0 |
@@ -4290,6 +4293,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ labeler.igav.ink | tranquil 0.6.7 |
 | ✅ labeler.meowing.zip | N/A |
 | ✅ labeler.oak.coop | N/A |
+| ❌ labeler.orglabeler.certified.one | ??? |
 | ✅ labeler.plural.host | 0.2.0 |
 | ✅ labeler.pmsky.social | 0.2.0 |
 | ✅ labeler.poasters.club | 0.0.1 |
@@ -4298,23 +4302,23 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ labeler.seamark.dev | ??? |
 | ❌ labeler.skychart.blue | skychart-labeler |
 | ✅ labeler.unlabeled.fyi | 0.1.167 |
-| ✅ labeler.urbanism.plus | 0.4.2 |
+| ❌ labeler.urbanism.plus | 0.4.2 |
 | ❌ labeler.va.ax | 0.1.42 |
 | ✅ labeler.verak.app | 0.1.167 |
 | ✅ labeler.voresky.app | 1.0.0 |
 | ✅ labeler.wireservice.net | 0.2.0 |
 | ✅ labeler.yeet.fm | 0.2.0 |
 | ✅ labeler.zomrade.live | N/A |
-| ✅ labeling.newsdetective.org | 0.4.2 |
+| ❌ labeling.newsdetective.org | 0.4.2 |
 | ✅ labels.divine.video | ??? |
 | ✅ labels.fairfate.com | 0.2.0 |
-| ✅ labels.medsky.social | 0.4.2 |
+| ❌ labels.medsky.social | 0.4.2 |
 | ✅ labels.stech-gcp-labels.com | N/A |
-| ✅ labels.timburga.social | 0.4.2 |
+| ❌ labels.timburga.social | 0.4.2 |
 | ✅ labeltest.guan.dk | 0.1.42 |
-| ✅ labelz.fly.dev | N/A |
+| ❌ labelz.fly.dev | N/A |
 | ✅ lastnpcalex.agency | ??? |
-| ✅ lavender-broccoli.verysane.ai | 0.3.2 |
+| ✅ lavender-broccoli.verysane.ai | e2eeb6f4edf91981fe9cd0bdf6840f149031b779-dirty |
 | ✅ lebel.ebil.club | 0.2.0 |
 | ✅ manual-bsky-labeler.daveweij.workers.dev | ??? |
 | ✅ mbfc-test-labeler2.gishstop.com | 0.2.1-final5-final-patched.2-please-work |
@@ -4324,16 +4328,16 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ mlal.fubaiundo.org | 0.2.0 |
 | ✅ mls-labeler.exe.xyz | ??? |
 | ✅ mod.at.socl.is | 0.1.11 |
-| ✅ mod.blackskyweb.xyz | 0.1.167 |
+| ❌ mod.blackskyweb.xyz | 0.1.167 |
 | ✅ mod.delve.town | ??? |
-| ✅ mod.laelaps.fyi | 0.4.2 |
+| ❌ mod.laelaps.fyi | 0.4.2 |
 | ✅ mod.outof.coffee | 0.1.167 |
 | ❌ mod.tps.social | 0.4.2 |
 | ✅ mod.yunya.pet | 0.1.159 |
 | ✅ moderation.arisnet.top | 0.1.167 |
 | ❌ moderation.atchan.net | 0.4.2 |
 | ✅ moderation.atmosphere.money | 0.1.104 |
-| ✅ moderation.progressia.one | 0.4.2 |
+| ❌ moderation.progressia.one | 0.4.2 |
 | ✅ moderation.refrakt.app | ??? |
 | ✅ moderation.sprk.so | ??? |
 | ✅ moderation.wisp.place | wisp-labeler |
@@ -4344,7 +4348,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ nfl-labeler.sickos.club | N/A |
 | ❌ nflair.foysal.it | 0.4.2 |
 | ✅ nozone-layer.net | 0.1.159 |
-| ✅ o.panslawek.pl | 0.4.2 |
+| ❌ o.panslawek.pl | 0.4.2 |
 | ✅ oakcoop-labeler.replit.app | N/A |
 | ✅ oneshot.iroiro.party | ??? |
 | ✅ orglabeler-production.up.railway.app | 0.2.0 |
@@ -4356,76 +4360,75 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ ozone-stage.wsocial.cloud | ??? |
 | ❌ ozone.anuvakas.space | 0.1.167 |
 | ✅ ozone.arimelody.space | 0.1.167 |
-| ✅ ozone.atproto.cz | 0.4.2 |
-| ✅ ozone.axioltiyus.com | 0.4.2 |
-| ✅ ozone.bike.community | 0.4.2 |
-| ✅ ozone.birb.house | 0.4.2 |
+| ❌ ozone.atproto.cz | 0.4.2 |
+| ❌ ozone.axioltiyus.com | 0.4.2 |
+| ❌ ozone.bike.community | 0.4.2 |
+| ❌ ozone.birb.house | 0.4.2 |
 | ✅ ozone.blackwall.gg | 0.1.167 |
 | ✅ ozone.blampow.com | 0.4.2 |
 | ❌ ozone.booksky.club | 0.1.159 |
 | ✅ ozone.bossett.social | 0.1.167 |
 | ✅ ozone.bunnynabbit.com | 0.1.159 |
-| ✅ ozone.deweydefend.com | 0.4.2 |
+| ❌ ozone.deweydefend.com | 0.4.2 |
 | ✅ ozone.eurosky.network | 0.1.167 |
 | ✅ ozone.flixa.stream | 0.4.2 |
-| ✅ ozone.fran.pw | 0.4.2 |
-| ✅ ozone.gifthood.community | 0.4.2 |
-| ✅ ozone.handytechs.com | 0.4.2 |
+| ❌ ozone.fran.pw | 0.4.2 |
+| ❌ ozone.gifthood.community | 0.4.2 |
+| ❌ ozone.handytechs.com | 0.4.2 |
 | ✅ ozone.harpersletter.fyi | N/A |
 | ✅ ozone.indiemusi.ch | 0.1.167 |
-| ✅ ozone.kandayuri.net | 0.4.2 |
-| ✅ ozone.latinsky.app | 0.4.2 |
+| ❌ ozone.kandayuri.net | 0.4.2 |
+| ❌ ozone.latinsky.app | 0.4.2 |
 | ✅ ozone.meozk.app | 0.1.159 |
 | ✅ ozone.moderation.nahida.blue | 0.1.167 |
-| ✅ ozone.mpi-sws.org | 0.1.159 |
+| ❌ ozone.mpi-sws.org | 0.1.159 |
 | ✅ ozone.northsky.social | 0.4.2 |
 | ✅ ozone.oshi.support | 0.1.38 |
-| ✅ ozone.pef-moderation.org | 0.4.2 |
-| ✅ ozone.pikaparty.social | 0.4.2 |
+| ❌ ozone.pef-moderation.org | 0.4.2 |
+| ❌ ozone.pikaparty.social | 0.4.2 |
 | ✅ ozone.poltr.info | 0.4.2 |
 | ✅ ozone.protogen.nexus | 0.4.2 |
-| ✅ ozone.radial.racing | 0.1.167 |
-| ✅ ozone.ripperoni.com | 0.4.2 |
+| ✅ ozone.radial.racing | 0.4.2 |
+| ❌ ozone.ripperoni.com | 0.4.2 |
 | ✅ ozone.shawnhoffman.dev | 2.0.0 |
-| ✅ ozone.skyfeed.dev | 0.4.2 |
-| ✅ ozone.skywatch.blue | 0.4.2 |
+| ❌ ozone.skyfeed.dev | 0.4.2 |
+| ❌ ozone.skywatch.blue | 0.4.2 |
 | ✅ ozone.streamplace.team | 0.4.2 |
 | ✅ ozone.tangled.org | 0.1.167 |
 | ✅ ozone.tempomusic.app | 0.4.2 |
-| ✅ ozone.tokimeki.tech | 0.4.2 |
+| ❌ ozone.tokimeki.tech | 0.4.2 |
 | ✅ ozone.usounds.work | 0.1.159 |
-| ❌ ozone.wizardry.systems | ??? |
 | ✅ ozone.wsocial.cloud | ??? |
 | ✅ ozone.wyvern.blue | 0.1.167 |
 | ✅ ozone.yardcrow.com | 0.1.167 |
 | ✅ ozone.yugoslavia.best | 0.1.159 |
-| ✅ ozoneskymap.fema.monster | 0.4.2 |
+| ❌ ozoneskymap.fema.monster | 0.4.2 |
 | ❌ paywallradar.com | ??? |
-| ❌ pds.labeler.tny.im | 0.2.0 |
+| ✅ pds.labeler.tny.im | 0.2.0 |
 | ✅ pkflash.glitchypsi.xyz | 0.1.167 |
 | ✅ politik-labeler.coreworks.dev | 0.1.167 |
-| ✅ primsky.mpi-sws.org | 0.1.159 |
+| ❌ primsky.mpi-sws.org | 0.1.159 |
 | ✅ pronounsinb.io | 0.2.0 |
-| ❌ prsk-bsky-labeler.idsmile.xyz | N/A |
+| ✅ prsk-bsky-labeler.idsmile.xyz | N/A |
 | ✅ psg.blackskyweb.xyz | N/A |
-| ✅ pv.at.logik.al | 0.4.2 |
-| ✅ r2tn-ozone.us-east-1.gay | 0.4.2 |
+| ❌ pv.at.logik.al | 0.4.2 |
+| ❌ r2tn-ozone.us-east-1.gay | 0.4.2 |
 | ✅ rc.ozone.merklehost.xyz | 0.1.167 |
 | ✅ salu51-la.hf.space | 0.1.159 |
 | ✅ scribe.hum.social | 0.2.0 |
-| ✅ shadowbanner.org | 0.4.2 |
+| ❌ shadowbanner.org | 0.4.2 |
 | ✅ shinyposts.apps.awoo.blue | N/A |
 | ✅ sidem-labeler.endless.dance | N/A |
-| ✅ skeeties-dev.handytechs.com | 0.4.2 |
+| ❌ skeeties-dev.handytechs.com | 0.4.2 |
 | ✅ skyware.axioltiyus.com | 0.1.109 |
 | ✅ sonasky-ozone.bunnys.ky | 0.4.2 |
-| ✅ sonasky-pkmn-ozone.bunnys.ky | 0.4.2 |
+| ❌ sonasky-pkmn-ozone.bunnys.ky | 0.4.2 |
 | ✅ spooktober.katerstrophal.world | ??? |
 | ✅ squawk.moderation.systems | 0.1.159 |
 | ✅ sunglasses.avra.dev | 0.1.0 |
 | ✅ swordmaster-labeler.banjo-delta.ts.net | 0.2.0 |
 | ✅ test202607.sonasky.app | 0.4.2 |
-| ✅ tyrannus.endlessgate.io | 0.4.2 |
+| ❌ tyrannus.endlessgate.io | 0.4.2 |
 | ✅ us-gov-contributions-labeler.up.railway.app | N/A |
 | ✅ usagi-labeler.nikkori.cafe | ??? |
 | ❌ vocallabeler.bsky.social | ??? |

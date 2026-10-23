@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.burger.systems/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792466565146,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

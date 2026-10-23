@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.gifthood.community/",
 	"did": "did:plc:xaf7fxq46v52c3fotqzp3ip5",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.2",
 	"firstSeenAt": 1781484874772,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

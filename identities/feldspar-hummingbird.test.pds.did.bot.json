@@ -1,9 +1,9 @@
 {
 	"did": "did:web:feldspar-hummingbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792638952979,
-	"errorAt": null,
 	"hash": "GpOEDqN6jcUpSVzW2mgE4BuzXqV3tzMDcfszn4rNEYI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792638952979,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:conglomerate-caracal.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792725691104,
+	"errorAt": null,
+	"hash": "wFyWU1mQS6hPJOPR954hgX9KGOMt0WJSg1PQ0LmVyUE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

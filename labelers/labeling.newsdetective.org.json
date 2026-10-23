@@ -1,8 +1,8 @@
 {
 	"url": "https://labeling.newsdetective.org/",
 	"did": "did:plc:qezlipqc4yfk2lebu7533zyr",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

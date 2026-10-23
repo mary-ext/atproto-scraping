@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.halvacoffee.fyi/",
-	"status": "offline",
-	"version": "tranquil 0.6.7",
+	"status": "online",
+	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782348487260,
-	"errorAt": 1792639700254
+	"errorAt": null
 }

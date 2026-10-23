@@ -1,0 +1,9 @@
+{
+	"did": "did:web:siderite-oriole.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792725691104,
+	"errorAt": null,
+	"hash": "sDF5V1bdFDnsvKAXTt2TE2DiKg9Hk5RU1xTu_UGcRr8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

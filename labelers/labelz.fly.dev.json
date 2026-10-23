@@ -1,8 +1,8 @@
 {
 	"url": "https://labelz.fly.dev/",
 	"did": "did:plc:ugigqebt4sm3n4xpmqvslcyo",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792726418143
 }

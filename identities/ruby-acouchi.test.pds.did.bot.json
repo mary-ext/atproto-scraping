@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ruby-acouchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792638952979,
-	"errorAt": null,
 	"hash": "K-WKea15FQDR6lNxq-lKC23ro3o2LHjlgzEiLWIrsGI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792638952979,
+	"errorAt": null
 }
