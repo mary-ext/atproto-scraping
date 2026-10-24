@@ -1,9 +1,9 @@
 {
 	"did": "did:web:calcite-roller.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "-Io2K_6yDh5UEy-YWDnY4k3Bzr1QU27hKXeukF4p9Qk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-scramasax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "Ppn16brXtY8kPfUlnFdYbqC5_b0BgMlyuUuGqz-xrOI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

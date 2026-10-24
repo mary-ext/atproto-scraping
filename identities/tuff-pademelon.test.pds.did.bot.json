@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tuff-pademelon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "8iHE4aVUGDnTg52RWsJEwrrkJUIAVCE-WJtIWMKsXmc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pyroxene-drongo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "y74uEKYVbalfhVK-Q-t7xMXuMPI7c665rh7jeTngT3Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

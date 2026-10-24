@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nephrite-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "pNntX3YC_3FlbZr6SlJigUiHE2Igurg1Ld40MjRhMbs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

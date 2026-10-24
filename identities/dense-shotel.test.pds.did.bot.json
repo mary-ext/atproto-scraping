@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-shotel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "HdMjTdn3e6VDPRtWrQbD36tglhd-WkDnMFeF3WQyvP4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

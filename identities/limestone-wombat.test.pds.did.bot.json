@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limestone-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "RInCrZNy8nIh6ye2e1I4qkM3Vck67wvEC0IhgIIm-9w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

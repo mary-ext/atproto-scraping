@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bijection-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "4FVILZuDULsah2VZNb1mxEz3h2-kESxD738LSTP3G8E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

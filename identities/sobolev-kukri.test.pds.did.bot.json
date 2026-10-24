@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sobolev-kukri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "NT-E8Xc186xmCLzdpDtgPAIfEGiUGyG9YqUX7p9MxTI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

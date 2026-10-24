@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-fossa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "JBIXq8qsH-DG7ZEN2bQlApZ7G_SJXDg1fMwmd-4P5ww",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

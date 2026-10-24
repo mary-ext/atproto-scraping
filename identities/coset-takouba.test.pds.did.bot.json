@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coset-takouba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "953jlJDnMsOgvQEpAIMxq1OhTtqjktZTsLNOI1kbFOQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

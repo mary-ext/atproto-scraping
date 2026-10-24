@@ -1,9 +1,9 @@
 {
 	"did": "did:web:spinel-dunnart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "ocqF-MFe1tOhCvEKdIxpdAKBAIivTmEWb52e6Q2pq9M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

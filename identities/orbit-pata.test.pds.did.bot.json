@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbit-pata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "yNm96L-Y1Rqve15CZNrg852STOp9aTUExzp3YcF9ap4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

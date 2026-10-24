@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "KBpI8wiuzFREDeNhVq9xIDx3lQMtA2_nPc4GHFBpmP8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

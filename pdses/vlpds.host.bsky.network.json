@@ -1,8 +1,8 @@
 {
 	"url": "https://vlpds.host.bsky.network/",
-	"status": "online",
+	"status": "offline",
 	"version": "1.1.0+058abbf",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791520367608,
-	"errorAt": null
+	"errorAt": 1792812437406
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://proot.uk/",
-	"status": "offline",
-	"version": "0.4.5044",
+	"status": "online",
+	"version": "0.4.5046",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783565137684,
-	"errorAt": 1792726418143
+	"errorAt": null
 }

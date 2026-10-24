@@ -1,8 +1,8 @@
 {
 	"url": "https://sunglasses.avra.dev/",
 	"did": "did:plc:ihg4rp3nubd5jffbybanhah4",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.0",
 	"firstSeenAt": 1789356055434,
-	"errorAt": null
+	"errorAt": 1792812437406
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "ip_z4WFCVuXA7ZhwrqW6E_Ar971BOpKy_2YmEfp36P8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

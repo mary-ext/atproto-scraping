@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "5IR4mYVN3Kkzzn_lwq9M0LvXSykQOW2OrYcjPiRM5FE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

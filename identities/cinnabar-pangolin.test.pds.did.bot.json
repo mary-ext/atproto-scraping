@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cinnabar-pangolin.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "cobGZOO9LxVAoDrKh-VPwB51jycPWt9QzUvBiNDG2Z8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

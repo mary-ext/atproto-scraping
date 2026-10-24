@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symmetric-keris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "M0eo6vZ7AA6Ls34MZvDhXgxN2pOyOPpX6KAsorFUT0o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

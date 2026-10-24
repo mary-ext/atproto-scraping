@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jasper-jerboa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "MU3IqnsNU2lO4iMsWiVOJP8MdYilzhF_FiNPyDcTlTA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

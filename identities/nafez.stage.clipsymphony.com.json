@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nafez.stage.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "wQ-V82ACTr-mkE70F5itS2mrg52LcF4m-F_SVtlTs8k",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

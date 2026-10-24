@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-agouti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "b-BWD4PLrW4VfI6tvjWeplMrtpRWAAHg9JKCtmqRAg8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "qdyrwFJSwy1PvTdNWZJCnhL5SKse5tbDAUewCoNM1h0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

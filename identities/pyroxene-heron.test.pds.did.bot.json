@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pyroxene-heron.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "s-ehQtZc6gDE76U7DmTsEk5A_-1Fx2_kjinWpd2SuuY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:agate-stonechat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "v1pSeMM0FjU8W_PbWQrranfbiCx7lunvzl1XCsnPmMg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

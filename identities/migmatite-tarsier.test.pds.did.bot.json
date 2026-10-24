@@ -1,9 +1,9 @@
 {
 	"did": "did:web:migmatite-tarsier.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "G9mlhLfuvTI768a9A1-8Fzi25P7xrLSABisijUHh0d8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.northsky.social/",
 	"did": "did:plc:p2cxrw3ank4dzs55mpm6ohq4",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.2",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792812437406
 }

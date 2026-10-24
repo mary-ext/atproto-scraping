@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-backsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "n5IN-pZ4T__u7GtNInreX6pqRMU4C3osVKXpxs9sx2s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

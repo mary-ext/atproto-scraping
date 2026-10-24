@@ -1,9 +1,9 @@
 {
 	"did": "did:web:keuto.stage.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "3nEZMGv4MxXpjEzUtMQ5NSJ1CevlHa9XCFbDT79riWg",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }

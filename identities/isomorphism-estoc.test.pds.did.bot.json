@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792725691104,
-	"errorAt": null,
 	"hash": "ymb-11-l3JZM-EN72ejPJWazEZvaBaikw1yQP-4d2hw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792725691104,
+	"errorAt": null
 }
