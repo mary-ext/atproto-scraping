@@ -1,9 +1,9 @@
 {
 	"did": "did:web:siderite-redstart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792811732742,
-	"errorAt": null,
 	"hash": "aQrIpgUetyXDC2bNBD51VpDXaryFwdlbXJqlI0kU0I0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792811732742,
+	"errorAt": null
 }

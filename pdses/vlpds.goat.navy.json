@@ -1,8 +1,8 @@
 {
 	"url": "https://vlpds.goat.navy/",
-	"status": "online",
+	"status": "offline",
 	"version": "1.2.1+3f298223f6",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1792205909018,
-	"errorAt": null
+	"errorAt": 1792898567420
 }

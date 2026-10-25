@@ -1,9 +1,9 @@
 {
 	"did": "did:web:corundum-colugo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792811732742,
-	"errorAt": null,
 	"hash": "n4RiKXKvJxZGnCYZdVkXLVKPLKPXI0infKf7tpspnUE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792811732742,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:feldspar-meerkat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792811732742,
-	"errorAt": null,
 	"hash": "XdF2kUKQGwUc4vKcLNHGkYbdXhUhb2PgjjS5UQuElrM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792811732742,
+	"errorAt": null
 }

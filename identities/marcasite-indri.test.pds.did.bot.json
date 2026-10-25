@@ -1,9 +1,9 @@
 {
 	"did": "did:web:marcasite-indri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792811732742,
-	"errorAt": null,
 	"hash": "P6j76F_ef7qZ3dxCvvriBxcPKtIF369cz7v4ID7_gWo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792811732742,
+	"errorAt": null
 }

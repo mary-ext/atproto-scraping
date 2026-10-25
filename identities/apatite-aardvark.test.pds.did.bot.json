@@ -1,9 +1,9 @@
 {
 	"did": "did:web:apatite-aardvark.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792811732742,
-	"errorAt": null,
 	"hash": "WrGq2KPBXMb1f59zx7GDU5vMlklJc9Ikqakm-cIFRI0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792811732742,
+	"errorAt": null
 }

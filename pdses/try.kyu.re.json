@@ -1,8 +1,8 @@
 {
 	"url": "https://try.kyu.re/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775521855696,
-	"errorAt": null
+	"errorAt": 1792898567420
 }
