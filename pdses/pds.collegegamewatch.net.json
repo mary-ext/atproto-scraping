@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.collegegamewatch.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5046",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792725691104,
-	"errorAt": null
+	"errorAt": 1792984996571
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://at.fabio.sh/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784946385136,
-	"errorAt": 1792726418143
+	"errorAt": null
 }

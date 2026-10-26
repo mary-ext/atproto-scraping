@@ -1,0 +1,9 @@
+{
+	"did": "did:web:augite-grebe.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792984264159,
+	"errorAt": null,
+	"hash": "BmWg73VvWraiOqJLbbgH5qGKuLQjJ1ZAlCA-zs7YsQE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:magnetite-oncilla.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792984264159,
+	"errorAt": null,
+	"hash": "ip7kcWnWLspHvDF4r8o0rz1NHwB6q86qH4CnfKVPWY4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

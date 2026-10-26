@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lemma-katar.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792984264159,
+	"errorAt": null,
+	"hash": "eIykc3U4QMfpyYqUrjVwsv8yAoyrgfGtld2pMw4TuVc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

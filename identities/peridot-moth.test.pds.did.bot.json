@@ -1,0 +1,9 @@
+{
+	"did": "did:web:peridot-moth.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792984264159,
+	"errorAt": null,
+	"hash": "tYnuzgOmq6zDEBLotA1rJkAiiSdp_7fxtr9Zkl8MzIY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

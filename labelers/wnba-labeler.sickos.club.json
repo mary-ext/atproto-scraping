@@ -1,8 +1,8 @@
 {
 	"url": "https://wnba-labeler.sickos.club/",
 	"did": "did:plc:5pei2ow2wxbwwtae24ioixzb",
-	"status": "online",
+	"status": "offline",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1792984996571
 }

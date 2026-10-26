@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.agave.technology/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "tranquil 0.7.1",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1792897845829,
-	"errorAt": 1792898567420
+	"errorAt": null
 }

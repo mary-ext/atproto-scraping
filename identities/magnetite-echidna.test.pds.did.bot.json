@@ -1,0 +1,9 @@
+{
+	"did": "did:web:magnetite-echidna.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1792984264159,
+	"errorAt": null,
+	"hash": "XlG6ZC1Z8RPeMDSpkT93eIIKpYoLjsPnUrgKtUfD-Ag",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

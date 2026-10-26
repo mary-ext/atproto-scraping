@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nouveauprintemps.org",
-	"status": "online",
+	"status": "offline",
 	"hash": "4aDq30uxLfAzSfKONQyYlYzfTcKNolF_EotTOiG3_Yw",
 	"pds": "https://bluesky.pds.nouveauprintemps.org/",
 	"labeler": null,
 	"firstSeenAt": 1783046694041,
-	"errorAt": null
+	"errorAt": 1792984264159
 }
