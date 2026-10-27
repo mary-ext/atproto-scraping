@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polytope-kukri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "dSBiYSx_FaX6GeaMTFB8CeKxOoQXbMre4EgJ1zTLGtQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

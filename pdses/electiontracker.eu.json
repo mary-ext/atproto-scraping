@@ -1,8 +1,8 @@
 {
 	"url": "https://electiontracker.eu/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5049",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792897845829,
-	"errorAt": null
+	"errorAt": 1793073239500
 }

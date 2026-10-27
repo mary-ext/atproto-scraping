@@ -1,9 +1,9 @@
 {
 	"did": "did:web:locus-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "Bq07-5YkW4G0a1gf8nDN0XYqKqdh52SJ0yJU_Rxda6Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

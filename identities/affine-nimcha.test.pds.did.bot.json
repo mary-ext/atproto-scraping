@@ -1,0 +1,9 @@
+{
+	"did": "did:web:affine-nimcha.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "y2skbtDdYnCML8CrnQGftbrXqG6FSxJ1xAI9lbJt_SE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-katar.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "rBAksqrQUuTgOK2FWcilkzf0sBMYSAny89zgwGxHk2w",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

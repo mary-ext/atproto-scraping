@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-bichuwa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "XzLe3CYB_NynGVRozbpeFtn3sBegfE66j51HROjL1_g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

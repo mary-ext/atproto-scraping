@@ -1,9 +1,9 @@
 {
 	"did": "did:web:soapstone-thrush.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "rO-BQjiw6yHjQkJ-02Io1cM0A9-5KV4o5sZq3O12nns",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

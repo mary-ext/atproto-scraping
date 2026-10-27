@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dunite-monarch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "DcbUL4d0oekfn8Idm_IuXa8Ihirob6gHJLZsMJrsoGU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "Kd95vwJdsPkEfgoYYLzVhfZ1EiGkoLmeF5LW2XRRsRg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

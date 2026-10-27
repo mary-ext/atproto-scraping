@@ -1,9 +1,9 @@
 {
 	"did": "did:web:calcite-bilby.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "KjDz2os3eOSw9_EiykT7RjHnJjkjxoWzRctymCqKwZ0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

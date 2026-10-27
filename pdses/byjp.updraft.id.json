@@ -1,8 +1,8 @@
 {
 	"url": "https://byjp.updraft.id/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791433750932,
-	"errorAt": 1792898567420
+	"errorAt": null
 }

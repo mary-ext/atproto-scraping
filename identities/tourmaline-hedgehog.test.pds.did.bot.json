@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tourmaline-hedgehog.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "zkpGEwZ0qhPQsM-pXTedgfy2IP4M4WYcxnYBzbnhIqY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "2AJw4yBMMCQzKT3yAhm5kHstYKlfxw-PRLuxwGU__8w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

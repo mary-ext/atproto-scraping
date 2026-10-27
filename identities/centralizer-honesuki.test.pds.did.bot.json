@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-honesuki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "uMHXzN99bhv2l5EKZ9kgtXQnXFx1FwuhgUHB0sNHN3M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

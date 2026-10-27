@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transpose-seax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "fMGJOsAwqGsNHS4DJl4V6hveUAdU_WXxOHz9oRjHMaQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

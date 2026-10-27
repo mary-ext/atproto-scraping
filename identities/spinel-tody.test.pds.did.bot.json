@@ -1,0 +1,9 @@
+{
+	"did": "did:web:spinel-tody.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "x2QsSHBvkuv7qHuLeUKdt3dz8us7E7HO49ogS8n8HXw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone-mod1-pds.ssaavedra.eu/",
 	"did": "did:plc:s75p5ekrmwphyrx5q5suwt6v",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.38",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1792639700254
+	"errorAt": null
 }

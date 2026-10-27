@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convolution-karambit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "ujmVt-XD7PlXPIGvj4rL8ItxZfi6yeuDKioEAnMasnc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

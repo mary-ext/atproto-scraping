@@ -1,0 +1,9 @@
+{
+	"did": "did:web:schist-ocelot.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "7ERGYPqVf7KLn5KyvREjZBo22lGyC8clN9tglk8K5kI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

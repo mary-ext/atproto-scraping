@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gradient-palash.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "dH6PhL6PM2Atj8MHADDbvewvi0FkeVwj5Zboq2ZXmoY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

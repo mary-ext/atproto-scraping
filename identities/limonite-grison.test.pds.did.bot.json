@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limonite-grison.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "o8PPlxihcq29kG75RCuIDLOC6BIBxUqghEMbXi2AGMU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

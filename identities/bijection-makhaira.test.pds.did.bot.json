@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bijection-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "bilMuT-4ugdY50DXN0sWeH2VPjJCKv1hgzTzbJDcZnc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

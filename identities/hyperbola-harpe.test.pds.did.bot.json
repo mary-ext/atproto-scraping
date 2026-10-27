@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hyperbola-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "cc2HKf3C0Yp8dHWXSxZi-VjdEa96Q9u-7V2WDlLANXQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

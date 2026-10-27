@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-koncerz.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "12wq5dW0ogYlHeyfKhd0drTCpaDkCH8-n1uYVWgjp2w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

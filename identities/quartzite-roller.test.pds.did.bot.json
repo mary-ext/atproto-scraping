@@ -1,0 +1,9 @@
+{
+	"did": "did:web:quartzite-roller.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "He5bTjXjJCiLusQW62pmpSK1X86tzXu_gOVeFBI9jQ4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

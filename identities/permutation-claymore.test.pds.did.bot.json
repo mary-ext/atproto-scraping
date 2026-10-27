@@ -1,9 +1,9 @@
 {
 	"did": "did:web:permutation-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "7_tSOYOvrKjZCr-TbUp-xknPfZO5yqhRvfXAh6xCWFk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

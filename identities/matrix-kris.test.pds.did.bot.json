@@ -1,0 +1,9 @@
+{
+	"did": "did:web:matrix-kris.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "fUuF9KsELk_XWhd8eJVQajzSsFthr7LrwnYCv0jR0WA",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:greenschist-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "Q29PtZBVqQP0hTGvfpXGqTdlKSQUQf-yocujuROSwZc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

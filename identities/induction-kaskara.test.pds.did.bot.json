@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "Jw19l4QJu9h9vXKCpa7Ypf2eENy1t_dsjrz4rqMZMw8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

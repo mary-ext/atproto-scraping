@@ -1,9 +1,9 @@
 {
 	"did": "did:web:apatite-solenodon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "HHRWdQjPpn2T_HPwpuwn31YMF4jdvW69IYuCCbAs2oU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

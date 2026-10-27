@@ -1,9 +1,9 @@
 {
 	"did": "did:web:peridot-stonechat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "eot8f_4PsBAZN5k07-UBHCiFSSlpU8oDRguDyi2Nhhk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

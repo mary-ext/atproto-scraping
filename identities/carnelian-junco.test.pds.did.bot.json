@@ -1,9 +1,9 @@
 {
 	"did": "did:web:carnelian-junco.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "XmDZrKbL6qsSOxJvMO5Cdlp4ZTOO4cfeQpul2IeQvk4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

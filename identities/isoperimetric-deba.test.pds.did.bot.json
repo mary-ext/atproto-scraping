@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isoperimetric-deba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "OnrS2BLASaqA41CvGKa3IwHgo6xgU1pCpwhaTjuG2ac",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

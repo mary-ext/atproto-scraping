@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-spatha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "Qg3cgHrmYeWBnm2HcoQIBiYoGmDF3ufyJsV_IrXBKIs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

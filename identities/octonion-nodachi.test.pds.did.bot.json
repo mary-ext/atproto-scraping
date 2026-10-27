@@ -1,9 +1,9 @@
 {
 	"did": "did:web:octonion-nodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "ZW7PDgteJN36Q7HShcfTxRH1mq8MRnm6xU9KDGF_0KA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

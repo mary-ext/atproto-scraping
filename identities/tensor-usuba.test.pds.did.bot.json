@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tensor-usuba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "8-_80k9DMIO7Rf8_UioE_BGE3Rq3Vk3TP2q8XvPkJEQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

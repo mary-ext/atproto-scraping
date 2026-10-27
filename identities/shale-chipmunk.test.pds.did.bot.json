@@ -1,9 +1,9 @@
 {
 	"did": "did:web:shale-chipmunk.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "5fa_BHzSc0s_9io7VOoABNCjs_rVMdgpaCMeSpg-myE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

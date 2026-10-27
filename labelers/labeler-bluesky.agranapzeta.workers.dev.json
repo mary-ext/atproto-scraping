@@ -1,8 +1,8 @@
 {
 	"url": "https://labeler-bluesky.agranapzeta.workers.dev/",
 	"did": "did:plc:ztvspwyz7wgfluacz327meu4",
-	"status": "online",
+	"status": "offline",
 	"version": "labeler-bluesky",
 	"firstSeenAt": 1792119983106,
-	"errorAt": null
+	"errorAt": 1793073239500
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hilbert-chokuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "k38nox-KP6dYX8mU41LN52FEX3-bv0mfni7n_zoqA2I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

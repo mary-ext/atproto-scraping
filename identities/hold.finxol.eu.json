@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold.finxol.eu",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
-	"hash": "VkNuF-5M0Wg2QZL4PQSopzbqa-KPTLOPDnfodkVvYAQ",
+	"hash": "7Ken2okjg6SIwrvTdofXoSreKjDCiC9LtnggryeKwDM",
 	"pds": "https://hold.finxol.eu/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

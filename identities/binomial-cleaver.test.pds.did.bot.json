@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-cleaver.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "NEcjX6Sq9OOqr3b8PXqrI9wTjRLgVUQDBDmGnrkw2dw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

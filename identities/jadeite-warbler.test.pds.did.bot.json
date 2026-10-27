@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jadeite-warbler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "qWOkqEXIpn8TOa9ERji0Eg2ssdcji2y3R72WDrRtL-w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

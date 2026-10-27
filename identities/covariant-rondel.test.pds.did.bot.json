@@ -1,0 +1,9 @@
+{
+	"did": "did:web:covariant-rondel.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "b6SqzcVydtIPFAFmp5Y_tP2i9vEv6Ar0EMQEJookjBM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:chert-trogon.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "1LQf1XeFYSyEKzQcGCKKk-BwtquyhqiDt4YIEHpzFVw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

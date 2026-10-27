@@ -1,0 +1,9 @@
+{
+	"did": "did:web:barite-bilby.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793072474529,
+	"errorAt": null,
+	"hash": "3pWVj5sR3qadkw0X7WXy-WqQ8IZJegIsLtKwJFX2bu0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

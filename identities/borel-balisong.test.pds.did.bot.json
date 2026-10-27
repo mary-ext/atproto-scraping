@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-balisong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "0JRcLX5XU-bQRrNAeVjpiwObeizhLfnNqdkyE65dM0w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

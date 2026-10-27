@@ -1,9 +1,9 @@
 {
 	"did": "did:web:spodumene-tarsier.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "5hU3G3cztpBuZ7fQBF_t-s_Wu7Dto2WNPNfgz3e-NYY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

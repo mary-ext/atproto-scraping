@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polytope-odachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "f4EK1s7VseMiq0HW0P9Bx31agpttuTricp3bGj0dbC0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }

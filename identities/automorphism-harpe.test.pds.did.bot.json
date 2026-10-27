@@ -1,9 +1,9 @@
 {
 	"did": "did:web:automorphism-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1792984264159,
-	"errorAt": null,
 	"hash": "KoG4DPKg7KJvQeeCWT15CsQ5GGnR21xSmDTF-b-XqLc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1792984264159,
+	"errorAt": null
 }
