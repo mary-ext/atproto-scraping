@@ -1,0 +1,9 @@
+{
+	"did": "did:web:borel-pichangatti.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "aT46taTu8vyWuRtTh6HmfqDcNbpTkMJGKzKW8PSbVbk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.dcbsky.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5049",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792984264159,
-	"errorAt": null
+	"errorAt": 1793160628140
 }

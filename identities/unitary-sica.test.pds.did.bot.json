@@ -1,9 +1,9 @@
 {
 	"did": "did:web:unitary-sica.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "TAP-e3rykbrJnCLtYG_4N_2mQcWCD1LipYsecjh0OFA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

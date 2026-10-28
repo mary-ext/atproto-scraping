@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-schiavona.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "YEmaXS1fkMYIMzxmYhh67s1ndkNG8UWyb9pNDTiVTdw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

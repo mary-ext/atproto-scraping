@@ -1,0 +1,9 @@
+{
+	"did": "did:web:scalar-storta.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "fNxZWlqxARwa10Kdu7twA3ifFxGWEU5ySau5mNtAkVg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

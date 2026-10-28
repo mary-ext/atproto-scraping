@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sheaf-szabla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "TRCvscZUh-H-qUm2n59MvioJh7hV37XHgbwA-1yVA8g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

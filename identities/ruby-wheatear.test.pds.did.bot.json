@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ruby-wheatear.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "PnAnHYAGS_Lb1anSfOxtC1Wsg5yL86VqVphsrxIibdY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

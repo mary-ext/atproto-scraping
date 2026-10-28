@@ -1,9 +1,9 @@
 {
 	"did": "did:web:retribute.islurking.online",
-	"status": "online",
+	"status": "offline",
 	"hash": "atoISuoJnj_crNnAXgOEux66vv-eynicGmrV_x_bKG4",
 	"pds": "https://chrysalis.onely.space/",
 	"labeler": "https://mod.islurking.online/",
 	"firstSeenAt": 1780101906821,
-	"errorAt": null
+	"errorAt": 1793159859555
 }

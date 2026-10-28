@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-karambit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "G3OIrq27gfCaCDYpNtj1FqqsiHierMqxuI9F-IWOqWk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

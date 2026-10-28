@@ -1,9 +1,9 @@
 {
 	"did": "did:web:diorite-grebe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "omV9tHQgxdOmRyRz3GlIQJI0G3knwSWDDDIjEQPkIro",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

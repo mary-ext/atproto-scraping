@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "k0ZMe1RDjUZrxrEncDju8nnJrsCYCAEiJ6dyF0j4Bvs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

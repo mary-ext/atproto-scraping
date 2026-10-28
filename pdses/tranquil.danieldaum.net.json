@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil.danieldaum.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1792725691104,
-	"errorAt": null
+	"errorAt": 1793160628140
 }

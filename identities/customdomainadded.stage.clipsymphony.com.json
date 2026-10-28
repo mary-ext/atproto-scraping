@@ -1,9 +1,9 @@
 {
 	"did": "did:web:customdomainadded.stage.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "7ztQUEMaUxkg7KCmu4urG2rVRcdgytwfnM2Jq3-mrM0",
 	"pds": "https://pds.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

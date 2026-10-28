@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-dusack.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "VoPVSlxMtHyTm0uvWwXKhehJvuxNdEjTI4qRL6W1cdE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

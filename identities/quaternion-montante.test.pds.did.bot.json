@@ -1,0 +1,9 @@
+{
+	"did": "did:web:quaternion-montante.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "UfNSQawbpFNbtxS_UDVWv32Glw1dpYPCE4QZF04KRms",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

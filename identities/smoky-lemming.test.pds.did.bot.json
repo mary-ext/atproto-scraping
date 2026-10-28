@@ -1,9 +1,9 @@
 {
 	"did": "did:web:smoky-lemming.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "Xv24gXWY1zbfFJbi1e20H8GMhghC2AbOKKcVYSgvWBc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

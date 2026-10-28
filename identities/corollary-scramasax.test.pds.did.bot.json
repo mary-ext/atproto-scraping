@@ -1,9 +1,9 @@
 {
 	"did": "did:web:corollary-scramasax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "0q8TvVQeTgHlQUK5LTfHCkfDnxTGaMLoGoB1qF16DDo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

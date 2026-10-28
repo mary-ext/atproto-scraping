@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cyclic-shuriken.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "sDY8ict7txzkaEMQPXfDKppmLtl7mofeoVBORL4n6yQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

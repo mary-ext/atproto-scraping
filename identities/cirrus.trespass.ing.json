@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cirrus.trespass.ing",
-	"status": "online",
+	"status": "offline",
 	"hash": "tozy5Mv08MTwFhCNKDKYhAYOiu_-NOhmJ7L_JmuLiRo",
 	"pds": "https://cirrus.trespass.ing/",
 	"labeler": null,
 	"firstSeenAt": 1783651728603,
-	"errorAt": null
+	"errorAt": 1793159859555
 }

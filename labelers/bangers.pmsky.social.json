@@ -1,8 +1,8 @@
 {
 	"url": "https://bangers.pmsky.social/",
 	"did": "did:plc:xxuec5mzrpes75qdgr5bjn5j",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793160628140
 }

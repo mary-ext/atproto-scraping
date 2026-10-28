@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ilmenite-loris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "-UUBCAr7OQ3SIK7BwCxwpjANX3-a9e0G4lWjS5S4kl4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

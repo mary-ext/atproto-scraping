@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fatesky-social.hukoubook.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "1br_aN8SN8mQy3yIfx2V51L22pWA7PjGPeHwZ8ywIL4",
 	"pds": "https://network.hukoubook.com/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793159859555
 }

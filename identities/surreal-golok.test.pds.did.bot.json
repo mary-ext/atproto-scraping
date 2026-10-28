@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-golok.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "NvjqioPqlTHm5z1P-iVwaqCcZNh7TM6PnA1Mc1kNFao",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hessian-bunka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "b7Tul4KlIw1GpCu4uELsoASUzQVvfKfboCM9CQThUHw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

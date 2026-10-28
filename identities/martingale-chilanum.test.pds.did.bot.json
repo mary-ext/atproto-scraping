@@ -1,9 +1,9 @@
 {
 	"did": "did:web:martingale-chilanum.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793072474529,
-	"errorAt": null,
 	"hash": "VsSIq6CXdYO8roJN__rmJOwromPqiRb8Oqw8c3EiYzg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793072474529,
+	"errorAt": null
 }

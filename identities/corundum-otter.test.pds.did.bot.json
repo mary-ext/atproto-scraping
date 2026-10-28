@@ -1,0 +1,9 @@
+{
+	"did": "did:web:corundum-otter.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793159859555,
+	"errorAt": null,
+	"hash": "Yf5rXne9TyQnfKVQ9jhiA02LrVlAiQnJ4bodOudKtBQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

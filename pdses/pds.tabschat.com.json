@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.tabschat.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.36",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1790827665128,
-	"errorAt": null
+	"errorAt": 1793160628140
 }
