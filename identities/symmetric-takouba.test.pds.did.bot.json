@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-takouba.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793247672259,
+	"errorAt": null,
+	"hash": "NhDaEVePG7FkAtdS8GTm6e-W4BqigY81MQJuDyJtbck",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

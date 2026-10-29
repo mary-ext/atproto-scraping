@@ -1,0 +1,9 @@
+{
+	"did": "did:web:dnstest.stage.clipsymphony.com",
+	"status": "online",
+	"firstSeenAt": 1793247672259,
+	"errorAt": null,
+	"hash": "cFUjL03GMKUhKNL3VoY4btb165yE6B9AKJEGwajzyUc",
+	"pds": "https://pds.social.clipsymphony.com/",
+	"labeler": null
+}

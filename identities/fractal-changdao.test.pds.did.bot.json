@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fractal-changdao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "c4tVQWUrpS0lmYwRRMmyD4R0I1j0WatdyOd0uxodGk0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

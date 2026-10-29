@@ -1,7 +1,7 @@
 {
 	"url": "https://oneshot.iroiro.party/",
 	"did": "did:plc:jh52vvcnlqyxssqvjwctaj5c",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

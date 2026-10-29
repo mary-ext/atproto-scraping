@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.pyrelight.fr/",
-	"status": "offline",
+	"status": "online",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1775780996000,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

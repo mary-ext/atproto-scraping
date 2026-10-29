@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-test.meowing.zip/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.32",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1787360630711,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

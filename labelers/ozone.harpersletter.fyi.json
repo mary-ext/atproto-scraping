@@ -1,8 +1,8 @@
 {
 	"url": "https://ozone.harpersletter.fyi/",
 	"did": "did:plc:2dnldc4omasiothhuqbmosyx",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://scodran.nl/",
-	"status": "offline",
-	"version": "0.4.5037",
+	"status": "online",
+	"version": "0.4.5049",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1792898567420
+	"errorAt": null
 }

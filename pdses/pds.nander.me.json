@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.nander.me/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.6",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

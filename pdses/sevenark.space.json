@@ -1,8 +1,8 @@
 {
 	"url": "https://sevenark.space/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.34",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1792033811407,
-	"errorAt": 1792380339575
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "XQKzJh2DQ5MRr7yfcUy-wRgAyhilZHwiclfNvRndefE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

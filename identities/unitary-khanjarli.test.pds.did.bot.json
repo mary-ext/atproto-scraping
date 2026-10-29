@@ -1,9 +1,9 @@
 {
 	"did": "did:web:unitary-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "ghSsIvxbqa3sOR4suvCYtlibOGi5MUL5tUPVThJhix0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

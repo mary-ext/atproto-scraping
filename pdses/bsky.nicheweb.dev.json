@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.nicheweb.dev/",
-	"status": "offline",
-	"version": "0.4.5037",
+	"status": "online",
+	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792205909018,
-	"errorAt": 1792380339575
+	"errorAt": null
 }

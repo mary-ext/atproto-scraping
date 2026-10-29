@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ka.ag/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5046",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1774056469302,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

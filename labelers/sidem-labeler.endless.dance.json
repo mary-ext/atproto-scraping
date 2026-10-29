@@ -1,8 +1,8 @@
 {
 	"url": "https://sidem-labeler.endless.dance/",
 	"did": "did:plc:zllauj2gdedc2jd4dhimsc63",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

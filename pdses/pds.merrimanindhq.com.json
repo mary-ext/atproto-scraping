@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.merrimanindhq.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782953236069,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

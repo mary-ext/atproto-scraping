@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-koncerz.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "WkpXgr0pDDol9rtbrLoLlqb0N-yiba_dFzHUvGXlO5w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

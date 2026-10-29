@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-schiavona.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793247672259,
+	"errorAt": null,
+	"hash": "w5CwM91V-26SVt3eGsbtSR4UYUHRvlx1xIEhfByvmws",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

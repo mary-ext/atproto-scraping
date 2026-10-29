@@ -1,0 +1,9 @@
+{
+	"did": "did:web:stabilizer-shuriken.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793247672259,
+	"errorAt": null,
+	"hash": "sbb5s1kLOv0fuTyiTrWa4sUFmygjZwXHUq8zMJBqy-M",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bijection-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "Mf1-b4NyW6RNzGNKtnYfuNl3g3XHcnnQ_pgyGlBxlQc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

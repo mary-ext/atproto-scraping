@@ -1,8 +1,8 @@
 {
 	"url": "https://purr.systems/",
-	"status": "offline",
+	"status": "online",
 	"version": "boobies",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

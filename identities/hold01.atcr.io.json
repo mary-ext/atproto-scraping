@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hold01.atcr.io",
 	"status": "offline",
-	"hash": "RLbSsyWxtQYbzgHcaSJJC0rnEoPjtgI3vgghYNouvas",
+	"hash": "3mEFKg5lsSYcmJw7KVPFxiE9T1iqvRvvpK_WW_8mbZU",
 	"pds": "https://hold01.atcr.io/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793159859555
+	"errorAt": null
 }

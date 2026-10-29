@@ -1,8 +1,8 @@
 {
 	"url": "https://pds-jtin37dp-preview.kiln.zone/",
-	"status": "offline",
+	"status": "online",
 	"version": "kiln-pds",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1791948648583,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

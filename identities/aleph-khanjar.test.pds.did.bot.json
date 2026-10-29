@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aleph-khanjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "keOXplD4p8AIPHDiNwpx5Y2I8v4Qhq53b1cLIDIvRrM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pkflash.glitchypsi.xyz/",
 	"did": "did:plc:bupeudpgef7eikzsa4osiktq",
-	"status": "offline",
+	"status": "online",
 	"version": "0.1.167",
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

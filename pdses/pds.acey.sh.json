@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.acey.sh/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783995155094,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

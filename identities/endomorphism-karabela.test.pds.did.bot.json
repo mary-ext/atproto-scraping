@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "akR7OdQd2KbUAYULpia3Q73w-E5Y2UoYr2G6coe2W1k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

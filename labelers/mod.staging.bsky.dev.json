@@ -1,8 +1,8 @@
 {
 	"url": "https://mod.staging.bsky.dev/",
 	"did": "did:plc:kfiaag3o66qk75mfgwebyyns",
-	"status": "online",
+	"status": "offline",
 	"version": "git-7f7bb09",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793248405614
 }

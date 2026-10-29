@@ -1,9 +1,9 @@
 {
 	"did": "did:web:contravariant-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "mqJt-fxBQl5wQvmh5m5SPJkzfiPmGS4i2QzgdWc3cPA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

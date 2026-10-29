@@ -1,8 +1,8 @@
 {
 	"url": "https://gkmas-labeler.endless.dance/",
 	"did": "did:plc:xelfroz65ivei2p2um222kew",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

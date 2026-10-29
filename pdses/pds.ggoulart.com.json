@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ggoulart.com/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5049",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791605907136,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

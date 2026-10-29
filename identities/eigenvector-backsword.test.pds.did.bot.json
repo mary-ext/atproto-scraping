@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-backsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "Q57R_UIRN1QgaXAyYON3DFJ6TKMI0dAJK9Ql3kYyAU8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

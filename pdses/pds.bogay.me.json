@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bogay.me/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.2.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1792120718378
+	"errorAt": null
 }

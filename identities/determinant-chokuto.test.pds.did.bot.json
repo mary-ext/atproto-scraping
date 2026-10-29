@@ -1,0 +1,9 @@
+{
+	"did": "did:web:determinant-chokuto.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793247672259,
+	"errorAt": null,
+	"hash": "FSSmAxKUDFokhZXSGQwXdR4m65IUWKwp49JLXBuKkys",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "mmW0M-meNAjkIXmGornt_QtLeWK89g5oAVVI7GvgUko",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }

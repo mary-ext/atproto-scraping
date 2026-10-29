@@ -1,8 +1,8 @@
 {
 	"url": "https://id.karlbrig.ht/",
-	"status": "offline",
+	"status": "online",
 	"version": "cirrus 0.19.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1788663288554,
-	"errorAt": 1793160628140
+	"errorAt": null
 }

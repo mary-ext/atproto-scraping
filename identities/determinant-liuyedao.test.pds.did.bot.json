@@ -1,9 +1,9 @@
 {
 	"did": "did:web:determinant-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793159859555,
-	"errorAt": null,
 	"hash": "8X64DYcKS2wZN-72ynDxi0FL_UK2W928m8aeNt5G3W0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793159859555,
+	"errorAt": null
 }
