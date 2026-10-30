@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-montante.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "YDyALDQxos2FAgux3GCc_0_taJzkt9scwcg9vsmGQjc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

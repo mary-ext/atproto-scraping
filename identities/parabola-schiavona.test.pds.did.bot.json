@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-schiavona.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "yyQM5OsglHB76U9Gsul9F1S24mIn4kanDL6tHLkOSHA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

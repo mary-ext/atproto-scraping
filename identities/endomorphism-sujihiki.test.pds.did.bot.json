@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-sujihiki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "IP-acGHlbqS6eZ4S1wOAvB-efQbTi5n_RiaSLYRHRRo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

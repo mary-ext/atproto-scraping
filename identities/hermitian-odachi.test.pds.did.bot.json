@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hermitian-odachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "eyd1anHD71Io5R5lIpag86d9f18faHDmyC-oJ3xxduE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.poasters.club/",
-	"status": "online",
+	"status": "offline",
 	"version": "1.0.0+ca9ef30",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790913723283,
-	"errorAt": null
+	"errorAt": 1793334800397
 }

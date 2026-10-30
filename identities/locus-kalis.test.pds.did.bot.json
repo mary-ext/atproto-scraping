@@ -1,9 +1,9 @@
 {
 	"did": "did:web:locus-kalis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "Tkx28tlYO2bfy0994H_rljz9SfM_659RRySNjhfR0PA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

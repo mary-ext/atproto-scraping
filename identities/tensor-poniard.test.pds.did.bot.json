@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tensor-poniard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "Nf7tBevYKh2VqcBNuJh_njLgDnrLbEj29lVrq6bIQYM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

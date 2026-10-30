@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gradient-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "duWS1ut3F9u6pfJVhUvenXLVuhXEK2rKnrZQ8HMehO8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:compact-gunong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "8F_lTEZ6VheOVd5rfJ4jPN1HGjg9aBfO8DOoB7q25ew",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

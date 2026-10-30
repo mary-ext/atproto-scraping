@@ -1,9 +1,9 @@
 {
 	"did": "did:web:peridotite-motmot.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "6PsDuKTmJs7SOvbEBIEFUm39saZC1ljLh6tTSSU3tJ8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

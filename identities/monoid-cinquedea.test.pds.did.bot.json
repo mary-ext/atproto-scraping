@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monoid-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "teXYJf1RNbO0kQ1uWQbG0T17T8H8qvHDwXoF6eUmPpE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

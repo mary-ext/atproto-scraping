@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hilbert-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "vyh2sM_CPKo7PlltvFyhFXx0SVVl9pTY6bw9c4k4ynA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

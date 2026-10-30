@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bornite-monarch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "MTdNP-a0pQRlnYoZIOgo7lNFxqlcQ72UJmJTH1AZ8BU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

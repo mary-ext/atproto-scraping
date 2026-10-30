@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monomial-kindjal.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "v21BWFFbe2FZMv2vD6-MNakDvdr6Eo3HdSu0fS4SYxw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

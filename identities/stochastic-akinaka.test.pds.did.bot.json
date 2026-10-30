@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-akinaka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "5NlWsoqcw9bsewWBfysvpmGbfL3N3UCbgyimOBx1mvI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-balisong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "WPlUMhmX0UJ_Kwl2-cKIGRWDIVNZEZsAOtJNxPTBr6w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

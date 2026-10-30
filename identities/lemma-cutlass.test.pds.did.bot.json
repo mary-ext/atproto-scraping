@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "kEf3YB6U71h8XWEAERihWl-VmHI9NtWhucdsAtMgR6c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

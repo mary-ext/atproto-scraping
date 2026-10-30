@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-kampilan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "Zcd506Cbq5ZBLlXmv_q8p7Dp3r1NASrLtcc6nOQAXyI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

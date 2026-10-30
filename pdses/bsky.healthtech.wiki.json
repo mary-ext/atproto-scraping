@@ -2,7 +2,7 @@
 	"url": "https://bsky.healthtech.wiki/",
 	"status": "online",
 	"version": "0.4.5049",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1792897845829,
 	"errorAt": null
 }

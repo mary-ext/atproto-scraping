@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "mEHavAcJgbnRrs7kGjSv8fMdcSCGxnRyry_6jOv_aj8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

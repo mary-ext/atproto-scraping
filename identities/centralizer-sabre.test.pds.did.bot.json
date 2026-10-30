@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-sabre.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "UlGLlLHTE_724NQ2tTx2_8Mhcml6CQrh_j55VgUxExE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

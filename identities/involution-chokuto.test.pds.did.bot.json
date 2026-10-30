@@ -1,9 +1,9 @@
 {
 	"did": "did:web:involution-chokuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "6cf_3cA4_mmphhOFcyH75a-moaFcWgNZfWboUNlCkm0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

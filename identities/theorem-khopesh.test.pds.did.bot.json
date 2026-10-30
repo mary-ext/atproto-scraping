@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-khopesh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "oQoQrCINfo1F0gi5KlP0wIsWDP8dfmXWzOmYBg6Gskw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

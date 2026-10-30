@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.152-53-100-18.sslip.io/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793159859555,
-	"errorAt": null
+	"errorAt": 1793334800397
 }

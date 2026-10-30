@@ -1,9 +1,9 @@
 {
 	"did": "did:web:injection-gunong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "yYT6yETlPoszCbW-JyNR7JeKz2ppTfqRXg5O0EPF6CE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

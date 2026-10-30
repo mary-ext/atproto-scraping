@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ergodic-katzbalger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "Kyc0d6TMKcTN1aeuUJSoZ0Y7uQrtNb62xZqlG2JACVA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

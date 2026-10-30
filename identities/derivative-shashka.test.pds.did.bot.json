@@ -1,9 +1,9 @@
 {
 	"did": "did:web:derivative-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "PfyRBZn4aK3ed6E9doGgsQlXOQhJ4KxW4-d_juCoEIQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

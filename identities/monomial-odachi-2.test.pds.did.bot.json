@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monomial-odachi-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "KgdvSMdOh7R1-BB-GJ1C-6g-P12x-YHWWtpJ2ZGPMbw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

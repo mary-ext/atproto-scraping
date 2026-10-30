@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-golok.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "oybqS2Qk3XcaG6LHLaGp1FJjIFICXwtoXeChDz2lyC8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

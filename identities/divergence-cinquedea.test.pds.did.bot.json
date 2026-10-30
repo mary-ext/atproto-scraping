@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "j5S0zvjvtXwu0WWe0i_uuo7-hn0hXxN-EATrsaD8hR8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

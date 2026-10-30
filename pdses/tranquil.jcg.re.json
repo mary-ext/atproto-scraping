@@ -1,6 +1,8 @@
 {
 	"url": "https://tranquil.jcg.re/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "tranquil 0.7.1",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1793247672259,
-	"errorAt": 1793248405614
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jadeite-potoo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "PloDs6WDIaff0T_z7jVfbsVXl1HNvNBdYFz8Np7-Z6o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

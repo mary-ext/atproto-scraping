@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hermitian-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "eTdd05ZdV6jIEUaTfN6NfSpCEaUI9-qgjRq7ct1YvYM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

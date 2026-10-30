@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pyrope-margay.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "jPma0NyT5Ripk5pRIy20btMazMN4GOJWe9rFgfp6xrE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

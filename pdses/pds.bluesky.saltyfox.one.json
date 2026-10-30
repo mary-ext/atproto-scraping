@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.bluesky.saltyfox.one/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.38",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793248405614
+	"errorAt": null
 }

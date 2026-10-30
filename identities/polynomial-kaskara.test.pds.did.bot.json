@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polynomial-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "84zO_8Rl5ecFXf_rVngnMfFhxBGdFyzXzyQZZ6lr5AY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sheaf-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "gHUKBl_sea-ILiP2Kl2JIiW8A4diwH-LuZ39eUcPHio",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

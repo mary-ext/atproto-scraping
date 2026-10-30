@@ -1,9 +1,9 @@
 {
 	"did": "did:web:codomain-dirk.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "b2872jVKdhBINzj7UiR8uxMdS_MQykKKvKyd1zE25po",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

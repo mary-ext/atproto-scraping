@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aleph-chokuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "QXQQreE2pQPGsdK8e9HQBw5zooVEMeo1ijuHT3g6WrQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

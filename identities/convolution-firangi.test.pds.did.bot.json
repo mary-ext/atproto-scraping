@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convolution-firangi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "D5YRGNt4AdTxPh_BtbrmCGdOmnGhSH8MjFIH4kCW5VY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

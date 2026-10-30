@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quaternion-kaiken.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "FNuzjL2j89eYvZkq_dE1gqwmsGsVnuuay7LpleL4xUE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

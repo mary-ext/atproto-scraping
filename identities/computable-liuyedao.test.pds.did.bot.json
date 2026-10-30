@@ -1,9 +1,9 @@
 {
 	"did": "did:web:computable-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "JuxxB2yRcUkieXfTqyzHjn5_pqoldo_JjL_4m3j6Ojs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

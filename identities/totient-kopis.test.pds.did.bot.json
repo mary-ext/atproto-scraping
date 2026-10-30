@@ -1,9 +1,9 @@
 {
 	"did": "did:web:totient-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "NYw7wbNZtu-6JSJQBINikzwJCLjZ5o5Ga9AKVBWIaXg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

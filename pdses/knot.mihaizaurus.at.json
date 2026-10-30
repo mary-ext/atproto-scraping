@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.mihaizaurus.at/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.2.0",
 	"firstSeenAt": 1793072474529,
-	"errorAt": 1793073239500
+	"errorAt": null
 }

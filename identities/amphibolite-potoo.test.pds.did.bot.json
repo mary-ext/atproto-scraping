@@ -1,9 +1,9 @@
 {
 	"did": "did:web:amphibolite-potoo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "hO3UfXK-zPMxXWrkXYRQT9XbPo3txAYZKeU4kl3sfO0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

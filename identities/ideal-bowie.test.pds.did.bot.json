@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ideal-bowie.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "Vp4y_d7d5-h5l9lWydQAQcJby19LIqs0Nq3cTXBSYt0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

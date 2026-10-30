@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.verd.et0.pw/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793072474529,
-	"errorAt": null
+	"errorAt": 1793334800397
 }

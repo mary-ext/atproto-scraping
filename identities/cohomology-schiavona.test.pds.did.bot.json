@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-schiavona.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "tvOqkEtGHfK1SkUtv0bVFK4M-QH7VxqHthCixvwqaUY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }

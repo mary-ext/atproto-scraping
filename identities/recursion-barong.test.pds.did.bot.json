@@ -1,9 +1,9 @@
 {
 	"did": "did:web:recursion-barong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793247672259,
-	"errorAt": null,
 	"hash": "TdWYxCftN-74Ho7K1s9sY6IKzhA6O8ZLmEpOcXn1Ec4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793247672259,
+	"errorAt": null
 }
