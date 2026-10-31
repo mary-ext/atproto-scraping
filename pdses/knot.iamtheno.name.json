@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.iamtheno.name/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792897845829,
-	"errorAt": 1792898567420
+	"errorAt": null
 }

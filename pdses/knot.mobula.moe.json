@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.mobula.moe/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792552644079,
-	"errorAt": 1792553368262
+	"errorAt": null
 }

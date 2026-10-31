@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds.abhirath.net",
 	"status": "online",
-	"firstSeenAt": 1793334064370,
-	"errorAt": null,
 	"hash": "5kQiESA5PXkJ4Ls2KcsGonxqdlRvvnHogZgHVyqcWE8",
 	"pds": "https://pds.abhirath.net/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793334064370,
+	"errorAt": null
 }

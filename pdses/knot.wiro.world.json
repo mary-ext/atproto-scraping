@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.wiro.world/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1793247672259,
-	"errorAt": 1793248405614
+	"errorAt": null
 }

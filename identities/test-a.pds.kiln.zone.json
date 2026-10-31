@@ -1,0 +1,9 @@
+{
+	"did": "did:web:test-a.pds.kiln.zone",
+	"status": "online",
+	"firstSeenAt": 1793419223655,
+	"errorAt": null,
+	"hash": "CNKznqy4HUlh0tMwb6PK0WFeYov-7YrDAK77_rkrEpE",
+	"pds": "https://test-a.pds.kiln.zone/",
+	"labeler": null
+}

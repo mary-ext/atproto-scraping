@@ -1,0 +1,9 @@
+{
+	"did": "did:web:alexandrite-robin.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793419223655,
+	"errorAt": null,
+	"hash": "OzmDCp5F6QAnjSMAdOKgtivqpbVIbJXPVhGOA-LwZEM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

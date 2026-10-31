@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.sharedcomputer.network/",
 	"status": "online",
-	"version": "0.15.0-rc.6+09a868cdde",
+	"version": "0.15.0-rc.6+be466e5aec",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791346621701,
 	"errorAt": null

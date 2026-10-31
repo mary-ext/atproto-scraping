@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.xenolandscapes.com/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792379636938,
-	"errorAt": 1792380339575
+	"errorAt": null
 }

@@ -1,6 +1,7 @@
 {
 	"url": "https://tangled.doggirl.love/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.2.0",
 	"firstSeenAt": 1792552644079,
-	"errorAt": 1792553368262
+	"errorAt": null
 }

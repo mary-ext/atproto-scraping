@@ -1,9 +1,9 @@
 {
 	"did": "did:web:casey.is.being.pet",
-	"status": "online",
+	"status": "offline",
 	"hash": "T2Q9YkIXT1npRrG21GOKpssfv4ndbuN6dm2jRP-rFGU",
 	"pds": "https://pds.witchcraft.systems/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793419223655
 }

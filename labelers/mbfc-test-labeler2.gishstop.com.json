@@ -1,8 +1,8 @@
 {
 	"url": "https://mbfc-test-labeler2.gishstop.com/",
 	"did": "did:plc:3eqxc3w7toigsvz255k772a3",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.1-final5-final-patched.2-please-work",
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793419954343
 }

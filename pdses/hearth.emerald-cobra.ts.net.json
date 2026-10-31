@@ -1,8 +1,8 @@
 {
 	"url": "https://hearth.emerald-cobra.ts.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.15.0-rc.6+3521380bc1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791869242107,
-	"errorAt": 1793334800397
+	"errorAt": null
 }

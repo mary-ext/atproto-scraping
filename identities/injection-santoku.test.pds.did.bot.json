@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-santoku.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793419223655,
+	"errorAt": null,
+	"hash": "UBW8fjUCWoyzZguabd2g2ZyddqQqqpiPC3HKd6ohJso",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

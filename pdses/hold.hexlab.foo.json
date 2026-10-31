@@ -1,8 +1,8 @@
 {
 	"url": "https://hold.hexlab.foo/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.999",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792033811407,
-	"errorAt": null
+	"errorAt": 1793419954343
 }

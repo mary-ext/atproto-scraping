@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.meisterlala.dev/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792466565146,
-	"errorAt": 1792467322874
+	"errorAt": null
 }

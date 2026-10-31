@@ -1,0 +1,9 @@
+{
+	"did": "did:web:affine-dirk.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793419223655,
+	"errorAt": null,
+	"hash": "vUqBO0F9bZZvUcFuagsh-hN-XugqN9BfkCAfKR5Nl3M",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}
