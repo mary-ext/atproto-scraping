@@ -1,8 +1,8 @@
 {
 	"url": "https://ballshed.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5027",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786411557426,
-	"errorAt": null
+	"errorAt": 1793507669134
 }

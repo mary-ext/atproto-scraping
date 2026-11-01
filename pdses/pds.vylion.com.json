@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.vylion.com/",
-	"status": "offline",
-	"version": "tranquil 0.6.0",
+	"status": "online",
+	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777509625268,
-	"errorAt": 1792726418143
+	"errorAt": null
 }
