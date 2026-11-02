@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sebastianrasor.com",
 	"status": "online",
-	"firstSeenAt": 1793506936953,
-	"errorAt": null,
 	"hash": "aFgHd-TmcvPrkeJlSR-nBOHyOD8r9F1qooCGXz9JQMc",
 	"pds": "https://tranquil.rasor.us/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793506936953,
+	"errorAt": null
 }

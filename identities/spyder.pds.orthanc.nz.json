@@ -1,9 +1,9 @@
 {
 	"did": "did:web:spyder.pds.orthanc.nz",
-	"status": "online",
+	"status": "offline",
 	"hash": "GPu22PhYfCS0JT7CzkinBe9ejZWT8tGgpoovtY2pRpA",
 	"pds": "https://cocoon.orthanc.nz/",
 	"labeler": null,
 	"firstSeenAt": 1774657648880,
-	"errorAt": null
+	"errorAt": 1793593429618
 }

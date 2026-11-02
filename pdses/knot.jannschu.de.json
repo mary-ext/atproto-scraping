@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.jannschu.de/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792725691104,
-	"errorAt": 1792726418143
+	"errorAt": null
 }

@@ -1,6 +1,6 @@
 # Scraped AT Protocol instances
 
-Last updated: 2026-11-01T04:42:32.870Z[^1]
+Last updated: 2026-11-02T04:43:38.688Z[^1]
 
 Found by enumerating plc.directory and bsky.network, some instances might not be
 part of mainnet.
@@ -9,11 +9,11 @@ Instances that have not been active for more than 14 days gets dropped off from 
 
 ## Personal data servers
 
-**3806** instances active  
-**3392** online  
-**414** offline  
+**3818** instances active  
+**3418** online  
+**400** offline  
 **90** hosted by Bluesky  
-**3716** hosted by third-parties
+**3728** hosted by third-parties
 
 ### Bluesky-hosted servers
 
@@ -134,7 +134,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ 3615etienne.com | No | 0.4.5051 |
 | ✅ 465789.xyz | No | 0.4.5051 |
 | ✅ 556gauge.com | No | 0.4.5051 |
-| ✅ 5o3.dev | No | 0.4.188 |
+| ❌ 5o3.dev | No | 0.4.188 |
 | ✅ 75-119-145-29.sslip.io | No | 0.4.5009 |
 | ✅ 8bitwizard.social | No | 0.4.5051 |
 | ✅ a.tpro.to | No | tranquil 0.7.1 |
@@ -145,7 +145,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ abnormalpds.work | No | 0.4.5051 |
 | ✅ account.cavu.social | Yes | 1.2.3+7a141ca |
 | ✅ account.coffeencode.cc | No | 0.4.5051 |
-| ✅ acpr.dev | No | 0.4.208 |
+| ✅ acpr.dev | No | 0.4.5051 |
 | ✅ actarachne.com | No | 0.4.5051 |
 | ✅ adam759.net | No | 0.4.5034 |
 | ✅ adamit.link | No | 0.4.5051 |
@@ -172,7 +172,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ alpha.gems.xyz | No | 0.5.32 |
 | ✅ alpha.swan.place | No | ??? |
 | ✅ alphaxiv.social | No | 0.4.5051 |
-| ❌ alt.ripperoni.com | No | 0.4.208 |
+| ✅ alt.ripperoni.com | No | 0.4.208 |
 | ✅ altq.net | No | 0.4.5051 |
 | ✅ alttextlab.click | No | 0.4.5051 |
 | ✅ aly.social | No | tranquil 0.7.1 |
@@ -198,7 +198,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ api.bluesky.6uns2qyadwxpod73vnujgdbtffwpjqptklklgzacy3av2dit7cmcxxid.onion | No | ??? |
 | ❌ api.bluesky.cp3ueecrkess4eqtbe6dhvivrarrimmj76lrmkfzwwk4dotbprnftgyd.onion | No | ??? |
 | ❌ api.bluesky.d5hgpm6q5llpzdlivd2qucmfvtxupb67sjlxzicddvwftneby6vhjhqd.onion | No | ??? |
-| ❌ api.bluesky.dfwla3omanceb2ma72glduqujttkt6hwsaydduhktdh2p6hmrfb7bsid.onion | No | ??? |
 | ❌ api.bluesky.dsja34d67n4cxzrh7dqwv5w5n3qd5nrga2xegg2eluawwe3cssfxxxad.onion | No | ??? |
 | ❌ api.bluesky.hf6zyf54zdujapq2vse3zglgrg7ogz3ftxu3wjur5ohdfsjharre5dyd.onion | No | ??? |
 | ❌ api.bluesky.iqbkjajvklscxaz5suo5vyqiivaxagsozvgt5cynkxlbv3xajujugqad.onion | No | ??? |
@@ -213,7 +212,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ api.didcal.io | No | ??? |
 | ❌ api.roomy.space | No | ??? |
 | ✅ app.leafplaza.eu | No | 0.4.5051 |
-| ❌ apple.lukeacl.com | No | ??? |
 | ✅ applestickers.net | No | 0.4.5051 |
 | ✅ arabica.systems | No | 0.4.5051 |
 | ✅ araulin.eu | No | 0.4.5051 |
@@ -224,7 +222,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ arenm.me | No | 0.4.5051 |
 | ✅ ariake.concrnt.net | No | concrnt-atproto-bridge main |
 | ✅ arion.social | No | 0.4.158 |
-| ❌ arknek.my.id | No | 0.4.5037 |
+| ✅ arknek.my.id | No | 0.4.5037 |
 | ✅ artificial-ryan.us | Yes | 0.4.5051 |
 | ✅ artois.me | No | 0.4.5051 |
 | ✅ arume.cloud | No | 0.4.5051 |
@@ -263,7 +261,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.erratique.fr | No | 0.4.193 |
 | ✅ at.fabio.sh | No | 0.4.219 |
 | ✅ at.falco.fun | No | 0.4.5027 |
-| ✅ at.fedisky.it | No | 0.4.5044 |
+| ✅ at.fedisky.it | No | 0.4.5051 |
 | ✅ at.flkn.dev | No | tranquil 0.6.7 |
 | ✅ at.folk.lol | No | 0.4.5037 |
 | ✅ at.freshly.space | No | tranquil 0.6.6 |
@@ -289,7 +287,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.irminsul.cc | No | 0.4.5051 |
 | ✅ at.jodoin.io | No | 0.4.5037 |
 | ❌ at.karui.moe | No | ??? |
-| ✅ at.kizaing.ca | No | 0.4.5027 |
+| ❌ at.kizaing.ca | No | 0.4.5027 |
 | ✅ at.kotodama.ca | No | 0.4.5051 |
 | ✅ at.lantian.pub | No | tranquil 0.7.1 |
 | ✅ at.laslie.de | No | 0.4.5046 |
@@ -301,7 +299,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ at.mae.wtf | No | N/A |
 | ✅ at.mashi.wip.la | No | 0.4.74 |
 | ✅ at.meowing.zip | No | tranquil 0.6.7 |
-| ✅ at.mice.tel | No | tranquil 0.7.0 |
+| ✅ at.mice.tel | No | tranquil 0.7.1 |
 | ✅ at.mikchan.net | No | 0.4.5027 |
 | ✅ at.mitsuse.jp | No | 0.4.5051 |
 | ✅ at.moonshadow.dev | No | 0.4.5051 |
@@ -364,7 +362,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ atmo2.mk.gg | Yes | cirrus 0.12.0 |
 | ✅ atmos.cv | No | 0.4.5009 |
 | ✅ atmosphere.games | No | 0.4.5046 |
-| ✅ atmosphere.lore.earth | No | tranquil 0.7.0 |
+| ✅ atmosphere.lore.earth | No | tranquil 0.7.1 |
 | ✅ atom.new.incorso.xyz | Yes | blue-nile-pds v1.0.0 |
 | ✅ atp.jamntoast.com | No | 0.4.5051 |
 | ✅ atp.mobula.moe | No | tranquil 0.7.1 |
@@ -385,7 +383,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ atproto.ceo | No | 0.4.5027 |
 | ✅ atproto.chain-of-thought.org | No | 0.4.5043 |
 | ✅ atproto.cizzuk.net | No | N/A |
-| ✅ atproto.crowconclave.dev | No | 0.4.5037 |
+| ✅ atproto.crowconclave.dev | No | 0.4.5051 |
 | ✅ atproto.digitalmethods.net | No | 0.4.5051 |
 | ✅ atproto.elon.li | No | 0.4.5051 |
 | ✅ atproto.feets.co.nz | No | 0.4.5051 |
@@ -426,7 +424,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bag.laugh.town | No | 0.5.32 |
 | ✅ bailey.protobase.at | No | 0.4.5051 |
 | ✅ balasarius.co.uk | No | 0.4.5051 |
-| ❌ ballshed.net | No | 0.4.5027 |
+| ✅ ballshed.net | No | 0.4.5027 |
 | ✅ banana-party.objkt.dev | No | 0.4.5051 |
 | ✅ banjo.paullieberman.org | No | 0.4.219 |
 | ✅ barsinister.net | No | 0.4.5037 |
@@ -438,7 +436,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ beta.seiran.org | Yes | ??? |
 | ❌ betweenzeroand.one | No | 0.4.193 |
 | ✅ bevenhall.net | No | 0.4.5027 |
-| ✅ biggee.social | No | 0.4.5051 |
+| ❌ biggee.social | No | 0.4.5051 |
 | ✅ bigwave.social | No | 0.4.219 |
 | ✅ bishop.blue | No | 0.4.5051 |
 | ✅ bitemy.app | No | 0.4.5051 |
@@ -505,7 +503,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bluesky.brodin.rocks | No | 0.4.5009 |
 | ❌ bluesky.broszeit.be | No | 0.4.5037 |
 | ✅ bluesky.bryantserver.com | No | 0.4.5051 |
-| ❌ bluesky.bulwarkob.com | No | 0.4.5051 |
+| ✅ bluesky.bulwarkob.com | No | 0.4.5051 |
 | ✅ bluesky.casually.cat | No | 0.4.5051 |
 | ✅ bluesky.cdecker08.dev | No | 0.4.5051 |
 | ❌ bluesky.ceneezer.icu | No | 0.4.5051 |
@@ -566,7 +564,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bluesky.marenubium.onmypc.net | No | 0.4.5034 |
 | ✅ bluesky.marud.fr | No | 0.4.5027 |
 | ✅ bluesky.massi1008.eu | No | 0.4.208 |
-| ✅ bluesky.masuhr.ch | No | 0.4.5037 |
+| ✅ bluesky.masuhr.ch | No | 0.4.5051 |
 | ✅ bluesky.memohat.xyz | No | 0.4.5026 |
 | ✅ bluesky.mena.house | No | 0.4.5051 |
 | ✅ bluesky.mer-cantile.com | No | 0.4.5051 |
@@ -605,11 +603,11 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bluesky.scfreiburg.com | No | 0.4.204 |
 | ✅ bluesky.schweren.dev | No | 0.4.5051 |
 | ✅ bluesky.scorpa.de | No | 0.4.5046 |
-| ✅ bluesky.shiny-task.com | No | 0.4.5009 |
+| ✅ bluesky.shiny-task.com | No | 0.4.5051 |
 | ✅ bluesky.siacone.art | No | 0.4.5049 |
 | ✅ bluesky.skylord.io | No | 0.4.5051 |
 | ✅ bluesky.skylt.ovh | No | 0.4.107 |
-| ✅ bluesky.smoothnet.org | No | 0.4.5049 |
+| ✅ bluesky.smoothnet.org | No | 0.4.5051 |
 | ✅ bluesky.socket.es | No | 0.4.5051 |
 | ✅ bluesky.speely.net | No | 0.4.5051 |
 | ✅ bluesky.starfyre.de | No | 0.4.5051 |
@@ -677,7 +675,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bs.mattsteg.com | No | N/A |
 | ✅ bs.mgjer.de | No | 0.4.219 |
 | ✅ bs.musou.dev | No | 0.4.5037 |
-| ✅ bs.nzcow.com | No | 0.4.5037 |
+| ❌ bs.nzcow.com | No | 0.4.5037 |
 | ✅ bs.omniskop.de | No | 0.4.107 |
 | ✅ bs.oomfie.space | No | 0.4.5051 |
 | ✅ bs.peterkramer.eu | No | 0.4.193 |
@@ -689,7 +687,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsk.ujnet.org | No | 0.4.5051 |
 | ✅ bsky-on.rave.page | No | 0.4.5051 |
 | ❌ bsky-pds.atserver.farm | No | 0.4.5034 |
-| ✅ bsky-pds.dextraspace.net | No | 0.4.5037 |
+| ✅ bsky-pds.dextraspace.net | No | 0.4.5051 |
 | ✅ bsky-pds.fancy.org.uk | No | 0.4.74 |
 | ✅ bsky-pds.h3z.jp | No | 0.4.5031 |
 | ✅ bsky-pds.lamberti.io | No | 0.4.5051 |
@@ -700,14 +698,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.0k.io | No | 0.4.5051 |
 | ✅ bsky.39music.dance | No | 0.4.5051 |
 | ✅ bsky.3v1lstuff.de | No | 0.4.5051 |
-| ✅ bsky.99rst.org | No | 0.4.5049 |
+| ✅ bsky.99rst.org | No | 0.4.5051 |
 | ✅ bsky.acerascal.com | No | 0.4.5051 |
 | ✅ bsky.acrion.social | No | N/A |
 | ✅ bsky.adadoai.com | No | 0.4.5027 |
 | ✅ bsky.adamjacobus.dev | No | 0.4.5051 |
 | ✅ bsky.aenead.net | No | N/A |
 | ✅ bsky.africa | Yes | blue-nile-pds v1.0.0 |
-| ✅ bsky.air11.social | No | 0.4.5051 |
+| ❌ bsky.air11.social | No | 0.4.5051 |
 | ✅ bsky.aki.cat | No | 0.4.5051 |
 | ✅ bsky.alahmn.at | No | 0.4.5051 |
 | ✅ bsky.alexheiss.de | No | 0.4.5037 |
@@ -728,7 +726,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.auxel.co | No | 0.4.182 |
 | ✅ bsky.average.name | No | 0.4.5034 |
 | ✅ bsky.ayma.cat | No | 0.4.5027 |
-| ✅ bsky.baeddel.social | No | 0.4.5009 |
+| ❌ bsky.baeddel.social | No | 0.4.5009 |
 | ✅ bsky.bagon.my.id | No | 0.4.5051 |
 | ✅ bsky.bark.wolp.chat | No | 0.4.5051 |
 | ✅ bsky.based.zone | No | 0.4.5034 |
@@ -838,13 +836,13 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ bsky.haworth.id.au | No | 0.4.5037 |
 | ✅ bsky.healthtech.wiki | Yes | 0.4.5049 |
 | ✅ bsky.hegre.com | No | 0.4.5051 |
-| ❌ bsky.helvetet.eu | No | 0.4.5051 |
+| ✅ bsky.helvetet.eu | No | 0.4.5051 |
 | ✅ bsky.hibanet.com | No | 0.4.5051 |
 | ✅ bsky.higgy.social | No | 0.4.5051 |
 | ✅ bsky.hmt.social | No | 0.4.5051 |
 | ✅ bsky.hohbukuro.stream | No | 0.4.5051 |
 | ✅ bsky.homestuck.fr | No | 0.4.5027 |
-| ✅ bsky.hummird.online | No | 0.4.208 |
+| ❌ bsky.hummird.online | No | 0.4.208 |
 | ✅ bsky.huscker.space | No | 0.4.208 |
 | ✅ bsky.hvn.network | No | 0.4.208 |
 | ✅ bsky.hydroakri.cc | No | 0.4.5034 |
@@ -911,7 +909,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.marcreisner.com | No | 0.4.5051 |
 | ✅ bsky.martyloo.com | No | 0.4.5051 |
 | ✅ bsky.mawsandclaws.xyz | No | 0.4.5051 |
-| ✅ bsky.mcduck-land.de | No | 0.4.5049 |
+| ✅ bsky.mcduck-land.de | No | 0.4.5051 |
 | ✅ bsky.mceyes.me | No | 0.4.219 |
 | ✅ bsky.mcr.gb.net | No | 0.4.5001 |
 | ✅ bsky.meierhost.com | No | 0.4.5043 |
@@ -926,7 +924,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.missoulasucks.com | No | 0.4.5051 |
 | ✅ bsky.mita.me | No | 0.4.5037 |
 | ✅ bsky.mjrm.us | No | 0.4.5051 |
-| ✅ bsky.mkkey.net | No | 2026.10.21+47bdb0 |
+| ✅ bsky.mkkey.net | No | 2026.11.2+d5420b |
 | ✅ bsky.mkultra.monster | No | 0.4.5051 |
 | ✅ bsky.moang.com.br | No | 0.4.5051 |
 | ✅ bsky.montuori.net | No | 0.4.5051 |
@@ -944,7 +942,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.ncrypted.dev | No | 0.4.5051 |
 | ✅ bsky.nebula.lgbt | No | 0.4.5051 |
 | ✅ bsky.nekojimi.moe | No | 0.4.74 |
-| ❌ bsky.neo0717.com | No | 0.4.5051 |
+| ✅ bsky.neo0717.com | No | 0.4.5051 |
 | ✅ bsky.nerdcloud.cz | No | 0.4.5051 |
 | ❌ bsky.nerdfest.dev | No | 0.4.5037 |
 | ✅ bsky.nerdyfam.social | No | 0.4.208 |
@@ -969,7 +967,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.parastor.net | No | 0.4.5051 |
 | ✅ bsky.participate.at | No | 0.4.208 |
 | ✅ bsky.pb.io | No | 0.4.74 |
-| ❌ bsky.petalcat.dev | Yes | 0.4.5037 |
 | ✅ bsky.peteroceanmedia.com | No | 0.4.5009 |
 | ✅ bsky.phitchaw.at | No | 0.4.193 |
 | ✅ bsky.pink | No | 0.4.5009 |
@@ -993,7 +990,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.rcolon.net | No | 0.4.211 |
 | ✅ bsky.readiefur.com | No | 0.4.5051 |
 | ✅ bsky.reggi.com | No | 0.4.5009 |
-| ✅ bsky.remotenode.host | No | 0.4.5051 |
+| ❌ bsky.remotenode.host | No | 0.4.5051 |
 | ✅ bsky.reve.land | No | 0.4.5051 |
 | ✅ bsky.rjo.name | No | 0.4.5034 |
 | ✅ bsky.rominesmills.com | No | 0.4.208 |
@@ -1054,7 +1051,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ bsky.the-wired.org | No | 0.4.5009 |
 | ✅ bsky.thedelleutah.com | No | 0.4.5051 |
 | ✅ bsky.theorangeone.net | No | 0.4.5049 |
-| ✅ bsky.theoswalds.com | No | 0.4.5051 |
+| ❌ bsky.theoswalds.com | No | 0.4.5051 |
 | ✅ bsky.thewiringundertheboard.net | No | 0.4.5051 |
 | ❌ bsky.thriv.dev | No | 0.4.5049 |
 | ✅ bsky.timanon.de | No | 0.4.5027 |
@@ -1075,7 +1072,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ bsky.wanivy.com | No | 0.4.5037 |
 | ✅ bsky.welch.network | No | 0.4.5001 |
 | ✅ bsky.whinis.com | No | 0.4.5051 |
-| ❌ bsky.wopr.systems | No | 0.4.5051 |
+| ✅ bsky.wopr.systems | No | 0.4.5051 |
 | ✅ bsky.wtr.app | No | 0.4.5051 |
 | ✅ bsky.wunk.cafe | No | 0.4.5051 |
 | ✅ bsky.yeet.fm | No | 0.4.219 |
@@ -1104,7 +1101,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ bunpup.dev | No | 0.4.188 |
 | ✅ burg.art | No | 0.4.5051 |
 | ✅ butterfly.vulpinecitrus.info | No | 0.4.5051 |
-| ✅ byjp.updraft.id | No | tranquil 0.7.1 |
+| ❌ byjp.updraft.id | No | tranquil 0.7.1 |
 | ✅ bylisa.dev | No | 0.4.5051 |
 | ✅ bytelabs.social | No | 0.4.5051 |
 | ✅ c0s.net | No | 0.4.5051 |
@@ -1200,7 +1197,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ crnlswn.com | No | 0.4.5051 |
 | ✅ cronoci.de | No | 0.4.5037 |
 | ✅ csw.im | No | tranquil 0.6.6 |
-| ❌ cubes.blue | No | 0.4.5051 |
+| ✅ cubes.blue | No | 0.4.5051 |
 | ✅ cupcap.org | Yes | 0.4.226 |
 | ✅ curiosity.rip | No | 0.4.5051 |
 | ✅ cyberfortress.security | No | 0.4.219 |
@@ -1208,7 +1205,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ daemons.work | No | 0.4.5044 |
 | ✅ daniel-schmitt.de | No | 0.4.5051 |
 | ✅ daochi.eu | No | 0.4.5051 |
-| ❌ dariusradius.com | No | N/A |
+| ✅ dariusradius.com | No | N/A |
 | ✅ darkmatter.rocks | No | 0.4.5051 |
 | ✅ data.cmd.wtf | No | 0.4.5051 |
 | ✅ data.scoreflo.at | No | 0.4.5034 |
@@ -1252,16 +1249,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shajv4cu7dsfv2jtb7ns8mpbc2652qj6qfuy7kw6rcv4ay.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shaq2wnpz3ccy9di8jpsfqkkpgwio7zjvaphbeodtmyk1t.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shaygag6bqem8f5zc1ax6nteu5tvvrl1ncr27uvdnh3jaq.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shb7hzu444qaennmzxy5nocue4jjhjyrsdqgjbg9yquvxr.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shb9scg9wvzskguymfamnw1dclya2soeoza5f9kpl4irvk.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shba2pvupkba8mmnumrbxnjxfhy5dg1rpgjxyiynzgnwj4.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shbtj7qqylazpp843rnnracbnkf5c4bzylpd6sm1v4pp4x.xrpc.fedproxy.com | No | ??? |
-| ✅ did-key-zq3shc9tdkt67yslq9wahqywwix2gfvvtzstwsyvsg7ewbafg.xrpc.fedproxy.com | Yes | socialweb-pds |
+| ❌ did-key-zq3shbzicr3khfair1vwefunfshe46e194sktev3wbbyvrt2v.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shc9tdkt67yslq9wahqywwix2gfvvtzstwsyvsg7ewbafg.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shcj57ybwf54r8sslowxvjsrymegc2tmnzv3zeduhws9jh.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shclgzpkf5efjax13s9ksmdpdfa7quuanrjoapezbhtzwy.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shcpbfekevxf57vvzl76yxx96izfohqz2xe7et5yvxhzws.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shcugnl1qidqv25vsrhdjvynyndfhobbhnijnphccrx88j.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shd4utnj3dysdojcn9iq1urgqw3cuvl4okjgc23hdm6dk3.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shds1zzyby3wu4kceswytvyonvfgov7rrob2hyrb9tdwwf.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3she7jbazw6euyhh1itplhgrkoblmhfqz1bb5e8oa1eraer.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shetvgf31dywua6vujinyqjleexhzep4dze16vfper5ust.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3sheyanyz9gbi1tqtg1mvb5jkmdb63vkmjfzdihz9mpfyf5.xrpc.fedproxy.com | No | ??? |
@@ -1270,10 +1265,10 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shfnhcsnri4nqkyckpvo9mevrikhtvsvjxfhf6kraetk7j.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shge1qefumqlkdjlb3sdrfsu7sb39xxhgnto21q3vnzio2.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shgkwgrpt3lko3qgq2z86xnetnhdgg4q7raex3hzdstnmg.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shgml7yn7g4pg1f6zbw9q7zqw1b112pq1xxogtr96ddcbw.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shgtbeq48llyyuyjynj8frcoi7sxdwwwv3t6e41c5pzn5c.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shgwqw9mhfz4dfuglfedux1zjenm8rtp77dihym86vx5da.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shh5eopq6emc9un5qgi9x1qe4gzsgdy7ctjfwfqkxwbysj.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shhie4dhastvwnhlpvzrsyqpfqhmbcethbtvcq8bzc4kku.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shhqesjj8fezedafswbwhxf27hhhxejdaeh4f5tdvdyuvm.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shhwl1s7emydnbg5vabzbiiqdcyuv6rn7ierkz6yp4fgnd.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shi38adlphrtkznnvngganrwp154lfgsjpvb34dswr5ktb.xrpc.fedproxy.com | Yes | socialweb-pds |
@@ -1282,21 +1277,21 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shj8zuqfw4se1logcpc168gp3uyxtfctffusgeftrbduqu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shjboeynb236krndhabm3beivrs1njptuskq7k6aqfd4an.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shjnwmgdpgbnlodxpunlwnnkrjvqj6srcrd5qjqykpum9m.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shjvbx2iwnppq5ixocpmd9lkrj3x2bv6qs6ypsvnbz5h6j.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shjyxmhra3uaacj7m7dqdg3vnsmtcxdcc6tpzvfhm49e1b.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shk5rz7vvqfkwkseemupjhmldvvh4b1ybmzzmwne4gjhnu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shk6pdca4tdj7ntmhgah5v6cb22gbesht9z1gaixpz9ol2.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shkfw4eizymt9xfxdpmg92ribkejpvnpztvfx46vat9bx8.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shkhm5aaxlfg5empzsyqokgtsjc8v1zgv1drtjlgx2fgeg.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shkmb93krdjh8knvejqufwnmohlbvnzpvhjp8n486msrwl.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shm1se22dpzanv21xw179qbvf6ahd4qutnl1rjp7e5n79t.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shmj7djxzjopwzswwud9zzhjku5dbc6jgctocpnfwtirdv.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shmoteqjfjvcvbhxpmmmzjbz8brxxbkhzu8hzpwj8aqcva.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shmtnndcth3jx6zefkpwzgszrnwoxqfxsbhpt8ydet7tdf.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shn3qegpymhnkf8dvlxw4xwvdwuzy1azjwjsyksjxmd7ht.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shn8y751kfi6wstsit4wavihnye9o7uaphgjud6mexvtpg.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shngqqjbpnup1bxuavnw8kepfcs8f6bhtsvydgpsjbufe9.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shnkygbgypoug1pvaztkuyrftgmvdsoghaxd6mn32aqekr.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shntqjrgexgpgdxgumcevvu56qymz45lldbamcr2omv6sb.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shnz5vsvu3gmp7ugdmzw5gbnc1w8ep6canvapwimjw5kdv.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shod376taiu4n1g8iimutw6ousn1pbs5syipsdbqfxywpv.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shohe7t3cg6sqx6x2wvma9a4r4mt8brwhzlecnkkijzudo.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shojgjlcqpiz5s3xqtx2kxax2lbqji5dz5eyvevufsqqnm.xrpc.fedproxy.com | No | ??? |
@@ -1316,26 +1311,23 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shrpvototehgjpeav9uvdscab6rcczlh8ydxheljmaekv9.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shrszcvnsnxtjtipgjt6c5p7wsktkgfm8y6iyxt7ybnamt.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shs369trfwuugd2fcpqmmmmih6mexejdqburcsvtsfs5pi.xrpc.fedproxy.com | Yes | socialweb-pds |
+| ❌ did-key-zq3shsf3h7xhx8purr7xxjine4pmiwkgagkzbenkmekj3iz34.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shsh7odvtmstzux7gejshat7trdsuqehhfksmtwdbt3xjs.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shsvjytggjcvt66kjl5k6gch4rus2arxk8u59siutqkapb.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shtd71xznvptaqvtuxv9btorguhnbn9hsbbj1zyxpsvbdn.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shtetbdpmuiguxes8zng6kdlam18jszn1su1mrfadmrjep.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shtsxesaee7hrqkysrmhjnsjunxmj5fa5htv9bhdhubusy.xrpc-test.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shtuqzbxwcvhgzjvan5bd2ul4kbvmhanpcgkxydpy8o96a.xrpc.fedproxy.com | No | ??? |
 | ✅ did-key-zq3shtw3fksxbgfe8ow8kzsrruwqnmqgfcpr4uudz6hqckgf2.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shudphnfxc1engnusnejwmbwd2mmpbrtm72tpars6nkrvu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shuhiqyxqfwq8aemdtd2jledfry9ez6gapzon5svu3ggkp.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shukdf3nvshhsptgswdhpikgkwq9qzwasjncsnzwbsuhsl.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shumpumnjqbbce9qlc1ulrrufy11jwpren4rnb5ecimeeb.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shuz7od2h3rsdhljkddjrnguqqr74pb77nz8yrkoecwxrm.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shv51vqnfsxqe4wuj7unstlrywxj7sgcep8kynu42uzcij.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shv5fbnwggrjrooxetlsf7c3yoj7myjwztz8snhxtkebas.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shvc9yeejffbnhevzl39dhhfaipdundm9ducw3tiptczdw.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shvfuxre7jxpxaefa511xtjcytq1bze86zvzgavubensgr.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shvjgpra4p77wfooamdbhrwhjjghtpqh9j2go1xvyla95w.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shvkg6m4pabn2ceubgxcxbs6hsmzca62r5oagrsvi7f7xv.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shvtc9ansg4cwqxkw8b5brgsef8wdaiqiuogzrktrqmcds.xrpc.fedproxy.com | Yes | socialweb-pds |
-| ❌ did-key-zq3shvvyuaeqzuo885wkabiefdsjiqgz1cvvs6bufzyyvufgw.xrpc.fedproxy.com | No | ??? |
+| ✅ did-key-zq3shvtc9ansg4cwqxkw8b5brgsef8wdaiqiuogzrktrqmcds.xrpc.fedproxy.com | Yes | socialweb-pds |
 | ❌ did-key-zq3shvwy6e9tsnlijgysmxxxnujkvkyykjb5ubfpzevkxbpdn.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shwbjx42jtopmpwrvbkjuhced268guppuqtpgsvfzgthyr.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shwizkxp1gwzvaurjf8efhylsr2tbbdrprvwrpv1wpfg4e.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shwptqmytwnbb3aza3vbhpryw5v8xsprgefj9s3mf5ffsj.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shwr4ns57lrlgjjtt14kkqbstjhwo2a7taga8clb2zydt8.xrpc.fedproxy.com | No | ??? |
@@ -1345,7 +1337,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ did-key-zq3shypzgpdsyjws8hwvh2yjonlinuwkse9vryec5glcrdg7o.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shyrqwlp3nxtey7hjpxtpx4jspccr34lbpxvyr3hqn5hiu.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shyxskb8n64c3y8os7cjotgcnbm3dtczp6rncjd9q9cooh.xrpc.fedproxy.com | No | ??? |
-| ❌ did-key-zq3shyz1nxfes6vik6kyzdhvgopgdrlujwfzibh1upqydshjl.xrpc.fedproxy.com | No | ??? |
+| ❌ did-key-zq3shz3nobejxd6pck4cm6lby3exzwnl55c4dxctja4xcv7ho.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shzakbd9ggcnzwkbiixrczsez55c6cqerfhdbkdoxqrpza.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shzjzgmeo8qjgryvyt4mcqjezrubpg9mtmtszkzdprutsd.xrpc.fedproxy.com | No | ??? |
 | ❌ did-key-zq3shzxvswkfaud2rgtk4yorchaqdkweexhydxwzrt7omabye.xrpc.fedproxy.com | No | ??? |
@@ -1406,7 +1398,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ example.com | No | ??? |
 | ✅ exeverse.net | No | 0.4.219 |
 | ✅ exp.justin-stanley.com | No | 0.4.5049 |
-| ❌ expdmn-834735.com | No | 0.4.5049 |
+| ✅ expdmn-834735.com | No | 0.4.5051 |
 | ❌ external-pds.delve.town | No | 0.4.5027 |
 | ✅ extradimensional.space | No | 0.4.5051 |
 | ✅ ezpds-staging.up.railway.app | No | custos v0.16.2 |
@@ -1464,9 +1456,10 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ girlkisser.top | No | 0.4.219 |
 | ✅ gist.afrilingua.ai | Yes | 0.4.5009 |
 | ✅ git.atvari.eu | No | knot 2.0.0 |
+| ❌ git.klbr.net | No | ??? |
 | ✅ git.niklaskorz.eu | No | knot 1.20.0 |
 | ✅ git.oppi.li | No | knot 1.2.0 |
-| ❌ git.recoil.org | No | ??? |
+| ✅ git.recoil.org | No | knot 1.20.0 |
 | ✅ gleam-pds.exe.xyz | Yes | 0.1.0 |
 | ✅ gluck.dev | No | 0.4.5037 |
 | ✅ gmandialectic.dev | No | 0.4.5051 |
@@ -1476,11 +1469,13 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ go.indiemusi.ch | No | 0.4.219 |
 | ✅ goblin.club | No | 0.4.5051 |
 | ✅ goldmanfl.com | No | 0.4.5049 |
-| ✅ goodgirl.dev | No | 0.4.98 |
+| ❌ goodgirl.dev | No | 0.4.98 |
 | ✅ goodmkt.id | Yes | 0.4.5051 |
 | ✅ governance.chive.pub | No | 0.4.208 |
 | ✅ gpmidi.net | No | 0.4.5046 |
 | ✅ gpp.green | No | 0.4.5051 |
+| ❌ grain-next-android.chad-53c.workers.dev | No | ??? |
+| ❌ grain-next-ios.chad-53c.workers.dev | No | ??? |
 | ❌ grain-pds.chad-53c.workers.dev | No | ??? |
 | ✅ grapevyne.social | No | 0.4.5051 |
 | ✅ greenhouse.lgbt | No | tranquil 0.7.1 |
@@ -1545,8 +1540,10 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ id.mytinygiraffe.com | No | 0.4.5027 |
 | ✅ id.testnet.f7y.xyz | No | 0.4.5051 |
 | ✅ iiinova.com | No | 0.4.5051 |
+| ✅ impossibleto.win | Yes | 0.4.5051 |
 | ✅ inexorabledawn.com | No | N/A |
 | ✅ infoveinx.lol | No | 0.4.5027 |
+| ❌ infra-runner-pds.chad-53c.workers.dev | No | ??? |
 | ✅ internal-socials.ypch.live | No | 0.4.208 |
 | ✅ intin.us | No | 0.4.5051 |
 | ✅ ioachim.eu.org | No | 0.4.74 |
@@ -1627,18 +1624,19 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ knot.bumsco.de | No | knot 1.20.0 |
 | ✅ knot.butwho.org | No | knot 1.20.0 |
 | ✅ knot.bwc9876.dev | No | knot 1.20.0 |
-| ❌ knot.cankyre.eu | No | ??? |
 | ❌ knot.certain-witch.shulker.zip | No | ??? |
 | ✅ knot.ch0.dev | No | knot 1.20.0 |
-| ❌ knot.cl.cam.ac.uk | No | ??? |
+| ✅ knot.cl.cam.ac.uk | No | knot 1.20.0 |
 | ❌ knot.commonscomputer.com | No | ??? |
 | ✅ knot.cove.town | No | knot 1.20.0 |
 | ✅ knot.danieldaum.net | No | knot 2.0.0 |
 | ✅ knot.daroche.me | No | knot 1.20.0 |
+| ✅ knot.defn.io | No | knot 1.20.0 |
 | ✅ knot.devins.page | No | knot 1.2.0 |
 | ❌ knot.digitalflapjack.com | No | ??? |
 | ✅ knot.drainpixie.xyz | No | knot 1.20.0 |
 | ✅ knot.dunkirk.sh | No | knot 2.0.0 |
+| ✅ knot.ebardelli.com | No | knot 1.20.0 |
 | ✅ knot.eldridge.cam | No | knot 1.20.0 |
 | ✅ knot.elliotblackburn.com | No | knot 1.20.0 |
 | ✅ knot.equinoxx.dev | No | knot 1.20.0 |
@@ -1656,7 +1654,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ knot.iamtheno.name | No | knot 1.20.0 |
 | ✅ knot.indexx.dev | No | knot 1.20.0 |
 | ✅ knot.isabelroses.com | No | ??? |
-| ❌ knot.jannschu.de | No | ??? |
+| ✅ knot.jannschu.de | No | knot 1.20.0 |
 | ✅ knot.jcollie.dev | No | knot 1.20.0 |
 | ✅ knot.kaeden.codes | No | knot 1.20.0 |
 | ✅ knot.kawiri.com | No | 0.2.0 |
@@ -1664,9 +1662,11 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ knot.ladas552.me | No | knot 1.20.0 |
 | ✅ knot.laika.onl | No | knot 1.20.0 |
 | ✅ knot.lamalditag.com | No | knot 1.20.0 |
+| ✅ knot.lassul.us | No | knot 1.20.0 |
 | ❌ knot.lexicon.garden | No | ??? |
 | ✅ knot.liferooter.dev | No | knot 1.20.0 |
-| ❌ knot.lvdar.nl | No | ??? |
+| ✅ knot.lore.earth | No | knot 1.20.0 |
+| ✅ knot.lvdar.nl | No | knot 1.20.0 |
 | ✅ knot.madoka.systems | No | knot 1.20.0 |
 | ✅ knot.meisterlala.dev | No | knot 1.20.0 |
 | ✅ knot.metioe.is | No | knot 1.20.0 |
@@ -1678,6 +1678,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ knot.nelind.dk | No | knot 1.20.0 |
 | ✅ knot.next-dev.tangled.org | No | knot 2.0.0 |
 | ✅ knot.next.tangled.network | No | knot 2.0.0 |
+| ✅ knot.nimeses.com | No | knot 1.20.0 |
 | ✅ knot.noahbogart.com | No | knot 1.20.0 |
 | ✅ knot.nostalgica.net | No | knot 1.20.0 |
 | ✅ knot.nym.sh | No | knot 1.20.0 |
@@ -1698,13 +1699,16 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ knot.rita.moe | No | knot 2.0.0 |
 | ✅ knot.ronshavit.com | No | knot 1.2.0 |
 | ✅ knot.rtw.run | No | knot 1.20.0 |
+| ✅ knot.rune.town | No | knot 1.20.0 |
 | ✅ knot.sachy.dev | No | knot 1.20.0 |
 | ✅ knot.sanabria.app | No | knot 1.20.0 |
-| ✅ knot.sanae6.ca | No | knot 1.20.0 |
+| ❌ knot.sanae6.ca | No | knot 1.20.0 |
 | ✅ knot.secluded.site | No | knot 2.0.0 |
 | ❌ knot.solanaceae.net | No | ??? |
+| ✅ knot.starhaven.dev | No | knot 1.20.0 |
 | ✅ knot.synth.download | No | knot 1.2.0 |
 | ✅ knot.tangled.cornucopia.network | No | knot 1.20.0 |
+| ✅ knot.tareshawty.cloud | No | knot 1.20.0 |
 | ✅ knot.tchfoo.com | No | knot 1.20.0 |
 | ❌ knot.thomaschatting.dev | No | ??? |
 | ❌ knot.tibor.sh | No | ??? |
@@ -1713,11 +1717,13 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ knot.tngl.oyster.cafe | No | knot 2.0.0 |
 | ✅ knot.valentine.zip | No | knot 1.20.0 |
 | ✅ knot.vinnymac.dev | No | knot 2.0.0 |
+| ✅ knot.wibblywobbly.org | No | knot 1.20.0 |
 | ✅ knot.willdot.xyz | No | knot 1.20.0 |
 | ✅ knot.wiro.world | No | knot 1.20.0 |
 | ✅ knot.wurzerfamily.net | No | knot 1.20.0 |
 | ✅ knot.xenolandscapes.com | No | knot 1.20.0 |
 | ✅ knot.zeetech.io | No | knot 2.0.0 |
+| ✅ knot.zekurio.me | No | knot 1.20.0 |
 | ✅ knot.zezura.xyz | No | knot 1.20.0 |
 | ✅ knot1.tangled.sh | No | knot 2.0.0 |
 | ❌ knot1.tijarist.xyz | No | ??? |
@@ -1800,16 +1806,16 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ mayhew.social | No | 0.4.5051 |
 | ✅ me.jonbishop.com | No | 0.4.5051 |
 | ✅ me.plutopotam.us | No | 0.4.74 |
-| ✅ me.rasc.ch | No | 0.4.5049 |
+| ✅ me.rasc.ch | No | 0.4.5051 |
 | ✅ meangrape.com | No | 0.4.5009 |
-| ❌ medidew.name | No | 0.4.5051 |
+| ✅ medidew.name | No | 0.4.5051 |
 | ✅ medsky.network | Yes | 0.5.18 |
 | ✅ megacross.co.uk | No | 0.4.5046 |
 | ✅ meggie.bsky.dodo.haus | No | 0.4.98 |
 | ✅ melkor.priv.at.eu.org | No | 0.4.219 |
 | ✅ memo.dog | No | tranquil 0.6.6 |
 | ✅ meows.gay | No | 0.4.204 |
-| ✅ mepds.esc-now.org | No | 0.4.5051 |
+| ❌ mepds.esc-now.org | No | 0.4.5051 |
 | ❌ meri-agent-4.exe.xyz | No | ??? |
 | ❌ meri-first-agent.exe.xyz | No | ??? |
 | ✅ mew.problemeowtic.net | No | 0.4.5051 |
@@ -1870,7 +1876,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ newdisabledsouth.community | No | 1.14.10 |
 | ✅ nextpointfromnothing.com | No | 0.4.208 |
 | ✅ nickgnome.com | No | 0.4.5051 |
-| ❌ nihilist.cloud | No | 0.4.5034 |
+| ✅ nihilist.cloud | No | 0.4.5034 |
 | ✅ nimble-side-72ubcbc2sjwifvdlaz74.wbeforenext.app | No | 0.5.52 |
 | ✅ niximac.co | No | 0.4.5034 |
 | ✅ nobs.pleasehurt.us | No | 0.4.5051 |
@@ -1903,7 +1909,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ omnsft.eu | No | tranquil 0.7.1 |
 | ✅ on.gwynnie.gay | No | 0.4.5051 |
 | ✅ onsocial.uk | No | 0.4.5051 |
-| ✅ ontological.observer | No | 0.4.5027 |
+| ❌ ontological.observer | No | 0.4.5027 |
 | ✅ opencommons.dev | No | 0.4.5051 |
 | ✅ openlore.jeffbailey.us | No | 0.4.5034 |
 | ✅ opensocial.fyi | No | ??? |
@@ -1968,7 +1974,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds-nicmyas5-preview.kiln.zone | Yes | kiln-pds |
 | ✅ pds-production-e399.up.railway.app | No | 0.5.7 |
 | ✅ pds-stage.wsocial.dev | No | 0.5.21 |
-| ✅ pds-staging.dsaslate.com | Yes | 0.4.5046 |
+| ❌ pds-staging.dsaslate.com | Yes | 0.4.5046 |
 | ✅ pds-staging.supper.party | No | ??? |
 | ✅ pds-test.arjunkrishna.dev | Yes | cirrus 0.19.0 |
 | ❌ pds-test.frequency.social | No | 0.15.0-rc.5+unknown |
@@ -2004,7 +2010,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.aaronsalmon.com | No | 0.4.5051 |
 | ✅ pds.abhirath.net | Yes | cirrus 0.18.0 |
 | ✅ pds.acey.sh | No | tranquil 0.7.1 |
-| ❌ pds.achus.in | Yes | 0.4.182 |
+| ✅ pds.achus.in | Yes | 0.4.182 |
 | ✅ pds.ackwell.au | No | 0.4.5046 |
 | ✅ pds.acreetionos.org | No | 0.4.5027 |
 | ✅ pds.adamsapple.org | No | 0.4.5051 |
@@ -2017,6 +2023,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.afontaine.dev | No | 0.4.5009 |
 | ❌ pds.agave.p0.contact | No | tranquil 0.7.0 |
 | ✅ pds.agave.technology | No | tranquil 0.7.1 |
+| ✅ pds.agentidentity.one | No | 0.4.5051 |
 | ✅ pds.agus.dev | No | 0.4.5051 |
 | ✅ pds.ah-web.org | No | 0.4.5051 |
 | ✅ pds.aidanlavis.dev | Yes | cirrus 0.19.0 |
@@ -2029,7 +2036,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.akcelerator.events | No | 0.4.5051 |
 | ✅ pds.akizuki.best | No | 0.4.5046 |
 | ✅ pds.akky.gay | No | tranquil 0.7.1 |
-| ✅ pds.akotro.dev | No | 0.4.5037 |
+| ✅ pds.akotro.dev | No | 0.4.5051 |
 | ✅ pds.akume.tw | No | ??? |
 | ✅ pds.akyon.dog | No | 0.4.5051 |
 | ✅ pds.alexkearney.com | No | 0.5.34 |
@@ -2104,6 +2111,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.autumn.industries | No | 0.4.5049 |
 | ✅ pds.averyrive.rs | No | 0.4.5051 |
 | ✅ pds.awit.at | No | 0.4.5046 |
+| ✅ pds.awkwardfrog.com | No | 0.4.5051 |
 | ✅ pds.awoo.ren | No | tranquil 0.6.7 |
 | ✅ pds.ayai.dev | No | 0.4.5046 |
 | ✅ pds.azuero.me | No | 0.4.5051 |
@@ -2190,7 +2198,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.captainc.at | No | 0.4.5051 |
 | ✅ pds.capturevoices.com | No | 0.4.5051 |
 | ✅ pds.cara.city | No | 0.4.5051 |
-| ❌ pds.caramel.dog | No | N/A |
+| ✅ pds.caramel.dog | No | N/A |
 | ✅ pds.caruanafamily.net | No | 0.4.193 |
 | ✅ pds.casaconejo.net | No | 0.4.5051 |
 | ✅ pds.catbird.blue | No | 0.4.194 |
@@ -2261,7 +2269,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.cupcakehy.com | No | 0.4.5051 |
 | ✅ pds.cursive.info | No | 0.4.219 |
 | ✅ pds.cutie.zone | No | 0.4.5037 |
-| ✅ pds.cuties.cloud | No | 0.4.5037 |
+| ✅ pds.cuties.cloud | No | 0.4.5051 |
 | ✅ pds.cyberwild.org | Yes | 0.4.5051 |
 | ✅ pds.d0nuts.im | No | 0.4.98 |
 | ✅ pds.dack.au | No | 0.4.5036 |
@@ -2344,7 +2352,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.echoja.com | No | 0.4.208 |
 | ✅ pds.edgarlop.es | No | 0.4.5027 |
 | ✅ pds.edouard.paris | No | 0.4.5037 |
-| ✅ pds.edriffles.us | Yes | 0.5.29 |
+| ❌ pds.edriffles.us | Yes | 0.5.29 |
 | ✅ pds.edwardh.dev | No | tranquil 0.7.1 |
 | ✅ pds.ejmg.is | No | 0.4.5051 |
 | ✅ pds.ekamdor.social | Yes | ??? |
@@ -2364,7 +2372,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.escapeangle.com | No | 0.4.5034 |
 | ✅ pds.eski.dev | No | 0.4.5051 |
 | ❌ pds.estherose.online | No | 0.4.5037 |
-| ✅ pds.eu.sovrn.at | No | 1.2.3+1897aeb |
+| ✅ pds.eu.sovrn.at | No | 1.2.4+sovrn.dcb8ae19 |
 | ✅ pds.eva.ac | No | tranquil 0.7.1 |
 | ✅ pds.evanphx.dev | No | 0.4.5009 |
 | ✅ pds.evanston.social | No | 0.4.5051 |
@@ -2396,7 +2404,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.fischr.org | No | 0.4.5009 |
 | ✅ pds.flamingos-cant.xyz | No | 0.4.5009 |
 | ✅ pds.flicknow.xyz | No | 0.4.5051 |
-| ✅ pds.flixa.stream | No | 0.4.5049 |
+| ✅ pds.flixa.stream | No | 0.4.5051 |
 | ✅ pds.floofware.net | No | 0.4.5051 |
 | ✅ pds.flow.industries | No | 0.5.36 |
 | ✅ pds.flurry.sh | No | 0.4.5051 |
@@ -2467,11 +2475,11 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.haha.computer | No | at-ground-up |
 | ✅ pds.hakase.life | No | 0.4.5037 |
 | ✅ pds.halvacoffee.fyi | No | tranquil 0.7.1 |
-| ✅ pds.harpoon-ipa.com | No | 0.4.5049 |
+| ✅ pds.harpoon-ipa.com | No | 0.4.5051 |
 | ❌ pds.hats.health | No | ??? |
 | ✅ pds.haydoniv.com | No | 0.4.5051 |
 | ✅ pds.hearth.blue | No | 0.4.5009 |
-| ❌ pds.helegrod.dev | No | 0.4.5006 |
+| ✅ pds.helegrod.dev | No | 0.4.5051 |
 | ✅ pds.henry.town | No | 0.4.182 |
 | ✅ pds.hermes-x.social | No | 0.4.5051 |
 | ✅ pds.herve.bzh | No | 0.4.5051 |
@@ -2479,7 +2487,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.hitorigoto.com | No | 0.4.5051 |
 | ✅ pds.hiwasa.fr | No | 0.4.5051 |
 | ✅ pds.hns.one | No | 0.4.5027 |
-| ✅ pds.hogwarts.dev | No | 0.4.5009 |
+| ✅ pds.hogwarts.dev | No | 0.4.5034 |
 | ✅ pds.hollingworth.nl | No | 0.4.5051 |
 | ✅ pds.home.nora.codes | No | 0.4.5034 |
 | ✅ pds.home.spyr.dev | No | 0.4.5051 |
@@ -2504,7 +2512,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.infratainment.zip | No | 0.4.5034 |
 | ❌ pds.initpub.com | No | ??? |
 | ✅ pds.innumerable-wounds.com | No | 0.4.188 |
-| ❌ pds.inovuslabs.org | No | ??? |
 | ✅ pds.inpas.tel | No | 0.4.5037 |
 | ✅ pds.insalubrio.us | No | 0.4.158 |
 | ✅ pds.intolerantpacifist.com | No | 0.4.5051 |
@@ -2524,7 +2531,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ pds.jap.li | No | ??? |
 | ✅ pds.jarexibackblaze.xyz | No | 0.4.5043 |
 | ✅ pds.jaronoff.com | No | 0.4.5051 |
-| ❌ pds.jaryk.xyz | No | 0.4.5051 |
+| ✅ pds.jaryk.xyz | No | 0.4.5051 |
 | ✅ pds.jason13.my.id | No | 0.4.5051 |
 | ✅ pds.jasontenpenny.com | No | 0.4.5051 |
 | ✅ pds.jay.xyz | No | 0.4.5051 |
@@ -2548,6 +2555,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.jkp.sh | No | tranquil 0.7.1 |
 | ✅ pds.jlauser.net | No | 0.4.5051 |
 | ✅ pds.jmackie.social | No | 0.4.182 |
+| ✅ pds.jmrp.eu | No | 0.4.5051 |
 | ✅ pds.jmrp.io | No | 0.4.5051 |
 | ✅ pds.jogga.fit | Yes | 1.14.13 |
 | ✅ pds.johnharrison.cc | No | 0.4.5051 |
@@ -2596,7 +2604,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.killevery.one | No | tranquil 0.7.1 |
 | ✅ pds.kitsune.earth | No | 0.4.5009 |
 | ✅ pds.kittens.fyi | No | tranquil 0.7.1 |
-| ❌ pds.kjubybot.xyz | No | 0.4.5037 |
+| ✅ pds.kjubybot.xyz | No | 0.4.5051 |
 | ✅ pds.klefix.com | No | 0.4.182 |
 | ✅ pds.klegul.de | No | 0.4.204 |
 | ❌ pds.kocharin.art | No | ??? |
@@ -2651,7 +2659,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.lukegb.com | No | 0.4.5009 |
 | ✅ pds.lumnika.com | No | 0.5.34 |
 | ✅ pds.luxaritas.com | No | tranquil 0.6.7 |
-| ❌ pds.lvdar.nl | No | 0.4.5037 |
+| ✅ pds.lvdar.nl | No | 0.4.5037 |
 | ✅ pds.lyriste.fr | No | tranquil 0.7.1 |
 | ✅ pds.lyyrn.com | No | 0.4.5001 |
 | ✅ pds.macalinao.org | No | 0.4.5049 |
@@ -2694,15 +2702,17 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.mensmachina.com | No | 0.4.5051 |
 | ✅ pds.meowing.de | No | 0.4.5037 |
 | ✅ pds.meowtrix.at | No | 0.4.208 |
+| ✅ pds.mercalli.dev | No | 0.4.5051 |
 | ✅ pds.mercie.dev | No | 0.4.5051 |
 | ✅ pds.mercurio.moe | No | 0.4.5009 |
 | ✅ pds.merely.ca | No | 0.4.5027 |
 | ✅ pds.merklehost.xyz | No | 0.4.5051 |
 | ✅ pds.merrimanindhq.com | No | tranquil 0.6.7 |
 | ❌ pds.metaspn.network | No | 0.4.208 |
+| ✅ pds.mfrisch.com | No | 0.4.5034 |
 | ✅ pds.mgajdo.ch | No | 0.4.5051 |
 | ✅ pds.mh.run | No | tranquil 0.6.7 |
-| ✅ pds.mice.tel | No | 0.5.40 |
+| ✅ pds.mice.tel | No | 0.5.52 |
 | ✅ pds.midka.dev | No | 0.4.193 |
 | ✅ pds.miekeroth.org | Yes | 0.4.5037 |
 | ✅ pds.mihaizaurus.at | No | tranquil 0.6.4 |
@@ -2733,7 +2743,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.mwcampbell.us | No | 0.4.182 |
 | ✅ pds.mweir.dev | No | 0.4.5051 |
 | ✅ pds.mx0.dev | No | 0.4.5051 |
-| ✅ pds.mycatools.com | No | 0.4.169 |
+| ❌ pds.mycatools.com | No | 0.4.169 |
 | ✅ pds.mylogin.space | No | 0.4.5034 |
 | ✅ pds.myristica.dev | No | 0.4.5051 |
 | ✅ pds.mythik.co.uk | No | cocoon dev |
@@ -2764,14 +2774,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.netinertia.co.uk | No | 0.4.5051 |
 | ❌ pds.neverstew.com | No | ??? |
 | ✅ pds.nevheavyindustry.com | No | 0.4.219 |
-| ✅ pds.ngp.computer | No | tranquil 0.7.0 |
+| ✅ pds.ngp.computer | No | tranquil 0.7.1 |
 | ✅ pds.nh.run | No | 0.4.5027 |
 | ✅ pds.nickmohoric.dev | No | 0.4.219 |
 | ❌ pds.nicodelcastillo.com | No | 0.4.5046 |
 | ✅ pds.nicoritschel.com | No | 0.4.5051 |
 | ✅ pds.nicweyand.com | No | 0.4.5051 |
 | ✅ pds.nid.sh | No | cocoon 0.13.2 |
-| ❌ pds.night.vn.ua | No | tranquil 0.6.6 |
+| ✅ pds.night.vn.ua | No | tranquil 0.6.6 |
 | ❌ pds.nightshade.network | No | 0.4.169 |
 | ✅ pds.nikomo.fi | No | 0.4.5051 |
 | ✅ pds.nilaallj.se | No | 0.4.5051 |
@@ -2788,10 +2798,9 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.noyer.app | No | 0.4.5037 |
 | ❌ pds.ns.agency | No | 0.4.5027 |
 | ❌ pds.nthwire.xyz | No | 0.4.5009 |
-| ❌ pds.nudante.com | No | 0.4.5037 |
 | ✅ pds.nul.ie | No | 0.4.5001 |
 | ✅ pds.numergent.com | No | 0.4.5051 |
-| ❌ pds.numina.systems | No | cocoon v0.14-0-gca03d1a |
+| ✅ pds.numina.systems | No | cocoon v0.14-0-gca03d1a |
 | ✅ pds.nym.sh | No | tranquil 0.7.1 |
 | ✅ pds.oaia.fun | No | 0.4.5051 |
 | ❌ pds.oathling.dev | No | ??? |
@@ -2806,6 +2815,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.ole.strohm.no | No | 0.4.193 |
 | ✅ pds.olifog.com | No | pegasus 8ec718a |
 | ✅ pds.oliverj.io | No | 0.4.5051 |
+| ✅ pds.ollie.earth | No | tranquil 0.7.1 |
 | ✅ pds.omni.me | No | 0.4.208 |
 | ✅ pds.oncomputing.dev | No | 0.4.5051 |
 | ✅ pds.onlocalhost.dev | No | 0.4.5051 |
@@ -2828,6 +2838,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.ovy.cloud | No | tranquil 0.7.1 |
 | ✅ pds.owaoow.baq.ovh | No | 0.4.219 |
 | ❌ pds.p-uq5xkt.project.space | No | ??? |
+| ✅ pds.paolobietolini.com | No | 0.4.5026 |
 | ✅ pds.papers.club | No | 0.4.5051 |
 | ✅ pds.parakeet.at | No | 0.4.5037 |
 | ❌ pds.pardisio.xyz | No | tranquil 0.7.0 |
@@ -2850,8 +2861,8 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ pds.perfectgra.de | No | 0.4.5049 |
 | ✅ pds.periwinkle.sh | No | 0.4.5046 |
 | ✅ pds.perohub.com | Yes | ??? |
-| ✅ pds.perska.net | No | 0.4.5049 |
-| ✅ pds.personinyourph.one | No | 0.4.5044 |
+| ✅ pds.perska.net | No | 0.4.5051 |
+| ✅ pds.personinyourph.one | No | 0.4.5051 |
 | ✅ pds.petalcat.dev | No | tranquil 0.6.7 |
 | ✅ pds.pf.ie | No | 0.4.5051 |
 | ✅ pds.phasewalk.xyz | No | 0.4.5051 |
@@ -2883,7 +2894,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.provisio.social | No | 0.4.5043 |
 | ✅ pds.prox.fyi | No | 0.4.5051 |
 | ✅ pds.prq.nu | No | 0.4.193 |
-| ✅ pds.pub.moe | No | 0.4.219 |
+| ✅ pds.pub.moe | No | 0.4.5034 |
 | ✅ pds.publicvcons.org | No | 0.4.219 |
 | ❌ pds.pussafire.com | No | ??? |
 | ✅ pds.pvpxiv.com | No | 0.4.5037 |
@@ -2903,14 +2914,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.rafael.my | No | 0.4.5051 |
 | ✅ pds.ragu.info | No | 0.4.5051 |
 | ✅ pds.ralith.com | No | 0.4.5034 |
-| ✅ pds.randhome.io | No | 0.4.208 |
+| ❌ pds.randhome.io | No | 0.4.208 |
 | ✅ pds.random-encounter.gay | No | 0.4.5051 |
 | ❌ pds.raptorpenguin.net | No | 0.4.5051 |
 | ✅ pds.rapture.party | No | 0.4.5051 |
 | ✅ pds.rat.beauty | No | tranquil 0.6.6 |
 | ✅ pds.rcape.org | No | 0.4.5046 |
 | ✅ pds.rcia.dev | No | tranquil 0.6.7 |
-| ✅ pds.readifur.gay | Yes | 0.1.0 |
+| ❌ pds.readifur.gay | Yes | 0.1.0 |
 | ✅ pds.rechegp.com | No | 0.4.5051 |
 | ✅ pds.reckless.dev | No | 0.4.5052 |
 | ✅ pds.reharc.cc | No | 0.4.5043 |
@@ -2953,16 +2964,16 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.samantha.wiki | No | 0.4.5037 |
 | ✅ pds.samb.al | No | tranquil 0.7.1 |
 | ✅ pds.sameoldstory.co | No | 0.4.5027 |
-| ✅ pds.sammy.moe | No | 0.4.5006 |
+| ✅ pds.sammy.moe | No | 0.4.5034 |
 | ✅ pds.samuel.social | No | 0.4.208 |
 | ✅ pds.samwho.dev | No | 0.4.5046 |
 | ✅ pds.sanchez.sh | No | 0.4.5001 |
 | ✅ pds.sandboxlabs.ai | Yes | 0.4.219 |
 | ✅ pds.sarahjen.com | No | 0.4.193 |
 | ✅ pds.sarjeant.me | No | tranquil 0.6.2 |
-| ❌ pds.sauyon.com | No | 0.4.5027 |
+| ✅ pds.sauyon.com | No | 0.4.5027 |
 | ✅ pds.scenius.social | Yes | 0.4.5027 |
-| ✅ pds.schaechner.dpdns.org | Yes | 0.4.5037 |
+| ❌ pds.schaechner.dpdns.org | Yes | 0.4.5037 |
 | ✅ pds.scoreflo.at | No | 0.4.5034 |
 | ✅ pds.scorpio.city | No | tranquil 0.6.6 |
 | ✅ pds.scottlanoue.com | No | 0.5.52 |
@@ -2980,7 +2991,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.shaggylabs.com | No | 0.4.5051 |
 | ✅ pds.shamm.as | No | tranquil 0.7.1 |
 | ✅ pds.sharedcomputer.network | No | 0.15.0-rc.6+be466e5aec |
-| ❌ pds.sharx.fyi | No | N/A |
+| ✅ pds.sharx.fyi | No | N/A |
 | ✅ pds.shendai.fr | No | tranquil 0.6.6 |
 | ✅ pds.shibbi.me | No | 0.4.5051 |
 | ✅ pds.shigepon.net | No | 0.4.5049 |
@@ -2993,7 +3004,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.si46.world | No | 0.4.138 |
 | ✅ pds.siax.io | No | 1.0.0 |
 | ✅ pds.sigb.us | No | 0.4.5051 |
-| ✅ pds.sill.social | No | 0.0.0-spaces-alpha-20261022141228 |
+| ✅ pds.sill.social | No | 0.0.0-spaces-alpha-20261029171913 |
 | ✅ pds.silvi.earth | No | N/A |
 | ✅ pds.simmarith.de | No | tranquil 0.6.5 |
 | ✅ pds.simpler-sns.jp | No | 0.4.5051 |
@@ -3025,7 +3036,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.sophie.engineering | No | 0.4.5034 |
 | ✅ pds.soulcraft.com | No | 0.4.5051 |
 | ✅ pds.southcape.org | No | 0.4.219 |
-| ✅ pds.spaces.actor | No | 0.0.0-spaces-alpha-20261022141228 |
+| ✅ pds.spaces.actor | No | 0.0.0-spaces-alpha-20261029171913 |
 | ✅ pds.spellbound.sh | No | 0.4.5037 |
 | ✅ pds.spencer.earth | No | 0.4.5009 |
 | ✅ pds.spencergilbert.dev | No | 0.4.5046 |
@@ -3047,7 +3058,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.staging.vublox.com | No | 0.5.40 |
 | ✅ pds.standingpad.org | No | 0.4.5034 |
 | ✅ pds.star-dog.net | No | 0.4.5051 |
-| ❌ pds.starhaven.dev | No | tranquil 0.7.1 |
+| ✅ pds.starhaven.dev | No | tranquil 0.7.1 |
 | ✅ pds.starlightnet.work | No | 0.4.5046 |
 | ✅ pds.starseedfrequency.info | No | 0.4.5051 |
 | ✅ pds.statmeet.com | No | 0.4.5051 |
@@ -3064,7 +3075,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.studiodraconis.com | No | 0.4.182 |
 | ✅ pds.stupid.fish | No | 0.4.204 |
 | ❌ pds.stupidtech.net | No | ??? |
-| ✅ pds.subcult.tv | No | 0.4.5027 |
+| ❌ pds.subcult.tv | No | 0.4.5027 |
 | ✅ pds.sullen.net | No | 0.4.5051 |
 | ✅ pds.sunflower.lgbt | No | tranquil 0.6.6 |
 | ✅ pds.sunnahsky.com | No | 0.5.28 |
@@ -3106,13 +3117,13 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.tesserakt.dev | No | 0.4.5037 |
 | ✅ pds.test.atvoto.ch | No | 0.4.5049 |
 | ✅ pds.tezoscommons.org | No | 0.4.5051 |
-| ✅ pds.tgirl.cloud | No | 0.4.5037 |
+| ✅ pds.tgirl.cloud | No | 0.4.5051 |
 | ✅ pds.thatonegeekguy.com | No | 0.4.5051 |
 | ✅ pds.theblueai.org | Yes | 0.4.5034 |
 | ✅ pds.thefishing.dev | No | 0.4.193 |
 | ❌ pds.thequinn.org | No | 0.4.74 |
 | ✅ pds.therewasrain.com | No | 0.4.5051 |
-| ✅ pds.theroguedungeon.org | No | tranquil 0.6.6 |
+| ❌ pds.theroguedungeon.org | No | tranquil 0.6.6 |
 | ✅ pds.thesoul.farm | No | 0.4.5027 |
 | ✅ pds.thewestwoods.us | No | tranquil 0.6.5 |
 | ✅ pds.thomas.camp | No | 0.4.5051 |
@@ -3180,7 +3191,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.valentine.zip | No | 0.4.5034 |
 | ✅ pds.valuableslide.gmbh | No | 0.4.5027 |
 | ✅ pds.vandort.dev | No | 0.4.5051 |
-| ✅ pds.vanhouzen.me | No | tranquil 0.6.7 |
+| ✅ pds.vanhouzen.me | No | tranquil 0.7.1 |
 | ✅ pds.var.aether.earth | No | 0.4.204 |
 | ✅ pds.vazouprivacy.com | Yes | 0.4.5026 |
 | ❌ pds.vboof.fr | No | 0.4.208 |
@@ -3255,6 +3266,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds.ypak.co | No | 0.4.5051 |
 | ✅ pds.ysaito.win | No | 0.4.5051 |
 | ❌ pds.yuki46.net | No | 0.4.21 |
+| ✅ pds.zac0511.com | No | tranquil 0.7.1 |
 | ✅ pds.zat.dev | No | 0.7.1 |
 | ✅ pds.zccx.net | No | 0.4.5051 |
 | ✅ pds.zelk.space | No | 0.4.5034 |
@@ -3282,7 +3294,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pds1.lilingyi-awa.top | No | 0.4.5051 |
 | ✅ pds1.mikemerritt.xyz | No | 0.4.5051 |
 | ✅ pds1.north-aster.dev | No | 0.4.5051 |
-| ✅ pds1.podping.at | No | 0.4.5051 |
+| ❌ pds1.podping.at | No | 0.4.5051 |
 | ✅ pds1.rx-sns-dev.uk | No | 0.1.0 |
 | ✅ pds1.rx-sns.net | No | 0.1.0 |
 | ✅ pds1.rx-social.net | No | 0.1.0 |
@@ -3348,14 +3360,14 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ❌ peridot.love | No | 0.4.5051 |
 | ✅ persona.spirallex.com | Yes | ??? |
 | ✅ petitl.fr | No | 0.4.5027 |
-| ✅ petrichor.wtf | No | cocoon v0.11.4-p1023-fc75a94 |
+| ✅ petrichor.wtf | No | cocoon v0.11.4-p1101-fc75a94 |
 | ✅ phase.social | No | 0.4.193 |
 | ✅ philly.sh | No | 0.4.5037 |
 | ✅ philtz.co | No | 0.4.5051 |
 | ✅ phlogiston.social | No | 0.4.5037 |
 | ✅ phobosnet.uk | No | 0.4.5051 |
 | ✅ phoozle.com | No | 0.4.5051 |
-| ❌ pi.equals.3.141592653589793.ru | No | 0.4.5026 |
+| ✅ pi.equals.3.141592653589793.ru | No | 0.4.5026 |
 | ✅ pierre.slowte.ch | No | 0.4.5049 |
 | ✅ pimaker.at | No | 0.4.67 |
 | ❌ pinnacle-pds.codingchicken.workers.dev | No | ??? |
@@ -3372,6 +3384,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ pods.farmpod.eu | No | custorium v0.8.11+dirty |
 | ✅ poecoh.com | No | 0.4.5051 |
 | ✅ polarfox.app | No | 0.4.5009 |
+| ❌ pollux.graphy.ca | No | ??? |
 | ✅ polycule.social | No | ??? |
 | ✅ poosky.social | No | 0.4.5051 |
 | ✅ porpoise-technologies.moe | No | 0.4.5051 |
@@ -3380,7 +3393,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ postx.social | No | 0.4.5051 |
 | ✅ poweredbyadhd.net | No | 0.4.5051 |
 | ✅ prevter.me | No | 0.4.59 |
-| ✅ prichal-pds.subcult.tv | No | 0.4.5036 |
+| ❌ prichal-pds.subcult.tv | No | 0.4.5036 |
 | ✅ primula.my.id | No | 0.4.208 |
 | ✅ princetonhci.social | No | 0.4.208 |
 | ✅ prismalau.org | No | 0.4.193 |
@@ -3413,7 +3426,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ ramon-west.com | No | 0.4.5051 |
 | ✅ randoneering.dev | No | 0.4.5051 |
 | ✅ rant.cafe | No | N/A |
-| ❌ raspberrypi3.rocksky.social | Yes | clojure-pds v0.1.0-dev |
+| ✅ raspberrypi3.rocksky.social | Yes | clojure-pds v0.1.0-dev |
 | ✅ raspberrypi4.rocksky.social | Yes | N/A |
 | ✅ rat.mom | No | 0.4.5051 |
 | ✅ rbnhmr.me | No | 0.4.5051 |
@@ -3423,6 +3436,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ ref.pds.blackstar.quest | Yes | 0.15.0-rc.4+ts1786736829 |
 | ✅ refpds.oyster.cafe | No | 0.5.32 |
 | ❌ rego.gal | No | ??? |
+| ✅ relay.chrispardy.dev | No | 0.1.0 |
 | ✅ repo.layers.pub | No | 0.4.5051 |
 | ✅ repo.works | No | N/A |
 | ✅ repos.fyi | No | 0.4.107 |
@@ -3432,7 +3446,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ rhein.social | No | 0.4.5051 |
 | ❌ rhode-challenged-wrestling-sparc.trycloudflare.com | No | ??? |
 | ✅ ricardocosme.eu | No | 0.4.5051 |
-| ❌ rjm.ie | No | 0.4.5051 |
+| ✅ rjm.ie | No | 0.4.5051 |
 | ✅ roadl.ing | No | 0.4.5051 |
 | ✅ rob365.social | No | 0.4.5051 |
 | ✅ robkeys.info | No | 0.4.158 |
@@ -3524,7 +3538,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ sky.publishdigital.com | No | 0.4.5043 |
 | ✅ sky.ronyn.cx | No | 0.4.5051 |
 | ✅ sky.see.micenest.xyz | No | 0.4.5051 |
-| ✅ sky.skulldogged.dev | No | 0.4.5037 |
+| ✅ sky.skulldogged.dev | No | 0.4.5051 |
 | ❌ sky.ultimatezones.net | No | 0.4.5051 |
 | ✅ skyblue.cc | No | 0.4.193 |
 | ✅ skyfurs.social | No | 0.4.5051 |
@@ -3670,7 +3684,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ testingitwith.protobase.at | No | 0.4.5051 |
 | ✅ testpds.computingwith.love | No | tranquil 0.7.1 |
 | ❌ testpds.hiina.space | No | 0.4.5037 |
-| ❌ tethys.observer | No | 0.4.5051 |
+| ✅ tethys.observer | No | 0.4.5051 |
 | ✅ teto.mom | No | 0.4.5043 |
 | ✅ tetraonid.com | No | 0.4.74 |
 | ✅ thats.art | No | 0.4.5051 |
@@ -3764,10 +3778,9 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ vkapadia.com | No | 0.4.67 |
 | ❌ vlpds-test.i.jaz.sh | No | ??? |
 | ✅ vlpds.calabro.io | No | 1.2.3+1897aeb |
-| ✅ vlpds.goat.navy | Yes | 1.2.1+3f298223f6 |
+| ❌ vlpds.goat.navy | Yes | 1.2.1+3f298223f6 |
 | ✅ vlpds.jazco.dev | No | 1.2.4+e1dc99b84741 |
 | ✅ vtb.yt | No | 0.4.5051 |
-| ❌ vublox-pds-staging.fly.dev | No | ??? |
 | ✅ waffffffffffffffffffffffffffffffffffff.bunnynabbit.com | No | 0.4.5051 |
 | ❌ walknot.shaunguimond.ca | No | ??? |
 | ✅ wallera.computer | No | 0.4.5043 |
@@ -3825,7 +3838,6 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ zaluka.xyz | No | 0.4.193 |
 | ✅ zay-zay.net | No | 0.4.5051 |
 | ✅ zazen.social | No | 0.4.5051 |
-| ❌ zds-oversized-lab-20261017.fly.dev | No | ??? |
 | ✅ zds.gillao.net | No | 0.5.2 |
 | ✅ zedsocial.ca | Yes | 0.4.5051 |
 | ✅ zio.blue | No | 0.4.5027 |
@@ -3838,8 +3850,8 @@ Instances that have not been active for more than 14 days gets dropped off from 
 ## Labelers
 
 **227** instances active  
-**142** online  
-**85** offline
+**143** online  
+**84** offline
 
 ### Bluesky labelers
 
@@ -3886,7 +3898,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ czkrajelabeler-7845.rostiapp.cz | N/A |
 | ❌ dev.labeler.hypercerts.dev | ??? |
 | ✅ discourse.manos.tech | 0.4.2 |
-| ✅ dotnet.blue | ??? |
+| ❌ dotnet.blue | ??? |
 | ❌ ec2-13-61-190-180.eu-north-1.compute.amazonaws.com | 0.4.2 |
 | ✅ elitometer-bsky-labeler.nwrasl.easypanel.host | ??? |
 | ✅ facts.kiesel.app | 0.2.0 |
@@ -3982,7 +3994,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ namako-pona.my.to | ??? |
 | ✅ neuro-methods-bsky.fly.dev | N/A |
 | ✅ news-aggregator.eurosky.dev | 0.1.0 |
-| ❌ nfl-labeler.sickos.club | N/A |
+| ✅ nfl-labeler.sickos.club | N/A |
 | ❌ nflair.foysal.it | 0.4.2 |
 | ✅ nozone-layer.net | 0.1.159 |
 | ❌ o.panslawek.pl | 0.4.2 |
@@ -4076,7 +4088,7 @@ Instances that have not been active for more than 14 days gets dropped off from 
 | ✅ usagi-labeler.nikkori.cafe | ??? |
 | ❌ vs.air2.earth | N/A |
 | ✅ wickwork.cafe | git-02f717d |
-| ❌ wnba-labeler.sickos.club | N/A |
+| ✅ wnba-labeler.sickos.club | N/A |
 | ✅ worm.lewis-od.co.uk | 0.2.0 |
 | ✅ xblock.aendra.dev | 0.1.167 |
 | ✅ zombies-labeler.qfkq6yrbqp.workers.dev | ??? |

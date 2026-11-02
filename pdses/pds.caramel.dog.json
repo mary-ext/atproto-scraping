@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.caramel.dog/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792897845829,
-	"errorAt": 1793507669134
+	"errorAt": null
 }

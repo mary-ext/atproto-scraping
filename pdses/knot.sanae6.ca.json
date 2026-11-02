@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.sanae6.ca/",
-	"status": "online",
+	"status": "offline",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1793506936953,
-	"errorAt": null
+	"errorAt": 1793594179294
 }

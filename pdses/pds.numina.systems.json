@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.numina.systems/",
-	"status": "offline",
+	"status": "online",
 	"version": "cocoon v0.14-0-gca03d1a",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788404077006,
-	"errorAt": 1792984996571
+	"errorAt": null
 }
