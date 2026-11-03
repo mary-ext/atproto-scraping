@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.zezura.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1793419223655,
-	"errorAt": null
+	"errorAt": 1793684061158
 }

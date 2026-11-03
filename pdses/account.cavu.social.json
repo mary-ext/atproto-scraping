@@ -1,7 +1,7 @@
 {
 	"url": "https://account.cavu.social/",
 	"status": "online",
-	"version": "1.2.3+7a141ca",
+	"version": "1.2.4+7b4f4b6",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1793072474529,
 	"errorAt": null

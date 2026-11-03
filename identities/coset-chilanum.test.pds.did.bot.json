@@ -1,0 +1,9 @@
+{
+	"did": "did:web:coset-chilanum.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793683195278,
+	"errorAt": null,
+	"hash": "D7iGFT2zbkzMiXQBGfcggvJZ7S6LY__xm-gZaf28bkk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

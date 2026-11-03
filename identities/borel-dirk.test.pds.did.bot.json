@@ -1,0 +1,9 @@
+{
+	"did": "did:web:borel-dirk.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793683195278,
+	"errorAt": null,
+	"hash": "vaWD76LG9psU4ruRxUSgb3rYmoUfbB8HldRUhBc_38I",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

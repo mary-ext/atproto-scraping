@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.sarjeant.me/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1779238077725,
-	"errorAt": null
+	"errorAt": 1793684061158
 }
