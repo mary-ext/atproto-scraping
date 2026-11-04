@@ -1,9 +1,9 @@
 {
 	"did": "did:web:projective-tanto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "eEt8k6ZcI5kWWUOGs9Za2MkCrgNVCyMtK1YXKWmwYZ8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

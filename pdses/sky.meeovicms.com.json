@@ -1,6 +1,8 @@
 {
 	"url": "https://sky.meeovicms.com/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5027",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1792292407300,
-	"errorAt": 1793684061158
+	"errorAt": null
 }

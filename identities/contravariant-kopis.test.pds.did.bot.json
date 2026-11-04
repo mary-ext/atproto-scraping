@@ -1,0 +1,9 @@
+{
+	"did": "did:web:contravariant-kopis.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793767746299,
+	"errorAt": null,
+	"hash": "UcrgQEPTuTYTxykd1D2jC4iBpoJBEpiZpvZLizzHhPM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

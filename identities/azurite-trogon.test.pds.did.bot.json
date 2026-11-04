@@ -1,0 +1,9 @@
+{
+	"did": "did:web:azurite-trogon.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793767746299,
+	"errorAt": null,
+	"hash": "RHfYsBGArIcSiMzR5Z0ntcWvRErM5IGvgcxGuehOlb4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

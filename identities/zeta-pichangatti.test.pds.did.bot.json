@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-pichangatti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "ImWZ8LamNGKP9Hf5FEZu9Xu5UfqN0MciXkuQH6A0kGs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

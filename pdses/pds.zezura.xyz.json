@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.zezura.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782953236069,
-	"errorAt": 1793684061158
+	"errorAt": null
 }

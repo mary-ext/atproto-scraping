@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-nimcha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "x0lG4KE_sSF56c0VgSNZVNtdCCOBMRvje5W_gbHJD2E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

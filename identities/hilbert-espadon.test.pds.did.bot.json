@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hilbert-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "HPJhyPKg-9mI1ZLAHoWXs6ghvPaLw1wHGc3qpho7PBI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

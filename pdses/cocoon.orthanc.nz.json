@@ -1,8 +1,8 @@
 {
 	"url": "https://cocoon.orthanc.nz/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon dev-3a65c4dea",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1793768701864
 }

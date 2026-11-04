@@ -1,0 +1,9 @@
+{
+	"did": "did:web:zeta-dirk.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793767746299,
+	"errorAt": null,
+	"hash": "qQ9Fh7BjAdqNgxp72qJySigtm4KLcuRwXoI4WkZMiSU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

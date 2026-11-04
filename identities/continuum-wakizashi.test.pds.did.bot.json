@@ -1,9 +1,9 @@
 {
 	"did": "did:web:continuum-wakizashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "aSFaY32ngeEj1Dd2m3udRBoXBvt4-olRUpxepqAZzRw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

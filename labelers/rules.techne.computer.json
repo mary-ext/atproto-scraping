@@ -1,7 +1,7 @@
 {
 	"url": "https://rules.techne.computer/",
-	"did": "did:plc:fjxaqehqvxfdlmfbtyam2snw",
-	"status": "unreachable",
+	"did": "did:plc:eob7imjodrvoexpiw4i3r474",
+	"status": "online",
 	"firstSeenAt": 1793683195278,
-	"errorAt": 1793684061158
+	"errorAt": null
 }

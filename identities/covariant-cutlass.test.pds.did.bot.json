@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "WHNOnEBN9UbxII65cS_lkrcY9SPnm9lYGpnkTmwQkP8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

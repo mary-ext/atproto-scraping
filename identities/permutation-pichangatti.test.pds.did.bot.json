@@ -1,9 +1,9 @@
 {
 	"did": "did:web:permutation-pichangatti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "J_O88sqOwWtXCk5b9et7T5chQL17qUGcC_zIoAS2qoA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }

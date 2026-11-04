@@ -1,9 +1,9 @@
 {
 	"did": "did:web:euclidean-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793683195278,
-	"errorAt": null,
 	"hash": "2-zYg0Vo-NULxlduNmQd2S9lPi6ibWX-ctYIJOVxkzE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793683195278,
+	"errorAt": null
 }
