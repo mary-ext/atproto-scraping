@@ -1,9 +1,9 @@
 {
 	"did": "did:web:involution-khanjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "LbnyNB85El4hhwB3amjF20qW6uIQeBFkYIRQpeYOAv0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

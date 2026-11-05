@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hyperbola-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "nzjkhX96IGxrfdHWOjvVF3T3szYwXpmyEboXRPO9pdA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

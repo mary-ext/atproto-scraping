@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polynomial-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "CizLsvB4AXrjoEftV7A_5fU1-C76Qh9C-LLRdeN5rFA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

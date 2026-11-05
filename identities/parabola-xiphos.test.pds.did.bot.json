@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "Kn_t9eZBofBXXQVX1kExCE4KMUfNlsExaRhjfWH2yC4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

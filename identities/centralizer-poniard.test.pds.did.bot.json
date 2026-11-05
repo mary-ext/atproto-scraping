@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-poniard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "hxBa5zN5f68zX_-pEAJ1uTmMKFx5HZBio1OZGMdEWS0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

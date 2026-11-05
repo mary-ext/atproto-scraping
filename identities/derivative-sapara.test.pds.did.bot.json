@@ -1,9 +1,9 @@
 {
 	"did": "did:web:derivative-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "rxN7KrHqjYSEx4pkWO6sefKNIqvY7B1TXaWGySKQkMU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

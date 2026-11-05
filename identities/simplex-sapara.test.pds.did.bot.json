@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "4JtksW-euLv9FWE126Sg10yFlk1GBq7aFDL0PtmmQsM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

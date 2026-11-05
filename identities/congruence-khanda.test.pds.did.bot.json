@@ -1,9 +1,9 @@
 {
 	"did": "did:web:congruence-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "aNQ2f5WwrRRh5yAYSPprRb1hdfINTvjWb2tX_V-Ul8s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

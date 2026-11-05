@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sobolev-backsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "f4k2VoHXF9jLzAjwIXveCqFBeQkFCQTPwATtt0ngzkI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

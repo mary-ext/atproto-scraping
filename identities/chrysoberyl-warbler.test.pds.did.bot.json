@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chrysoberyl-warbler.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "_TZ15vtz6mwWa1l7O8EVXKfuLiQsS4DOATREXMgmMAM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

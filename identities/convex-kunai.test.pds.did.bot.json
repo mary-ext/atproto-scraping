@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convex-kunai.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "DwTmBCfVor22RW4JCu6piOERfh3-2Q-FiAKp5qi6Q4E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

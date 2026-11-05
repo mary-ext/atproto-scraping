@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-kaskara-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "I1W3Qbjy7ZL8dLpTL0gHyFulUb0UXmvY34PcOsg5t-g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

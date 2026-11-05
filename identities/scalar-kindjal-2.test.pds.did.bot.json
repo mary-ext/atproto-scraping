@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scalar-kindjal-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "kA4RA0stcP6yywJRrciHTAhqpRSkLAiLmVuyVUet0XI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

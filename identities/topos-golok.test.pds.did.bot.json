@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-golok.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "EXe5KlEyVshJEKR_NsySuVzYoCuWhf7xHYviQGTKy7c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

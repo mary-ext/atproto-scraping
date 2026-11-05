@@ -1,9 +1,9 @@
 {
 	"did": "did:web:planar-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "0NWMuOuz9KIfmKKr-oWJy0F4jTywhX4WKnpxt-34dcc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

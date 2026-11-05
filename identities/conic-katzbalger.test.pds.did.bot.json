@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-katzbalger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "e6UuYggmnF3q-FZo5CtWRNAPCSKUsVEjoLcMJ18Esv8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

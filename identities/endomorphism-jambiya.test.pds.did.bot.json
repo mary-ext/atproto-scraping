@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-jambiya.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "VqMHe7rATp2e-s64VKhCTDhY3vVm8P7aOYMBibQk_S4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

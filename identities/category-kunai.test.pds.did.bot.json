@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-kunai.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "MEKV8XhOTKpbu4j77qcIEfTD3_RZtjVJdrbYxHGCtEA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

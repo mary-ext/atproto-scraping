@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monomial-yanmaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "HjC13ChbsndtoMLeVihZBgOMHaYyGuusOovVCxAnf-o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

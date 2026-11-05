@@ -1,9 +1,9 @@
 {
 	"did": "did:web:planar-braquemart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "2o0m7zyV__Z866EPH-f_7EMwBARveu8uHyKkMoCgIwE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

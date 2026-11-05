@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbifold-gyuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "GJUlXRMivX5uRbb0F2nt8t1luK2GBXOMi3S-POHRsDk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

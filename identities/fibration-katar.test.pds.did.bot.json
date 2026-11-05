@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fibration-katar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "HMKvh7zJS1WRUrAFmhsI7mwGAGZ0ByS5YejzL6Ebm-Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

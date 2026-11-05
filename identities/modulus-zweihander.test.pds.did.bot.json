@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-zweihander.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "1RDySzXphdD1-MyGVj6G53njKzGHW0mlJMYLulGdpH8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

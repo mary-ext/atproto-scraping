@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coset-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "_SugysGhbtxJf1aqFBo6qAk5xOznG-JFip7IkCwFgVs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

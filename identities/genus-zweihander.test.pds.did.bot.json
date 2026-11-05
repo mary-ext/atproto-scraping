@@ -1,9 +1,9 @@
 {
 	"did": "did:web:genus-zweihander.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "1_u4VzAJyYZ2qhSyr2Bxsgyww4ByLYK7ImbpY52cT1o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

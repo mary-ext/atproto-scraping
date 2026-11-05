@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-gladius.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "KMNrE9q8J3EqmxvVAyS7SbzPGKxzYBr8rN6s9d572O4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

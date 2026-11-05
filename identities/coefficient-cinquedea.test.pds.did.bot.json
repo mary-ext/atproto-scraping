@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coefficient-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "1uMyLYYFmEtzjtQwhHk1qUOeA4E7ihGQmXNbT_GX7Ik",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-karambit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "nOvw891Tx4W8RGLCzUbaktUr6dkIc26Lgrx3lIcC4iY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:computable-katana.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793855079349,
+	"errorAt": null,
+	"hash": "X7Rz5PD3NlCCvPNVirWaTRnn_jxLRSEGrwhctB1l23w",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

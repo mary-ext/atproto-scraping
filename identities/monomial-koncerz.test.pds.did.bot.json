@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monomial-koncerz.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "ulT0GT2tQ_uC-_fKYGzcF0swJ84F9F49C6gaPFTTUYc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

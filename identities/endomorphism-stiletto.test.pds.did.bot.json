@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-stiletto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "sTeLnFP03JmS_6N2IOGgvJcEuEi9un5NGZ871t1OyyY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

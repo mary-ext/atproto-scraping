@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nilpotent-hamidashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "N8Y243Mw99fe_cBx9hx74UrGZurOiCZHv2SJbVpu42k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:planar-sica.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "BEVdDoYQ2mV2hFZKupDFDn_q6k6OGk5VraGcbxWmdeI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

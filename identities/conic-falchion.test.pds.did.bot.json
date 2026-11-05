@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-falchion.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "vXrbCTIfMDfQB3ljmA8OtKu6GSdT3Y5CGBVTafkuWMs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }

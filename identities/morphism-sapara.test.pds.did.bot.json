@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793767746299,
-	"errorAt": null,
 	"hash": "q8xJ089Er8qOk9V4tzooVlTRAOuk2KHnhuh8OpSydec",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793767746299,
+	"errorAt": null
 }
