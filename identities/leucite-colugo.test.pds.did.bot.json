@@ -1,9 +1,9 @@
 {
 	"did": "did:web:leucite-colugo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "R3_54HL7tdr-wAxmc8DifstP92n6DJ9zckCrsqgU_HA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

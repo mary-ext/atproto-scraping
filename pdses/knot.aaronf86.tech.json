@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.aaronf86.tech/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1791605907136,
-	"errorAt": 1792812437406
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:infimum-rondel.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "C7snQ4xwGL168g8j67m24I9vcosdJj5J8rhdGSlKMN8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

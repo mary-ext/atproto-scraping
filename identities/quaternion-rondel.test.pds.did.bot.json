@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quaternion-rondel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "6TtgSluNFsh5iPnrd7qMF6duKz8RbKCDt5G5CixjKFg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

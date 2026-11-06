@@ -1,9 +1,9 @@
 {
 	"did": "did:web:locus-deba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "rApDvgHGAhzGphhupeUg4HEbj_maF0NXoCupcmMEwkQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

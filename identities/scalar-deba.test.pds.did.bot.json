@@ -1,0 +1,9 @@
+{
+	"did": "did:web:scalar-deba.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "KyVkHhL9jbEfbe7GlNX2v1G9wFFTXHdN_koIXEVjjZY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

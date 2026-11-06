@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lapis-badger.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "8hICQUZ1DRgf4pbNmJCrtr7r0CSP2WKpLa1QxgiAG48",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

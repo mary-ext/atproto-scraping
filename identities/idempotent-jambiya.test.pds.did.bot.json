@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-jambiya.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "RMRFZ5O8JuQbBJbL2AJv1OhvBA5o-FRXmkVdJziyKIQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:schist-hamster.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "etco0gEl0zzOq6Ee5mdrtlULlrq6VzPfldys5imyabk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

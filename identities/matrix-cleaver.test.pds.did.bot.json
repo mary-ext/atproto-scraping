@@ -1,0 +1,9 @@
+{
+	"did": "did:web:matrix-cleaver.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "m-7JRruLKy9mUKx7-6zqV2SZW6gwU3b9EAI9KMZPr2g",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

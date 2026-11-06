@@ -1,0 +1,9 @@
+{
+	"did": "did:web:garnet-lemur.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1793941445400,
+	"errorAt": null,
+	"hash": "BVBrm2PuOjSGf6-e7cKldUF75xAltMTnthBGlglaLBo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

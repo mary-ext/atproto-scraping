@@ -1,9 +1,9 @@
 {
 	"did": "did:web:blinkers.dev",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "mI0mJb2rJ1wNQCtKdJ-o-9f1KV315hbzTJYlHM9dDos",
 	"pds": "https://blinkers.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

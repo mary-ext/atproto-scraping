@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nephrite-colugo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "cHKzCgVj9EJ18YDCiXpf8MSY563J1_XiYpBtB6Nzdpw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }

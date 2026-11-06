@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.ch.fo/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786499006861,
-	"errorAt": 1793856229552
+	"errorAt": null
 }

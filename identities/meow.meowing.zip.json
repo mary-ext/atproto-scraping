@@ -1,9 +1,9 @@
 {
 	"did": "did:web:meow.meowing.zip",
-	"status": "online",
+	"status": "offline",
 	"hash": "ivD9AirpswGPHqItrfY9VpWN6tGChsreXeixQx7-8_A",
 	"pds": "https://at.meowing.zip/",
 	"labeler": null,
 	"firstSeenAt": 1790913723283,
-	"errorAt": null
+	"errorAt": 1793941445400
 }

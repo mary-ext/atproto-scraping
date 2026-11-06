@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gneiss-blesmol-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793855079349,
-	"errorAt": null,
 	"hash": "w4J89HGD166ljo1d5hTN3VrhgNl610xGNAuYtrGQCw4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793855079349,
+	"errorAt": null
 }
