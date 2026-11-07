@@ -1,0 +1,9 @@
+{
+	"did": "did:web:eth0.dweb.rip",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "ud1gOvQuB31LuK6XZVig85QxMfMHBYVK2LX1I6sujjo",
+	"pds": "https://pds.rip/",
+	"labeler": null
+}

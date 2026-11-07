@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chert-wombat.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "LToHyq2T3FAtaH0PZzXhZJaHJhd0keN6zJjI8fw4-mg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

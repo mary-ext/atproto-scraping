@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monoid-jian-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "zLdIE2bJVFA8CltvwgmqEWkTsAtTNMsRNC6kMlzRftI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

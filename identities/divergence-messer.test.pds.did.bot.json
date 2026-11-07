@@ -1,0 +1,9 @@
+{
+	"did": "did:web:divergence-messer.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "dpN8FKExJdFFeW81DJIg38_UN8RkjP8oLNgn5SOWXqE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

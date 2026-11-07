@@ -1,9 +1,9 @@
 {
 	"did": "did:web:groupoid-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "uOf-fQkaNx9iZ0b-PE1KQuk8E0y36nwas0RXgprEu0k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

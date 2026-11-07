@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-dadao.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "Gnb-XNVsuJXce3lZ-OmnjkddC5z8BmAGbdKg5OjUwGg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

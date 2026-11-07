@@ -1,9 +1,9 @@
 {
 	"did": "did:web:functor-greatsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "pXp5mjbYv5z-PhyYzSgMrIDvpeUEo4GP7Z_BO1ozXQk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

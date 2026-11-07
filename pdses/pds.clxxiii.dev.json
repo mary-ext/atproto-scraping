@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.clxxiii.dev/",
-	"status": "offline",
-	"version": "tranquil 0.6.7",
+	"status": "online",
+	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1789442549150,
-	"errorAt": 1793942364815
+	"errorAt": null
 }

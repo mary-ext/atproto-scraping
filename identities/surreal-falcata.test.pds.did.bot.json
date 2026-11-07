@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-falcata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "2dr8ROw-W1h3Tz2KtQgo3PC5CMhGI3pYK37Tkjc9lfY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

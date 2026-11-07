@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sanidine-dipper.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "BBsictOQaaCguXt9SNSGMzz2f531QVrUCoNysJYHz40",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

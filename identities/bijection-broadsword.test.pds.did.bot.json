@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bijection-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "IsxY_0lbRliMa6-GkrHY29bd73TTCeyucGsuI2BR59M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

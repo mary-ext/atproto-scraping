@@ -1,9 +1,9 @@
 {
 	"did": "did:web:andesite-sifaka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "kJcLVvhm1BSNCrRYXpaPfQLjOX0QKwZ8TdmhwLf8h_w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

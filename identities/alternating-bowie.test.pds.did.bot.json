@@ -1,0 +1,9 @@
+{
+	"did": "did:web:alternating-bowie.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "Y6jeHR-i4LeKtAt0qI9i43byOMdjDaIcx1RRIASrLa8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

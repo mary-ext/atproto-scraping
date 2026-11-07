@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coefficient-changdao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "hVYiydIJE2_PNgZc22APeij6tPzfSdF4mbrZAa28O0Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

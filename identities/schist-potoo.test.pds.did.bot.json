@@ -1,0 +1,9 @@
+{
+	"did": "did:web:schist-potoo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "dZS5VgnlXojlcrFygzI7LYE6PYOZJsBYCu5tIry1DQI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

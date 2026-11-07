@@ -1,8 +1,8 @@
 {
 	"url": "https://malone.social/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1793942364815
+	"errorAt": null
 }

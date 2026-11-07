@@ -1,0 +1,9 @@
+{
+	"did": "did:web:continuum-bunka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "39o5L82fSeoZM8WQoNVXIG9SmxCtrsLNjFzLrAHL3hg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

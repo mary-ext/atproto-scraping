@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.mozzius.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1793506936953,
-	"errorAt": null
+	"errorAt": 1794027104953
 }

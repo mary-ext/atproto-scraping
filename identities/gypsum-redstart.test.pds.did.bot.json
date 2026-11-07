@@ -1,0 +1,9 @@
+{
+	"did": "did:web:gypsum-redstart.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "pcyTl5kkWrsAJSUfyJAJK9DZzJUPoGAfd4YEKKZyY0U",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "ro0srdJ0A10BJRJnZrwnCtartJ63_5uEPdJZWlxOw-8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

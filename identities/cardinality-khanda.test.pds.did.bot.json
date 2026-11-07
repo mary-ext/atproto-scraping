@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "MFM-S5jX_BzoKsnmf3ILoi06uBn5QL3iyJb_HvfWMIo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

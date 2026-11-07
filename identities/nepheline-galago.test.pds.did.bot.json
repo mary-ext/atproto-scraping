@@ -1,0 +1,9 @@
+{
+	"did": "did:web:nepheline-galago.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "nDSWyJYAgrYkqs3effCfSUIKK49TdTdn8QX142zdOgo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "LDA25dboeXT8Zf67kJh0dNL-6xnR733fLp6O61HYJV8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

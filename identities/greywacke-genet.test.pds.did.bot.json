@@ -1,9 +1,9 @@
 {
 	"did": "did:web:greywacke-genet.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "6-cjDh_7JyR1cfceecilVG8Ek97whIYU-haFPhLYmU8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

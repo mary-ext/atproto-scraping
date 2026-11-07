@@ -1,0 +1,9 @@
+{
+	"did": "did:web:residue-chilanum.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "0rJmTRyUNvF2l_rBhmSTCxtD19-PGPv-1yGIMLJmLTY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

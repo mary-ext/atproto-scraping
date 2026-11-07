@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-greatsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "XoQw1LSL_MBgnz-a1YYx8-1TaKjv33HIrtEMMO2--Ms",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

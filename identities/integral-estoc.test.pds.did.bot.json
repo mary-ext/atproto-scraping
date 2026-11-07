@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "U_Wx3hxG5ZPFkZgQwlMwfSwOnnSh144GbyQM2_36jC4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

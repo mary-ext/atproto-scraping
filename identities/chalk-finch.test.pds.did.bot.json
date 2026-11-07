@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chalk-finch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "3mRI_Cbf62uo92aD248DsVZ6GAF7gIC2so0Ac_cLcMA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

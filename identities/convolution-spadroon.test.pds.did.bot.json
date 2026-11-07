@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convolution-spadroon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "1i2f2zRL-9MDnyG-oUO5UxCEKITZirR4PkalqgXxAiY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

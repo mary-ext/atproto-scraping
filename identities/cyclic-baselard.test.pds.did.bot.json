@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cyclic-baselard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "86082AjXRKxdiWguIiYnbFtzXR5OA6ek54wlTxz0QRo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

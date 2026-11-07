@@ -1,9 +1,9 @@
 {
 	"did": "did:web:codomain-backsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "emRV8BEGu63GXkJHOdAEP8OvK30BB0Uqqm6_DyiZD48",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

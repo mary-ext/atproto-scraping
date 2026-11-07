@@ -1,9 +1,9 @@
 {
 	"did": "did:web:functor-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "J5REZyjY7CN0r9m-Elkxgi7R0H9b5ozHPKgy1jBGVz0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:derivative-misericorde.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "hdcKElQc-AISJpykSNGIdx4lQ61EIVxNfYH1dL5IfUM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

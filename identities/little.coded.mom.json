@@ -1,9 +1,9 @@
 {
 	"did": "did:web:little.coded.mom",
-	"status": "online",
+	"status": "offline",
 	"hash": "z3R7HBpi-7PXWw1k0XOBI8KAH-0oYsgPSnLhprurVNk",
 	"pds": "https://katproto.girlonthemoon.xyz/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1794026282322
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conjecture-bichuwa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "u5hbR_L4WwGBtk9WsOgEIaBDOc0ae3ptBhyYcyqIlro",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

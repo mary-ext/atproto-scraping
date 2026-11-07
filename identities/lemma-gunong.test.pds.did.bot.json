@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-gunong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "X-v-a30Qii2ogI4xYAMMDGfT4WjODhBOZ_bNs3_dktk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

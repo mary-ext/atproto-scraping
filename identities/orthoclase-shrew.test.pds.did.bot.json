@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orthoclase-shrew.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "uCobcFxbs_Y1wnoDe9mF57f7cgOIiJ5fzSOlh4sFNlk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limonite-kodkod.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "ej6Y0hNci7APFpGWCsYJGEzDG30f1Up6x5ir7KQTxY4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

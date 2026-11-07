@@ -1,0 +1,9 @@
+{
+	"did": "did:web:decidable-pugio.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794026282322,
+	"errorAt": null,
+	"hash": "rLhb12DKcY2c2gjakJBsEUux6rdGJNuTVGejvPHJdD8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

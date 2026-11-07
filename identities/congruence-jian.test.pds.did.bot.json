@@ -1,9 +1,9 @@
 {
 	"did": "did:web:congruence-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "j3RUG1OnHAJtAuF0J7XIxZKutbSfiI5ixycjiy0aNMc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }

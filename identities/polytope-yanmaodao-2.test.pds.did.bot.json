@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polytope-yanmaodao-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1793941445400,
-	"errorAt": null,
 	"hash": "XzHbnWBwQlttYQrtk0kKh3XEdwXq28Pk8j-w30WOJ-w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1793941445400,
+	"errorAt": null
 }
