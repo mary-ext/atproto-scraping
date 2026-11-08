@@ -1,0 +1,9 @@
+{
+	"did": "did:web:determinant-kopis.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "nH2bLbsVUoVZlAr4d_jcIsBmo20vZsknZqCTW_m0zjI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hilbert-kunai.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "sKRHCFVeyz-2HtWoDR352kiUqK9fvyECGLajtHHwlg8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

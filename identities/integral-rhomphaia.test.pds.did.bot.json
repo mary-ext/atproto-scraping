@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-rhomphaia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "yhVbMuWd5YNBV6_gtzAfCF8wf9JFFiHfT751Lvwb6tw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hyperbola-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "MByvcO7vcuH09lj8n6CPbSgACBiLFJ52dCr_xnVNibw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

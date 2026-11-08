@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "sKwiRmzBK2TA4d9p5rSPetjwu2y3zjf0rRirlQ2lzXs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

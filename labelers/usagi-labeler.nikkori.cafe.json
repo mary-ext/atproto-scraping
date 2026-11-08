@@ -1,7 +1,7 @@
 {
 	"url": "https://usagi-labeler.nikkori.cafe/",
 	"did": "did:plc:snv4oqqjlvv6lleej5mk7g7i",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1791346621701,
-	"errorAt": null
+	"errorAt": 1794112676167
 }

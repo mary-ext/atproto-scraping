@@ -1,9 +1,9 @@
 {
 	"did": "did:web:asymptote-balisong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "lY9LlBfa9Aw2AHiL9ozOL0Eh1gXhzjjGRC9dAv7z6VY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

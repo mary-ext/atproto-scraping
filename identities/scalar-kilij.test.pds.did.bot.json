@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scalar-kilij.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "5vhUGpRfUiH9MpgYKItCat6ovj1Wc9x2hmDJsdR0lzc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

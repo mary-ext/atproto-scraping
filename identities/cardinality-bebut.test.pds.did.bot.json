@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "V5mvKgs3sV9mNVe_-W_uLpgGRtsUgtBJwWDRrhoro0I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

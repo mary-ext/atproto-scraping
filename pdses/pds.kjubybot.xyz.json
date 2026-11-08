@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.kjubybot.xyz/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793419223655,
-	"errorAt": 1794027104953
+	"errorAt": null
 }

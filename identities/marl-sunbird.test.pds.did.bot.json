@@ -1,9 +1,9 @@
 {
 	"did": "did:web:marl-sunbird.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "kyc6Qz_E9jUO-XVn3Y7VOtJWwC4brys2SaSJxogY84A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

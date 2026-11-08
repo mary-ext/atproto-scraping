@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-ginunting.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "2a6SiFQcIVmTpRL6ff0-lJYP-6FDy4tKaTSWwiNAOJM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

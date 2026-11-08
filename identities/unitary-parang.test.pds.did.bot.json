@@ -1,9 +1,9 @@
 {
 	"did": "did:web:unitary-parang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "Q2jPGFbqjH2dbeAaWrsip7s7x3GkTdn3YtsYlPvpsto",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

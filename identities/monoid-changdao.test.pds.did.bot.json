@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monoid-changdao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "gl8D0NDyg2lJbQ-u-7kNlk8Bfg9Tt6tAeWcLlakZsTM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

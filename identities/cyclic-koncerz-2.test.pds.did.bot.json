@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cyclic-koncerz-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "W5vAHgAPkdDcVuRQPSVPVuSDH3bO5K5Zex1wLEYQD-I",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

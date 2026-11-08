@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "GRE-EdBXmYyCnBWzORrZ0nsfTAT80R33GV4moH-uFPg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

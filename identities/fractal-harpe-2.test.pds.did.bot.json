@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fractal-harpe-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "d8ahiX15QhruNmyNM_pU3Mh4ht03AZs3kBcEE2yTWLI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-anelace.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "hwMj8gX6ttprbKh2Pz_BPkSmtL3XzW_O2ynTvoLKydQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

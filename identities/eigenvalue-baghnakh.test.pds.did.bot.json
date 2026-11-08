@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvalue-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "MluebfLpGAGLHjeF4hn7cwZBVgy9dxv8VOmLYsQY5UA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coset-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "H6l8wh_pJ2PykTQ6SphseBvvNjXEq2vHeopUUxGzTGk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

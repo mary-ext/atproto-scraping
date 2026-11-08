@@ -1,0 +1,9 @@
+{
+	"did": "did:web:webbers.rycbar.me",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "8ijAvREGJ2S4FEw2X95wVvnyIn6Ctd5j8Tm9TdFtAtg",
+	"pds": "https://rycbar.me/",
+	"labeler": null
+}

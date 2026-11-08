@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quartzite-pademelon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "orACejf_6OeelCUj-eIeBhL6k148dAE2cn1yyXzSpCw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

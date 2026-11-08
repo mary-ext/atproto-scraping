@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gabbro-binturong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "Ec2p7myy4mYg04imEHA2XEOvPo2OyfxUp2gRgUQDoTI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

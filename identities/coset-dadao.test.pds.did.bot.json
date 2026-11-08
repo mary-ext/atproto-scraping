@@ -1,0 +1,9 @@
+{
+	"did": "did:web:coset-dadao.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "9EhRlfZ-hNAx-XzFWHT2CgcJrakLQ6i3t24TfPEG9qc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "ORdm6rlcwzIKMFBbY6JEiGx7t3F9jWVtotV8vFq_mJw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

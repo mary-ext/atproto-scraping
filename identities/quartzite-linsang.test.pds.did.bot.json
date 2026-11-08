@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quartzite-linsang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "T1GYByJWewfUI6ColO9enEAW7udaIW9YCsprgcG3WA4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

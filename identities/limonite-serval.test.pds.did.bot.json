@@ -1,9 +1,9 @@
 {
 	"did": "did:web:limonite-serval.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "8tCp2ei5RgXFsS7uaOO1vh7q5yQi_pitXfFMrXSwBiU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

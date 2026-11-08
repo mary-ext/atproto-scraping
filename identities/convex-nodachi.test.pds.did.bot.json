@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convex-nodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "4MHTYPVHKdNI6Fd7Wn-lFz6mMD1tQ5460ffiA6PbibY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

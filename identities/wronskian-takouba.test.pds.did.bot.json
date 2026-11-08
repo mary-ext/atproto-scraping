@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wronskian-takouba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "loawgbcaIQpLwP7QoqgJlZdcW_1WPW_sBZORFa4b_zk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

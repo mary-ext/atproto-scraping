@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wafuu.sas.monster",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "ktS8y-BH8Zu31jks34sYwb8TmkCyV0pK6cBfj6DV_Z0",
 	"pds": "https://pds.sas.monster/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:discriminant-palash.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "89mcgUhfPQlyAEBOy-oigMI3S5HZzITTGL1v7nIRBtA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

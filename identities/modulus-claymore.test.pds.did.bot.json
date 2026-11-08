@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "d3ddGaBzhQOQ1-GLRYmeBoDWEU9fe3dkGw8i3TvE-1s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

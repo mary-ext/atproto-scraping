@@ -1,9 +1,9 @@
 {
 	"did": "did:web:derivative-spadroon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "rH2OdBqrA5klz3EnYYwyRpF2lDfiA1GgN34PECr1QEQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

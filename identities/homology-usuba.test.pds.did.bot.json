@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homology-usuba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "yhyKDY1GXhqYvxS6OxskrA0LO0zrbPZlbT7FZYkEjlc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

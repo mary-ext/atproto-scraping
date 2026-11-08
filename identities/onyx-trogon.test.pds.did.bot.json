@@ -1,9 +1,9 @@
 {
 	"did": "did:web:onyx-trogon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "t6Uv0AuYU3ZPwNUhmRA4zzKWoetw3qu6Q1cLob100QM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

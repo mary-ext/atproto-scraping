@@ -1,9 +1,9 @@
 {
 	"did": "did:web:idempotent-machete.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "eyQABQgzjMzGULMnI2G6ohDJVfO1TZydj1VClgo7LNM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

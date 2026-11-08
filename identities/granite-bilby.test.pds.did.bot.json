@@ -1,0 +1,9 @@
+{
+	"did": "did:web:granite-bilby.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "oT2eTvNs4R6E9iCGx0rqNy8BJmApWpQpmY2Fr-JPilU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

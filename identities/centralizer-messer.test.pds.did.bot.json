@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-messer.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "CQIM3ZDcuqW4To5OiAtVoKuCW7hGGM0mN0YFNa7lc_g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

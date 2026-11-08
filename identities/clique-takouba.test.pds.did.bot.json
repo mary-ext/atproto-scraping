@@ -1,9 +1,9 @@
 {
 	"did": "did:web:clique-takouba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "8As_WasKb9iXzAYpgZ3B8bFwEnZmVnVIdAT3ueQqe6U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

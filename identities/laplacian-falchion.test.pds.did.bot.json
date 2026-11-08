@@ -1,9 +1,9 @@
 {
 	"did": "did:web:laplacian-falchion.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "JYD7RxYNQC3xZyadjIYhd3Bn5t-N7ezB0X4ikaSGKV4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

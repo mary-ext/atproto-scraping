@@ -1,7 +1,7 @@
 {
 	"url": "https://dotnet.blue/",
 	"did": "did:plc:liuuwugrsmbf3kqv4prqwpaf",
-	"status": "offline",
+	"status": "online",
 	"firstSeenAt": 1793419223655,
-	"errorAt": 1794027104953
+	"errorAt": null
 }

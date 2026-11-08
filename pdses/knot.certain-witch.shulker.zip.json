@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.certain-witch.shulker.zip/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1792984264159,
-	"errorAt": 1792984996571
+	"errorAt": null
 }

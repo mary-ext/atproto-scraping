@@ -1,9 +1,9 @@
 {
 	"did": "did:web:functor-gyuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "-yYuGErw4vFP6PYImXrQgGZjdV_TJCybPZhmGK9ohE0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

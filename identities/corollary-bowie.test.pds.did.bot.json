@@ -1,0 +1,9 @@
+{
+	"did": "did:web:corollary-bowie.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794111950378,
+	"errorAt": null,
+	"hash": "H5Ql8ucr8iOBoyTk384CmEo75DPQalT6GU6oaEskiNc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

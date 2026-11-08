@@ -1,9 +1,9 @@
 {
 	"did": "did:web:normalizer-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "QdhPHY3FKwbX1Nau1XW-hjgC3ZzNwueLQf1BmOyyf7U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

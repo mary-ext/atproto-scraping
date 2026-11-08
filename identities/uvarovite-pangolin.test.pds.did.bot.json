@@ -1,9 +1,9 @@
 {
 	"did": "did:web:uvarovite-pangolin.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794026282322,
-	"errorAt": null,
 	"hash": "1ISlDEaUQPUD9chCIzovyT9gojlcojarkok17XSMKI4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794026282322,
+	"errorAt": null
 }

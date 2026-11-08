@@ -1,8 +1,8 @@
 {
 	"url": "https://taway.nearhorizon.app/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793683195278,
-	"errorAt": null
+	"errorAt": 1794112676167
 }
