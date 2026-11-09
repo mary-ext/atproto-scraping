@@ -1,9 +1,9 @@
 {
 	"did": "did:web:matrix-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "q6cAvl8sOWAkFIEg1jyTPVakuV6szfoORJpy5bfn2Z4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

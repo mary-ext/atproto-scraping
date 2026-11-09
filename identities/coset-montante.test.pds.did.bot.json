@@ -1,0 +1,9 @@
+{
+	"did": "did:web:coset-montante.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794199131147,
+	"errorAt": null,
+	"hash": "t5UEQzsNZpo5QA2eMgr80aiW8W9dAXvz9BU8d1xNETM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

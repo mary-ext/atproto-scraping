@@ -1,9 +1,9 @@
 {
 	"did": "did:web:diopside-fantail.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "ds9nOTlDRmENhJnmBT62l8RuJlA-bmcCVkGEahdk7P8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

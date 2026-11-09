@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.nel.pet/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792379636938,
-	"errorAt": 1794112676167
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cokernel-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "Le3ykbWx3B3Fl5i0Y6nnvLI2lrHx42UDr9Nv0j4a7A4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

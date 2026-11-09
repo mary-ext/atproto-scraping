@@ -1,9 +1,9 @@
 {
 	"did": "did:web:magnetite-newt.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "s_GOtME9tvwx--a3li8OIScJCV_PVPJRfEcFUK7FMfM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

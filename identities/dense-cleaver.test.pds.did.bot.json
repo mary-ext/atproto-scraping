@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-cleaver.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "E1OxP5QUSqDzDQV0WKxRLlNxGSlRgwVEXugpvv6OjFU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:clique-chilanum.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "Q6FfIHNp6CjEC2Hm3c7y7VBVBYFvAfh5V3nnzeXOhQ0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

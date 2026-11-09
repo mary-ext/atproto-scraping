@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "TH15EaZSzSz3qhtwrW_zwwtmY5Q_k_crDu9aAFmSVVI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

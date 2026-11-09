@@ -1,0 +1,9 @@
+{
+	"did": "did:web:ideal-sica.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794199131147,
+	"errorAt": null,
+	"hash": "vhkBgvNToGzTT3e4GCXug4DkX54eRZJMvJBvIIjhxqU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "Rw0SC1Asn2Ah7-gmiwKMNoovo10tMQjGeNQLj4N7N9c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

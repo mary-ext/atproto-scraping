@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-seax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "DYd5S6gADgaDAzzggf_bc-2GH6EC_Fj1IjEAPpE4VsM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

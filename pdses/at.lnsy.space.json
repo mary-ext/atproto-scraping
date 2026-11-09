@@ -1,6 +1,8 @@
 {
 	"url": "https://at.lnsy.space/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "cocoon b2989cf",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1794111950378,
-	"errorAt": 1794112676167
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:barite-puffin.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "bqOi94YtPYLWyVvSvqyBxdnRKoXvi4nRR8GH4BX0dCQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

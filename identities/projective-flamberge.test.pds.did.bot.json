@@ -1,9 +1,9 @@
 {
 	"did": "did:web:projective-flamberge.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "XdHwHKJadNy2ib9kbMcvz6eV077EWMp1pCYXcQyFvRU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

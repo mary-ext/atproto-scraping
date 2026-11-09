@@ -1,9 +1,9 @@
 {
 	"did": "did:web:marcasite-ocelot.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "DZ9rp4CrtzWEXXzGRZbJgP0GEx7IOIfY_f_f8kFtVVo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

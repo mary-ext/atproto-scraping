@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-kindjal.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "bhfUaaoMZixB1Gl7HPUsgDnC8FODdVLB-ONBlvy6CxM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

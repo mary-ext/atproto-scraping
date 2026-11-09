@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nilpotent-kampilan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "GNEMiiiwafg-rsJU9d0eyu_Il-53GwQ-SKTZDOdWa4U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

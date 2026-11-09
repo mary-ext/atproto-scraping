@@ -1,0 +1,9 @@
+{
+	"did": "did:web:alexandrite-dormouse.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794199131147,
+	"errorAt": null,
+	"hash": "zJ4fb-jqw9Pk1CMVvk2VPBuGefGZqZcw2w5d8TbqPBo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

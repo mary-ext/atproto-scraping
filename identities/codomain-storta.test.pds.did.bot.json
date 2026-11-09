@@ -1,9 +1,9 @@
 {
 	"did": "did:web:codomain-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "BGap1l1go315dYhoQ3rvSNecb-F75O20PDUGBDsXBak",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

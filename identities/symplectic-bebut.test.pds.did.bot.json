@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "irPVuFtjmre5fxXpozyt-7aLqIDfAtw7AFFZIo1nDjg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

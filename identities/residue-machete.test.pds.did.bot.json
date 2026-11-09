@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-machete.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "NGKno_Eu2bDGSwgKfX1SjW_yRjxyjgAozHSWLPD0As8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

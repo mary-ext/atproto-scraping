@@ -1,0 +1,9 @@
+{
+	"did": "did:web:stabilizer-dirk.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794199131147,
+	"errorAt": null,
+	"hash": "fz0t3R33uVedJMpPZwmis7ipKOxt8Zc23Fj9sAAZjCo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

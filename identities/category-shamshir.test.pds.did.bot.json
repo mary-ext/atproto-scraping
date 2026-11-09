@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-shamshir.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "mBJiQgKcVLoju8CAksZW9TcVouxn3ldbWNspMLPTR5s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

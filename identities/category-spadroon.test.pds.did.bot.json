@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-spadroon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "e7ZsYL6LZfzL41YInVeXCUNDkmKRnq4DA8yf0972Z8M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

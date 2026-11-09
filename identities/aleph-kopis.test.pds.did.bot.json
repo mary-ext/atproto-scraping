@@ -1,0 +1,9 @@
+{
+	"did": "did:web:aleph-kopis.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794199131147,
+	"errorAt": null,
+	"hash": "48ZSKECp_7Qc5aDrTv5LAyxxd75AcvTnn0ouGxN0X0c",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-nimcha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "bx1rihWxYU58QJTOyHIGC4BXYS2CueOeWAWrEKYEyG8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-scimitar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "V9cShEqcH_ZCGMKcHiPwscYEDGy_0agd9DFhrCSIRq0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

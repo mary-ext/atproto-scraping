@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "rcLANN13xDUbF20iSnwnXlPDp72_on16o36DanQaJdg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

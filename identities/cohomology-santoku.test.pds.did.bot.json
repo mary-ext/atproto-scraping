@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "JDLxz0p41PeQL8rywMIc1Gfxw_aH1yRNCTXZi5kmklQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

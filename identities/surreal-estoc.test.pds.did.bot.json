@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "k015tiUsu1tqZ4CSyR7BAGgLmdOiYKGsstIhRpajQUk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

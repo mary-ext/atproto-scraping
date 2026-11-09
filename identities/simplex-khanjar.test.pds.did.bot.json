@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-khanjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "2b_gh9N9qNcIQNHvpp_Z5JAVVXjHW4bubdZed_5vhTI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

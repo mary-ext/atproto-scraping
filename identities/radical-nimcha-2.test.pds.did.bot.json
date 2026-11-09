@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-nimcha-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "UnV94-FMzcwoUTVef19f8q3nYI025rURwlz7X97GpXM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nilpotent-poniard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794111950378,
-	"errorAt": null,
 	"hash": "ukAWucDm8X_UVSOToomUx_taa-kYb3dCq0XcYxiN3kA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794111950378,
+	"errorAt": null
 }

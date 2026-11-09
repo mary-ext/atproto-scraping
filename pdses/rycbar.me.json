@@ -1,7 +1,7 @@
 {
 	"url": "https://rycbar.me/",
 	"status": "online",
-	"version": "0.1.0-dev",
+	"version": "0.1.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794111950378,
 	"errorAt": null
