@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-cinquedea.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "WI9DZwHiT-4gxKTrNQwT-xucAPSHRgaGF61AhjYE0qI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

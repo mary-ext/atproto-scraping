@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-kilij.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "OTL_aEP4s44RiGLUnYOh4QL67E7fODsm3gNn1J0sjkM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

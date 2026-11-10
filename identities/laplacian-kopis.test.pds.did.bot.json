@@ -1,9 +1,9 @@
 {
 	"did": "did:web:laplacian-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "V8HaBsD3dkWKuyxTMQBH1n3N1h5ZMy1FfkFNVV9UHtM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

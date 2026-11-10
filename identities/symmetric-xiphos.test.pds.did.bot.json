@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symmetric-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "ujNYZow1gLsluHt2Npv7P2n5NtA6Lc8eHqm5wWpYY54",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

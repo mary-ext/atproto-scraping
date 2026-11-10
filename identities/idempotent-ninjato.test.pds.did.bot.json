@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-ninjato.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794290117441,
+	"errorAt": null,
+	"hash": "RG9hPngWmQHbIR7pzdI3-D2-ybVb6bWHBTHgTl_7XuQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

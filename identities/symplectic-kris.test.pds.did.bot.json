@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-kris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "0gaS77Cp0Q09zHx6U4QecN2czjTsC8IGA6oEhQyLYAM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

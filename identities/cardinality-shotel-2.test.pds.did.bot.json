@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-shotel-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "0PswiY2bwwRWq6-Io1JgowugQNpLZlJ1wcmvt4G_2t8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

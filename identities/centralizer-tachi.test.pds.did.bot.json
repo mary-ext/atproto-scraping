@@ -1,0 +1,9 @@
+{
+	"did": "did:web:centralizer-tachi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794290117441,
+	"errorAt": null,
+	"hash": "mxTV49ZLfa--oYLy4PUzgdK3SiFebqIK1gp-xXreCUo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

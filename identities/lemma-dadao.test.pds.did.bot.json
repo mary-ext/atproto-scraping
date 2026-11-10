@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "SP-FQSzULZM3AYseK7Abepqw6-LbpkcvE35AWZTrubU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

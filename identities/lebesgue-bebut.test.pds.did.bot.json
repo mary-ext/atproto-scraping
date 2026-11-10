@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lebesgue-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "YJBLETOQYcL4T3pngItUsWK-CKNKCo6zVC49ETK47ec",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

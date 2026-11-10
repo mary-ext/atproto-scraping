@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "wAcWi5mJ7vp7CUjARg97jRRzArtmmkrV0EQqE8YqW_E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

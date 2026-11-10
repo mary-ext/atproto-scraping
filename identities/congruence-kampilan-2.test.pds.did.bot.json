@@ -1,9 +1,9 @@
 {
 	"did": "did:web:congruence-kampilan-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "pOXfQ_dQWG8dHtZeyZQKrulaymL-fQR2TazKnEX6gc8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

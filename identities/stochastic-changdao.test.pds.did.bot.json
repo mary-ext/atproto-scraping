@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-changdao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "x6T2YyXFUgC2CaDYe6t4_2fsVu7aiRB_1MSZOzeTmYI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

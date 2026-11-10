@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-urumi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "GeLFFgXm1Tq06JGnw-1Qz1CTb7d0TL64yjmLQcGLzJs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

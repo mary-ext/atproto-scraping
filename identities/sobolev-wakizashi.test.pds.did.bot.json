@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sobolev-wakizashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "xwDvhwBtmB8veU4pEAbLEEEC5dCsBTScjICDuqHEOns",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

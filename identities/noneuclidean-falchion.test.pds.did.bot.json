@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noneuclidean-falchion.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "dVaGcoZzhC7eGH7eEWnddGYBf5aK1xqc9rlBMt1qTig",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:serpentinite-blesmol.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "LoSQYE5p3woBVeTVr6UBaIm7_4x58tjB8UkeY0ljCTs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

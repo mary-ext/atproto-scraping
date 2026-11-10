@@ -1,0 +1,9 @@
+{
+	"did": "did:web:matrix-tanto.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794290117441,
+	"errorAt": null,
+	"hash": "7D8exyEdi-aXHZx9NYZevWSbtYLLVO0BinyAo29koTE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

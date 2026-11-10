@@ -1,9 +1,9 @@
 {
 	"did": "did:web:automorphism-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "5WlSSP2Y1toV9mwaXKwRrzODRKPhT7yX6rKvGqCFZhg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

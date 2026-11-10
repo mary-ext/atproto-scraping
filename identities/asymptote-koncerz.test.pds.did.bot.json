@@ -1,9 +1,9 @@
 {
 	"did": "did:web:asymptote-koncerz.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "ghqCu2AvsFs7tfyVu-o9acqQcf78gS-TlIdGutW4hE8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

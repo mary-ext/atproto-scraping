@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ordinal-seax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "2RMaNxipmFYJ6nldmDYitWnjiM4rRdbV95sVTN7_bOA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-kampilan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "mRBogRAnmTWvJdAukk089LKffpZOkyG69t0NjInO0TE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

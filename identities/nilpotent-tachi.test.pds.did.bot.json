@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nilpotent-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "clExOV1EMdbzVM2fHPJi2PL6la1fO2KrnC_ay7IImX8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

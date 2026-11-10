@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "G4HC_huRv9y5G9qVyn7Vi9oMbmbq9JSCcJieuZm8i3g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

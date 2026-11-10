@@ -1,9 +1,9 @@
 {
 	"did": "did:web:euclidean-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "d-1YFF8W_Iwc9WFHCC4gzy9rnT2xS5O-fkliJP9orEc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

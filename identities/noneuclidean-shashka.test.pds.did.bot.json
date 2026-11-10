@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noneuclidean-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "0ezuNO17hvZJqTj4TNj6SG8SquCSvGybH59LzyS8KdA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

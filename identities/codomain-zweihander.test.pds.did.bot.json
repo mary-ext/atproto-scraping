@@ -1,9 +1,9 @@
 {
 	"did": "did:web:codomain-zweihander.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "RB0RoouL0g1xeBPLbMfHezUvhHBwdLmYZiEy8DpW68A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

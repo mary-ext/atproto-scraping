@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-barong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "ZwoL7jAAYjK4JEB__RInFut1G4SQ3AvlEX7s9rhDnT0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

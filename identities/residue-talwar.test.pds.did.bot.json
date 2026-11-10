@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-talwar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "aDMO5x6t9mujHvB57fz3WqBhzIzmmbHiUMVixz91kuM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

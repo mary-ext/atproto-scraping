@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stabilizer-nimcha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "mmZNfTNsQCMZv5jbnPt5MEWqOl3Zce1YrN3FTPpR-BQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

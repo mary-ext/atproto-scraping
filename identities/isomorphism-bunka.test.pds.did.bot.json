@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "p__E3jn1MM_9nxJDSfJrp698Ur3qTqi3ncaANspp2vA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

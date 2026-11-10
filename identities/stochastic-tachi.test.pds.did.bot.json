@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "88BEm5EceyEyEC5-hpk5K9nwQ1stuINnAeGrT10mgcM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abelian-pinuti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "3XNxdBm7K_Of7GHlnlKwyKyoL0yQ64JkfeC-vxnfznk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

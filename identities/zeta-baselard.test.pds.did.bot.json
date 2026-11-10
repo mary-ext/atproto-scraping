@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-baselard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "_EhdY8hqus5m03xoXMPO_l7TzEuNoPDc_EJOpkufEHA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

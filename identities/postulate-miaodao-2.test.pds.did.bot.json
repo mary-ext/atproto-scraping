@@ -1,9 +1,9 @@
 {
 	"did": "did:web:postulate-miaodao-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "vIFHqGof4IsRi-RyUrhhTqbk1Jb4xKE3dW12YzaT-cY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

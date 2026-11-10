@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "1Edi8lEzhbgE7XEPCr01Q9-3r-kD75jlJUlxyYGMuDg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

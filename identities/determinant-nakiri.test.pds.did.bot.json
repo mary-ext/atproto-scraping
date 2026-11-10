@@ -1,9 +1,9 @@
 {
 	"did": "did:web:determinant-nakiri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "IgZH4DzMFCc6AZwWm87E0JHU1o5wWdaz2FiBSURIvio",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:azurite-robin.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794290117441,
+	"errorAt": null,
+	"hash": "ghXXlR3O42URPEb77KEMz73zk-1XRqM5WBuaFeTepRQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

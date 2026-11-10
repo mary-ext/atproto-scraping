@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-kodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "FasXkPnMGIiDfP7A-QjDjJrhzCTqfuhcQgS0iqEnRkk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

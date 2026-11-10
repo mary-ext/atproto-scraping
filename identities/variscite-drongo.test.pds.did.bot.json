@@ -1,9 +1,9 @@
 {
 	"did": "did:web:variscite-drongo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "3p_tc967N-e0zOO5l8pHw7GUgxSH0JzyzPI7G-n_Yk0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:axiom-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "a8Dt9UHTRrzdY5sVSLWuT146wP7lP-C1jX6nJQN76Ng",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

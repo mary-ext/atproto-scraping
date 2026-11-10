@@ -1,9 +1,9 @@
 {
 	"did": "did:web:contravariant-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "Io5htXpadUaN1B3Q7TZ2DKRaIMTJXoWB5kFqvz3qA8M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

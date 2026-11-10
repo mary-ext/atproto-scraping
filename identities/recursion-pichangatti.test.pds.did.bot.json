@@ -1,9 +1,9 @@
 {
 	"did": "did:web:recursion-pichangatti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "u995WUFjpc1pJCJhF0gvPq4fZOtVUHgE9N831pfl1pg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

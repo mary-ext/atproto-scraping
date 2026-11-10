@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-longsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "QBHN2LCU5UTdJXWGczV9k7Z1Sh3nKINR8LeWUeM7ozw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

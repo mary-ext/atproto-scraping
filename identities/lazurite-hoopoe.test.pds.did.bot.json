@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lazurite-hoopoe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "75UC3ZMn0E5_EqgoVkxeE-CxQdZrHLkzvCHVIwhvWI8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

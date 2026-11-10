@@ -1,9 +1,9 @@
 {
 	"did": "did:web:amphibolite-coati.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "_2LZc_E0xN4nzMNWI-cIcxSBp565msC0SbUEyTThFYk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

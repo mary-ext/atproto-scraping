@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-kaiken.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "hP65LFKm_3euDsgnPu9REnY-0No3E-5EYh58pbw3qUk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

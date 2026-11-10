@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-rhomphaia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "ZWUjjYJ8SqGmvhjpz7R6h1yvpuXKI-d5TORKDONJt9k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

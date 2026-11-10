@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-tanto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "DjisKzXhybxV2ll2LZuU2alcn6vc7I3TEa35u3Dil34",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

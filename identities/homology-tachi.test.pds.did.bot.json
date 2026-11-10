@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homology-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "5lQcUb-V_POyw7r_zCiuZFxSA1E5g-sSz0FKaXr8JqU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

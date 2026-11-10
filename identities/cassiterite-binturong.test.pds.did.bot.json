@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cassiterite-binturong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "ZmMWb-p-6EIN4yJgDdX6318shU0JmHVb6NnxCejIS_o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

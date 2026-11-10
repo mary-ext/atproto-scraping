@@ -1,6 +1,7 @@
 {
 	"url": "https://knot.haseebmajid.dev/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "knot 1.20.0",
 	"firstSeenAt": 1794199131147,
-	"errorAt": 1794199884359
+	"errorAt": null
 }

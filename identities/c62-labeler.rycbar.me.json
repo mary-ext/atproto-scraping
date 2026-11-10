@@ -1,9 +1,9 @@
 {
 	"did": "did:web:c62-labeler.rycbar.me",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "CcagWpMR4Y6VBuBJVfdFyRcTWWogNuji19SE-ixRmlw",
 	"pds": "https://rycbar.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

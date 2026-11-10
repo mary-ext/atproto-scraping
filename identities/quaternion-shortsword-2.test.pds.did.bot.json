@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quaternion-shortsword-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "lp-rhvfhr57_mMYY_P8sNljybZtwGf6wxiMx2-reWsk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

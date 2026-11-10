@@ -1,9 +1,9 @@
 {
 	"did": "did:web:migmatite-viscacha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "NNEiwh1wY7251Hhszn5DeJyYluuunChrOmuqq4REsSE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

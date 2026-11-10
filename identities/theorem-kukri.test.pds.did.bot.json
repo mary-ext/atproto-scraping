@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-kukri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "zeSNpB-exbuerhZnrHJ9ZNO4sYEish2ZcHYr6pSVCK0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

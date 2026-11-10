@@ -1,9 +1,9 @@
 {
 	"did": "did:web:c284-deact.rycbar.me",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "rMGf_RDZd9jSuco5kfXGpZG_wkIjaZyDhmuvwSi5pyw",
 	"pds": "https://rycbar.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

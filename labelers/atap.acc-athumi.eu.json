@@ -1,7 +1,7 @@
 {
 	"url": "https://atap.acc-athumi.eu/",
 	"did": "did:plc:tzernbas65q4wch3fstxnb6o",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1790740650576,
-	"errorAt": null
+	"errorAt": 1794290976751
 }

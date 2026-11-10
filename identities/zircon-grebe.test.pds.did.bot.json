@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zircon-grebe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794199131147,
-	"errorAt": null,
 	"hash": "UsoPoEiZDMkQ75lnAusd3gQr1CdrYb_OnoexBIH6sIY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794199131147,
+	"errorAt": null
 }

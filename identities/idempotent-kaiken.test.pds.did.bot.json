@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-kaiken.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794290117441,
+	"errorAt": null,
+	"hash": "stVxr6dDVIfgTiMwMF2IJV0ITlKeeI60ZgxPuGMAHy8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}
