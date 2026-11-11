@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lebesgue-honesuki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "hrH7xrO7GyvhB7pw7KVZv4Sn2R_fOjup1xhapI3axmo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:orbifold-machete.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794372084053,
+	"errorAt": null,
+	"hash": "tNUyU3ezX4teKaGjNewxRDQUqsB57vfYosk0iLfIv4U",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

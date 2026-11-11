@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fibration-palash.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "XboGaeEaApWcuMMNFU4j800OcUamIW7z2ulv8ge-0E0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

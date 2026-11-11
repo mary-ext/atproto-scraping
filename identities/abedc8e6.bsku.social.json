@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abedc8e6.bsku.social",
-	"status": "online",
+	"status": "offline",
 	"hash": "OckSVUaZg02Kg7JsluTToF2W56SjMT1nwxPw5avmjo4",
 	"pds": "https://old.bsku.social/",
 	"labeler": null,
 	"firstSeenAt": 1793683195278,
-	"errorAt": null
+	"errorAt": 1794372084053
 }

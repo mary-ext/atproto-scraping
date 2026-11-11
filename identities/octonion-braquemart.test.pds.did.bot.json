@@ -1,9 +1,9 @@
 {
 	"did": "did:web:octonion-braquemart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "ZhqmVsF5hrdljVvq1I9-Tes7ckwnSWNVECHywrO3BV0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

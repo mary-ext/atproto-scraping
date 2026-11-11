@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hessian-estoc.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794372084053,
+	"errorAt": null,
+	"hash": "7Y1ZSokRpTVI56QCJd-ahD85o5yWSwuDOr_0f6NQh6Q",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

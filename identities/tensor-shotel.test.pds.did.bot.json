@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tensor-shotel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "WhPUJK1CKi3EPQQXXW3QlOFYpVZcOt5eC4pOY6c_eAI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

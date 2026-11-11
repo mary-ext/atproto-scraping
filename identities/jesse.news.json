@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jesse.news",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "-mdj0727H72C30oRlKdqTsPoJDbcxHity3_MK0EouvI",
 	"pds": "https://jesse.news/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

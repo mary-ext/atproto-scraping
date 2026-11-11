@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homotopy-pinuti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "kXz2aCNo_jc9dHF7Pgiled1LMpPH2LHVd8nDBVLwkNg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

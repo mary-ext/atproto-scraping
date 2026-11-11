@@ -1,8 +1,8 @@
 {
 	"url": "https://panthercap.us-east.host.bsky.network/",
-	"status": "offline",
-	"version": "git-0849c24",
+	"status": "online",
+	"version": "git-bae981e",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1794290976751
+	"errorAt": null
 }

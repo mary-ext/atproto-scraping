@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coset-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "4_hEKg-zE6gjhVQeX6Z6Q8k2IYExv9uGurYiDTuON5w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

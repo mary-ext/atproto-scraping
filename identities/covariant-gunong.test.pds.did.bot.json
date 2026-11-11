@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-gunong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "KWoDBsCSwZqG3eMte5FBvu8sZF3GvIwZmoinzqnWTys",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

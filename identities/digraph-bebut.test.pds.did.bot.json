@@ -1,9 +1,9 @@
 {
 	"did": "did:web:digraph-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "WRESUm9cfu4ryqn6pxRWf440_7I8v_EpkRWp1uG1UPY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

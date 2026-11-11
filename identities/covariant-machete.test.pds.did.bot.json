@@ -1,0 +1,9 @@
+{
+	"did": "did:web:covariant-machete.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794372084053,
+	"errorAt": null,
+	"hash": "DAHwGWQfqEFaVq1bsrMm6KmpWFSCr-b3FJu1h9BQccY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

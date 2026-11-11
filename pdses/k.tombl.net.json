@@ -1,7 +1,7 @@
 {
 	"url": "https://k.tombl.net/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1794111950378,
-	"errorAt": 1794290976751
+	"errorAt": null
 }

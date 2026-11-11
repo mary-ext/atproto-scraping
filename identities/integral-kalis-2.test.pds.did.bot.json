@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-kalis-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "rJBMltLSc4BrsB4kbBj4vXhZ8ewZoi3dYHHgARYi3D0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

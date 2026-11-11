@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noneuclidean-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "ULviW84h6UixzuNM94a-87YYhG7HGh5Ja_jqwdyh42M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

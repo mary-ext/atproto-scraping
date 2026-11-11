@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scalar-gladius.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "OULA6xDBTWXZvKkrpqM_ZnYWL-M5jHH3aszsWoAhfVQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

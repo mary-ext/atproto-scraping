@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homotopy-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "ff9XikNgOy-sXmC7kcHJ_NkJbdzRc3cJPWbKJa8N9_I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

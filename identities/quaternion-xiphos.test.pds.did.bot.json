@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quaternion-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "-WECfia9HPbJ4U7z_P-etH55TWizk5OiryoMvj5myaY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

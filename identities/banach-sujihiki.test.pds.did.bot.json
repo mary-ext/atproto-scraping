@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-sujihiki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "Jj63fEFBlYWDK49I7VHDMv6nwwfnZ9Lp-809BCp8JnU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

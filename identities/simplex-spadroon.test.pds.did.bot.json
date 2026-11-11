@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-spadroon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "U691VhjQV8fo8Vfn7mEtm_ThRdFqN_SfpnHbqlvYucs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

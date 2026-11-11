@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-sica.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "D2C5GR1SIJ9ItbIdBjGoIy_lPWA5RDzdgvDG2Mxgs7k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

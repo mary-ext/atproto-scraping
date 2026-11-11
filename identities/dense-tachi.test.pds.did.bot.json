@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "_uByICAbSQNGE7fd1jrEvhVb9RvENV7VC5g-bdiFsPM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

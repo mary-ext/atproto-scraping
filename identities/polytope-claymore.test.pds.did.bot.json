@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polytope-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "kdMU-835mZirtoO_Y5kANNUfs9wVz80Uy56EIi0iV8U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orthogonal-longsword-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "b_wTqsl5zMLq26L1yx0S-s2_o2pZpM04P5s8mZCzXFM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

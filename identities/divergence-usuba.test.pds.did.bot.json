@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-usuba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "CnN8yqcpcD46Be557EEAKzgp44T1gJEKHNpi1mnAdSc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

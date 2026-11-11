@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sobolev-falcata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "vbNf2oK8cNY76Q6PdofLHhp0MrOPujpJKHWmqh1_lnI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

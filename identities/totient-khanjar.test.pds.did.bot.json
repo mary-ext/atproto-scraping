@@ -1,9 +1,9 @@
 {
 	"did": "did:web:totient-khanjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "W3crybF4gDMzr-RtUvWPNfjeWSsq4CIDz7ISpsu_IgQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

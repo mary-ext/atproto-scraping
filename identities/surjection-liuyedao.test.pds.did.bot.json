@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "5wyJGZzK_U-wZCUHHeSf2qibfTUxXt6BK0meCWkyWkY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

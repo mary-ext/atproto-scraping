@@ -1,9 +1,9 @@
 {
 	"did": "did:web:countable-aikuchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "nUYSW51W0UdyNpUqzZu714uOhmcO3baw_g4bJRrJH5w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-usuba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794290117441,
-	"errorAt": null,
 	"hash": "m4KBzxrEn3p-5PFdd45ov6hWkeIE1Afd6f7z3qARkO4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794290117441,
+	"errorAt": null
 }
