@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coves.social",
 	"status": "online",
-	"hash": "N9TsBN_kZpQIOzOxfx-XO8BAQ-cpckEoOGF-Y0_TxJw",
+	"hash": "0WbGNmywTRYgE1gQQs3OGponkWJyU5zksdwlau0CCbY",
 	"pds": "https://pds.coves.me/",
-	"labeler": null,
+	"labeler": "https://coves.social/",
 	"firstSeenAt": 1773912872947,
 	"errorAt": null
 }

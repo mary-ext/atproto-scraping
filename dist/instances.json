@@ -1,5 +1,5 @@
 {
-	"generatedAt": "2026-11-11T05:00:21.247Z",
+	"generatedAt": "2026-11-12T06:04:36.158Z",
 	"pdses": {
 		"https://01.pds.objkt.network/": {
 			"status": "online",
@@ -117,7 +117,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://abnormal.zip/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5043",
 			"inviteCodeRequired": true
 		},
@@ -232,7 +232,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://akiba.tokyo.jp/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5043",
 			"inviteCodeRequired": true
 		},
@@ -298,7 +298,7 @@
 		},
 		"https://aly.social/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://am-net.pp.ua/": {
@@ -442,6 +442,11 @@
 			"inviteCodeRequired": null
 		},
 		"https://api.bluesky.u3tu5mvpwffcsncs5yi3iy2hcvxdwb63cfbb6v2ayjhz7dypwpmddnyd.onion/": {
+			"status": "unreachable",
+			"version": null,
+			"inviteCodeRequired": null
+		},
+		"https://api.bsky.app/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -733,7 +738,7 @@
 		},
 		"https://at.gabboman.xyz/": {
 			"status": "online",
-			"version": "0.4.5046",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://at.gay.foxxo.nl/": {
@@ -843,7 +848,7 @@
 		},
 		"https://at.kotodama.ca/": {
 			"status": "online",
-			"version": "0.4.5051",
+			"version": "cocoon v0.14.1-0-gb2989cf",
 			"inviteCodeRequired": true
 		},
 		"https://at.lantian.pub/": {
@@ -982,7 +987,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://at.resenha.top/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -1123,11 +1128,11 @@
 		},
 		"https://at.whinyweb.com/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://at.wicwafren.com/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -1342,13 +1347,13 @@
 			"inviteCodeRequired": true
 		},
 		"https://atproto.feets.co.nz/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://atproto.funnydragons.lol/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://atproto.is-rocket.science/": {
@@ -1502,7 +1507,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://babu.dev/": {
-			"status": "online",
+			"status": "offline",
 			"version": "v0.1.16-71422f70*",
 			"inviteCodeRequired": true
 		},
@@ -2447,7 +2452,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bluesky.starfyre.de/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -2518,7 +2523,7 @@
 		},
 		"https://bluesky.travisboss.xyz/": {
 			"status": "online",
-			"version": "0.4.5037",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bluesky.trev.app/": {
@@ -2807,7 +2812,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bs.nzcow.com/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -3366,6 +3371,11 @@
 			"version": "0.4.219",
 			"inviteCodeRequired": true
 		},
+		"https://bsky.deltayeet.net/": {
+			"status": "online",
+			"version": "0.4.5051",
+			"inviteCodeRequired": true
+		},
 		"https://bsky.depertat.net/": {
 			"status": "online",
 			"version": "0.4.5034",
@@ -3479,11 +3489,6 @@
 		"https://bsky.fhta.co.uk/": {
 			"status": "online",
 			"version": "0.4.5051",
-			"inviteCodeRequired": true
-		},
-		"https://bsky.floscodes.net/": {
-			"status": "offline",
-			"version": "0.4.5027",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.forgettable.xyz/": {
@@ -3903,7 +3908,7 @@
 		},
 		"https://bsky.lucas.love/": {
 			"status": "online",
-			"version": "0.4.5043",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.lucasfreeman.com/": {
@@ -4108,7 +4113,7 @@
 		},
 		"https://bsky.nat20.lol/": {
 			"status": "online",
-			"version": "0.4.219",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.nazigamingclan.com/": {
@@ -4322,7 +4327,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.puppygirl.fail/": {
-			"status": "offline",
+			"status": "online",
 			"version": null,
 			"inviteCodeRequired": true
 		},
@@ -4553,7 +4558,7 @@
 		},
 		"https://bsky.spencerboucher.com/": {
 			"status": "online",
-			"version": "0.4.5049",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.spikehead.xyz/": {
@@ -4577,7 +4582,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.stellarpride.com/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.219",
 			"inviteCodeRequired": true
 		},
@@ -4662,8 +4667,8 @@
 			"inviteCodeRequired": true
 		},
 		"https://bsky.the-hive-mind.org/": {
-			"status": "offline",
-			"version": "0.4.67",
+			"status": "online",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.the-wired.org/": {
@@ -4718,7 +4723,7 @@
 		},
 		"https://bsky.tschida.co/": {
 			"status": "online",
-			"version": "0.4.5046",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://bsky.tuna2134.dev/": {
@@ -4962,7 +4967,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://caliko.fr/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5027",
 			"inviteCodeRequired": true
 		},
@@ -5606,6 +5611,11 @@
 			"version": "0.5.21",
 			"inviteCodeRequired": true
 		},
+		"https://dev2026111102.xsns.jp/": {
+			"status": "online",
+			"version": "0.4.5051",
+			"inviteCodeRequired": true
+		},
 		"https://devict.social/": {
 			"status": "online",
 			"version": "0.4.5051",
@@ -5636,21 +5646,6 @@
 			"version": "0.4.74",
 			"inviteCodeRequired": true
 		},
-		"https://did-key-zq3sha7fv9pwxpq1pltcr58ad7dvrqeeb21vgybrv1yaqkn3d.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shaej7yjpawrs3ry5yugogwb5xgtcifgode2vcuiysb1r8.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shaq2wnpz3ccy9di8jpsfqkkpgwio7zjvaphbeodtmyk1t.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shbkpn1p7ukpfxyd6gf16qxjgpqdt8ffwtedzwt3kdplup.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
@@ -5671,12 +5666,7 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shclgzpkf5efjax13s9ksmdpdfa7quuanrjoapezbhtzwy.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shd4utnj3dysdojcn9iq1urgqw3cuvl4okjgc23hdm6dk3.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shdgiewzefjsxeqzjo6izu1vpdqyv4gdxeqpzekzrtpkbc.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5686,32 +5676,17 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shetvgf31dywua6vujinyqjleexhzep4dze16vfper5ust.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shexhdtfmtdgmhxmsvd8aejudy4medbgkd9s3yerk2dhkp.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shfeg67vztjdvm1mhppgu7bw7evpoas4eukvddznffvjac.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shfnhcsnri4nqkyckpvo9mevrikhtvsvjxfhf6kraetk7j.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shgkwgrpt3lko3qgq2z86xnetnhdgg4q7raex3hzdstnmg.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shgc5whmpvjgumgdhinssmzznzr7srnrgbjpzbauzrrwd3.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
 		},
 		"https://did-key-zq3shgml7yn7g4pg1f6zbw9q7zqw1b112pq1xxogtr96ddcbw.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shgwqw9mhfz4dfuglfedux1zjenm8rtp77dihym86vx5da.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5726,37 +5701,7 @@
 			"version": "socialweb-pds",
 			"inviteCodeRequired": false
 		},
-		"https://did-key-zq3shjboeynb236krndhabm3beivrs1njptuskq7k6aqfd4an.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shjnwmgdpgbnlodxpunlwnnkrjvqj6srcrd5qjqykpum9m.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shjvbx2iwnppq5ixocpmd9lkrj3x2bv6qs6ypsvnbz5h6j.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shk5rz7vvqfkwkseemupjhmldvvh4b1ybmzzmwne4gjhnu.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shk6pdca4tdj7ntmhgah5v6cb22gbesht9z1gaixpz9ol2.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shkfw4eizymt9xfxdpmg92ribkejpvnpztvfx46vat9bx8.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shm1se22dpzanv21xw179qbvf6ahd4qutnl1rjp7e5n79t.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5771,7 +5716,7 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shn8y751kfi6wstsit4wavihnye9o7uaphgjud6mexvtpg.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shn4emh5urgx9avlzaawht4tavnew4gv8u11h2eqn6tgbm.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5781,57 +5726,12 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shnkygbgypoug1pvaztkuyrftgmvdsoghaxd6mn32aqekr.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shntqjrgexgpgdxgumcevvu56qymz45lldbamcr2omv6sb.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shod376taiu4n1g8iimutw6ousn1pbs5syipsdbqfxywpv.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shopqfct5v4favp7ev8bd34bll7wgkzvk3z13owivwjusi.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shp9s1xh6uksyyncfumr4f36atmawky1mdt8woc8fbkgn8.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shpdoh1ncu9wfkn5pparvifwzxwzrwqgpmtxgqu1dxvusg.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shpdq9cv1fbifnvmkhtpnmrxdzmqxg14feibqqf6zuc4h3.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shpxpkozbdkdtd74shxqx3qjr4j17xdsjp65ytjdjtzwwy.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shq7jckhrdccek6qxbujogesjsvrj7dcq3nzgfkrpipnmv.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shqcqt2cruyetdva6h5auzzmo2qf1npgeym6yhdfowcj21.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shr2izr3dgr3q2eb4gfuf4eddwec1npsrbixwleujinkr3.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shrsfumbyubykazqcnbzgrtmvvv9cgqehuxnrtwzzemzzq.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5846,17 +5746,12 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shsh7odvtmstzux7gejshat7trdsuqehhfksmtwdbt3xjs.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
+		"https://did-key-zq3shswtph4p4jkyjyirvwxwf6jzj2wt78jgzubajbzb7oqvm.xrpc.fedproxy.com/": {
+			"status": "online",
+			"version": "socialweb-pds",
+			"inviteCodeRequired": false
 		},
-		"https://did-key-zq3shtd71xznvptaqvtuxv9btorguhnbn9hsbbj1zyxpsvbdn.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shtetbdpmuiguxes8zng6kdlam18jszn1su1mrfadmrjep.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shtgpxaoq8snex4sqwhff5gqms3iyuyfgbnwf8qyr3lgez.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5866,37 +5761,12 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shtuqzbxwcvhgzjvan5bd2ul4kbvmhanpcgkxydpy8o96a.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shtw3fksxbgfe8ow8kzsrruwqnmqgfcpr4uudz6hqckgf2.xrpc.fedproxy.com/": {
 			"status": "online",
 			"version": "socialweb-pds",
 			"inviteCodeRequired": false
 		},
-		"https://did-key-zq3shudphnfxc1engnusnejwmbwd2mmpbrtm72tpars6nkrvu.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shuhiqyxqfwq8aemdtd2jledfry9ez6gapzon5svu3ggkp.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shumpumnjqbbce9qlc1ulrrufy11jwpren4rnb5ecimeeb.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shuz7od2h3rsdhljkddjrnguqqr74pb77nz8yrkoecwxrm.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shv51vqnfsxqe4wuj7unstlrywxj7sgcep8kynu42uzcij.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5916,47 +5786,12 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shvwy6e9tsnlijgysmxxxnujkvkyykjb5ubfpzevkxbpdn.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://did-key-zq3shwbjx42jtopmpwrvbkjuhced268guppuqtpgsvfzgthyr.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shwizkxp1gwzvaurjf8efhylsr2tbbdrprvwrpv1wpfg4e.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shwr4ns57lrlgjjtt14kkqbstjhwo2a7taga8clb2zydt8.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shxz5vj6r8joddrebzcn4skwmmupxft3gveh6f91bzt35y.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shykadmvgesa4lpkgszalcq8aueq67qcb6i8efqtgerdzh.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shymkhtb4qjjdej6f3wijvsdrwpcpedf2hxfm9jh4snxq4.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shyrqwlp3nxtey7hjpxtpx4jspccr34lbpxvyr3hqn5hiu.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shyxskb8n64c3y8os7cjotgcnbm3dtczp6rncjd9q9cooh.xrpc.fedproxy.com/": {
+		"https://did-key-zq3shyv7fb2pxmpj5ju72ee5e7x4oci6wzbqy6ruteitaexpf.xrpc.fedproxy.com/": {
 			"status": "unreachable",
 			"version": null,
 			"inviteCodeRequired": null
@@ -5971,24 +5806,9 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://did-key-zq3shzjzgmeo8qjgryvyt4mcqjezrubpg9mtmtszkzdprutsd.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shzxvswkfaud2rgtk4yorchaqdkweexhydxwzrt7omabye.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
-		"https://did-key-zq3shzysukqyjdtufmxypwbnp7ukmhgv2kx5vpxmeuh9ttmrq.xrpc.fedproxy.com/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
-		},
 		"https://disbursement.center/": {
 			"status": "online",
-			"version": "0.4.5027",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://discina.us-west.host.bsky.network/": {
@@ -6308,7 +6128,7 @@
 		},
 		"https://ezpds-staging.up.railway.app/": {
 			"status": "online",
-			"version": "custos v0.16.2",
+			"version": "custos v0.17.0",
 			"inviteCodeRequired": true
 		},
 		"https://f3dr.com/": {
@@ -6531,6 +6351,11 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://gf3sgsbv3t6.freeslab.net/": {
+			"status": "online",
+			"version": "freeslab",
+			"inviteCodeRequired": true
+		},
 		"https://ghostzero.de/": {
 			"status": "online",
 			"version": "0.4.5051",
@@ -6597,6 +6422,11 @@
 			"inviteCodeRequired": null
 		},
 		"https://git.niklaskorz.eu/": {
+			"status": "online",
+			"version": "knot 1.20.0",
+			"inviteCodeRequired": null
+		},
+		"https://git.obscurejam.es/": {
 			"status": "online",
 			"version": "knot 1.20.0",
 			"inviteCodeRequired": null
@@ -6992,7 +6822,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://homura.pet/": {
-			"status": "online",
+			"status": "offline",
 			"version": "tranquil 0.6.7",
 			"inviteCodeRequired": true
 		},
@@ -7401,6 +7231,11 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://kazuiton.com/": {
+			"status": "online",
+			"version": "tranquil 0.7.1",
+			"inviteCodeRequired": true
+		},
 		"https://keep.knotless.dev/": {
 			"status": "unreachable",
 			"version": null,
@@ -7472,7 +7307,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://knoop.nimmerfort.eu/": {
-			"status": "online",
+			"status": "offline",
 			"version": "knot 1.20.0",
 			"inviteCodeRequired": null
 		},
@@ -7492,7 +7327,7 @@
 			"inviteCodeRequired": null
 		},
 		"https://knot.abnormal.zip/": {
-			"status": "online",
+			"status": "offline",
 			"version": "knot 1.20.0",
 			"inviteCodeRequired": null
 		},
@@ -7542,7 +7377,7 @@
 			"inviteCodeRequired": null
 		},
 		"https://knot.based.enterprises/": {
-			"status": "online",
+			"status": "offline",
 			"version": "knot 1.20.0",
 			"inviteCodeRequired": null
 		},
@@ -7552,6 +7387,11 @@
 			"inviteCodeRequired": null
 		},
 		"https://knot.biscuits.at/": {
+			"status": "online",
+			"version": "knot 1.20.0",
+			"inviteCodeRequired": null
+		},
+		"https://knot.blacksky.community/": {
 			"status": "online",
 			"version": "knot 1.20.0",
 			"inviteCodeRequired": null
@@ -8152,7 +7992,7 @@
 			"inviteCodeRequired": null
 		},
 		"https://knot.protogen.at/": {
-			"status": "online",
+			"status": "offline",
 			"version": "knot 2.0.0",
 			"inviteCodeRequired": null
 		},
@@ -8289,11 +8129,6 @@
 		"https://knot.tngl.cow.computer/": {
 			"status": "online",
 			"version": "knot 1.20.0",
-			"inviteCodeRequired": null
-		},
-		"https://knot.tngl.oyster.cafe/": {
-			"status": "offline",
-			"version": "knot 2.0.0",
 			"inviteCodeRequired": null
 		},
 		"https://knot.tomplanche.com/": {
@@ -8633,7 +8468,7 @@
 		},
 		"https://locus.nearhorizon.app/": {
 			"status": "online",
-			"version": null,
+			"version": "0.1.2",
 			"inviteCodeRequired": true
 		},
 		"https://logue.bot/": {
@@ -8792,7 +8627,7 @@
 			"inviteCodeRequired": null
 		},
 		"https://matsutake.us-west.host.bsky.network/": {
-			"status": "online",
+			"status": "offline",
 			"version": "git-bae981e",
 			"inviteCodeRequired": true
 		},
@@ -9127,7 +8962,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://myrestone.land/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5037",
 			"inviteCodeRequired": true
 		},
@@ -9277,7 +9112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://noted.at/": {
-			"status": "online",
+			"status": "offline",
 			"version": null,
 			"inviteCodeRequired": true
 		},
@@ -9408,7 +9243,7 @@
 		},
 		"https://opnshelf.social/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://orangepi-zero-3w.rocksky.social/": {
@@ -9418,7 +9253,7 @@
 		},
 		"https://org.tngl.sh/": {
 			"status": "online",
-			"version": "tranquil 0.6.6",
+			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
 		"https://oromit.de/": {
@@ -9592,12 +9427,12 @@
 			"inviteCodeRequired": false
 		},
 		"https://pds-3ew8m2b9-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
 		"https://pds-82u3npzz-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9637,12 +9472,12 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds-cbkzpnfy-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
 		"https://pds-chr85idy-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9692,22 +9527,22 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds-irq7ihc7-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
 		"https://pds-jtin37dp-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
 		"https://pds-kevdi9tq-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
 		"https://pds-m4stgtid-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9731,8 +9566,13 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://pds-new.languageofmachines.ca/": {
+			"status": "unreachable",
+			"version": null,
+			"inviteCodeRequired": null
+		},
 		"https://pds-nicmyas5-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9812,7 +9652,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds-ubyijqtk-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9822,7 +9662,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds-y9w4r7f8-preview.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "kiln-pds",
 			"inviteCodeRequired": false
 		},
@@ -9949,6 +9789,11 @@
 		"https://pds.ackwell.au/": {
 			"status": "online",
 			"version": "0.4.5046",
+			"inviteCodeRequired": true
+		},
+		"https://pds.aclaniakea3141.top/": {
+			"status": "online",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://pds.acreetionos.org/": {
@@ -10467,7 +10312,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.babu.dev/": {
-			"status": "online",
+			"status": "offline",
 			"version": null,
 			"inviteCodeRequired": true
 		},
@@ -10503,7 +10348,7 @@
 		},
 		"https://pds.barkshark.xyz/": {
 			"status": "online",
-			"version": "0.4.5037",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://pds.bas.sh/": {
@@ -10512,7 +10357,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.based.enterprises/": {
-			"status": "online",
+			"status": "offline",
 			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
@@ -10568,7 +10413,7 @@
 		},
 		"https://pds.bernd.network/": {
 			"status": "online",
-			"version": "0.5.56",
+			"version": "0.5.57",
 			"inviteCodeRequired": true
 		},
 		"https://pds.berry-medusa.net/": {
@@ -10603,7 +10448,7 @@
 		},
 		"https://pds.biscuits.at/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.bitfolio.biz/": {
@@ -10686,6 +10531,11 @@
 			"version": "0.4.5049",
 			"inviteCodeRequired": true
 		},
+		"https://pds.bnuuy.systems/": {
+			"status": "online",
+			"version": "0.4.5049",
+			"inviteCodeRequired": true
+		},
 		"https://pds.bogay.me/": {
 			"status": "online",
 			"version": "tranquil 0.2.1",
@@ -10753,7 +10603,7 @@
 		},
 		"https://pds.brianflynn.lol/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.bridgebeats.link/": {
@@ -10817,12 +10667,12 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.bsky.yinzcloud.net/": {
-			"status": "unreachable",
-			"version": null,
-			"inviteCodeRequired": null
+			"status": "online",
+			"version": "0.4.5051",
+			"inviteCodeRequired": false
 		},
 		"https://pds.buffadoo.nl/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.219",
 			"inviteCodeRequired": true
 		},
@@ -11061,6 +10911,11 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://pds.cloudskyai.com/": {
+			"status": "unreachable",
+			"version": null,
+			"inviteCodeRequired": null
+		},
 		"https://pds.clxxiii.dev/": {
 			"status": "online",
 			"version": "tranquil 0.7.1",
@@ -11107,7 +10962,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.collegegamewatch.net/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5046",
 			"inviteCodeRequired": true
 		},
@@ -11173,7 +11028,7 @@
 		},
 		"https://pds.cove.town/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.coves.me/": {
@@ -11208,7 +11063,7 @@
 		},
 		"https://pds.crate.social/": {
 			"status": "online",
-			"version": "1.3.0+unknown",
+			"version": "1.3.0+a88ed52",
 			"inviteCodeRequired": true
 		},
 		"https://pds.crepererum.net/": {
@@ -11222,7 +11077,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.cryblue.net/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -11308,7 +11163,7 @@
 		},
 		"https://pds.daniellemaywood.uk/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.danni.id/": {
@@ -11618,7 +11473,7 @@
 		},
 		"https://pds.dsx.sh/": {
 			"status": "online",
-			"version": "tranquil 0.6.6",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.dtth.ch/": {
@@ -11672,7 +11527,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.edriffles.us/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.5.29",
 			"inviteCodeRequired": false
 		},
@@ -12168,7 +12023,7 @@
 		},
 		"https://pds.glados.computer/": {
 			"status": "online",
-			"version": "cocoon v0.11.0-66-g402219d",
+			"version": "cocoon v0.14.1-1-gb894ad5",
 			"inviteCodeRequired": true
 		},
 		"https://pds.glowers.club/": {
@@ -12381,18 +12236,13 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
-		"https://pds.hunor.eu.org/": {
-			"status": "offline",
-			"version": "0.4.5049",
-			"inviteCodeRequired": true
-		},
 		"https://pds.hypergolic.org/": {
 			"status": "online",
 			"version": "0.4.208",
 			"inviteCodeRequired": true
 		},
 		"https://pds.hysted.com/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -12838,7 +12688,7 @@
 		},
 		"https://pds.kart.sh/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.kartar.ai/": {
@@ -12922,7 +12772,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.killevery.one/": {
-			"status": "online",
+			"status": "offline",
 			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
@@ -12972,7 +12822,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.krasovs.ky/": {
-			"status": "offline",
+			"status": "online",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -13043,7 +12893,7 @@
 		},
 		"https://pds.languageofmachines.ca/": {
 			"status": "online",
-			"version": "0.4.5051",
+			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
 		"https://pds.languid.ai/": {
@@ -13167,7 +13017,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.locket.computer/": {
-			"status": "online",
+			"status": "offline",
 			"version": "cocoon dev-locket",
 			"inviteCodeRequired": true
 		},
@@ -13289,6 +13139,11 @@
 		"https://pds.malpercio.dev/": {
 			"status": "online",
 			"version": "0.4.208",
+			"inviteCodeRequired": true
+		},
+		"https://pds.mandark.it/": {
+			"status": "online",
+			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://pds.manipulat.org/": {
@@ -13523,7 +13378,7 @@
 		},
 		"https://pds.misha.zip/": {
 			"status": "online",
-			"version": "tranquil 0.6.7",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.mitchellh.com/": {
@@ -13556,11 +13411,6 @@
 			"version": "tranquil 0.6.6",
 			"inviteCodeRequired": true
 		},
-		"https://pds.mock.tangled.org/": {
-			"status": "offline",
-			"version": "tranquil 0.7.1",
-			"inviteCodeRequired": true
-		},
 		"https://pds.moe/": {
 			"status": "online",
 			"version": "0.4.5051",
@@ -13583,7 +13433,7 @@
 		},
 		"https://pds.mona.cat/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.monero.love/": {
@@ -13634,6 +13484,11 @@
 		"https://pds.multivax.ca/": {
 			"status": "online",
 			"version": "tranquil 0.6.6",
+			"inviteCodeRequired": true
+		},
+		"https://pds.munmap.net/": {
+			"status": "online",
+			"version": "tranquil 0.6.7",
 			"inviteCodeRequired": true
 		},
 		"https://pds.mutantmonkey.in/": {
@@ -13798,7 +13653,7 @@
 		},
 		"https://pds.ngp.computer/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.nh.run/": {
@@ -13938,7 +13793,7 @@
 		},
 		"https://pds.obsign.org/": {
 			"status": "online",
-			"version": "custos v0.16.2",
+			"version": "custos v0.17.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.offbeatwit.ch/": {
@@ -13961,9 +13816,14 @@
 			"version": "0.4.208",
 			"inviteCodeRequired": true
 		},
+		"https://pds.olamaelcu.net/": {
+			"status": "online",
+			"version": "1.14.18+git.53e740dac19e",
+			"inviteCodeRequired": true
+		},
 		"https://pds.olaren.dev/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.ole.strohm.no/": {
@@ -14191,11 +14051,6 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
-		"https://pds.perfectgra.de/": {
-			"status": "offline",
-			"version": "0.4.5049",
-			"inviteCodeRequired": true
-		},
 		"https://pds.periwinkle.sh/": {
 			"status": "online",
 			"version": "0.4.5046",
@@ -14272,7 +14127,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.pocketdeploy.dev/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.5.49",
 			"inviteCodeRequired": true
 		},
@@ -14324,7 +14179,7 @@
 		"https://pds.postgame.at/": {
 			"status": "online",
 			"version": "0.4.5051",
-			"inviteCodeRequired": true
+			"inviteCodeRequired": false
 		},
 		"https://pds.postxsociety.cloud/": {
 			"status": "online",
@@ -14342,7 +14197,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.pranavv.co.in/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.219",
 			"inviteCodeRequired": true
 		},
@@ -14362,7 +14217,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.protogen.at/": {
-			"status": "online",
+			"status": "offline",
 			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
@@ -14421,6 +14276,11 @@
 			"version": "0.4.5027",
 			"inviteCodeRequired": true
 		},
+		"https://pds.quati.xyz/": {
+			"status": "online",
+			"version": "0.4.5051",
+			"inviteCodeRequired": true
+		},
 		"https://pds.quelen.net/": {
 			"status": "online",
 			"version": "0.4.5001",
@@ -14437,7 +14297,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.quokka.wiki/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5027",
 			"inviteCodeRequired": true
 		},
@@ -14608,7 +14468,7 @@
 		},
 		"https://pds.riddims.app/": {
 			"status": "online",
-			"version": "git-dd74699",
+			"version": "git-d152ca3",
 			"inviteCodeRequired": true
 		},
 		"https://pds.ridgeway.dev/": {
@@ -14851,11 +14711,6 @@
 			"version": "0.4.5037",
 			"inviteCodeRequired": true
 		},
-		"https://pds.semble.trezy.com/": {
-			"status": "offline",
-			"version": "0.4.5029",
-			"inviteCodeRequired": true
-		},
 		"https://pds.semsara.ai/": {
 			"status": "online",
 			"version": "0.4.204",
@@ -14993,7 +14848,7 @@
 		},
 		"https://pds.sims.computer/": {
 			"status": "online",
-			"version": "0.5.26",
+			"version": "0.5.32",
 			"inviteCodeRequired": true
 		},
 		"https://pds.singingpigs.online/": {
@@ -15107,7 +14962,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds.sommarnatten.se/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -15338,11 +15193,11 @@
 		},
 		"https://pds.sunflower.lgbt/": {
 			"status": "online",
-			"version": "tranquil 0.6.6",
+			"version": "tranquil 0.7.1",
 			"inviteCodeRequired": true
 		},
 		"https://pds.sunnahsky.com/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.5.28",
 			"inviteCodeRequired": true
 		},
@@ -15664,11 +15519,6 @@
 		"https://pds.tmengis.dev/": {
 			"status": "online",
 			"version": "0.4.5051",
-			"inviteCodeRequired": true
-		},
-		"https://pds.tngl.oyster.cafe/": {
-			"status": "offline",
-			"version": "0.4.5036",
 			"inviteCodeRequired": true
 		},
 		"https://pds.toasty.zone/": {
@@ -16126,6 +15976,11 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://pds.wibblywobbly.org/": {
+			"status": "online",
+			"version": "tranquil 0.7.1",
+			"inviteCodeRequired": true
+		},
 		"https://pds.wickd.xyz/": {
 			"status": "online",
 			"version": "0.4.5051",
@@ -16162,7 +16017,7 @@
 			"inviteCodeRequired": false
 		},
 		"https://pds.witchcraft.systems/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5037",
 			"inviteCodeRequired": true
 		},
@@ -16293,7 +16148,7 @@
 		},
 		"https://pds.zat.dev/": {
 			"status": "online",
-			"version": "0.7.9",
+			"version": "0.8.2",
 			"inviteCodeRequired": true
 		},
 		"https://pds.zccx.net/": {
@@ -16328,7 +16183,7 @@
 		},
 		"https://pds.zezura.xyz/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://pds.zidhuss.tech/": {
@@ -16378,12 +16233,12 @@
 		},
 		"https://pds06.rustproto.com/": {
 			"status": "online",
-			"version": "rustproto b320ead",
+			"version": "rustproto b6c1274",
 			"inviteCodeRequired": true
 		},
 		"https://pds07.rustproto.com/": {
 			"status": "online",
-			"version": "rustproto d6ce7c9",
+			"version": "rustproto 122744c",
 			"inviteCodeRequired": true
 		},
 		"https://pds1-us-west-host.solidar.network/": {
@@ -16602,7 +16457,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://pds2.soverth.blue/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -16772,7 +16627,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://phlogiston.social/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5037",
 			"inviteCodeRequired": true
 		},
@@ -17012,7 +16867,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://psd.nearhorizon.app/": {
-			"status": "online",
+			"status": "offline",
 			"version": null,
 			"inviteCodeRequired": false
 		},
@@ -17192,7 +17047,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://repo.works/": {
-			"status": "online",
+			"status": "offline",
 			"version": null,
 			"inviteCodeRequired": true
 		},
@@ -17331,11 +17186,6 @@
 			"version": null,
 			"inviteCodeRequired": null
 		},
-		"https://rsky.fourteentrees.net/": {
-			"status": "offline",
-			"version": "0.4.5027",
-			"inviteCodeRequired": true
-		},
 		"https://rsky.pds.nouveauprintemps.org/": {
 			"status": "online",
 			"version": "1.14.14",
@@ -17436,13 +17286,18 @@
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
+		"https://sarcodon.us-west.host.bsky.network/": {
+			"status": "online",
+			"version": "git-ae220d5",
+			"inviteCodeRequired": true
+		},
 		"https://satdump.org/": {
 			"status": "offline",
 			"version": "0.4.74",
 			"inviteCodeRequired": true
 		},
 		"https://saturn.pds.bekanntefreunde.de/": {
-			"status": "online",
+			"status": "offline",
 			"version": "tranquil 0.6.7",
 			"inviteCodeRequired": true
 		},
@@ -17584,11 +17439,6 @@
 		"https://shimeji.us-east.host.bsky.network/": {
 			"status": "online",
 			"version": "git-bae981e",
-			"inviteCodeRequired": true
-		},
-		"https://shirls.org/": {
-			"status": "offline",
-			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
 		"https://shortform.me/": {
@@ -18087,7 +17937,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://spaces.abnormal.zip/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.5.32",
 			"inviteCodeRequired": true
 		},
@@ -18206,6 +18056,11 @@
 			"version": "git-bae981e",
 			"inviteCodeRequired": true
 		},
+		"https://stme.sh/": {
+			"status": "unreachable",
+			"version": null,
+			"inviteCodeRequired": null
+		},
 		"https://straypixel.ca/": {
 			"status": "online",
 			"version": "0.4.5051",
@@ -18323,7 +18178,7 @@
 		},
 		"https://t4tkiss.ing/": {
 			"status": "online",
-			"version": "tranquil 0.6.7",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://tacheles.social/": {
@@ -18432,7 +18287,7 @@
 			"inviteCodeRequired": false
 		},
 		"https://test-a.pds.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "cirrus 0.19.0",
 			"inviteCodeRequired": false
 		},
@@ -18442,7 +18297,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://test-b.pds.kiln.zone/": {
-			"status": "online",
+			"status": "offline",
 			"version": "cirrus 0.19.0",
 			"inviteCodeRequired": false
 		},
@@ -18698,7 +18553,7 @@
 		},
 		"https://tranquil-pds.mylogin.space/": {
 			"status": "online",
-			"version": "tranquil 0.7.1",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://tranquil-spaces.madoka.systems/": {
@@ -18713,7 +18568,7 @@
 		},
 		"https://tranquil.anna.lgbt/": {
 			"status": "online",
-			"version": "tranquil 0.7.0",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://tranquil.at.vt3e.cat/": {
@@ -18722,7 +18577,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://tranquil.aylac.top/": {
-			"status": "online",
+			"status": "offline",
 			"version": null,
 			"inviteCodeRequired": true
 		},
@@ -18753,7 +18608,7 @@
 		},
 		"https://tranquil.felinus.fish/": {
 			"status": "online",
-			"version": "tranquil 0.6.7",
+			"version": "tranquil 0.8.0",
 			"inviteCodeRequired": true
 		},
 		"https://tranquil.gxrl.network/": {
@@ -18837,7 +18692,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://trunked.at/": {
-			"status": "online",
+			"status": "offline",
 			"version": "v0.1.16-71422f70*",
 			"inviteCodeRequired": true
 		},
@@ -19213,7 +19068,7 @@
 		},
 		"https://yeongaori.com/": {
 			"status": "online",
-			"version": "0.5.56",
+			"version": "0.5.57",
 			"inviteCodeRequired": true
 		},
 		"https://yiff.exchange/": {
@@ -19257,7 +19112,7 @@
 			"inviteCodeRequired": true
 		},
 		"https://yunya.pet/": {
-			"status": "online",
+			"status": "offline",
 			"version": "0.4.5051",
 			"inviteCodeRequired": true
 		},
@@ -19448,6 +19303,11 @@
 			"status": "online",
 			"version": null
 		},
+		"https://cairn2.nearhorizon.app/": {
+			"did": "did:web:cairn2.nearhorizon.app",
+			"status": "online",
+			"version": null
+		},
 		"https://cities-labeler.cosocial.ca/": {
 			"did": "did:plc:tixnghnphv7qnyc7zrsz22ax",
 			"status": "online",
@@ -19462,6 +19322,11 @@
 			"did": "did:plc:wsxvsh3dkqzgxxqxkmo3nnuj",
 			"status": "online",
 			"version": "0.4.2"
+		},
+		"https://coves.social/": {
+			"did": "did:web:coves.social",
+			"status": "online",
+			"version": null
 		},
 		"https://cuddling.kralsei.stream/": {
 			"did": "did:plc:nsl2x6tgtkcasyhwrj4k24sm",
@@ -19480,7 +19345,7 @@
 		},
 		"https://dotnet.blue/": {
 			"did": "did:plc:liuuwugrsmbf3kqv4prqwpaf",
-			"status": "online",
+			"status": "offline",
 			"version": null
 		},
 		"https://elitometer-bsky-labeler.nwrasl.easypanel.host/": {
@@ -19840,7 +19705,7 @@
 		},
 		"https://mods.ver.ooo/": {
 			"did": "did:plc:oz2totnf4oo4sj3n7yxvot57",
-			"status": "online",
+			"status": "offline",
 			"version": null
 		},
 		"https://monetary-linet-03sys-797140c5.koyeb.app/": {
@@ -19903,11 +19768,6 @@
 			"status": "online",
 			"version": null
 		},
-		"https://ozone-mod1-pds.ssaavedra.eu/": {
-			"did": "did:plc:s75p5ekrmwphyrx5q5suwt6v",
-			"status": "offline",
-			"version": "0.1.38"
-		},
 		"https://ozone-production-9091.up.railway.app/": {
 			"did": "did:plc:qjvulzpdfromg5v4ybmxp7eo",
 			"status": "online",
@@ -19922,11 +19782,6 @@
 			"did": "did:plc:eea72b4p7bmovnu53466lxr6",
 			"status": "online",
 			"version": "0.1.167"
-		},
-		"https://ozone.astronomi.ca/": {
-			"did": "did:plc:rn6spz2zedgovfgjxczjor4i",
-			"status": "unreachable",
-			"version": null
 		},
 		"https://ozone.blackwall.gg/": {
 			"did": "did:plc:flwugseenu2x4o3h2ymutc3x",
@@ -19947,6 +19802,11 @@
 			"did": "did:plc:bv3lcacietc6fkdokxfqtdkj",
 			"status": "online",
 			"version": "0.1.159"
+		},
+		"https://ozone.cloudskyai.com/": {
+			"did": "did:plc:uih3ggxabtj4zvl4xnwyq5di",
+			"status": "unreachable",
+			"version": null
 		},
 		"https://ozone.eurosky.network/": {
 			"did": "did:plc:h5cmg4t64mj4pxmqaiaoam7c",
@@ -19987,6 +19847,11 @@
 			"did": "did:plc:znm6hcs2ydm2o3u7zwrspjlu",
 			"status": "online",
 			"version": "0.1.38"
+		},
+		"https://ozone.postgame.at/": {
+			"did": "did:plc:dzybgrwbynnumn4aa2nplwdo",
+			"status": "online",
+			"version": "0.10.9"
 		},
 		"https://ozone.radial.racing/": {
 			"did": "did:plc:2qhdv5xwffbogrfoqcqzpady",
@@ -20330,7 +20195,47 @@
 			"pds": "https://pds.did.bot/",
 			"labeler": null
 		},
+		"did:web:aid0633.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid09f1.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid0b2e.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
 		"did:web:aid17a5.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid2064.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid2c07.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid2c15.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid3098.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid325d.aidme.site": {
 			"status": "online",
 			"pds": "https://aidme.site/",
 			"labeler": null
@@ -20341,6 +20246,21 @@
 			"labeler": null
 		},
 		"did:web:aid3a01.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid3cee.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid3d3c.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid40e5.aidme.site": {
 			"status": "online",
 			"pds": "https://aidme.site/",
 			"labeler": null
@@ -20360,7 +20280,47 @@
 			"pds": "https://aidme.site/",
 			"labeler": null
 		},
+		"did:web:aid6291.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
 		"did:web:aid6305.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid6618.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid6661.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid6798.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid6bb7.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid7147.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid737f.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid7d43.aidme.site": {
 			"status": "online",
 			"pds": "https://aidme.site/",
 			"labeler": null
@@ -20370,7 +20330,47 @@
 			"pds": "https://aidme.site/",
 			"labeler": null
 		},
+		"did:web:aid8895.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid8b1d.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid90cf.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aid96ba.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
 		"did:web:aid9c5b.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aida192.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aida226.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidac99.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidbadb.aidme.site": {
 			"status": "online",
 			"pds": "https://aidme.site/",
 			"labeler": null
@@ -20385,7 +20385,42 @@
 			"pds": "https://aidme.site/",
 			"labeler": null
 		},
+		"did:web:aidc6fd.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidcca4.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidccc4.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidd06d.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidd2fc.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
 		"did:web:aidd5a4.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidfa86.aidme.site": {
+			"status": "online",
+			"pds": "https://aidme.site/",
+			"labeler": null
+		},
+		"did:web:aidffde.aidme.site": {
 			"status": "online",
 			"pds": "https://aidme.site/",
 			"labeler": null
@@ -20571,7 +20606,7 @@
 			"labeler": null
 		},
 		"did:web:amplified.at": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://repo.works/",
 			"labeler": null
 		},
@@ -20976,7 +21011,7 @@
 			"labeler": null
 		},
 		"did:web:babu.dev": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://babu.dev/",
 			"labeler": null
 		},
@@ -21394,6 +21429,11 @@
 			"status": "online",
 			"pds": "https://rycbar.me/",
 			"labeler": null
+		},
+		"did:web:cairn2.nearhorizon.app": {
+			"status": "online",
+			"pds": "https://locus.nearhorizon.app/",
+			"labeler": "https://cairn2.nearhorizon.app/"
 		},
 		"did:web:calcite-badger.test.pds.did.bot": {
 			"status": "online",
@@ -22585,6 +22625,11 @@
 			"pds": "https://pds.did.bot/",
 			"labeler": null
 		},
+		"did:web:contravariant-pata.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
 		"did:web:contravariant-rapier.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
@@ -22953,7 +22998,7 @@
 		"did:web:coves.social": {
 			"status": "online",
 			"pds": "https://pds.coves.me/",
-			"labeler": null
+			"labeler": "https://coves.social/"
 		},
 		"did:web:cryb.app": {
 			"status": "online",
@@ -23775,6 +23820,11 @@
 			"pds": "https://pds.entropia.de/",
 			"labeler": null
 		},
+		"did:web:ergodic-katana-2.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
 		"did:web:ergodic-katana.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
@@ -24066,7 +24116,7 @@
 			"labeler": null
 		},
 		"did:web:foxtrot.repo.works": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://repo.works/",
 			"labeler": null
 		},
@@ -24248,6 +24298,11 @@
 		"did:web:geofox.org": {
 			"status": "online",
 			"pds": "https://geoffrey.cc/",
+			"labeler": null
+		},
+		"did:web:gf3sgsbv3t6.freeslab.net": {
+			"status": "online",
+			"pds": "https://gf3sgsbv3t6.freeslab.net/",
 			"labeler": null
 		},
 		"did:web:gm.yetiscabin.com": {
@@ -24611,7 +24666,7 @@
 			"labeler": null
 		},
 		"did:web:hello.babu.dev": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://babu.dev/",
 			"labeler": null
 		},
@@ -25110,6 +25165,11 @@
 			"pds": "https://pds.did.bot/",
 			"labeler": null
 		},
+		"did:web:idempotent-takouba-2.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
 		"did:web:ignimbrite-dormouse-2.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
@@ -25166,6 +25226,11 @@
 			"labeler": null
 		},
 		"did:web:induction-katzbalger.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
+		"did:web:induction-pata.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
 			"labeler": null
@@ -25663,11 +25728,6 @@
 		"did:web:kot.pink": {
 			"status": "offline",
 			"pds": "https://meowgirls.net/",
-			"labeler": null
-		},
-		"did:web:krasovs.ky": {
-			"status": "unreachable",
-			"pds": null,
 			"labeler": null
 		},
 		"did:web:lalala-lalaal.social.clipsymphony.com": {
@@ -26236,6 +26296,11 @@
 			"labeler": null
 		},
 		"did:web:martingale-xiphos.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
+		"did:web:matrix-baghnakh.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
 			"labeler": null
@@ -27850,6 +27915,11 @@
 			"pds": "https://pds.did.bot/",
 			"labeler": null
 		},
+		"did:web:polynomial-karambit.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
 		"did:web:polynomial-kaskara.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
@@ -28546,7 +28616,7 @@
 			"labeler": null
 		},
 		"did:web:repo.works": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://repo.works/",
 			"labeler": null
 		},
@@ -29178,6 +29248,11 @@
 		"did:web:skydeval-mod.rycbar.me": {
 			"status": "online",
 			"pds": "https://rycbar.me/",
+			"labeler": null
+		},
+		"did:web:skye.nearhorizon.app": {
+			"status": "online",
+			"pds": "https://locus.nearhorizon.app/",
 			"labeler": null
 		},
 		"did:web:slate-drongo.test.pds.did.bot": {
@@ -29855,6 +29930,11 @@
 			"pds": "https://pds.did.bot/",
 			"labeler": null
 		},
+		"did:web:symplectic-khanda-2.test.pds.did.bot": {
+			"status": "online",
+			"pds": "https://pds.did.bot/",
+			"labeler": null
+		},
 		"did:web:symplectic-khanda.test.pds.did.bot": {
 			"status": "online",
 			"pds": "https://pds.did.bot/",
@@ -29956,12 +30036,12 @@
 			"labeler": null
 		},
 		"did:web:test-a.pds.kiln.zone": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://test-a.pds.kiln.zone/",
 			"labeler": null
 		},
 		"did:web:test-b.pds.kiln.zone": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://test-b.pds.kiln.zone/",
 			"labeler": null
 		},
@@ -30296,7 +30376,7 @@
 			"labeler": null
 		},
 		"did:web:trunked.at": {
-			"status": "online",
+			"status": "offline",
 			"pds": "https://trunked.at/",
 			"labeler": null
 		},

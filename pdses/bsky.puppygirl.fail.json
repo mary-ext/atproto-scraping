@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.puppygirl.fail/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1782348487260,
-	"errorAt": 1794372829879
+	"errorAt": null
 }

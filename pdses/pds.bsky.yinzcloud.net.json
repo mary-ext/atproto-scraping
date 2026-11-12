@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.bsky.yinzcloud.net/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5051",
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1794372084053,
-	"errorAt": 1794372829879
+	"errorAt": null
 }

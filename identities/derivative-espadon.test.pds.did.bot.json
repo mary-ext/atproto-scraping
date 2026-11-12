@@ -1,9 +1,9 @@
 {
 	"did": "did:web:derivative-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "kt8GNMqf7kyTp2c_D0QNH7VgQ0MbPh8CRIH0yy_Y3O4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

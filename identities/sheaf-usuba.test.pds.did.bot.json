@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sheaf-usuba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "cdMoD7WCRhEt8HhlSg9HTC1ITUj_B3j01CUJSUNtOpg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

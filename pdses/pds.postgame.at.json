@@ -2,7 +2,7 @@
 	"url": "https://pds.postgame.at/",
 	"status": "online",
 	"version": "0.4.5051",
-	"inviteCodeRequired": true,
+	"inviteCodeRequired": false,
 	"firstSeenAt": 1793855079349,
 	"errorAt": null
 }

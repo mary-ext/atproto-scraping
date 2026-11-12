@@ -1,9 +1,9 @@
 {
 	"did": "did:web:discriminant-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "ScC4LkJ_QBNnUM7DHJvFgfyAFj4nPgBJKirsANnkrsE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:infimum-machete.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "YHhivnoa3Wht70ZmgLBI0hxRwP4XmxRnNBincXgc27U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

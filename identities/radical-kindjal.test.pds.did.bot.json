@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-kindjal.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "7N9GEbnhqWQ3Hwu33kOMrca0v3Uqxw34ft2mffIQZr0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

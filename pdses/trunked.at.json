@@ -1,8 +1,8 @@
 {
 	"url": "https://trunked.at/",
-	"status": "online",
+	"status": "offline",
 	"version": "v0.1.16-71422f70*",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790047047211,
-	"errorAt": null
+	"errorAt": 1794463058188
 }

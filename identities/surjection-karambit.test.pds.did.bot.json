@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-karambit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "6oHN0NmiaqMpItGK1h0s6b1Al4B4wqhNhyCzluw74K4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

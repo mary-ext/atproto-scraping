@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-golok.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "Py-v6JgQnw22BnJ9_aePEGEvvtG_5Z7Ehek6lK-0lT0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

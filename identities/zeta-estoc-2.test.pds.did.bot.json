@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-estoc-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "EZ6iwQ9VAtLfw0gDkHNllZGDrygH156UbYNwhvBJJ_8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

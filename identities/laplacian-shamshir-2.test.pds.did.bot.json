@@ -1,9 +1,9 @@
 {
 	"did": "did:web:laplacian-shamshir-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "eAnbzANM7iHvNaYLjA2IX-bLlzJv3FYgX56IF9-f3lw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

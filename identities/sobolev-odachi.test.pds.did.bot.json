@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sobolev-odachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "uUzRnTpoGyMaoM2PgkTuB722P6L2bevH28m5Vjj4__M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

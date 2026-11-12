@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-sujihiki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "mCMTKwNc0nFz6a5zYtr3oLuO7328yT1xtkXcEVIAXWA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

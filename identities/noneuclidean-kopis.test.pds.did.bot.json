@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noneuclidean-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "e3YvONPa78qBQVTDU6hscleWtgOysDiaJQXuCr9CT2k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:normalizer-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "X3CGIWkZNoMB-TJTUW4AA7ByV6ASb7wEHq0sBi1EzVQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-aikuchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "f3mFfjt7Ble2DvWjpv293H5xNmqRrtQRso3ZdrDtad4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

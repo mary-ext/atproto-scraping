@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polynomial-rapier-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "2RvRfsuHciihk1-yH5aqVB3iKlDhEu5J9_I11ORRPCY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quotient-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "Q42nb2JJjnY-JSBsmT9U9QwV1HfX-ilWkVQBQVqFAsE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

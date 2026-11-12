@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "QN8uWMGjlzqP0cSxndOpRo72_b0z802RvXsBRITX4TY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

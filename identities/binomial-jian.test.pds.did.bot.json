@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "jyQCOkT6yXlDWlgTAJ09136ScTw4rl0QwKXp1rq0muw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

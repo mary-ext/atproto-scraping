@@ -1,9 +1,9 @@
 {
 	"did": "did:web:trunked.at",
-	"status": "online",
+	"status": "offline",
 	"hash": "OjDqvVA4Hncy9CqBlfbWkoqXpPMsfS5H1IwmRFTBzKI",
 	"pds": "https://trunked.at/",
 	"labeler": null,
 	"firstSeenAt": 1790047047211,
-	"errorAt": null
+	"errorAt": 1794462240177
 }

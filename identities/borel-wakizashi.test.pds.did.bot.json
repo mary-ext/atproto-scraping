@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-wakizashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "LypCzrCfICZs6IqpimRvzBlfRDXjv42QbllYzAJzVbE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,6 +1,7 @@
 {
 	"url": "https://locus.nearhorizon.app/",
 	"status": "online",
+	"version": "0.1.2",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790566638876,
 	"errorAt": null

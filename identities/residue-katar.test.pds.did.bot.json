@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-katar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "O7Y1kbuk6AU1XXovs_o1IK_eG_lEHGHDuBcaHFQF07A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

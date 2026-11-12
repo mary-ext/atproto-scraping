@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-sabre.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "SSA3PhZZu-046wQDwbUVtOK-yj-Nt3NOp2wQPM5IKMY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

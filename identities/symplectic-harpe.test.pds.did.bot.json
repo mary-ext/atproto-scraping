@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "I2fZqccucYTzk5lwifX2gGoo8BUHSKHTJV-0PRLYNw4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

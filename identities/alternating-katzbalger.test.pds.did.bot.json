@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alternating-katzbalger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "HyWCFDiQ8o3d-Q6fPgYhKLD23ML6OTozX1MrP19LFZo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

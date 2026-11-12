@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.the-hive-mind.org/",
-	"status": "offline",
-	"version": "0.4.67",
+	"status": "online",
+	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1794112676167
+	"errorAt": null
 }

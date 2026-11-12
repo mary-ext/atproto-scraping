@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-takouba-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1794462240177,
+	"errorAt": null,
+	"hash": "pCPfa-fCR-hgDvM-IsRokPkC-6YN2X9-k93awHyeGq4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

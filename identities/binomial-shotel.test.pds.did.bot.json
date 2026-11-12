@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-shotel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "_nV1PUAZdUWQil14CtatEGOCew72VFeM9bfXvkI603g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

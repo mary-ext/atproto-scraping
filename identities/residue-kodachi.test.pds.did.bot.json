@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-kodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "mmCBLp4YSY1Apog7iGPUwK1TsBVRZXKbQvGjr9xqjS8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

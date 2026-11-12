@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monoid-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "wKO-Ru--VdicY161Wd5Nd5MBS2zH9vMQTRj9D1hdbvo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

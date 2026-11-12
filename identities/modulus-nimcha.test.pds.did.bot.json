@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-nimcha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "1Mc9wfXZ6DcqJ7g5wXbA-68pIR4v5XkazdIxwy_jKmA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

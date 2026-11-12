@@ -1,9 +1,9 @@
 {
 	"did": "did:web:foxtrot.repo.works",
-	"status": "online",
+	"status": "offline",
 	"hash": "MWRLWaYhKUDavmLNvyYRRtyKsr5f5Srs75XcFuhN8MQ",
 	"pds": "https://repo.works/",
 	"labeler": null,
 	"firstSeenAt": 1789960676825,
-	"errorAt": null
+	"errorAt": 1794462240177
 }

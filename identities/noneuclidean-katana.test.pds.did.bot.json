@@ -1,9 +1,9 @@
 {
 	"did": "did:web:noneuclidean-katana.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "7bTpTdQIQPc9tH4qpgoEKGyj2gXtcfsxwjP5d5pZ8YI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

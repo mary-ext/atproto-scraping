@@ -1,9 +1,9 @@
 {
 	"did": "did:web:computable-firangi-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "T6M6Ja0ubocAVFhxOI7hFkkngpp-eNmlPlJksKFPJRA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

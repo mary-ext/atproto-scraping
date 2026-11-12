@@ -1,9 +1,9 @@
 {
 	"did": "did:web:injection-schiavona.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "NrgV8JflMFWpIVs6EYMQnbGZozGLw5JKAeZOS5dA1H0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

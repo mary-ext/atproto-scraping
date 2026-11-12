@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wronskian-seax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "9IkGMDY2kNE3vz2GuuctMBICFm_6uLcid62ugw07Ses",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:locus-koncerz.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "4xhkwR3Sy5ZeQsrp56GNNW8KYt8kFaRuhEm0bATf-cg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

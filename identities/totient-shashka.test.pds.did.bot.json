@@ -1,9 +1,9 @@
 {
 	"did": "did:web:totient-shashka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "0RmXlEEHa4qqvENFBB_iUXYhj1nEtXb1nwc07tJSHvo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

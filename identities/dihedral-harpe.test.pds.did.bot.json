@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dihedral-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "XDpi_uFS29DJ9EcsoeQFkUM4t2AJO815wNuxNpCiAH4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }

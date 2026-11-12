@@ -1,9 +1,9 @@
 {
 	"did": "did:web:supremum-flamberge.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794372084053,
-	"errorAt": null,
 	"hash": "-3EkcwEQLOQ_0w59pZPyob278S0fBQOfspWmB3D_foA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794372084053,
+	"errorAt": null
 }
