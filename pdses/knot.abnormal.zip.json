@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.abnormal.zip/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1793683195278,
-	"errorAt": 1794463058188
+	"errorAt": null
 }

@@ -1,8 +1,8 @@
 {
 	"url": "https://politik-labeler.coreworks.dev/",
 	"did": "did:plc:znr5khrt5sbsdj67fde5w7h4",
-	"status": "online",
+	"status": "offline",
 	"version": "0.1.167",
 	"firstSeenAt": 1787909412523,
-	"errorAt": null
+	"errorAt": 1794546812713
 }

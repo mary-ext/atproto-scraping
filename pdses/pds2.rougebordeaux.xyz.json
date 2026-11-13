@@ -1,8 +1,8 @@
 {
 	"url": "https://pds2.rougebordeaux.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.219",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785551634815,
-	"errorAt": null
+	"errorAt": 1794546812713
 }

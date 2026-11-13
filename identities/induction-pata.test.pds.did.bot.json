@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-pata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "DUepYBeyneuU4xQnRB3JQj9UPg2IOM1CsczDtIIUaIU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-khanda-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "S3t_SQfSZ8PwAxsTDjHgQXpQRu3jfqYJXe5nQcp-glY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }

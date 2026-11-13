@@ -1,9 +1,9 @@
 {
 	"did": "did:web:skye.nearhorizon.app",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "bRmorzipmkOUbjTvrJGyJyFFs6lpc5RmWOWeBnrcUvM",
 	"pds": "https://locus.nearhorizon.app/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }

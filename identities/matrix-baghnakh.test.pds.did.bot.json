@@ -1,9 +1,9 @@
 {
 	"did": "did:web:matrix-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "lQXtrZgohqS7Tdc0vfwdeIp3TbfLlyyJRrX7hh4bJiI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }

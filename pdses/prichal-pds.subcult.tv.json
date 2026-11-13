@@ -1,8 +1,8 @@
 {
 	"url": "https://prichal-pds.subcult.tv/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5036",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791605907136,
-	"errorAt": null
+	"errorAt": 1794546812713
 }

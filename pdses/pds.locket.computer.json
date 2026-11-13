@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.locket.computer/",
-	"status": "offline",
+	"status": "online",
 	"version": "cocoon dev-locket",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1794463058188
+	"errorAt": null
 }

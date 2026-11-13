@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cairn2.nearhorizon.app",
-	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
+	"status": "offline",
 	"hash": "LlDjIypXKb85qTO7VOlSUra-Uz2K7Q-lyEj02utHkOc",
 	"pds": "https://locus.nearhorizon.app/",
-	"labeler": "https://cairn2.nearhorizon.app/"
+	"labeler": "https://cairn2.nearhorizon.app/",
+	"firstSeenAt": 1794462240177,
+	"errorAt": 1794546065039
 }

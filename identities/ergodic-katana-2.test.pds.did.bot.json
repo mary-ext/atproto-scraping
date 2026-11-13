@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ergodic-katana-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "NMbkJ0iScMQuhgr54G5gTs-VvrivwOiUme_MVc5ee-Y",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }

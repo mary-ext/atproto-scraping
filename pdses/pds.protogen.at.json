@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.protogen.at/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786671804529,
-	"errorAt": 1794463058188
+	"errorAt": null
 }

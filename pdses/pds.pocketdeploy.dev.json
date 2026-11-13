@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.pocketdeploy.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.49",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793767746299,
-	"errorAt": 1794463058188
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aidc6fd.aidme.site",
 	"status": "online",
-	"firstSeenAt": 1794462240177,
-	"errorAt": null,
 	"hash": "vUnP-6izIVGx75OoUehni7i5HOhvQ6SeIfdcRI7tKZQ",
 	"pds": "https://aidme.site/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794462240177,
+	"errorAt": null
 }
