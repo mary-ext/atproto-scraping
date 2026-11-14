@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.cools.cloud/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "0.4.5051",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1794546065039,
-	"errorAt": 1794546812713
+	"errorAt": null
 }

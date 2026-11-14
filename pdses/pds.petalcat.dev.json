@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.petalcat.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792292407300,
-	"errorAt": 1794546812713
+	"errorAt": null
 }

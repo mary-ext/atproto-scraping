@@ -1,9 +1,9 @@
 {
 	"did": "did:web:archival.dev",
 	"status": "online",
-	"firstSeenAt": 1794546065039,
-	"errorAt": null,
 	"hash": "C_P7Wgq4TU5mpbia43KxtFfNTo4Yyde64QTseIcnYhQ",
 	"pds": "https://archival.dev/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794546065039,
+	"errorAt": null
 }

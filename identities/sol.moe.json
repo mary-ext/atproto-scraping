@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sol.moe",
 	"status": "online",
-	"firstSeenAt": 1794546065039,
-	"errorAt": null,
 	"hash": "s1zfBayXmA1L1qYsCFItN0QEREL9DIdBEr0mkoQDLwo",
 	"pds": "https://pds.astr.to/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794546065039,
+	"errorAt": null
 }
