@@ -1,8 +1,8 @@
 {
 	"url": "https://sarcasticwolf.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.5.59",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794718032652,
-	"errorAt": null
+	"errorAt": 1794805019727
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aid2064.aidme.site",
-	"status": "online",
+	"status": "offline",
 	"hash": "LIvHBGk0iLZh56LvwGWRdQrQEQjuhe9Bmxs4reIkCIA",
 	"pds": "https://aidme.site/",
 	"labeler": null,
 	"firstSeenAt": 1794462240177,
-	"errorAt": null
+	"errorAt": 1794804242058
 }
