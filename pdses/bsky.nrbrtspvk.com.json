@@ -2,7 +2,7 @@
 	"url": "https://bsky.nrbrtspvk.com/",
 	"status": "online",
 	"version": "0.4.208",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1775435460452,
 	"errorAt": null
 }

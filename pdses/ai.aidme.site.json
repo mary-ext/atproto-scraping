@@ -1,8 +1,8 @@
 {
 	"url": "https://ai.aidme.site/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.6.0",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1794804242058,
-	"errorAt": null
+	"errorAt": 1794897844575
 }

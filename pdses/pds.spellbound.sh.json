@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.spellbound.sh/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5037",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1790655140612,
-	"errorAt": null
+	"errorAt": 1794897844575
 }

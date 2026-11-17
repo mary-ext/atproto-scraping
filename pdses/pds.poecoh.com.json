@@ -2,7 +2,7 @@
 	"url": "https://pds.poecoh.com/",
 	"status": "online",
 	"version": "tranquil 0.7.1",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1794546065039,
 	"errorAt": null
 }

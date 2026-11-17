@@ -1,8 +1,8 @@
 {
 	"url": "https://homura.pet/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.6.7",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1785724480444,
-	"errorAt": 1794463058188
+	"errorAt": null
 }
