@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.evil.gay/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 2.0.0",
 	"firstSeenAt": 1792638952979,
-	"errorAt": 1794112676167
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:demo-05.pds.opendatingprotocol.com",
 	"status": "online",
-	"firstSeenAt": 1794897029979,
-	"errorAt": null,
 	"hash": "211v9o7yAHlT-FV75cGR779i3XIMl4LpdO6-cbJ-fNY",
 	"pds": "https://pds.opendatingprotocol.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794897029979,
+	"errorAt": null
 }
