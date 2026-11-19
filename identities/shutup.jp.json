@@ -1,9 +1,9 @@
 {
 	"did": "did:web:shutup.jp",
 	"status": "online",
-	"firstSeenAt": 1794981198953,
-	"errorAt": null,
 	"hash": "gqFEvOqqKZHf-NCwdadcfAIhugjOIgbeL9rWPDEl8Bs",
 	"pds": "https://shutup.jp/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1794981198953,
+	"errorAt": null
 }

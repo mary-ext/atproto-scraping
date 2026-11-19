@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pnm.tf",
-	"status": "online",
+	"status": "offline",
 	"hash": "PCHEyPU8qFzyETlU02nM937GUvgiB3Ob0EOLFIvPl0I",
 	"pds": "https://atproto.pnm.tf/",
 	"labeler": null,
 	"firstSeenAt": 1789268854801,
-	"errorAt": null
+	"errorAt": 1795067599992
 }

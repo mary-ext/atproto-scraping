@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.foxwitch.net/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780448260688,
-	"errorAt": 1794981967461
+	"errorAt": null
 }

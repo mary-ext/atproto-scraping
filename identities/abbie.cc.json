@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abbie.cc",
-	"status": "online",
+	"status": "offline",
 	"hash": "Sbg-Td0swwgaxntm2-gbrMClE0ZYhis48HWvCtG1yBE",
 	"pds": "https://pds.abbie.cc/",
 	"labeler": null,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1795067599992
 }
