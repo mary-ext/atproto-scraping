@@ -1,0 +1,9 @@
+{
+	"did": "did:web:coset-gyuto.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "h9Dp4EG4P0XDgpYrT9DYuT65q-Z1jjEs4ofzLigYrLg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:zeta-koncerz.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "LFBaHxjYIVWXiTF30ip0eaHOwTCr3HkGaz7MvJzedUI",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

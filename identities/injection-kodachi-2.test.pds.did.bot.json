@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-kodachi-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "28HuCP1YSqS0buESmi4RvvFqrqHRaGQO3JSvXLnO4KM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:stochastic-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "IN8FraP_SA8nvA11bKsI7z3_anoZ0gDC7PQ_rTZ_EiQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

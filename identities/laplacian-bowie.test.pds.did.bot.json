@@ -1,0 +1,9 @@
+{
+	"did": "did:web:laplacian-bowie.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "1QuCWFbblWKGnnvTAVHPDH572wXS7mg0xeYQoCQdK3Q",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

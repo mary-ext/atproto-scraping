@@ -1,0 +1,9 @@
+{
+	"did": "did:web:morphism-bowie.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "bRy21nJqUyM4ivIoFMWGc03wmH7CR1wG8uAMHdRkqkc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

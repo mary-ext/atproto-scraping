@@ -1,0 +1,9 @@
+{
+	"did": "did:web:contravariant-katana.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "HTAYp58jmXLnubB7yleCZgDGQVCSEVMapBxp0s1ImvM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

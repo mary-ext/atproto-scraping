@@ -1,0 +1,9 @@
+{
+	"did": "did:web:siltstone-echidna.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "VU7FxSsX3zkGz5A_bJmnT9Lxr1zRde_HcmLaYYHj6jg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

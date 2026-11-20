@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-karabela.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795153320933,
+	"errorAt": null,
+	"hash": "-SM8JiEYHP78lUwxPiilYSgNI3VZQoCP7y8Ya07948c",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

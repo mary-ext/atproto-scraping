@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.atmcp.dev/",
-	"status": "online",
+	"status": "offline",
 	"version": "v0.7.4",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794111950378,
-	"errorAt": null
+	"errorAt": 1795154174552
 }
