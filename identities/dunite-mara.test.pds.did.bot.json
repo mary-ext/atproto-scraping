@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dunite-mara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "CcUrT2_NPQC4PwEM46hKU-7WLFZFf2jWv8u6yzaZrxg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

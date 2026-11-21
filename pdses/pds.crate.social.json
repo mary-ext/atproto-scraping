@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.crate.social/",
 	"status": "online",
-	"version": "1.3.0+unknown",
+	"version": "1.3.0+21117d08d00b6d1bb95430c0cc4a89eb5ec59785",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794372084053,
 	"errorAt": null

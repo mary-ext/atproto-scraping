@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-backsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "sbeW3jST3Cudp2gC0kz_bEUNfqshM9Img4q6fRCGee8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ordinal-katar-3.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "zn4ybt_Xxs8byXCa_RdJg8EjpplJiXKEvfnmBKT7ImY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

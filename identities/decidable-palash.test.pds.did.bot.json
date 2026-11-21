@@ -1,9 +1,9 @@
 {
 	"did": "did:web:decidable-palash.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "ajumdccmwNKaqVDNY8uyqZ4Bmjtrwi9_9SEdEwzVoPI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-shuriken-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "sJPQAo8Q2DavjxD4zs8TZ_f_Lye2h6oFZhNadHWhwsY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

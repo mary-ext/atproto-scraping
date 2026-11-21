@@ -1,9 +1,9 @@
 {
 	"did": "did:web:parabola-dusack-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "kFvV_f3rmjp5QEpJkhC1o39PNGITqL-kEd1a_1TjSOY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

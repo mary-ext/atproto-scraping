@@ -1,9 +1,9 @@
 {
 	"did": "did:web:projective-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "FfQyhGQpmhZ4Rs1lkfvwR6kP2nhtovT-DYXAzJHBI5k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

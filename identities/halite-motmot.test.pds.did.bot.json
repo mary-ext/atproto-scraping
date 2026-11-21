@@ -1,9 +1,9 @@
 {
 	"did": "did:web:halite-motmot.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "Da0s__AdOscavdr6iGi0RFHUpj-s2Ejrc6YlzPL94zA",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792552644079,
-	"errorAt": null
+	"errorAt": 1795239421687
 }

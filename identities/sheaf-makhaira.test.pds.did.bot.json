@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sheaf-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "SUySC4ZXrL3jCTAwf51L9dxqz5RXulArfYYV9ldQumE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

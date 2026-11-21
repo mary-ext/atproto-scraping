@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-balisong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "w2kbLm29LOtA-TD6cJKubSXCZiExB-B904IjOJ3OSwc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

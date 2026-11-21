@@ -1,9 +1,9 @@
 {
 	"did": "did:web:recursion-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "vkSNrK20pFpI8PdRZtMQlMhEtMAo7RlmnWSkOT6j-Xs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

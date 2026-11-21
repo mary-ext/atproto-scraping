@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-bichuwa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "2a43K1sUM1EM5kK_XTf0k4Sj5RYfZ9RgdK-FhL5toyI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

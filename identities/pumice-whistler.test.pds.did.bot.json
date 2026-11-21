@@ -1,0 +1,9 @@
+{
+	"did": "did:web:pumice-whistler.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795239421687,
+	"errorAt": null,
+	"hash": "FOu-kB8DUfNX3hXUq71-zvRsHN1dmSC5RnI6_jNuAv4",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

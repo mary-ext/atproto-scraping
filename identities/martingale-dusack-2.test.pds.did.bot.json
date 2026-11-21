@@ -1,9 +1,9 @@
 {
 	"did": "did:web:martingale-dusack-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "qNM3IiaVpAPfKq2suI7Ba_55l745__oKZk_yLJRxl5g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

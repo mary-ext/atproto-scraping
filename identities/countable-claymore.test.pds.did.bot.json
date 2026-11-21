@@ -1,9 +1,9 @@
 {
 	"did": "did:web:countable-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "2fW9lZ0PjrZqYwBIgxcyoWAbpNfL5Kw1eK9qHC3iIfU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

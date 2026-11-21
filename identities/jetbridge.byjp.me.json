@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jetbridge.byjp.me",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "zVu7LuN8SOc1Wgl8AcQjEy2pxC19L_w54AgCJ8nKC9k",
 	"pds": "https://jetbridge.byjp.me/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

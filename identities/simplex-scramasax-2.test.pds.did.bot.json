@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-scramasax-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "hSBvFoDsrVNq24q5IKJupaQVRhukOiMWajQA1JJgrbo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

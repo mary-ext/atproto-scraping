@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homology-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "IoU6cZ5H9uH9YnTRZ6lr8A1JOrFJiilaLLMxondx6jo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

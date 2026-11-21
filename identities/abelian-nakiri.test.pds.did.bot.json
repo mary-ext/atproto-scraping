@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abelian-nakiri.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "6jSfQNR8RU5kMdFW4kEC1gtFDuCn9jkiecwkoovG0Jw",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792638952979,
-	"errorAt": null
+	"errorAt": 1795239421687
 }

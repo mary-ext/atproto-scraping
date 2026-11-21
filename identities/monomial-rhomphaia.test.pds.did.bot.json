@@ -1,9 +1,9 @@
 {
 	"did": "did:web:monomial-rhomphaia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "8DmevfujJ5fmf1AvE2g6Z8Ly9PzVajAmliZUr0G5pEI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

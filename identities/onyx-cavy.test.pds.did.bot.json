@@ -1,9 +1,9 @@
 {
 	"did": "did:web:onyx-cavy.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "cuVt2hcXCHx0fbRyg-j0SfhGY2YpZeUDGkl24n_tRmw",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792552644079,
-	"errorAt": null
+	"errorAt": 1795239421687
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alternating-pinuti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "ICWhH0AE4rpyaF236Zfkw8tjG0IcZZo_6VUbP_GxHME",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

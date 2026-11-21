@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-kukri.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "16KRdwPvzUNIYhwajlkr2XIAnE8Wuz4brnTHTPkeErc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

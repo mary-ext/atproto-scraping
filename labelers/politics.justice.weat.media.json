@@ -1,7 +1,7 @@
 {
 	"url": "https://politics.justice.weat.media/",
 	"did": "did:plc:r5m5rjdcc5sobhxmhh6awsi5",
-	"status": "unreachable",
+	"status": "online",
 	"firstSeenAt": 1794718032652,
-	"errorAt": 1794718732326
+	"errorAt": null
 }

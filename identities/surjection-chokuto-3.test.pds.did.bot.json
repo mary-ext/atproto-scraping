@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surjection-chokuto-3.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "L3owMifzfS7pyJ5_uOdnDAkn_ni2avLvKm-LZ6HHCYk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conjecture-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "JxV2-t_7grDWCdKRYLnkvYGeVTwcr7IOlw5oLY8Gh9Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-parang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "ulT9gJq7h3wYip1CnHdxGVMSLUaXSG_K32CgQIT9gyo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

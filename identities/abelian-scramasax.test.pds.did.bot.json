@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abelian-scramasax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "4vBBz-NMIOC1LFTEG7FntGIlB9450gd63g9xzWn63y0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

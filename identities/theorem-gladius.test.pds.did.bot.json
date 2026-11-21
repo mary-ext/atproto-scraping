@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-gladius.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "t-ZiSRnLPeQ7U0YT7jWXfccT8O-FQITLWfRIcHUi-cs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

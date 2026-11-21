@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbit-kunai.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "fGNd9s9NGjK2jQYX9vJPpnQDzL7tMo2w67I8W9QveKI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

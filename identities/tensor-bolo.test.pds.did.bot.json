@@ -1,0 +1,9 @@
+{
+	"did": "did:web:tensor-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795239421687,
+	"errorAt": null,
+	"hash": "4PGQ0UQb-KgFJkoYiqZKHwLLSyQM9dUb1GgJyNGtT-o",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

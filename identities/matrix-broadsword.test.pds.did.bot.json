@@ -1,9 +1,9 @@
 {
 	"did": "did:web:matrix-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "zBw5ZCtySz3T8qLHL4d4aMOztN6eOUdramdF7UuixXI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

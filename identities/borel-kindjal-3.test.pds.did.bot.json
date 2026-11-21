@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-kindjal-3.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "R3zPh1WD7y2i7aelRMn0b4V7u5d07FUsYznLSWB3TOo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

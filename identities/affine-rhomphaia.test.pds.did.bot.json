@@ -1,9 +1,9 @@
 {
 	"did": "did:web:affine-rhomphaia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "5leCG-yDbxVg1yR0lImHkPcs7AYYYboDAIcEWeoVJNY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

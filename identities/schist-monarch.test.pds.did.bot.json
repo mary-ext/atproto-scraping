@@ -1,9 +1,9 @@
 {
 	"did": "did:web:schist-monarch.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "hajClDmy6PlcHlbbV6qB8AA_l7ZLIn7-jmz2KdOvWEU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

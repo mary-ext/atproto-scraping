@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dihedral-flamberge.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "tB-XJAL4CMLHJgtzZHZHaYHsw9jG_Bj9_wJ28944F3I",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792638952979,
-	"errorAt": null
+	"errorAt": 1795239421687
 }

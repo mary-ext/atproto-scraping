@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quotient-honesuki.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "aJI1pgIFzBM3rdHEyW00DH2EGTMlRHZ9AoOcxIJJMXI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

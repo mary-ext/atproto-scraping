@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wronskian-chilanum-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "cbke6MkbQg9Jhr-JVcPdYWZdv13zCm28WGYFjwFm6L0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

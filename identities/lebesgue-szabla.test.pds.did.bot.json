@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lebesgue-szabla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "Qucc58gMYnAGmPjd5CCGubhbcHO1m7ypGHPpbSQpWT4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

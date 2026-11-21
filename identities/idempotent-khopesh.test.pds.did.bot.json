@@ -1,0 +1,9 @@
+{
+	"did": "did:web:idempotent-khopesh.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795239421687,
+	"errorAt": null,
+	"hash": "h2FSVo8rbYcd5YSKN7VncRbVFqIl7AETzkS_Z4-BCec",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:continuum-shuriken.test.pds.did.bot",
-	"status": "online",
+	"status": "offline",
 	"hash": "dONlmKYX-OemXSjO8wf1LKObPRAgpcZZQOxqi7rbuwk",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792552644079,
-	"errorAt": null
+	"errorAt": 1795239421687
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cyclic-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "96J-5ihQWlnfUOSL3QZy-msdy4kJDGtaTaTfV1mVUJg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

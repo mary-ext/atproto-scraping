@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-chilanum-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795239421687,
+	"errorAt": null,
+	"hash": "f7kJt8t4TBTGCTdarB8eaf4VBZEURYRlCXVn9xdi0jE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-ginunting.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "rNywIQPIr8d1XAGqLrYw0eF-rdtC4PCQhk_epyKwoeI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }

@@ -1,7 +1,7 @@
 {
 	"url": "https://tone.justice.weat.media/",
 	"did": "did:plc:52nak4qhdphhh5yx42qw5tgm",
-	"status": "unreachable",
+	"status": "online",
 	"firstSeenAt": 1794718032652,
-	"errorAt": 1794718732326
+	"errorAt": null
 }

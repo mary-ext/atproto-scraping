@@ -1,0 +1,9 @@
+{
+	"did": "did:web:affine-kukri-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795239421687,
+	"errorAt": null,
+	"hash": "fS-S1z7bLgxzPJYoeFoh9yd9zh13fpT2ioBDXPK87QY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

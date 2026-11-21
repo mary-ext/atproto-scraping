@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-aikuchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795153320933,
-	"errorAt": null,
 	"hash": "P2jC6gNcBS14vMyPgg2gezFTVzPKGm66UGO8VcJrAm4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795153320933,
+	"errorAt": null
 }
