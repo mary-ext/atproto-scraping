@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-makhaira.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "gAjfwJdBqgiYqVJarl0HyxzIocoNtpsYrFY6TUw5s2I",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

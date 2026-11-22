@@ -1,0 +1,9 @@
+{
+	"did": "did:web:codomain-claymore.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "4VKI1s7EPJNHhxGoAGKzl3L4x7tsd4ddjXDwy0XSIBE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

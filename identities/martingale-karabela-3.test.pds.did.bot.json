@@ -1,9 +1,9 @@
 {
 	"did": "did:web:martingale-karabela-3.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "dY4A8L8lpA37KaKJRA5XtciuXKQGAKwvjaq75AQgoCk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

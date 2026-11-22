@@ -1,0 +1,9 @@
+{
+	"did": "did:web:normalizer-spadroon.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "QLu7DLTu1V9e8eyN8iDVAZB41dYe3jz7nf3z2cLjj8Y",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

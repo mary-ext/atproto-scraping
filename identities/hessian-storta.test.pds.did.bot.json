@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "Xk_ovbH56N2Ap-Jkz3rGlxOKYVf6KvvsBi0r-AihWH8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

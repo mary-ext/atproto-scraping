@@ -1,7 +1,7 @@
 {
 	"url": "https://bsky.drakan.dev/",
 	"status": "online",
-	"version": "cocoon v0.14.4-0-g6e3922f",
+	"version": "cocoon dev-local",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794632063543,
 	"errorAt": null

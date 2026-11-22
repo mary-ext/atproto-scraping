@@ -1,0 +1,9 @@
+{
+	"did": "did:web:ideal-stiletto.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "2KaQsVWOi-H7K5EqHE50H8kT3-vcvr69ncLtDrdZGmw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

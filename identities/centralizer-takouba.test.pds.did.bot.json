@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-takouba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "Eie6zRUwD-4bJbtcoW67mjn_3tOQHPVunsG1jCLjI9I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

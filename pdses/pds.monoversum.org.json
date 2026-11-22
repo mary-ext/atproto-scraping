@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.monoversum.org/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5051",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794632063543,
-	"errorAt": 1795240206340
+	"errorAt": null
 }

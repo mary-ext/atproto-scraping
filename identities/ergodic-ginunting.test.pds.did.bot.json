@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ergodic-ginunting.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "cP4IZkTbygCVn0Qe2LgqBz0YzmBlX16iYvTpegbMXLE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

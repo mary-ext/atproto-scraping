@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil.solanaceae.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1780361534104,
-	"errorAt": null
+	"errorAt": 1795324457331
 }

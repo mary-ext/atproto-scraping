@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.alpha.modding.place/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.15.0-rc.7+unknown",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794372084053,
-	"errorAt": null
+	"errorAt": 1795324457331
 }

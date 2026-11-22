@@ -1,9 +1,9 @@
 {
 	"did": "did:web:octonion-bichuwa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "UytqOlAR-Xl2hdX_E4jt_h1Z5tlPny_c2A15PIW5kSE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

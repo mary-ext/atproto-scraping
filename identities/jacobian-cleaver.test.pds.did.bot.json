@@ -1,0 +1,9 @@
+{
+	"did": "did:web:jacobian-cleaver.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "atXW82KxD1YY9h94ZJFSoB2qV7SNpGHV58xqj4s5ASo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

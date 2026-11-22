@@ -1,9 +1,9 @@
 {
 	"did": "did:web:countable-gladius.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "BKage1YHC1ikn1vk-kqoOpxIlFrYw7ZvzqwpRd3QCeg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

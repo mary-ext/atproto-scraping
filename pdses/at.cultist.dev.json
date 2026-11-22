@@ -1,8 +1,8 @@
 {
 	"url": "https://at.cultist.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": null,
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784773885207,
-	"errorAt": 1795240206340
+	"errorAt": null
 }

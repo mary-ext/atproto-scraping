@@ -1,0 +1,9 @@
+{
+	"did": "did:web:surreal-bowie.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "ow0jXy8dtKZqp4Q-0gx15TTAHqNPJunO7N88c1L-gCw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

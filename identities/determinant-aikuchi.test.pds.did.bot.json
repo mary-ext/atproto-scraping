@@ -1,9 +1,9 @@
 {
 	"did": "did:web:determinant-aikuchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "oTUpMwtMAzZGYQWOdeU6KUcDPCi3WuFKp20rc_5E_7c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

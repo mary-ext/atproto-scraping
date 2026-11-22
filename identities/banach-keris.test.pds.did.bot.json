@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-keris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "lWG8yyLK2TWz0OHiIgEYHQoSfWGUD7V1tGfBG6mJxD0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

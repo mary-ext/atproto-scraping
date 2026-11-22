@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sheaf-poniard.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "uG3bGvvVibKt1h6m0jeWBVOvSiIyfQNPcFuSMRjh4oM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

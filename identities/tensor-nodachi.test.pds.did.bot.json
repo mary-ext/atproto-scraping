@@ -1,0 +1,9 @@
+{
+	"did": "did:web:tensor-nodachi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "6pWdXf6V0aypERzSXw-HHl3cgsFOZL0ZqKuF7KBj-p8",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

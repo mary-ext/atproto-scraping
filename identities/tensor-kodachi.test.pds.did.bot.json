@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tensor-kodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "rsHMSWJ29Ad1rdrWwTgBSRep2rtnCRVYIRk2p0b4YWc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-falcata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "gZxpflHjnOnp548hsEYWcn738acZ6VT-lhA3Rni1NwQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

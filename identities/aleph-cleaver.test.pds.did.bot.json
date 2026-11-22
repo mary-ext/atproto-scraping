@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aleph-cleaver.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "6dJ6NzgZkwM2S2CeYTwSGuq676PhCiLM1HhQwP5nchY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

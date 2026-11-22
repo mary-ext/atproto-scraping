@@ -1,9 +1,9 @@
 {
 	"did": "did:web:involution-balisong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "zDohVhLG5BMdhGWfzbwmk1Sk1FrP4bskVkzdaPXA58Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

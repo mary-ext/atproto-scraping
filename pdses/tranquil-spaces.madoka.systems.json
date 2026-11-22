@@ -1,8 +1,8 @@
 {
 	"url": "https://tranquil-spaces.madoka.systems/",
-	"status": "offline",
+	"status": "online",
 	"version": "tranquil 0.7.1",
 	"inviteCodeRequired": false,
 	"firstSeenAt": 1787360630711,
-	"errorAt": 1794805019727
+	"errorAt": null
 }

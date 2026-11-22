@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-barong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "3MP9na-4HT5M2Mj7ZgijvN58Gf-oEUCbY1bFXGSar8M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

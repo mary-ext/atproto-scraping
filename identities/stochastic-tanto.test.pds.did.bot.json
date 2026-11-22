@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-tanto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "W-grljbw6NubBLALIVDZHcVRKyyMCgmGUdpDxptxPms",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

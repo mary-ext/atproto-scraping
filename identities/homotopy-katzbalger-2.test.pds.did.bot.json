@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homotopy-katzbalger-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "rQ0OdVE_iQj3IsuHYi4NZKVKldYPw56SEXEe4yVSs6U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

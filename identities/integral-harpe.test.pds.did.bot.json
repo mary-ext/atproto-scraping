@@ -1,9 +1,9 @@
 {
 	"did": "did:web:integral-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "YqYwiY5MkIGSt5_Vxh_VRnaHIabQI0dR56Snfm1rPsg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

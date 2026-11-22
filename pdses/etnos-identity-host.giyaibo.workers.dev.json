@@ -1,7 +1,7 @@
 {
 	"url": "https://etnos-identity-host.giyaibo.workers.dev/",
 	"status": "online",
-	"version": "strata-identity-host",
+	"version": "etnos-identity-host",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1795153320933,
 	"errorAt": null

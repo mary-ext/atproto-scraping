@@ -1,0 +1,9 @@
+{
+	"did": "did:web:charlie.at.neuros.is",
+	"status": "online",
+	"firstSeenAt": 1795323737242,
+	"errorAt": null,
+	"hash": "oFFUuy3DVwPuRCwQYPubX-_YkcUBQbYV91c2QPG0h90",
+	"pds": "https://pds.neuros.is/",
+	"labeler": null
+}

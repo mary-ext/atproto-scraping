@@ -1,9 +1,9 @@
 {
 	"did": "did:web:permutation-kalis-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "bM4NmJim_-I6HJQ9VzrrbO3fD16KJR8FH_4C2mVeoj4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

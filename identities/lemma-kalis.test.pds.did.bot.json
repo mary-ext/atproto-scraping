@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-kalis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "mOG6Aeate6h43qEev-pStFcWYQHL7xhZ_VHOjvaTg_4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

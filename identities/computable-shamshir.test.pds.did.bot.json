@@ -1,9 +1,9 @@
 {
 	"did": "did:web:computable-shamshir.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "iMSGrGY28Kgvn28PFF6vzDxOPeRcocnUbfqeS43OgYM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

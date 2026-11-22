@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dolerite-roller.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "-i0IKht4WYnf6_Olc7WSTz_aUX0NrKMKHOCP_RRofYQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }

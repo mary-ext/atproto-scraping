@@ -1,9 +1,9 @@
 {
 	"did": "did:web:convolution-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795239421687,
-	"errorAt": null,
 	"hash": "bZmP5fdfSdMv0XGrwJexZE76UFJ5_eLlE8SBQIxY7Kg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795239421687,
+	"errorAt": null
 }
