@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wronskian-montante.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "g3yXVrkOq0XtEymtnhWwlDcXj-p4KG6UzOyoZetATUs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

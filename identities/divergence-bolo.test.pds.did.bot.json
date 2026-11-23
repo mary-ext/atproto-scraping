@@ -1,9 +1,9 @@
 {
 	"did": "did:web:divergence-bolo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "Op4oFNw39xT4ZBmyW4mAx2lz7J4mYq-sMjlpVLIvWtY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

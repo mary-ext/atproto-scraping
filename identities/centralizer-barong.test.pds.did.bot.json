@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-barong.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "nTeUUb6A0-489qZgWZKrbCKA7JoldLz3niGgS4FRoZ8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

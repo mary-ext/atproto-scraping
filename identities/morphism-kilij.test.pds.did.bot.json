@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-kilij.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "zc2poYeGih8iB-a4eatPqbKCuFe6yXVfOiXTGOMQbio",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

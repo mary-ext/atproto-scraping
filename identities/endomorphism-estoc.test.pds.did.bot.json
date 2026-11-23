@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "fVF5JEu501qUYODoIjd5MmypTl0wb7t8oS5Ir0avGXA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

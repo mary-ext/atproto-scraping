@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symplectic-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "2laWwKOZgFrdtNr9PDTAOFKDPJ2_lgoG07UBOO2S9eI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

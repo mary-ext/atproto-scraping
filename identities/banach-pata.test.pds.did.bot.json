@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-pata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "hRJqIZSPiz3yX6h1TddymM1X-EufxusIYkDH_i_UKmQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

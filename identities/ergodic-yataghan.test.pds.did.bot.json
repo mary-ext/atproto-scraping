@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ergodic-yataghan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "GJHyDGYtYs4NRfljO86SXKoJxWHntzdm0OkK3dG-cn4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

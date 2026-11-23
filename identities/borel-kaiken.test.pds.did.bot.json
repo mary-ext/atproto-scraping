@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-kaiken.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "no5JL_aJ0o1yQDP4sSnBBAFH658l5aHbi1TJFJQI61g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

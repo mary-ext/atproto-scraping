@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hermitian-akinaka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "UtxhlbGn6W0iLhv73wrKTuxEnHFhMI4VgZH3gVYFukc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

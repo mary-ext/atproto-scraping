@@ -1,0 +1,9 @@
+{
+	"did": "did:web:determinant-spatha.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "bh6SX4ssIpN5-ttkv_HoInzx2k5vTz9AdQDSTOw7VZQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

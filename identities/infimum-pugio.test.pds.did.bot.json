@@ -1,9 +1,9 @@
 {
 	"did": "did:web:infimum-pugio.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "-d-UCq3ci_E5r-QnNPO698dCiKsOHlSkjli8iR72qXU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "NdJDlBnxl4rQ2xWspc1cQgPIT7VYG5s9Bux8Fd1E2eU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hessian-spatha.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "vBpSgEeIpmxBxUkdRJMskhpWVtELjaaVViqsqDGJATM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

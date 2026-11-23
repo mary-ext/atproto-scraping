@@ -1,9 +1,9 @@
 {
 	"did": "did:web:compact-nodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "bGDxD8Sgv3n2o-3y8zhXgj2axV1csrAbHnQl84tIPPM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

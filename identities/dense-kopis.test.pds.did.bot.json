@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "tQdgmqVMSSQ9remJlwq9yshaGb2kLvAWwAsDqpChma0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

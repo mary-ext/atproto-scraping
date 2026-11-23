@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.yote.sh/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 1.20.1",
 	"firstSeenAt": 1794897029979,
-	"errorAt": 1795154174552
+	"errorAt": null
 }

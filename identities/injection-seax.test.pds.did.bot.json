@@ -1,9 +1,9 @@
 {
 	"did": "did:web:injection-seax.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "egXA_S8AkdzJgmxHDS1QC1rr7_wYyJD2839Lj9TJzSg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

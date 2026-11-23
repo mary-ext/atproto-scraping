@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "E4OacZB7pIWoA5xTLDb79JGUQlkmPv4Gr_R31wHuPAA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:determinant-kodachi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "K0nPgA6GBOFqhuGruoDnt4-k70DXjXeyCfZBTvxMxc0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

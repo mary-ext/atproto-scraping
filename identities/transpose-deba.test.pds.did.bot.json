@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transpose-deba.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "alcbaU6DznmEP0vH_GYFUCQd7kaqz6rp6LuSAqDxboc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

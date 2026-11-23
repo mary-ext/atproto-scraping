@@ -1,9 +1,9 @@
 {
 	"did": "did:web:normalizer-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "2X0DhofNblmdAgUPC865-sFFR2Qp47PqovfNg3QTvn4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

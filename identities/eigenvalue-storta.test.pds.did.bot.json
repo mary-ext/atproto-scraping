@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvalue-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "mfo1nfeX2srUECMH829PbLfHgDJGD11icz_zOhTXl4A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

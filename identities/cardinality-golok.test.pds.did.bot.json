@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cardinality-golok.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "JHjxvYwJxcVNEV4eYZDZGCmmkCH8AxD7ktXWqXwekaE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dihedral-zweihander.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "bpgeUEAja0OjRPmNKLEUSp5j1ZFf-s-U--wD3TaL7Kk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

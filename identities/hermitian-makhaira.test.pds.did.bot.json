@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hermitian-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "OJudMxQ4eNBgS5FbVs0_R34n9sU5Ycq7j3oWAerKvlI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

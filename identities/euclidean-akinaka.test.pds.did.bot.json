@@ -1,0 +1,9 @@
+{
+	"did": "did:web:euclidean-akinaka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "GEPgQtPaZa4W4q0WXjSy8oWCra9BPrPPIwFpjeRE7xg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

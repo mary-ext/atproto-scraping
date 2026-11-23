@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wolframite-pipit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "G992XKeukKpu2nnMAXUbKjrO3XvyfxYrPHxXfccGH10",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:automorphism-rapier.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "jlWdXlY7iCep9v-1Rf8tlQUB0Fmb752unY03mVoiluw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lemma-montante.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "sDdoIEjfsCfrvEhhunjMJ1E5NA6qr3_WyIAZQPdGYxE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-anelace.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "7hKHRdAAS2F05GkGCrw9p7RzzBNu3q-wlaZ2gW_ZeTI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

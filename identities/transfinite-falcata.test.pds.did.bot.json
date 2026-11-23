@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transfinite-falcata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "MVWLtBFf3qwjUNU8tCbNr0jqmSNusqjvA5epAD-LzLw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

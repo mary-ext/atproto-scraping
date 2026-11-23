@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-bolo.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "97h7Cfca_QIi1KQfkhrVujd4pd2D0yTir_AX-rIIboo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

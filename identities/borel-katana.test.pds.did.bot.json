@@ -1,0 +1,9 @@
+{
+	"did": "did:web:borel-katana.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795412664974,
+	"errorAt": null,
+	"hash": "-8UafzUKZ7Tz6kiFE1hW77QgxdKbI4XxXuUV3mBXjE0",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

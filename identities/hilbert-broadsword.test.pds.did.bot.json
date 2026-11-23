@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hilbert-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "XFKA-BK-wHSsI4pBqGw_YduFh93_WDTYg65D7-Of1WE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

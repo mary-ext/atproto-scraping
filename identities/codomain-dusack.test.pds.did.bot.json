@@ -1,9 +1,9 @@
 {
 	"did": "did:web:codomain-dusack.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "1fBpDW4jMCUgsInzdJRO6-PnjMfjdo1vWz3fzq8NosU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }

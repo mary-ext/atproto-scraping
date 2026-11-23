@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-jambiya.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795323737242,
-	"errorAt": null,
 	"hash": "kSTexS2_58FiSDUWU5_UL7Hy6AMbMlAtkdzbY9kzmJs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795323737242,
+	"errorAt": null
 }
