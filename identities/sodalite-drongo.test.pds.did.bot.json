@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sodalite-drongo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "yPpRubCujPZ0LZjhXf9xSe8A23jfCu3jYoORB2hTMSs",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:comail1.dweb.rip",
-	"status": "online",
+	"status": "offline",
 	"hash": "meBBoQRc6Wg8tG-Tys-cDNLwIpmBhtswidWBZ21oMU0",
 	"pds": "https://pds.rip/",
 	"labeler": null,
 	"firstSeenAt": 1794897029979,
-	"errorAt": null
+	"errorAt": 1795508521805
 }

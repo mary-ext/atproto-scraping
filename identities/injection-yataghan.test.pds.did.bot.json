@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-yataghan.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "8wVtpnIaf13OeT7isypYrYA5x1Hcsw9by02elXSFsNg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

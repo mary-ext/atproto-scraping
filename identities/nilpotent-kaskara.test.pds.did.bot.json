@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nilpotent-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "Ac4do_BLNvUd72hqclG5S3GtK3qSxHMt7HpQ7bUFELg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

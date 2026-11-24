@@ -1,9 +1,9 @@
 {
 	"did": "did:web:o-249.mongoose.world",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "LYXpmZtamWpAu1zWTXddWYWXGvnx33hm71uMw9bGkDw",
 	"pds": "https://mongoose.world/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

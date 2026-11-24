@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cyclic-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "xU8CxKh_-TkYA0rcvPzvMJ_l4BBEP4WraJ7TOIWO89E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

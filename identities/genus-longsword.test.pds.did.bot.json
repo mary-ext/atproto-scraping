@@ -1,9 +1,9 @@
 {
 	"did": "did:web:genus-longsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "CMJjdRBxQSrVtNwIH5-Ydl2z9Gr_uzoc-vkGEME5OYo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

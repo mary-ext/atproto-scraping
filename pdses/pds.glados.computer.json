@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.glados.computer/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon 1667274",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": null
+	"errorAt": 1795509416089
 }

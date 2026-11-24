@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ideal-karabela.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "S428j4OtHxw_Ts69eCnOf0JVEB7nG4Cd1c8YDVTVezo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

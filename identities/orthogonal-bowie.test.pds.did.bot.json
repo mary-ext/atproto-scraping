@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orthogonal-bowie.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "5nYOAxqlHNwWjSwCbIlXXy1gMQcoIJOvUdVkwYqAEME",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

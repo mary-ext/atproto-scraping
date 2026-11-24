@@ -1,9 +1,9 @@
 {
 	"did": "did:web:idempotent-odachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "rDGvgxn76HW-knq_kkIs8TbjFGNd9h7k16tAVhyDNaw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

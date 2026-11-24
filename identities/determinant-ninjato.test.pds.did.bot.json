@@ -1,9 +1,9 @@
 {
 	"did": "did:web:determinant-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "WX-4cj8_wXvAbI4v3apBiLBzNKU4kbtT44eZ_AnhjGE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

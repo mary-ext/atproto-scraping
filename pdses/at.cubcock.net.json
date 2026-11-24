@@ -1,8 +1,8 @@
 {
 	"url": "https://at.cubcock.net/",
-	"status": "offline",
-	"version": "0.4.5027",
+	"status": "online",
+	"version": "0.4.5062",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794026282322,
-	"errorAt": 1794897844575
+	"errorAt": null
 }

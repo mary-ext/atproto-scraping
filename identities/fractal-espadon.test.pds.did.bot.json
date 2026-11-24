@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fractal-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "N8mN7n4JhRfUOee-TFscwQLJnPrM3eFl4pejaxiPS4s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

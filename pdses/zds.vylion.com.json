@@ -1,7 +1,7 @@
 {
 	"url": "https://zds.vylion.com/",
 	"status": "online",
-	"version": "latest",
+	"version": "v0.15.3",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794026282322,
 	"errorAt": null

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transpose-kilij.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "ELTcb1kAHpLx4fMibjCHNd1Hl_t6U2J1OaPhJNbOwPQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

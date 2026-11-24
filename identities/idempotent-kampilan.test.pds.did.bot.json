@@ -1,9 +1,9 @@
 {
 	"did": "did:web:idempotent-kampilan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "TamcTgDT7JhQHGF-uGSwk2nAX8_RXypEla-Kdi6_bNs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alternating-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "w5R2KOeC06QOG3FbGtXWoZhfllo9nLYO0Z4ZXEkU_Ls",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

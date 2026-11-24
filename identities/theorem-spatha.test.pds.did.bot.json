@@ -1,9 +1,9 @@
 {
 	"did": "did:web:theorem-spatha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "Ni3ljlPf8K3lmOn--ZytYm6SqY7nApJmXSd8WRfyTHk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

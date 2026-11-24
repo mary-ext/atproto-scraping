@@ -1,0 +1,9 @@
+{
+	"did": "did:web:fibration-katzbalger.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "2IBtfHS9BiTsZFFoFzXMb_HBYcwbhjub5LZpGT7iLZQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,7 +1,7 @@
 {
 	"url": "https://zds.gillao.net/",
 	"status": "online",
-	"version": "latest",
+	"version": "v0.16.0",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1792119983106,
 	"errorAt": null

@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.krtko.me/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.55",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1794111950378,
-	"errorAt": 1795413426100
+	"errorAt": null
 }

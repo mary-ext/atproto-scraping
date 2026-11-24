@@ -1,9 +1,9 @@
 {
 	"did": "did:web:involution-khopesh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "6tYSSoRA1EYHG4PzmRLhrhURU_LonSdG5ut2uMeV3mI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

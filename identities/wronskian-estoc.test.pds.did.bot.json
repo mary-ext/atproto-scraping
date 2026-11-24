@@ -1,9 +1,9 @@
 {
 	"did": "did:web:wronskian-estoc.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "ZfDCkmpXn1iFrIReBzbLBpSkU2CzN90LtD1pJ4aK0ko",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:matrix-pinuti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "Na5ewRxNnyOoiB_VFf5qrea8H5qP26Pkq5plai4wktY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

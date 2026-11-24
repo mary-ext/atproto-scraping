@@ -1,0 +1,9 @@
+{
+	"did": "did:web:congruence-sica.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "TfuUm7UnKcfBo0m85dEweG2JubXVDziGXF2WmnbXQWU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

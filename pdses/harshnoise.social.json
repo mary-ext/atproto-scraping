@@ -1,8 +1,8 @@
 {
 	"url": "https://harshnoise.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.4.5051",
-	"inviteCodeRequired": false,
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1791948648583,
-	"errorAt": 1795413426100
+	"errorAt": null
 }

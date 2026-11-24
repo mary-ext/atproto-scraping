@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "hewX8iRJawdYUOFjcVw_AxJAuFHkj-GVG3FLjYonFTA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

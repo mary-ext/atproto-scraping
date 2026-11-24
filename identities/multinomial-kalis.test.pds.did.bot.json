@@ -1,9 +1,9 @@
 {
 	"did": "did:web:multinomial-kalis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "ic-vy9N_g9gWeAsRjzEvLZzdomVL2wmff2KA621ZRrM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

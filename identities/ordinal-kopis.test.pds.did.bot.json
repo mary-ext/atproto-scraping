@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ordinal-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "fcvmDW1EhQDOUhKJ8Of5d0thY2EmnLur8aznbjm43MU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

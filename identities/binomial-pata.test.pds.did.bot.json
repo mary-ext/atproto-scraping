@@ -1,9 +1,9 @@
 {
 	"did": "did:web:binomial-pata.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "-szSUqrc6sOEwzlvra2ENqcyubWD2K-T2yoysSX1T2s",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

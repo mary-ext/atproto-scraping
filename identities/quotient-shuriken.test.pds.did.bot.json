@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quotient-shuriken.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "XDCexygkFwyKh1EPoRbpvdwaE4IbSAiOZ3w_e81kiqM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

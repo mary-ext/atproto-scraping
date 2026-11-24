@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-karambit.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "xTdCLviqGWSEqJShptA6keVimPfb8mELBgdJjDmWZfU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

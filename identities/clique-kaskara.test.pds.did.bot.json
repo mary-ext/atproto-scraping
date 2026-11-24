@@ -1,9 +1,9 @@
 {
 	"did": "did:web:clique-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "9Un3vx55K7hOuhC1yzT_TSC8ajQPnC0xsds0gLg0k8Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

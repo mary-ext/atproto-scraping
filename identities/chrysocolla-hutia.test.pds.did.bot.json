@@ -1,9 +1,9 @@
 {
 	"did": "did:web:chrysocolla-hutia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "C6PP-wfL3z6_4mU8R_QBdX51a5-_igh0o1XIRKskNBw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.yote.sh/",
 	"status": "online",
-	"version": "tranquil 0.6.5",
+	"version": "tranquil 0.9.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1783910035353,
 	"errorAt": null

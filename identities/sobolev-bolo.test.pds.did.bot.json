@@ -1,0 +1,9 @@
+{
+	"did": "did:web:sobolev-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "4MzmGyTpRNzZoxZccw1xwFNUEsgx9FKQEg5TIXrUXLM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

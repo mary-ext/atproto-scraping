@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-shortsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "CQ2bC4N21Zr0jTeIoUzLbWD8ulEeXZtft5sdjYCLUmo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

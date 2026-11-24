@@ -1,9 +1,9 @@
 {
 	"did": "did:web:polytope-talwar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "P8WRsMYkGVIelMRT7fT53Cx4fI1xgjP24-HgjXGIEqo",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

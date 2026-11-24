@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.staging.jib.chat/",
-	"status": "online",
+	"status": "offline",
 	"version": "1.1.0+unknown",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1793247672259,
-	"errorAt": null
+	"errorAt": 1795509416089
 }

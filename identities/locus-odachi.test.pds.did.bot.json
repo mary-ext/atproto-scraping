@@ -1,0 +1,9 @@
+{
+	"did": "did:web:locus-odachi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "OYnKoMtfbxWTXsu12fW7tzW0xWKpNUOFsQ6mOnptLAA",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

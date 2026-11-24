@@ -1,7 +1,7 @@
 {
 	"url": "https://pds.biscuits.at/",
 	"status": "online",
-	"version": "tranquil 0.8.0",
+	"version": "tranquil 0.9.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1788490425346,
 	"errorAt": null

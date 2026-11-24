@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbifold-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "g_dwJejN2bWiTxbEVb9GSZB35QB_4fkvddWbFmztCjE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-golok.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "Fv-8ml5p4qNxJuN9LxHhaV-FqFzFpLxM55yqzuPIxZc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

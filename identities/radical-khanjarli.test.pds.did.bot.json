@@ -1,9 +1,9 @@
 {
 	"did": "did:web:radical-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "Sc42q-QQr8gsV1lBtHxj6wedePmMQINniG1GpYHjDtc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

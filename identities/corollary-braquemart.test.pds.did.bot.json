@@ -1,9 +1,9 @@
 {
 	"did": "did:web:corollary-braquemart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "wI1sLGzyzycbch0mU8L5yqLjh1xUQrRPmylwiao2jcM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }

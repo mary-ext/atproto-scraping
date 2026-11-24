@@ -1,0 +1,9 @@
+{
+	"did": "did:web:determinant-espadon.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795508521805,
+	"errorAt": null,
+	"hash": "8NOxb3RTpcpY80hKX8IN3Q8QacAhXZzOdHKWkImH7eU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

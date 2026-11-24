@@ -1,9 +1,9 @@
 {
 	"did": "did:web:computable-barong-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795412664974,
-	"errorAt": null,
 	"hash": "FyKXj3qw5KViwwAaKOvbh7WtkxqN1PTPQebycG4032o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795412664974,
+	"errorAt": null
 }
