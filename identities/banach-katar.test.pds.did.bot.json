@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-katar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "X96ihcIqmAExfCd1VpclFd77WOZePng_76lv8Q9PiO0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ordinal-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "YT9BAN4rRIVz43-nT0BOT8o1tvu9qkjnyXLz1KASNCs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

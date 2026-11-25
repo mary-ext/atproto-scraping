@@ -1,9 +1,9 @@
 {
 	"did": "did:web:octonion-dusack.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "4Iflj87vXTprXkxG13KTxaxu9g27OZAZt-6CYr7KRV4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

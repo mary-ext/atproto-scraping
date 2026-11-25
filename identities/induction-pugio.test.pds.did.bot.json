@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-pugio.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "GPaycAMyFmRqfAMHaxTgILcgSukvUNu88ZxCTRPaOEM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nwepoetorgkpoopi.social.clipsymphony.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "diPDv5IZqo3oALZlWpgVTI-PFAMIjnqlWmoS6N4NTRI",
 	"pds": "https://pds.social.clipsymphony.com/",
 	"labeler": null,
 	"firstSeenAt": 1793072474529,
-	"errorAt": null
+	"errorAt": 1795589893495
 }

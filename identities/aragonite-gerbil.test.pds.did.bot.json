@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aragonite-gerbil.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "m-JsuwOGXWJ2wNLnkfGQ70gxAj2c-Omna5iqCHsJOSM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

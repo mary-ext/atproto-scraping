@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conjecture-cutlass.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "o73FVfOb4tmSct_uycDu5DPi3TkBdZd47u6BYsYBNp4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

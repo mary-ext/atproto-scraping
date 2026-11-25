@@ -1,9 +1,9 @@
 {
 	"did": "did:web:modulus-kris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "EYCc1d8bTxpJ8Gs_k06Od_uBiPxDjgWtTAdxk9Y77CQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

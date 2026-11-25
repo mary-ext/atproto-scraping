@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "iKUBb-1LugMuAXzb7zRiZXzal7eAis2uwMKUTcBl02A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

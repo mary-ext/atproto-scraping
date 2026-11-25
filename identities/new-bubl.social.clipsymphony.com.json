@@ -1,9 +1,9 @@
 {
 	"did": "did:web:new-bubl.social.clipsymphony.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "dv1Io7wnQNlkCf8aXvidpb9PyTuEniEhHa7czL_9riM",
 	"pds": "https://pds.social.clipsymphony.com/",
 	"labeler": null,
 	"firstSeenAt": 1790827665128,
-	"errorAt": null
+	"errorAt": 1795589893495
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:category-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "lxm_Zx4DylTYn-J8cz_2lIxFlpckdrnF6jxKQDWJAss",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

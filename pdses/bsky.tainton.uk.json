@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.tainton.uk/",
-	"status": "offline",
-	"version": "0.4.5051",
+	"status": "online",
+	"version": "0.4.5065",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1776299762045,
-	"errorAt": 1795509416089
+	"errorAt": null
 }

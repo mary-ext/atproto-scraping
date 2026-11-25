@@ -1,0 +1,9 @@
+{
+	"did": "did:web:jacobian-chilanum.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795589893495,
+	"errorAt": null,
+	"hash": "2YXHlaX60CN5oc4lT0lWYC39DNEuGPq9EnVss5nGNoE",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

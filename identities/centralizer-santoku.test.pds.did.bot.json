@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "__rhV0cpYSnH_Hf6C1Yhe7Gipea6K_mUAIVlCM3R_ho",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

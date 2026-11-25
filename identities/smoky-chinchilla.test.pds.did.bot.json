@@ -1,9 +1,9 @@
 {
 	"did": "did:web:smoky-chinchilla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "fsHlIPnCB2DkBiH7GuhcdYrhCoxq4YhB1Ccnz1iqc30",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

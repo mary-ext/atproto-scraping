@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homotopy-firangi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "YiunDhUnJ6gQizEB0OqeO18yTZZkGCfH6nZiN5IhC4o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

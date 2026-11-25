@@ -1,0 +1,9 @@
+{
+	"did": "did:web:verify.nearhorizon.app",
+	"status": "online",
+	"firstSeenAt": 1795589893495,
+	"errorAt": null,
+	"hash": "wdDsPi2dsVGY1jn-YaOxXcH7v7oLQ9Uudv6xWhDHcXI",
+	"pds": "https://locus.nearhorizon.app/",
+	"labeler": null
+}

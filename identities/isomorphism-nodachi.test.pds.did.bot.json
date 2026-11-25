@@ -1,9 +1,9 @@
 {
 	"did": "did:web:isomorphism-nodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "5c2azy1fUnrVeqTafC6D5Vum0Y-fEbM9GX1ge7lH5bE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:planar-khopesh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "rXcJvbS2pKera2U-uy_UmuFa0345025gQSsVstaezsU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

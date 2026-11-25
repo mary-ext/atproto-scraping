@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-gyuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "v1uqrsdBZCAIbXXj8yVJpbCIExcvaM2m8jpPsLHiP6Q",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

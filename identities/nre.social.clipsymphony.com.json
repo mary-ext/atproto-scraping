@@ -1,9 +1,9 @@
 {
 	"did": "did:web:nre.social.clipsymphony.com",
-	"status": "online",
+	"status": "offline",
 	"hash": "daA8MJ9w9VRMVEFpR2RQxTOobto87EkkVZ2_Y89nTyQ",
 	"pds": "https://pds.social.clipsymphony.com/",
 	"labeler": null,
 	"firstSeenAt": 1792638952979,
-	"errorAt": null
+	"errorAt": 1795589893495
 }

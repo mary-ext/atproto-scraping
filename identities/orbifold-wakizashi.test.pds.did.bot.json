@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbifold-wakizashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "z9Kwc_qzp1GlqgSVyXqXY71RwXqcH-NFzEzoaaU8lzc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

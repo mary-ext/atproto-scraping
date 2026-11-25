@@ -1,9 +1,9 @@
 {
 	"did": "did:web:countable-broadsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "tj1n_hnjR5JK84YClbE2Xj8_ySHscouf_21SJ37IthQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

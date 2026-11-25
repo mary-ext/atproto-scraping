@@ -1,9 +1,9 @@
 {
 	"did": "did:web:octonion-parang-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "_154lwBQ8VaJ2tvPB7gMxzn7wYz596nN2uOjI-EbpU0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

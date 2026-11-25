@@ -1,9 +1,9 @@
 {
 	"did": "did:web:morphism-miaodao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "2fyJGiHf8hWhH06ZX6efrHOgqIWW9hjamqHEyaGJ6cw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

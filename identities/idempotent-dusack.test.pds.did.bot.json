@@ -1,9 +1,9 @@
 {
 	"did": "did:web:idempotent-dusack.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "TqCiWkDnJTegtmdMsR-L1hyK92jwbPPIYO5NVhJ2eI4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

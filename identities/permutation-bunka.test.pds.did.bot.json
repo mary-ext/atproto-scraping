@@ -1,9 +1,9 @@
 {
 	"did": "did:web:permutation-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "8lzYHwx_62q-I91H_BCwah9ED1Rsq7reG4JrmmnOwhw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

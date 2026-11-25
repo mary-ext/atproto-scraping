@@ -1,9 +1,9 @@
 {
 	"did": "did:web:unitary-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "F7eRMCDTo_1LQDB-vwoUKf6q0usjA3-wtlChFT47iE4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

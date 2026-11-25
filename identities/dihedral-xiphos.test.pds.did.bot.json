@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dihedral-xiphos.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "BIwVseHdwda1E23uHLku-BX69Z7_CSfPRvQmEEyyYVQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

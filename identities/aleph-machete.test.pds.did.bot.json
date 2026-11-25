@@ -1,9 +1,9 @@
 {
 	"did": "did:web:aleph-machete.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "YY1iTEXGdjg4gTi2BS1VrBD0WISPrUPdK5hIsXqIT7U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

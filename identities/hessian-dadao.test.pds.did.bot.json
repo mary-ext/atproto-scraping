@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hessian-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "ge46iPMO_CsFMvRdLP5L_2QJaLTW-OlbJHjF6aVgZRk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }

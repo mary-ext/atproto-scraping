@@ -1,8 +1,8 @@
 {
 	"url": "https://hplus.social/",
-	"status": "offline",
+	"status": "online",
 	"version": "0.5.64",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1795323737242,
-	"errorAt": 1795509416089
+	"errorAt": null
 }

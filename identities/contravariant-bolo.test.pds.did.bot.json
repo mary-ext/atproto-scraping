@@ -1,0 +1,9 @@
+{
+	"did": "did:web:contravariant-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795589893495,
+	"errorAt": null,
+	"hash": "kGb3ONEg5FMIqTXjVjFnXUZsTKOah0mT1SYN88T_4tc",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

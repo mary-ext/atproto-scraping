@@ -1,9 +1,9 @@
 {
 	"did": "did:web:contravariant-shotel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795508521805,
-	"errorAt": null,
 	"hash": "aivDcgUe8N7NMx1v8_KC14UpRA86TakyhyzDKcGlkWk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795508521805,
+	"errorAt": null
 }
