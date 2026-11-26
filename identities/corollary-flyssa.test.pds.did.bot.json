@@ -1,0 +1,9 @@
+{
+	"did": "did:web:corollary-flyssa.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "ejbxxpgQ2KFp9DvGD1SO4PJUfYKvmhXrPF7sljKnzes",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

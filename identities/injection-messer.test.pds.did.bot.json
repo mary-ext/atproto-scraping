@@ -1,9 +1,9 @@
 {
 	"did": "did:web:injection-messer.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "J8HlhLiBFTL3jxcKY2a1_8vHIbsB085SJSQh-O7T0zQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

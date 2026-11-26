@@ -1,0 +1,9 @@
+{
+	"did": "did:web:induction-schiavona.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "IoXoAzNd6PAIiC9KyVNsOH1ZZdxkb6dAmysDoJwci_c",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

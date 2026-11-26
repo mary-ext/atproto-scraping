@@ -1,0 +1,9 @@
+{
+	"did": "did:web:stochastic-anelace.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "ziUJIgS7FluTOMARgL2DjIwf5B3SqTFmCo6zAvnd7ks",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

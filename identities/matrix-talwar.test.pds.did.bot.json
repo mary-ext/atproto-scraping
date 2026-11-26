@@ -1,9 +1,9 @@
 {
 	"did": "did:web:matrix-talwar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "w4nUmyaf-b_uCC1B7xU-rBFj9c_hRrdkIrT0fxhtgEc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

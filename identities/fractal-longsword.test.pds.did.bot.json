@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fractal-longsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "dor8r73e_iVaKFDg5B6UUagFPuRP47B3qhfP7m1ZCdc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

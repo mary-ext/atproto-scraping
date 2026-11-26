@@ -1,9 +1,9 @@
 {
 	"did": "did:web:digraph-shuriken.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "l2BdK_VVv6PKDBVyk-RbHah1Q5miCcha6hmj_ApyRAg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

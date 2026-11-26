@@ -1,9 +1,9 @@
 {
 	"did": "did:web:phyllite-grison.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "IorOcevNqXvQWcJICfMlWJnHKGhyzN3TU1TLptE88Os",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

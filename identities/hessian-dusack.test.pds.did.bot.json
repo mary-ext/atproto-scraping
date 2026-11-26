@@ -1,0 +1,9 @@
+{
+	"did": "did:web:hessian-dusack.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "cPurzQK2Ta97T5Isd9pJ4bibrFH9cEg6OAUrAcOJvPY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

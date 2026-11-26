@@ -1,9 +1,9 @@
 {
 	"did": "did:web:endomorphism-sabre.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "YBGsU607sXhM6XDJ14bJgMLB1YpDLdhj0fc8eoFS0ZY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

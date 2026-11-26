@@ -1,9 +1,9 @@
 {
 	"did": "did:web:unitary-sabre.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "eeMhJKmvClw1ajKQdy6uGJno0NPJvYr7211Z2y5S7uE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

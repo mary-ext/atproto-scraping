@@ -1,9 +1,9 @@
 {
 	"did": "did:web:asymptote-santoku.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "ZMMZSFUOdHyVIBE7fynIkIvf6Dym9BiFUo5_bUyEnjw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

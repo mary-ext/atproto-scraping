@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ordinal-spatha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "i7IDPXsRczQykEvf_gKshrAhGrpsQOvxbnyTq6cKYpM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-rondel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "Dq6Lp656LHaRCvkMsqawlHWzAp7GsuRnVsSJlOIsFnw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

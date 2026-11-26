@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scalar-smallsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "J9Mr4ZHUZ6sb94ohnRiGB6tSAoJAqQ8x8-6Ei2tVvco",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

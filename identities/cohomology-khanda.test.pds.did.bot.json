@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cohomology-khanda.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "bpcmf1Rfs2iJBUQ6kLfl6dWOojhcCVRzbm04Mmw24SA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:jacobian-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "XL2BSMVhX3sRpp2NZhJDDIPLdedAWwd3KHW16kUkqqM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

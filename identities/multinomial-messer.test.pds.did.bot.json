@@ -1,9 +1,9 @@
 {
 	"did": "did:web:multinomial-messer.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "ojU9WAXndF80r_t_OrWU3agorMwiMX5_wkzG64H1Bng",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

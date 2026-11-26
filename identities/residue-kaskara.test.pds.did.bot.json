@@ -1,9 +1,9 @@
 {
 	"did": "did:web:residue-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "1DXfB3FqShp_7the3j3ymvb-bYvuEeE7KCWyno8nurs",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

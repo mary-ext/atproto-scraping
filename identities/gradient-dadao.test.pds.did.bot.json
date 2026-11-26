@@ -1,9 +1,9 @@
 {
 	"did": "did:web:gradient-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "uUkijD0d1VazuW45Bxn3j4lFcVFEYK4sF_-bjoyIj7o",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

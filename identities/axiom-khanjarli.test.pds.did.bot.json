@@ -1,9 +1,9 @@
 {
 	"did": "did:web:axiom-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "kB6cSp7JxQ8GntkSXoo5srz5gK0t2hEPQPHWGOyigto",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

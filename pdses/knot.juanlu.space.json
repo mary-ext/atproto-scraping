@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.juanlu.space/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 1.20.0",
 	"firstSeenAt": 1795067599992,
-	"errorAt": 1795590599735
+	"errorAt": null
 }

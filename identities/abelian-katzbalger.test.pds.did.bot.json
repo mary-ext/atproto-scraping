@@ -1,9 +1,9 @@
 {
 	"did": "did:web:abelian-katzbalger.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "kmI3TS2_d37HM6YLJiOcELbaFyDfzYO1BnlIDUGxTC8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

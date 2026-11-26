@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "k-bkSIcfcdzBykNfSOTn1fnhSYbowjLxiHn0B6JY1Ns",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

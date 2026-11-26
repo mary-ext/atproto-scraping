@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-pata.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "zYVrFIzhn8MoRZ5PYBYtMjaqEi_fdtutfgIP8oi2mEk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

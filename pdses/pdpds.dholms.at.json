@@ -1,8 +1,8 @@
 {
 	"url": "https://pdpds.dholms.at/",
-	"status": "offline",
-	"version": "0.4.5057",
+	"status": "online",
+	"version": "0.4.5062",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1786499006861,
-	"errorAt": 1795590599735
+	"errorAt": null
 }

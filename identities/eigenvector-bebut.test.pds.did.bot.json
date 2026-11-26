@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "5tWIIDT15b85WEXSeV3SWj3GL0The3zRLmCB-PM5p3A",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

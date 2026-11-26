@@ -1,9 +1,9 @@
 {
 	"did": "did:web:axiom-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "KWvdw8xWkk42qLgp-DGzOQAXEfAr-k1P-c20AxWaz60",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

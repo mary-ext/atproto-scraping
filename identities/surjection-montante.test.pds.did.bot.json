@@ -1,0 +1,9 @@
+{
+	"did": "did:web:surjection-montante.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "TlxYLPweeWqX8kcEscHGUFLCwtGYs9rosrHL07p9Ypk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

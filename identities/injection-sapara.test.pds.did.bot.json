@@ -1,9 +1,9 @@
 {
 	"did": "did:web:injection-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "ao7bI_Sr5nwiNOZtz-Lxh_rjrrXX1-FS5wh1FFHoJhY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

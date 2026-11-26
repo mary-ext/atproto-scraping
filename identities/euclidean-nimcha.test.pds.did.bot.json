@@ -1,9 +1,9 @@
 {
 	"did": "did:web:euclidean-nimcha.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "sOaHQRO_XAu1q5A3Wa5RDtpyP58fABgsmRbKr1RAk_g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

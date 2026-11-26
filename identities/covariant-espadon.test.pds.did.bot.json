@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-espadon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "2rFUQPP1PH7dG3100hjSUpJpJJ3gye4uWCdfLQH5bP8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

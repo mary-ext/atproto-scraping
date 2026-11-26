@@ -1,9 +1,9 @@
 {
 	"did": "did:web:jacobian-baghnakh.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "y5874ixQPdZcffDKJjeypShEWZ9c5cr7NnkDtmbJfuQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

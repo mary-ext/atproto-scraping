@@ -1,9 +1,9 @@
 {
 	"did": "did:web:functor-dirk.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "cImNRh1kPRVR_2I-fIC8lZs3ifWbTbCOaTDbablx5c0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

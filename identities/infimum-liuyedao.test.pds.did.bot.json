@@ -1,9 +1,9 @@
 {
 	"did": "did:web:infimum-liuyedao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "ZLBw66fyQnZXSnognmmTbT9e1S-ARdeLJ6iw0iMBHZc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

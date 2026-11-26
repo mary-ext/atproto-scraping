@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cokernel-gladius.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "kyuc7uj6Vt2Xt8bITWKsovVppodBMr8S61aAgirUTqM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

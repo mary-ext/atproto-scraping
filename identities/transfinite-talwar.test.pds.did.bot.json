@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transfinite-talwar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "s-ECpud1vd7Cj-6IExGJeYwxod7RbQkWUraqr-j5tpE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

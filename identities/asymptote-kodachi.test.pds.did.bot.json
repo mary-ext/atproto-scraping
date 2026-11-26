@@ -1,9 +1,9 @@
 {
 	"did": "did:web:asymptote-kodachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "y2OYyR7nZslEl95P3YZGkVdBxuUET4C-bb1LEJ5jD2c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }

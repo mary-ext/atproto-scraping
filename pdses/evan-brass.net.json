@@ -1,8 +1,8 @@
 {
 	"url": "https://evan-brass.net/",
-	"status": "online",
+	"status": "offline",
 	"version": "cocoon v0.15-0-gec9eb18",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1791691092014,
-	"errorAt": null
+	"errorAt": 1795676608261
 }

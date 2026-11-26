@@ -1,0 +1,9 @@
+{
+	"did": "did:web:stochastic-machete.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795675784436,
+	"errorAt": null,
+	"hash": "WVNf9SQvlZ6V7qav2WYzFL6AQt2TgGaqT5d5Sh1uLPY",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

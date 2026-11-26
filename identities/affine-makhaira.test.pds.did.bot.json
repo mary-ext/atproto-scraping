@@ -1,9 +1,9 @@
 {
 	"did": "did:web:affine-makhaira.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795589893495,
-	"errorAt": null,
 	"hash": "3wpyWRFqLh-yACHvtwMi-g3szB_zoTKHJaajY0E629w",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795589893495,
+	"errorAt": null
 }
