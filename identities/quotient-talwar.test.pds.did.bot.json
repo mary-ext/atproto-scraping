@@ -1,9 +1,9 @@
 {
 	"did": "did:web:quotient-talwar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "ynwmTJ1ETQ4AMzGZsPhQsqRzqZKzY0PxchNCrNbcHts",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

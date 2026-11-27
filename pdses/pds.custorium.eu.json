@@ -1,6 +1,8 @@
 {
 	"url": "https://pds.custorium.eu/",
-	"status": "unreachable",
+	"status": "online",
+	"version": "custorium v0.8.15-0.20261126165248-33e78270993b",
+	"inviteCodeRequired": true,
 	"firstSeenAt": 1795239421687,
-	"errorAt": 1795240206340
+	"errorAt": null
 }

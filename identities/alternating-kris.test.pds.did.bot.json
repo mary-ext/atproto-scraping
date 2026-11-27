@@ -1,0 +1,9 @@
+{
+	"did": "did:web:alternating-kris.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "E8WmEkvyrmGtXPKC8wNhVXiF_vIuLHkJdPPhywLgA1g",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:sheaf-hamidashi.test.pds.did.bot",
 	"status": "offline",
-	"hash": "C5aw94QzAtfQth-dNs1KJ6QtLtRwJeoUKoNvkq39TRE",
+	"hash": "4W17gIJ5PbbpcemYPwZ9iAXsakh_jRluCZdaLVwcdqE",
 	"pds": "https://pds.did.bot/",
 	"labeler": null,
 	"firstSeenAt": 1792552644079,
-	"errorAt": 1795239421687
+	"errorAt": null
 }

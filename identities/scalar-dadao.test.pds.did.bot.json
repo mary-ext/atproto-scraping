@@ -1,9 +1,9 @@
 {
 	"did": "did:web:scalar-dadao.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "4SoUUPUPbcqZIL4qe3dg42mP4-h4zhHqfKyy0CAPMkk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

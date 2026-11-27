@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-poniard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "J7KpH_99vUhIhUfkvGixVyfccDjLceNeT7lYlQvhrmg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

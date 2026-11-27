@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orbifold-kopis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "HTAFR400Sq9OhBMpznO_9G2zuNtYpph2sSOwX2f2vcg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

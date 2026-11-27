@@ -1,9 +1,9 @@
 {
 	"did": "did:web:ergodic-keris.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "sHyJ42AMkhLj1RWf2Qi-zGVH8KmQKLJYR_jbq5ByVYg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cokernel-palash-2.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "LENJQz2Fzh7K6dQ51FFCMVVt1m2_g5UFvTNxzx_D1dE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

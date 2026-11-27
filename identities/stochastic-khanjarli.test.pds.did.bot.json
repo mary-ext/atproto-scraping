@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stochastic-khanjarli.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "njRDvNLjTGCy0gT59u5uHpKY-61qp8xb_aV-40bvuJw",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

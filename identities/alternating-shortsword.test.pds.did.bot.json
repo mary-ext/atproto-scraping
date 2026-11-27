@@ -1,9 +1,9 @@
 {
 	"did": "did:web:alternating-shortsword.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "dl53JIj0w_ZlNOc_Z6LqpzU1if05CO_vHlO6hL8F4so",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

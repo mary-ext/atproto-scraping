@@ -1,9 +1,9 @@
 {
 	"did": "did:web:symmetric-bunka.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "H2T9N4GC-4jbZhs2mzd8schM3oYA6rh3yBAZ4C3obKQ",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

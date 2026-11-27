@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cyclic-pichangatti.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "LP8gYHApO6uz_uupfIF7EBeyfMFixfDTz6s5V7WFp44",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-sica.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "PiuHgvM16-8gx7ZjmrAxpNA7VpiUXebNw0FS_pXbAgs",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

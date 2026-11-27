@@ -1,0 +1,9 @@
+{
+	"did": "did:web:compact-bolo.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "CNTukLFh1Qi1EdbQpoUA1PBcwdrm8iYHhwIZ9gDPo4c",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

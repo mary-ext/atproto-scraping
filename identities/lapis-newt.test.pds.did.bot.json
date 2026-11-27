@@ -1,9 +1,9 @@
 {
 	"did": "did:web:lapis-newt.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "v68PTtwwQN1i6ras7GJCx3OucXG3l_VnYUGkqTQplEg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

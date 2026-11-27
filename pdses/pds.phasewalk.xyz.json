@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.phasewalk.xyz/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5065",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1777509625268,
-	"errorAt": null
+	"errorAt": 1795762521061
 }

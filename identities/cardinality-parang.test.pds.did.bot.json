@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-parang.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "gOITIHyxpyK8N-Z3jotKVlEN0mJ_soAga4xPsrx12MU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

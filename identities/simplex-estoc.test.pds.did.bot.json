@@ -1,0 +1,9 @@
+{
+	"did": "did:web:simplex-estoc.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "qBljTCtbQ1BqACVJpTLfYiQ5O9vl2qTG08KXgRLK6VM",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

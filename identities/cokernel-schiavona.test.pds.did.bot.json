@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cokernel-schiavona.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "-BTBGAnF1vFR_cLkqxPFsmNkogfGlXgBr4Zh6zRJ7h0",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

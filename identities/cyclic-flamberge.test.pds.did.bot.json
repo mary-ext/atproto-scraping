@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cyclic-flamberge.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "HhpmfqmHNLCV4HWgNtbA1oKFdmgr3Ewcx9fuTl_LzdU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

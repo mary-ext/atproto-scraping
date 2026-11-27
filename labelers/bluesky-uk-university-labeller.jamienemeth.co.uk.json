@@ -1,8 +1,8 @@
 {
 	"url": "https://bluesky-uk-university-labeller.jamienemeth.co.uk/",
 	"did": "did:plc:zexhusqo6gf4ysqnb4ln3moq",
-	"status": "online",
+	"status": "offline",
 	"version": "0.2.0",
 	"firstSeenAt": 1794632063543,
-	"errorAt": null
+	"errorAt": 1795762521061
 }

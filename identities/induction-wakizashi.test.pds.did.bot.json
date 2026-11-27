@@ -1,9 +1,9 @@
 {
 	"did": "did:web:induction-wakizashi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "4kjn8Iqr7PqFKJMNI0gy0cZxphlBu841zELugVg-PXg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

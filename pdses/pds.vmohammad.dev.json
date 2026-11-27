@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.vmohammad.dev/",
-	"status": "offline",
-	"version": "tranquil 0.8.0",
+	"status": "online",
+	"version": "tranquil 0.9.1",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1795323737242,
-	"errorAt": 1795676608261
+	"errorAt": null
 }

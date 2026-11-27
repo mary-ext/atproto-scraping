@@ -1,9 +1,9 @@
 {
 	"did": "did:web:tensor-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "PxgRLyjuxjkCy0MHw2dWM98I690OCFhjtbbJ0LZPZ3U",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:locus-firangi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "aJ_HOQqCpBVwwmVgFgH-AcOTtfYNe-ywfZY5g153UHk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

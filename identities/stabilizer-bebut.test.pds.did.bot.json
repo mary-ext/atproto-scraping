@@ -1,9 +1,9 @@
 {
 	"did": "did:web:stabilizer-bebut.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795675784436,
-	"errorAt": null,
 	"hash": "8NqZZROptqSMJwrNkylnF7e7wJ6Mt1IXw7dGQiKbo0E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795675784436,
+	"errorAt": null
 }

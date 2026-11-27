@@ -1,0 +1,9 @@
+{
+	"did": "did:web:scalar-kris.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795761714754,
+	"errorAt": null,
+	"hash": "MJ4YZTmBzb_IkztERJdXaUcIFa6WRsd0XAU1hNYwkzg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

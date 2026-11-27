@@ -1,7 +1,7 @@
 {
 	"url": "https://knot.vmohammad.dev/",
-	"status": "offline",
+	"status": "online",
 	"version": "knot 1.20.1",
 	"firstSeenAt": 1795323737242,
-	"errorAt": 1795676608261
+	"errorAt": null
 }
