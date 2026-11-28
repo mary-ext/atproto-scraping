@@ -1,9 +1,9 @@
 {
 	"did": "did:web:topos-claymore.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "bA8hscbU02iF-8VULEjX3tuYge5k_9Di_wBpTbwNVQY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

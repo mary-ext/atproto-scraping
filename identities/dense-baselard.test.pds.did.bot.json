@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dense-baselard.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "GjZBeJELWXcDom6l8HNOqNc8lFM-gU12UxpgflxT0aY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

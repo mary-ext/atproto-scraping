@@ -1,0 +1,9 @@
+{
+	"did": "did:web:injection-kukri.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "dNZhdqLPSlS1B-VZO5Sn3BWcvqnV-xdfvD4jl8wqL8I",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

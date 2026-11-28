@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cokernel-tachi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "y_KnkV1iHJcody-7CtkyBtDz3Q6nHf0sKgJU5wsosHk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

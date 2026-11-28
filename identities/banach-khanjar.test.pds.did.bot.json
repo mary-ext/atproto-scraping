@@ -1,9 +1,9 @@
 {
 	"did": "did:web:banach-khanjar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "X2JBbU4XEnL01RolCb8So13OAd_I-D1ZfkI9L7rxED4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

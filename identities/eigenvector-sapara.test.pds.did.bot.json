@@ -1,9 +1,9 @@
 {
 	"did": "did:web:eigenvector-sapara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "4Jv3R9Q9_okwnaH_aKzLHBPS8OzsIvMeNduwcoZnvxc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

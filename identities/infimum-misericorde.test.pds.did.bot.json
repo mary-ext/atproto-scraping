@@ -1,9 +1,9 @@
 {
 	"did": "did:web:infimum-misericorde.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "SF9kazg_zO0LLVPC_PB3MDch5xMhcGwSeAzDMMqHGXE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

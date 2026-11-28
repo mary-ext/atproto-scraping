@@ -1,9 +1,9 @@
 {
 	"did": "did:web:dihedral-jian.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "T3jEeqmVyL9ylwObR7gFN5FKSTZgSX3MzMM9XXqmzRc",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

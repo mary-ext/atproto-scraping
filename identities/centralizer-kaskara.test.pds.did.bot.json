@@ -1,9 +1,9 @@
 {
 	"did": "did:web:centralizer-kaskara.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "dJxE1-PFEfTeQsIZ1652r_ETVAI1GMhCAvzrBZXB3mk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

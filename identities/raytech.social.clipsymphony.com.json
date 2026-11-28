@@ -1,9 +1,9 @@
 {
 	"did": "did:web:raytech.social.clipsymphony.com",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "fIm0JZsaGcJ0WCslYLMhij8LEeIe1onPnIDMQb8thRU",
 	"pds": "https://pds2.social.clipsymphony.com/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:modulus-scimitar.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "7ATdyIBm3ujW9WW8T9w8hyhsr7y8MN-54vHSKsdXrQw",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

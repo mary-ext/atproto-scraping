@@ -1,0 +1,9 @@
+{
+	"did": "did:web:induction-kunai.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "Ho2eYeVGB3x3NX_EWrOMTcFRFRYVc0vCBYyuFqGtMpg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:discriminant-nimcha.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "uiL3ZsymsEaa8WonpP0xb00kmn7la5TPpFpulrS0eTk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

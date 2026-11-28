@@ -1,9 +1,9 @@
 {
 	"did": "did:web:fibration-kalis.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "4h2vS8RWhPyYvhYr5seEHS92t3OBu3DQX05coxt-sY8",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

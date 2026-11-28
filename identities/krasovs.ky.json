@@ -1,6 +1,9 @@
 {
 	"did": "did:web:krasovs.ky",
-	"status": "unreachable",
+	"status": "online",
+	"hash": "9DLxll_90P8N9KCmqdbKRDwWV8rBJfK7ZTfN3V7zgKU",
+	"pds": "https://pds.krasovs.ky/",
+	"labeler": null,
 	"firstSeenAt": 1795412664974,
-	"errorAt": 1795508521805
+	"errorAt": null
 }

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:laplacian-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "_OGDcEmHfrBhfb-ibfiCG8HPagTSqV6J_BHfr-o7JQM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

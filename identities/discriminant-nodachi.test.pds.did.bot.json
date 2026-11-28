@@ -1,0 +1,9 @@
+{
+	"did": "did:web:discriminant-nodachi.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "twF8PJKVPVZarFpvcpFnoL-AyEqp5O_mTGv0OJVMFNk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

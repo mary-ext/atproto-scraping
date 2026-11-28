@@ -1,9 +1,9 @@
 {
 	"did": "did:web:bijection-rondel.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "kYzE72YWBcWS3f-jT8zVgG2RZKnZdXwNU3sAvyaeE1M",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

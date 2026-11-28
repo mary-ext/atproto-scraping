@@ -1,9 +1,9 @@
 {
 	"did": "did:web:borel-storta.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "cY4jNe4ja88ZKGgm0BQsNJOFcZQPfZbCa_38yCNU1kA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

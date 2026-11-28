@@ -1,9 +1,9 @@
 {
 	"did": "did:web:coefficient-bowie.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "jqsbCi-5EYxtuhjQJt5_jhoyymzrP0NdwUr7D3uJMj4",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

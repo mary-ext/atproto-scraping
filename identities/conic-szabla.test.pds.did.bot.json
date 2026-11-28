@@ -1,9 +1,9 @@
 {
 	"did": "did:web:conic-szabla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "4rDeLWKjYa-tu7DV5MtX2m6u-ba3gwszlhi2bBJ9Pro",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

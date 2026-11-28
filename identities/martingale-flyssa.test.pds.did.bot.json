@@ -1,9 +1,9 @@
 {
 	"did": "did:web:martingale-flyssa.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "Ia5CF4psQaOw-xk61936mz8zD43-W6M9hLgEp7Fq_rg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

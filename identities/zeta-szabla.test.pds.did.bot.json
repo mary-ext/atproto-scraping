@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-szabla.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "D1HeNFuLbwkpgE9NhuI4fGEfeFaLLCiy38AClg--9Zg",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

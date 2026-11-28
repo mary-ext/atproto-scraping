@@ -1,0 +1,9 @@
+{
+	"did": "did:web:scalar-kaiken.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "NoJpoV93B99gUAkzf6SUZrNSE8G-O0vim28ldkV6zDQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

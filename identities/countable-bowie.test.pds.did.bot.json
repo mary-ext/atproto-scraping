@@ -1,9 +1,9 @@
 {
 	"did": "did:web:countable-bowie.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "3_-ra0cKq15S69xMBm2w28nEjhBV-UGaQS9zfuo3I_I",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

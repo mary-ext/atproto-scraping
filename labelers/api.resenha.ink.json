@@ -1,7 +1,7 @@
 {
 	"url": "https://api.resenha.ink/",
 	"did": "did:plc:o3224o5gyiod73kv4ahjnmff",
-	"status": "online",
+	"status": "offline",
 	"firstSeenAt": 1793767746299,
-	"errorAt": null
+	"errorAt": 1795847391298
 }

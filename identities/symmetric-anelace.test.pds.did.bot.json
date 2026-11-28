@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-anelace.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "ZYxOoZlisVwO98gjTX1b-sWbym5-ur3pVboi05BGQ8A",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

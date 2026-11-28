@@ -1,9 +1,9 @@
 {
 	"did": "did:web:totient-gyuto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "2ELZWpEkIkX-eRQd96sZSY27sNkxxUv5xOA9eTh5-iA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

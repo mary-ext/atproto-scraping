@@ -1,9 +1,9 @@
 {
 	"did": "did:web:covariant-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "dQiTIgTN1J0Q32kZi5P-B5LEd081cA_gvO_mSzbsIcU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

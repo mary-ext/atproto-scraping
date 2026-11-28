@@ -1,9 +1,9 @@
 {
 	"did": "did:web:orthogonal-aikuchi.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "Y9_sZCk3WnXmENarcGYp7eXir6B6G_4vAPt5w9r5FpU",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

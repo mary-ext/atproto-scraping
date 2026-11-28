@@ -1,0 +1,9 @@
+{
+	"did": "did:web:symmetric-kopis.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "n_J5_VBjWOstjFXUEzn038HMNaYPGHgT0tgOJWMIzkg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

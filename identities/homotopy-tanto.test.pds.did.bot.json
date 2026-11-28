@@ -1,9 +1,9 @@
 {
 	"did": "did:web:homotopy-tanto.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "LXqO8wVjiTnAjuwh5IogoaMLXdWyZyT9G1gnNl6nD_g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

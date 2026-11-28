@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cyclic-ninjato.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "rDWma62lGiYlhKC2RfvAE-8N5eAjjQ6tkwpRlDxzd0M",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

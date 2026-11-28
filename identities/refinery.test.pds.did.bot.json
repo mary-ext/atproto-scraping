@@ -1,9 +1,9 @@
 {
 	"did": "did:web:refinery.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "g8XFILpfppAeh6_VqeMbZ0m0dKreDO_5ZiavvLu-MYY",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

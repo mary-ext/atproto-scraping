@@ -1,9 +1,9 @@
 {
 	"did": "did:web:surreal-sica.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "4ehdCxHbLn3DbwkO8f-06u-0wofq9nkTD0Asq_Ky0Ko",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

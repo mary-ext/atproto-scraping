@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cardinality-cutlass.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "gZAbZhhx3vnlCxjs8pdTKPGA3mxXCnuNrl4dJNZB9bo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

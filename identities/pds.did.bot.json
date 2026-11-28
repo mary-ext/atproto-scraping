@@ -1,9 +1,9 @@
 {
 	"did": "did:web:pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "DFza5z7RoLzRFaKMdHUK2bciGv57eyzQ93kpPPfxu5E",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

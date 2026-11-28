@@ -1,8 +1,8 @@
 {
 	"url": "https://bsky.nebula.lgbt/",
-	"status": "offline",
-	"version": "0.4.5051",
+	"status": "online",
+	"version": "0.4.5065",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1795590599735
+	"errorAt": null
 }

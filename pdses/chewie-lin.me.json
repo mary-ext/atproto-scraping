@@ -1,8 +1,8 @@
 {
 	"url": "https://chewie-lin.me/",
-	"status": "offline",
-	"version": "0.4.5065",
+	"status": "online",
+	"version": "0.4.5069",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1773912872947,
-	"errorAt": 1795762521061
+	"errorAt": null
 }

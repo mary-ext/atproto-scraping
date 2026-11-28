@@ -1,9 +1,9 @@
 {
 	"did": "did:web:corollary-spadroon.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "mDe__qDXAj0yZLoxN1LQu_AYaYNkze2qLz2HjdPxE0k",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

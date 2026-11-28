@@ -1,8 +1,8 @@
 {
 	"url": "https://pds.wouldcop.com/",
-	"status": "online",
+	"status": "offline",
 	"version": "0.4.5009",
 	"inviteCodeRequired": true,
 	"firstSeenAt": 1784773885207,
-	"errorAt": null
+	"errorAt": 1795847391298
 }

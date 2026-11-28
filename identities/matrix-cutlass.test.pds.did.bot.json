@@ -1,0 +1,9 @@
+{
+	"did": "did:web:matrix-cutlass.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "p9aZIrTt9uwEjqGAN4Hvo0EQXvpHmOslYzeGjUqYxBU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:zeta-pugio.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "BEpTc9M_rBrLc8rqlkn4SIS_ZhXPcZdYIJPgnTyUxjU",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

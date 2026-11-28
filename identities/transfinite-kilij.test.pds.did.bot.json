@@ -1,9 +1,9 @@
 {
 	"did": "did:web:transfinite-kilij.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "uw8Ijn02L7F7rCNGghq6Oa-sDUEADTVeCIkyu97akuI",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

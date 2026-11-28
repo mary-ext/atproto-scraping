@@ -1,0 +1,9 @@
+{
+	"did": "did:web:planar-sabre.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "pkdFE-9dOrc97QXsrxd8MrDJFTE99XnUfkJ7MYwlsFQ",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

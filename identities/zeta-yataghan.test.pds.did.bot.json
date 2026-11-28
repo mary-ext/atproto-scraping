@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-yataghan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "9vKnisJ0bouBxuoJkaneGEyzx5UXDnxpgLZh0U_wZHM",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

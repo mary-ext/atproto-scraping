@@ -1,9 +1,9 @@
 {
 	"did": "did:web:zeta-ninjato.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "V0nlVwL-xUazPMNfVZeYK2Q0mtu5o5M852xsnaenkxk",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

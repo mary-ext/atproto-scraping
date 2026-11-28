@@ -1,9 +1,9 @@
 {
 	"did": "did:web:cardinality-harpe.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "rX7iC6TQFwgALOrPq-Pb4ArBkehRSqlFJfn-efon3vE",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

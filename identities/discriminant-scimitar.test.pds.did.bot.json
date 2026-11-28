@@ -1,9 +1,9 @@
 {
 	"did": "did:web:discriminant-scimitar.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "hKFGg3ZkExdAIplK_6CizXBCkBHCwcRpeM6B_HhIQ1g",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

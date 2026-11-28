@@ -1,9 +1,9 @@
 {
 	"did": "did:web:simplex-braquemart.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "RY-9cbcXGSwIKBDZqQv9IfXm896kP7p4f7rbe3-TQ0c",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

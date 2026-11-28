@@ -1,9 +1,9 @@
 {
 	"did": "did:web:contravariant-kampilan.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "ugdyp-cudtkbYZj4OX8Au_59D0Wz4gwf9sr1PjQxDiA",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

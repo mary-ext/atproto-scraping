@@ -1,0 +1,9 @@
+{
+	"did": "did:web:lemma-akinaka.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "OdzzEhqwhSVj9ojfYrBZSt1wObztTf0Mk3YP45gDTsg",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,9 +1,9 @@
 {
 	"did": "did:web:hyperbola-rhomphaia.test.pds.did.bot",
 	"status": "online",
-	"firstSeenAt": 1795761714754,
-	"errorAt": null,
 	"hash": "okRtPfFzzkDilEOxdxNKYNUP5O5CgKApNKBIQYfC4Ac",
 	"pds": "https://pds.did.bot/",
-	"labeler": null
+	"labeler": null,
+	"firstSeenAt": 1795761714754,
+	"errorAt": null
 }

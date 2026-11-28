@@ -1,0 +1,9 @@
+{
+	"did": "did:web:cyclic-sabre.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "jmcewU_ryVCziBIWr7vK0wBwCfqOjj5uRlxwPNCE0Oo",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

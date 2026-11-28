@@ -1,0 +1,9 @@
+{
+	"did": "did:web:affine-flamberge-2.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "eXNPLpuJxBHwvLz8Cjc3MXSJYnwgmRHvVsj0AOZGt5o",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}

@@ -1,0 +1,9 @@
+{
+	"did": "did:web:normalizer-anelace.test.pds.did.bot",
+	"status": "online",
+	"firstSeenAt": 1795846599821,
+	"errorAt": null,
+	"hash": "PFZeltklxBrQkFssWv7VUbd4HaccQfatnlPaRLE5fjk",
+	"pds": "https://pds.did.bot/",
+	"labeler": null
+}
